@@ -1,0 +1,1088 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lido:lidoWrap xmlns:lido="http://www.lido-schema.org">
+  <lido:lido>
+      <lido:lidoRecID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-094228-24801</lido:lidoRecID>
+      <lido:descriptiveMetadata xml:lang="de">
+         <lido:objectClassificationWrap>
+            <lido:objectWorkTypeWrap>
+               <lido:objectWorkType>
+                  <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099"
+                                  lido:source="https://d-nb.info/gnd">https://d-nb.info/gnd/4160661-9</lido:conceptID>
+                  <lido:term lido:pref="preferred">Horn</lido:term>
+               </lido:objectWorkType>
+            </lido:objectWorkTypeWrap>
+            <lido:classificationWrap>
+               <lido:classification lido:type="Klassifikation">
+                  <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099"
+                                  lido:source="https://portal.wissenschaftliche-sammlungen.de/ConceptScheme/33">http://portal.wissenschaftliche-sammlungen.de/ObjectGenre/256</lido:conceptID>
+                  <lido:term xml:lang="de">Ritueller Gegenstand</lido:term>
+                  <lido:term xml:lang="en">ritual object</lido:term>
+               </lido:classification>
+            </lido:classificationWrap>
+         </lido:objectClassificationWrap>
+         <lido:objectIdentificationWrap>
+            <lido:titleWrap>
+               <lido:titleSet>
+                  <lido:appellationValue xml:lang="de">Büffelhorn</lido:appellationValue>
+               </lido:titleSet>
+            </lido:titleWrap>
+            <lido:repositoryWrap>
+               <lido:repositorySet lido:type="http://terminology.lido-schema.org/lido00475">
+                  <lido:repositoryName>
+                     <lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099"
+                                       lido:source="https://sigel.staatsbibliothek-berlin.de">https://ld.zdb-services.de/resource/organisations/DE-MUS-094228</lido:legalBodyID>
+                     <lido:legalBodyName>
+                        <lido:appellationValue>Ethnografische Studiensammlung, Johannes Gutenberg-Universität Mainz</lido:appellationValue>
+                     </lido:legalBodyName>
+                  </lido:repositoryName>
+                  <lido:workID lido:type="Inventarnummer">JGU ES 51</lido:workID>
+                  <lido:repositoryLocation>
+                     <lido:placeID lido:type="http://terminology.lido-schema.org/lido00099"
+                                   lido:source="http://sws.geonames.org"/>
+                     <lido:namePlaceSet>
+                        <lido:appellationValue lido:pref="preferred"/>
+                     </lido:namePlaceSet>
+                  </lido:repositoryLocation>
+               </lido:repositorySet>
+            </lido:repositoryWrap>
+            <lido:objectDescriptionWrap>
+               <lido:objectDescriptionSet>
+                  <lido:descriptiveNoteValue/>
+               </lido:objectDescriptionSet>
+            </lido:objectDescriptionWrap>
+            <lido:objectMeasurementsWrap>
+               <lido:objectMeasurementsSet>
+                  <lido:displayObjectMeasurements>L 25 cm</lido:displayObjectMeasurements>
+               </lido:objectMeasurementsSet>
+            </lido:objectMeasurementsWrap>
+         </lido:objectIdentificationWrap>
+         <lido:eventWrap>
+            <lido:eventSet lido:sortorder="1">
+               <lido:displayEvent xml:lang="de">Herstellung</lido:displayEvent>
+               <lido:displayEvent xml:lang="en">Production</lido:displayEvent>
+               <lido:event>
+                  <lido:eventType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099"
+                                     lido:source="http://terminology.lido-schema.org/eventType">http://terminology.lido-schema.org/lido00007</lido:conceptID>
+                     <lido:term xml:lang="de">Herstellung</lido:term>
+                     <lido:term xml:lang="en">Production</lido:term>
+                  </lido:eventType>
+                  <lido:eventPlace>
+                     <lido:place>
+                        <lido:placeID lido:type="http://terminology.lido-schema.org/lido00099"
+                                      lido:source="http://sws.geonames.org">http://www.geonames.org/1643084</lido:placeID>
+                        <lido:namePlaceSet>
+                           <lido:appellationValue lido:pref="preferred">Indonesien</lido:appellationValue>
+                        </lido:namePlaceSet>
+                        <lido:partOfPlace>
+                           <lido:namePlaceSet>
+                              <lido:appellationValue>Südostasien</lido:appellationValue>
+                           </lido:namePlaceSet>
+                           <lido:partOfPlace>
+                              <lido:namePlaceSet>
+                                 <lido:appellationValue>Asien</lido:appellationValue>
+                              </lido:namePlaceSet>
+                           </lido:partOfPlace>
+                        </lido:partOfPlace>
+                     </lido:place>
+                  </lido:eventPlace>
+                  <lido:eventMaterialsTech>
+                     <lido:materialsTech>
+                        <lido:termMaterialsTech lido:type="http://terminology.lido-schema.org/lido00132">
+                           <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099"
+                                           lido:source="https://d-nb.info/gnd">http://d-nb.info/gnd/4160661-9</lido:conceptID>
+                           <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099"
+                                           lido:source="http://vocab.getty.edu/aat">http://vocab.getty.edu/aat/300011826</lido:conceptID>
+                           <lido:term xml:lang="de">Horn</lido:term>
+                        </lido:termMaterialsTech>
+                     </lido:materialsTech>
+                  </lido:eventMaterialsTech>
+                  <lido:eventMaterialsTech>
+                     <lido:materialsTech>
+                        <lido:termMaterialsTech lido:type="http://terminology.lido-schema.org/lido00131">
+                           <lido:term xml:lang="de">Hornschnitzerei</lido:term>
+                        </lido:termMaterialsTech>
+                     </lido:materialsTech>
+                  </lido:eventMaterialsTech>
+               </lido:event>
+            </lido:eventSet>
+            <lido:eventSet lido:sortorder="2">
+               <lido:displayEvent xml:lang="de">Kolonialer Erwerb</lido:displayEvent>
+               <lido:displayEvent xml:lang="en">Acquisition in a colonial context</lido:displayEvent>
+               <lido:event>
+                  <lido:eventType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099"
+                                     lido:source="http://terminology.lido-schema.org/eventType">http://terminology.lido-schema.org/lido00001</lido:conceptID>
+                     <lido:term xml:lang="de">Erwerbung</lido:term>
+                     <lido:term xml:lang="en">Acquisition</lido:term>
+                  </lido:eventType>
+                  <lido:eventActor>
+                     <lido:displayActorInRole>Wahnes, Johannes Friedrich Carl (1833 - 1910)</lido:displayActorInRole>
+                     <lido:actorInRole>
+                        <lido:actor>
+                           <lido:actorID lido:type="http://terminology.lido-schema.org/lido00099"
+                                         lido:source="http://d-nb.info/gnd">https://d-nb.info/gnd/1127659715</lido:actorID>
+                           <lido:nameActorSet>
+                              <lido:appellationValue lido:pref="preferred">Wahnes, Johannes Friedrich Carl (1833 - 1910)</lido:appellationValue>
+                           </lido:nameActorSet>
+                        </lido:actor>
+                        <lido:roleActor>
+                           <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099"
+                                           lido:source="http://id.loc.gov/vocabulary/relators/">http://id.loc.gov/vocabulary/relators/own</lido:conceptID>
+                           <lido:term xml:lang="de">Besitzende/kaufende Person/Körperschaft</lido:term>
+                           <lido:term xml:lang="en">Owner/Buyer</lido:term>
+                        </lido:roleActor>
+                     </lido:actorInRole>
+                  </lido:eventActor>
+                  <lido:eventDate>
+                     <lido:displayDate>vor 1914</lido:displayDate>
+                     <lido:date>
+                        <lido:earliestDate/>
+                        <lido:latestDate>1913-12-31</lido:latestDate>
+                     </lido:date>
+                  </lido:eventDate>
+                  <lido:eventPlace>
+                     <lido:place>
+                        <lido:placeID lido:type="http://terminology.lido-schema.org/lido00099"
+                                      lido:source="http://sws.geonames.org">http://www.geonames.org/1643084</lido:placeID>
+                        <lido:namePlaceSet>
+                           <lido:appellationValue lido:pref="preferred">Indonesien</lido:appellationValue>
+                        </lido:namePlaceSet>
+                        <lido:partOfPlace>
+                           <lido:namePlaceSet>
+                              <lido:appellationValue>Südostasien</lido:appellationValue>
+                           </lido:namePlaceSet>
+                           <lido:partOfPlace>
+                              <lido:namePlaceSet>
+                                 <lido:appellationValue>Asien</lido:appellationValue>
+                              </lido:namePlaceSet>
+                           </lido:partOfPlace>
+                        </lido:partOfPlace>
+                     </lido:place>
+                  </lido:eventPlace>
+               </lido:event>
+            </lido:eventSet>
+            <lido:eventSet lido:sortorder="3">
+               <lido:displayEvent xml:lang="de">Kauf</lido:displayEvent>
+               <lido:displayEvent xml:lang="en">Purchase</lido:displayEvent>
+               <lido:event>
+                  <lido:eventType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099"
+                                     lido:source="http://terminology.lido-schema.org/eventType">http://terminology.lido-schema.org/lido00001</lido:conceptID>
+                     <lido:term xml:lang="de">Erwerbung</lido:term>
+                     <lido:term xml:lang="en">Acquisition</lido:term>
+                  </lido:eventType>
+                  <lido:eventActor>
+                     <lido:displayActorInRole>Schneider, Edith</lido:displayActorInRole>
+                     <lido:actorInRole>
+                        <lido:actor>
+                           <lido:nameActorSet>
+                              <lido:appellationValue lido:pref="preferred">Schneider, Edith</lido:appellationValue>
+                           </lido:nameActorSet>
+                        </lido:actor>
+                        <lido:roleActor>
+                           <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099"
+                                           lido:source="http://id.loc.gov/vocabulary/relators/">http://id.loc.gov/vocabulary/relators/sll</lido:conceptID>
+                           <lido:term xml:lang="de">Verkäufer</lido:term>
+                           <lido:term xml:lang="en">Seller</lido:term>
+                        </lido:roleActor>
+                     </lido:actorInRole>
+                  </lido:eventActor>
+                  <lido:eventDate>
+                     <lido:displayDate>29.06.1953</lido:displayDate>
+                     <lido:date>
+                        <lido:earliestDate>1953-06-29</lido:earliestDate>
+                        <lido:latestDate>1953-06-29</lido:latestDate>
+                     </lido:date>
+                  </lido:eventDate>
+                  <lido:eventPlace>
+                     <lido:place>
+                        <lido:namePlaceSet>
+                           <lido:appellationValue lido:pref="preferred">Mainz</lido:appellationValue>
+                        </lido:namePlaceSet>
+                        <lido:partOfPlace>
+                           <lido:namePlaceSet>
+                              <lido:appellationValue>Rheinland-Pfalz</lido:appellationValue>
+                           </lido:namePlaceSet>
+                           <lido:partOfPlace>
+                              <lido:namePlaceSet>
+                                 <lido:appellationValue>Deutschland</lido:appellationValue>
+                              </lido:namePlaceSet>
+                           </lido:partOfPlace>
+                        </lido:partOfPlace>
+                     </lido:place>
+                  </lido:eventPlace>
+                  <lido:eventDescriptionSet>
+                     <lido:descriptiveNoteValue>E. Schneider (Neu-Isenburg) verkaufte acht Objekte an die JGU Mainz.</lido:descriptiveNoteValue>
+                  </lido:eventDescriptionSet>
+               </lido:event>
+            </lido:eventSet>
+         </lido:eventWrap>
+         <lido:objectRelationWrap>
+            <lido:subjectWrap/>
+         </lido:objectRelationWrap>
+      </lido:descriptiveMetadata>
+      <lido:administrativeMetadata xml:lang="de">
+         <lido:recordWrap>
+            <lido:recordID lido:type="http://terminology.lido-schema.org/lido00100">24801</lido:recordID>
+            <lido:recordType>
+               <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://terminology.lido-schema.org/lido00141</lido:conceptID>
+               <lido:term xml:lang="de">Einzelobjekt</lido:term>
+               <lido:term xml:lang="en">item</lido:term>
+            </lido:recordType>
+            <lido:recordSource>
+               <lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099"
+                                 lido:source="https://sigel.staatsbibliothek-berlin.de">https://ld.zdb-services.de/resource/organisations/DE-MUS-094228</lido:legalBodyID>
+               <lido:legalBodyName>
+                  <lido:appellationValue xml:lang="en">Collections of the Johannes Gutenberg University Mainz</lido:appellationValue>
+                  <lido:appellationValue xml:lang="de">Sammlungen der Johannes Gutenberg-Universität Mainz</lido:appellationValue>
+               </lido:legalBodyName>
+               <lido:legalBodyWeblink>https://www.ub.uni-mainz.de/de/universitaetssammlungen</lido:legalBodyWeblink>
+            </lido:recordSource>
+            <lido:recordRights>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099"
+                                  lido:source="http://creativecommons.org">http://creativecommons.org/publicdomain/zero/1.0/</lido:conceptID>
+                  <lido:term>CC0 1.0</lido:term>
+               </lido:rightsType>
+            </lido:recordRights>
+         </lido:recordWrap>
+         <lido:resourceWrap>
+            <lido:resourceSet lido:sortorder="1">
+               <lido:resourceID lido:type="http://terminology.lido-schema.org/lido00100">JGU ES 51_001.tif</lido:resourceID>
+               <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00451">
+                  <lido:linkResource>https://objects.ub.uni-mainz.de/eas/partitions-inline/2/0/16000/16126/1f16221e22709a3f13d81a3ef852946949406fed/image/png</lido:linkResource>
+                  <lido:resourceMeasurementsSet>
+                     <lido:measurementType xml:lang="en">width</lido:measurementType>
+                     <lido:measurementUnit xml:lang="en">pixel</lido:measurementUnit>
+                     <lido:measurementValue>716</lido:measurementValue>
+                  </lido:resourceMeasurementsSet>
+                  <lido:resourceMeasurementsSet>
+                     <lido:measurementType xml:lang="en">height</lido:measurementType>
+                     <lido:measurementUnit xml:lang="en">pixel</lido:measurementUnit>
+                     <lido:measurementValue>1000</lido:measurementValue>
+                  </lido:resourceMeasurementsSet>
+               </lido:resourceRepresentation>
+               <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+                  <lido:linkResource>https://objects.ub.uni-mainz.de/eas/partitions-inline/2/0/16000/16126/2c91a4c9b14fb0cb18b075e6b26d849356f64493/image/png</lido:linkResource>
+                  <lido:resourceMeasurementsSet>
+                     <lido:measurementType xml:lang="en">width</lido:measurementType>
+                     <lido:measurementUnit xml:lang="en">pixel</lido:measurementUnit>
+                     <lido:measurementValue>5464</lido:measurementValue>
+                  </lido:resourceMeasurementsSet>
+                  <lido:resourceMeasurementsSet>
+                     <lido:measurementType xml:lang="en">height</lido:measurementType>
+                     <lido:measurementUnit xml:lang="en">pixel</lido:measurementUnit>
+                     <lido:measurementValue>7633</lido:measurementValue>
+                  </lido:resourceMeasurementsSet>
+               </lido:resourceRepresentation>
+               <lido:resourceType>
+                  <lido:term>IMAGE</lido:term>
+               </lido:resourceType>
+               <lido:resourceDateTaken>
+                  <lido:displayDate>2021-10-11</lido:displayDate>
+                  <lido:date>
+                     <lido:earliestDate>2021-10-11</lido:earliestDate>
+                     <lido:latestDate>2021-10-11</lido:latestDate>
+                  </lido:date>
+               </lido:resourceDateTaken>
+               <lido:rightsResource>
+                  <lido:rightsType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099"
+                                     lido:source="http://creativecommons.org">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                     <lido:term>CC-BY 4.0</lido:term>
+                  </lido:rightsType>
+                  <lido:creditLine>Larissa Arlt, JGU Mainz</lido:creditLine>
+               </lido:rightsResource>
+            </lido:resourceSet>
+         </lido:resourceWrap>
+      </lido:administrativeMetadata>
+   </lido:lido>
+  <lido:lido>
+      <lido:lidoRecID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-094228-24899</lido:lidoRecID>
+      <lido:descriptiveMetadata xml:lang="de">
+         <lido:objectClassificationWrap>
+            <lido:objectWorkTypeWrap>
+               <lido:objectWorkType>
+                  <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099"
+                                  lido:source="https://d-nb.info/gnd">https://d-nb.info/gnd/4121610-6</lido:conceptID>
+                  <lido:term lido:pref="preferred">Schale &lt;Gefäß&gt;</lido:term>
+               </lido:objectWorkType>
+            </lido:objectWorkTypeWrap>
+            <lido:classificationWrap>
+               <lido:classification lido:type="Klassifikation">
+                  <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099"
+                                  lido:source="https://portal.wissenschaftliche-sammlungen.de/ConceptScheme/33">http://portal.wissenschaftliche-sammlungen.de/ObjectGenre/242</lido:conceptID>
+                  <lido:term xml:lang="de">Haushaltsutensil</lido:term>
+                  <lido:term xml:lang="en">domestic utensil</lido:term>
+               </lido:classification>
+            </lido:classificationWrap>
+         </lido:objectClassificationWrap>
+         <lido:objectIdentificationWrap>
+            <lido:titleWrap>
+               <lido:titleSet>
+                  <lido:appellationValue xml:lang="de">Speiseschüssel</lido:appellationValue>
+               </lido:titleSet>
+            </lido:titleWrap>
+            <lido:repositoryWrap>
+               <lido:repositorySet lido:type="http://terminology.lido-schema.org/lido00475">
+                  <lido:repositoryName>
+                     <lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099"
+                                       lido:source="https://sigel.staatsbibliothek-berlin.de">https://ld.zdb-services.de/resource/organisations/DE-MUS-094228</lido:legalBodyID>
+                     <lido:legalBodyName>
+                        <lido:appellationValue>Ethnografische Studiensammlung, Johannes Gutenberg-Universität Mainz</lido:appellationValue>
+                     </lido:legalBodyName>
+                  </lido:repositoryName>
+                  <lido:workID lido:type="Inventarnummer">JGU ES 1641</lido:workID>
+                  <lido:repositoryLocation>
+                     <lido:placeID lido:type="http://terminology.lido-schema.org/lido00099"
+                                   lido:source="http://sws.geonames.org"/>
+                     <lido:namePlaceSet>
+                        <lido:appellationValue lido:pref="preferred"/>
+                     </lido:namePlaceSet>
+                  </lido:repositoryLocation>
+               </lido:repositorySet>
+            </lido:repositoryWrap>
+            <lido:objectDescriptionWrap>
+               <lido:objectDescriptionSet>
+                  <lido:descriptiveNoteValue>ovale dunkle Schale, an den Seiten und unten geschnitzte und farbig gefasste Schnitzmuster</lido:descriptiveNoteValue>
+               </lido:objectDescriptionSet>
+            </lido:objectDescriptionWrap>
+            <lido:objectMeasurementsWrap>
+               <lido:objectMeasurementsSet>
+                  <lido:displayObjectMeasurements>H 9 cm L 53,5 cm B 19 cm</lido:displayObjectMeasurements>
+               </lido:objectMeasurementsSet>
+            </lido:objectMeasurementsWrap>
+         </lido:objectIdentificationWrap>
+         <lido:eventWrap>
+            <lido:eventSet lido:sortorder="1">
+               <lido:displayEvent xml:lang="de">Herstellung</lido:displayEvent>
+               <lido:displayEvent xml:lang="en">Production</lido:displayEvent>
+               <lido:event>
+                  <lido:eventType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099"
+                                     lido:source="http://terminology.lido-schema.org/eventType">http://terminology.lido-schema.org/lido00007</lido:conceptID>
+                     <lido:term xml:lang="de">Herstellung</lido:term>
+                     <lido:term xml:lang="en">Production</lido:term>
+                  </lido:eventType>
+                  <lido:eventPlace>
+                     <lido:place>
+                        <lido:namePlaceSet>
+                           <lido:appellationValue lido:pref="preferred">Insel Tami</lido:appellationValue>
+                        </lido:namePlaceSet>
+                        <lido:partOfPlace>
+                           <lido:namePlaceSet>
+                              <lido:appellationValue>Huongolf</lido:appellationValue>
+                           </lido:namePlaceSet>
+                           <lido:partOfPlace>
+                              <lido:namePlaceSet>
+                                 <lido:appellationValue>Papua-Neuguinea</lido:appellationValue>
+                              </lido:namePlaceSet>
+                              <lido:partOfPlace>
+                                 <lido:namePlaceSet>
+                                    <lido:appellationValue>Neuguinea</lido:appellationValue>
+                                 </lido:namePlaceSet>
+                                 <lido:partOfPlace>
+                                    <lido:namePlaceSet>
+                                       <lido:appellationValue>Melanesien</lido:appellationValue>
+                                    </lido:namePlaceSet>
+                                    <lido:partOfPlace>
+                                       <lido:namePlaceSet>
+                                          <lido:appellationValue>Ozeanien</lido:appellationValue>
+                                       </lido:namePlaceSet>
+                                       <lido:partOfPlace>
+                                          <lido:namePlaceSet>
+                                             <lido:appellationValue>Pazifik</lido:appellationValue>
+                                          </lido:namePlaceSet>
+                                       </lido:partOfPlace>
+                                    </lido:partOfPlace>
+                                 </lido:partOfPlace>
+                              </lido:partOfPlace>
+                           </lido:partOfPlace>
+                        </lido:partOfPlace>
+                     </lido:place>
+                  </lido:eventPlace>
+                  <lido:eventMaterialsTech>
+                     <lido:materialsTech>
+                        <lido:termMaterialsTech lido:type="http://terminology.lido-schema.org/lido00132">
+                           <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099"
+                                           lido:source="https://d-nb.info/gnd">http://d-nb.info/gnd/4025668-6</lido:conceptID>
+                           <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099"
+                                           lido:source="http://vocab.getty.edu/aat">http://vocab.getty.edu/aat/300011914</lido:conceptID>
+                           <lido:term xml:lang="de">Holz</lido:term>
+                        </lido:termMaterialsTech>
+                     </lido:materialsTech>
+                  </lido:eventMaterialsTech>
+                  <lido:eventMaterialsTech>
+                     <lido:materialsTech>
+                        <lido:termMaterialsTech lido:type="http://terminology.lido-schema.org/lido00132">
+                           <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099"
+                                           lido:source="https://d-nb.info/gnd">http://d-nb.info/gnd/4132245-9</lido:conceptID>
+                           <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099"
+                                           lido:source="http://vocab.getty.edu/aat">http://vocab.getty.edu/aat/300013109</lido:conceptID>
+                           <lido:term xml:lang="de">Pigment</lido:term>
+                        </lido:termMaterialsTech>
+                     </lido:materialsTech>
+                  </lido:eventMaterialsTech>
+                  <lido:eventMaterialsTech>
+                     <lido:materialsTech>
+                        <lido:termMaterialsTech lido:type="http://terminology.lido-schema.org/lido00131">
+                           <lido:term xml:lang="de">geschnitzt</lido:term>
+                        </lido:termMaterialsTech>
+                     </lido:materialsTech>
+                  </lido:eventMaterialsTech>
+                  <lido:eventMaterialsTech>
+                     <lido:materialsTech>
+                        <lido:termMaterialsTech lido:type="http://terminology.lido-schema.org/lido00131">
+                           <lido:term xml:lang="de">gefasst</lido:term>
+                        </lido:termMaterialsTech>
+                     </lido:materialsTech>
+                  </lido:eventMaterialsTech>
+               </lido:event>
+            </lido:eventSet>
+            <lido:eventSet lido:sortorder="2">
+               <lido:displayEvent xml:lang="de">Kolonialer Erwerb</lido:displayEvent>
+               <lido:displayEvent xml:lang="en">Acquisition in a colonial context</lido:displayEvent>
+               <lido:event>
+                  <lido:eventType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099"
+                                     lido:source="http://terminology.lido-schema.org/eventType">http://terminology.lido-schema.org/lido00001</lido:conceptID>
+                     <lido:term xml:lang="de">Erwerbung</lido:term>
+                     <lido:term xml:lang="en">Acquisition</lido:term>
+                  </lido:eventType>
+                  <lido:eventActor>
+                     <lido:displayActorInRole>Bergmann, Karoline</lido:displayActorInRole>
+                     <lido:actorInRole>
+                        <lido:actor>
+                           <lido:nameActorSet>
+                              <lido:appellationValue lido:pref="preferred">Bergmann, Karoline</lido:appellationValue>
+                           </lido:nameActorSet>
+                        </lido:actor>
+                        <lido:roleActor>
+                           <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099"
+                                           lido:source="http://id.loc.gov/vocabulary/relators/">http://id.loc.gov/vocabulary/relators/own</lido:conceptID>
+                           <lido:term xml:lang="de">Besitzende/kaufende Person/Körperschaft</lido:term>
+                           <lido:term xml:lang="en">Owner/Buyer</lido:term>
+                        </lido:roleActor>
+                     </lido:actorInRole>
+                  </lido:eventActor>
+                  <lido:eventDate>
+                     <lido:displayDate>1887-1904</lido:displayDate>
+                     <lido:date>
+                        <lido:earliestDate>1886-12-28</lido:earliestDate>
+                        <lido:latestDate>1904-12-31</lido:latestDate>
+                     </lido:date>
+                  </lido:eventDate>
+                  <lido:eventPlace>
+                     <lido:place>
+                        <lido:namePlaceSet>
+                           <lido:appellationValue lido:pref="preferred">Papua-Neuguinea</lido:appellationValue>
+                        </lido:namePlaceSet>
+                        <lido:partOfPlace>
+                           <lido:namePlaceSet>
+                              <lido:appellationValue>Neuguinea</lido:appellationValue>
+                           </lido:namePlaceSet>
+                           <lido:partOfPlace>
+                              <lido:namePlaceSet>
+                                 <lido:appellationValue>Melanesien</lido:appellationValue>
+                              </lido:namePlaceSet>
+                              <lido:partOfPlace>
+                                 <lido:namePlaceSet>
+                                    <lido:appellationValue>Ozeanien</lido:appellationValue>
+                                 </lido:namePlaceSet>
+                                 <lido:partOfPlace>
+                                    <lido:namePlaceSet>
+                                       <lido:appellationValue>Pazifik</lido:appellationValue>
+                                    </lido:namePlaceSet>
+                                 </lido:partOfPlace>
+                              </lido:partOfPlace>
+                           </lido:partOfPlace>
+                        </lido:partOfPlace>
+                     </lido:place>
+                  </lido:eventPlace>
+                  <lido:eventDescriptionSet>
+                     <lido:descriptiveNoteValue>erworben zusammen mit Ehemann Gustav Bergmann</lido:descriptiveNoteValue>
+                  </lido:eventDescriptionSet>
+               </lido:event>
+            </lido:eventSet>
+            <lido:eventSet lido:sortorder="3">
+               <lido:displayEvent xml:lang="de">Schenkung</lido:displayEvent>
+               <lido:displayEvent xml:lang="en">Donation</lido:displayEvent>
+               <lido:event>
+                  <lido:eventType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099"
+                                     lido:source="http://terminology.lido-schema.org/eventType">http://terminology.lido-schema.org/lido00001</lido:conceptID>
+                     <lido:term xml:lang="de">Erwerbung</lido:term>
+                     <lido:term xml:lang="en">Acquisition</lido:term>
+                  </lido:eventType>
+                  <lido:eventActor>
+                     <lido:displayActorInRole>Bergmann, Karoline</lido:displayActorInRole>
+                     <lido:actorInRole>
+                        <lido:actor>
+                           <lido:nameActorSet>
+                              <lido:appellationValue lido:pref="preferred">Bergmann, Karoline</lido:appellationValue>
+                           </lido:nameActorSet>
+                        </lido:actor>
+                        <lido:roleActor>
+                           <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099"
+                                           lido:source="http://id.loc.gov/vocabulary/relators/">http://id.loc.gov/vocabulary/relators/dnr</lido:conceptID>
+                           <lido:term xml:lang="de">Schenker</lido:term>
+                           <lido:term xml:lang="en">Donor</lido:term>
+                        </lido:roleActor>
+                     </lido:actorInRole>
+                  </lido:eventActor>
+                  <lido:eventDate>
+                     <lido:displayDate>1950</lido:displayDate>
+                     <lido:date>
+                        <lido:earliestDate>1950-01-01</lido:earliestDate>
+                        <lido:latestDate>1950-12-31</lido:latestDate>
+                     </lido:date>
+                  </lido:eventDate>
+                  <lido:eventDescriptionSet>
+                     <lido:descriptiveNoteValue>Karoline Bergmann schenkte der JGU Mainz 13 Objekte.</lido:descriptiveNoteValue>
+                  </lido:eventDescriptionSet>
+               </lido:event>
+            </lido:eventSet>
+         </lido:eventWrap>
+         <lido:objectRelationWrap>
+            <lido:subjectWrap>
+               <lido:subjectSet>
+                  <lido:displaySubject>Geschirr</lido:displaySubject>
+               </lido:subjectSet>
+            </lido:subjectWrap>
+         </lido:objectRelationWrap>
+      </lido:descriptiveMetadata>
+      <lido:administrativeMetadata xml:lang="de">
+         <lido:recordWrap>
+            <lido:recordID lido:type="http://terminology.lido-schema.org/lido00100">24899</lido:recordID>
+            <lido:recordType>
+               <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://terminology.lido-schema.org/lido00141</lido:conceptID>
+               <lido:term xml:lang="de">Einzelobjekt</lido:term>
+               <lido:term xml:lang="en">item</lido:term>
+            </lido:recordType>
+            <lido:recordSource>
+               <lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099"
+                                 lido:source="https://sigel.staatsbibliothek-berlin.de">https://ld.zdb-services.de/resource/organisations/DE-MUS-094228</lido:legalBodyID>
+               <lido:legalBodyName>
+                  <lido:appellationValue xml:lang="en">Collections of the Johannes Gutenberg University Mainz</lido:appellationValue>
+                  <lido:appellationValue xml:lang="de">Sammlungen der Johannes Gutenberg-Universität Mainz</lido:appellationValue>
+               </lido:legalBodyName>
+               <lido:legalBodyWeblink>https://www.ub.uni-mainz.de/de/universitaetssammlungen</lido:legalBodyWeblink>
+            </lido:recordSource>
+            <lido:recordRights>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099"
+                                  lido:source="http://creativecommons.org">http://creativecommons.org/publicdomain/zero/1.0/</lido:conceptID>
+                  <lido:term>CC0 1.0</lido:term>
+               </lido:rightsType>
+            </lido:recordRights>
+         </lido:recordWrap>
+         <lido:resourceWrap>
+            <lido:resourceSet lido:sortorder="1">
+               <lido:resourceID lido:type="http://terminology.lido-schema.org/lido00100">JGU ES 1641_001.tif</lido:resourceID>
+               <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00451">
+                  <lido:linkResource>https://objects.ub.uni-mainz.de/eas/partitions-inline/2/0/16000/16095/95db98c7bfb2d7cb7236a3e0b7b881301ce9349f/image/png</lido:linkResource>
+                  <lido:resourceMeasurementsSet>
+                     <lido:measurementType xml:lang="en">width</lido:measurementType>
+                     <lido:measurementUnit xml:lang="en">pixel</lido:measurementUnit>
+                     <lido:measurementValue>1000</lido:measurementValue>
+                  </lido:resourceMeasurementsSet>
+                  <lido:resourceMeasurementsSet>
+                     <lido:measurementType xml:lang="en">height</lido:measurementType>
+                     <lido:measurementUnit xml:lang="en">pixel</lido:measurementUnit>
+                     <lido:measurementValue>695</lido:measurementValue>
+                  </lido:resourceMeasurementsSet>
+               </lido:resourceRepresentation>
+               <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+                  <lido:linkResource>https://objects.ub.uni-mainz.de/eas/partitions-inline/2/0/16000/16095/1dcc11e1b05c0fbd176c45d0283360c37c237239/image/png</lido:linkResource>
+                  <lido:resourceMeasurementsSet>
+                     <lido:measurementType xml:lang="en">width</lido:measurementType>
+                     <lido:measurementUnit xml:lang="en">pixel</lido:measurementUnit>
+                     <lido:measurementValue>7569</lido:measurementValue>
+                  </lido:resourceMeasurementsSet>
+                  <lido:resourceMeasurementsSet>
+                     <lido:measurementType xml:lang="en">height</lido:measurementType>
+                     <lido:measurementUnit xml:lang="en">pixel</lido:measurementUnit>
+                     <lido:measurementValue>5261</lido:measurementValue>
+                  </lido:resourceMeasurementsSet>
+               </lido:resourceRepresentation>
+               <lido:resourceType>
+                  <lido:term>IMAGE</lido:term>
+               </lido:resourceType>
+               <lido:resourceDateTaken>
+                  <lido:displayDate>2021-10-08</lido:displayDate>
+                  <lido:date>
+                     <lido:earliestDate>2021-10-08</lido:earliestDate>
+                     <lido:latestDate>2021-10-08</lido:latestDate>
+                  </lido:date>
+               </lido:resourceDateTaken>
+               <lido:rightsResource>
+                  <lido:rightsType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099"
+                                     lido:source="http://creativecommons.org">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                     <lido:term>CC-BY 4.0</lido:term>
+                  </lido:rightsType>
+                  <lido:creditLine>Larissa Arlt, JGU Mainz</lido:creditLine>
+               </lido:rightsResource>
+            </lido:resourceSet>
+         </lido:resourceWrap>
+      </lido:administrativeMetadata>
+   </lido:lido>
+  <lido:lido>
+      <lido:lidoRecID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-094228-24968</lido:lidoRecID>
+      <lido:descriptiveMetadata xml:lang="de">
+         <lido:objectClassificationWrap>
+            <lido:objectWorkTypeWrap>
+               <lido:objectWorkType>
+                  <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099"
+                                  lido:source="https://d-nb.info/gnd">https://d-nb.info/gnd/4176970-3</lido:conceptID>
+                  <lido:term lido:pref="preferred">Rasiermesser</lido:term>
+               </lido:objectWorkType>
+            </lido:objectWorkTypeWrap>
+            <lido:classificationWrap>
+               <lido:classification lido:type="Klassifikation">
+                  <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099"
+                                  lido:source="https://portal.wissenschaftliche-sammlungen.de/ConceptScheme/33">http://portal.wissenschaftliche-sammlungen.de/ObjectGenre/262</lido:conceptID>
+                  <lido:term xml:lang="de">Werkzeug</lido:term>
+                  <lido:term xml:lang="en">tool</lido:term>
+               </lido:classification>
+            </lido:classificationWrap>
+         </lido:objectClassificationWrap>
+         <lido:objectIdentificationWrap>
+            <lido:titleWrap>
+               <lido:titleSet>
+                  <lido:appellationValue xml:lang="de">Rasiermesser</lido:appellationValue>
+               </lido:titleSet>
+            </lido:titleWrap>
+            <lido:repositoryWrap>
+               <lido:repositorySet lido:type="http://terminology.lido-schema.org/lido00475">
+                  <lido:repositoryName>
+                     <lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099"
+                                       lido:source="https://sigel.staatsbibliothek-berlin.de">https://ld.zdb-services.de/resource/organisations/DE-MUS-094228</lido:legalBodyID>
+                     <lido:legalBodyName>
+                        <lido:appellationValue>Ethnografische Studiensammlung, Johannes Gutenberg-Universität Mainz</lido:appellationValue>
+                     </lido:legalBodyName>
+                  </lido:repositoryName>
+                  <lido:workID lido:type="Inventarnummer">JGU ES 2557</lido:workID>
+                  <lido:repositoryLocation>
+                     <lido:placeID lido:type="http://terminology.lido-schema.org/lido00099"
+                                   lido:source="http://sws.geonames.org"/>
+                     <lido:namePlaceSet>
+                        <lido:appellationValue lido:pref="preferred"/>
+                     </lido:namePlaceSet>
+                  </lido:repositoryLocation>
+               </lido:repositorySet>
+            </lido:repositoryWrap>
+            <lido:objectDescriptionWrap>
+               <lido:objectDescriptionSet>
+                  <lido:descriptiveNoteValue>Holzgriff mit Metalldraht umwickelt, abgerundete Scheide aus Eisen, Holzplättchen mit Metall eingewickelt</lido:descriptiveNoteValue>
+               </lido:objectDescriptionSet>
+            </lido:objectDescriptionWrap>
+            <lido:objectMeasurementsWrap>
+               <lido:objectMeasurementsSet>
+                  <lido:displayObjectMeasurements>Scheide: L 10 cm; Griff: 4 x 6 cm</lido:displayObjectMeasurements>
+               </lido:objectMeasurementsSet>
+            </lido:objectMeasurementsWrap>
+         </lido:objectIdentificationWrap>
+         <lido:eventWrap>
+            <lido:eventSet lido:sortorder="1">
+               <lido:displayEvent xml:lang="de">Herstellung</lido:displayEvent>
+               <lido:displayEvent xml:lang="en">Production</lido:displayEvent>
+               <lido:event>
+                  <lido:eventType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099"
+                                     lido:source="http://terminology.lido-schema.org/eventType">http://terminology.lido-schema.org/lido00007</lido:conceptID>
+                     <lido:term xml:lang="de">Herstellung</lido:term>
+                     <lido:term xml:lang="en">Production</lido:term>
+                  </lido:eventType>
+                  <lido:culture>
+                     <lido:term>Njyem</lido:term>
+                  </lido:culture>
+                  <lido:eventPlace>
+                     <lido:place>
+                        <lido:namePlaceSet>
+                           <lido:appellationValue lido:pref="preferred">Südkamerun</lido:appellationValue>
+                        </lido:namePlaceSet>
+                        <lido:partOfPlace>
+                           <lido:namePlaceSet>
+                              <lido:appellationValue>Kamerun</lido:appellationValue>
+                           </lido:namePlaceSet>
+                           <lido:partOfPlace>
+                              <lido:namePlaceSet>
+                                 <lido:appellationValue>Zentralafrika</lido:appellationValue>
+                              </lido:namePlaceSet>
+                              <lido:partOfPlace>
+                                 <lido:namePlaceSet>
+                                    <lido:appellationValue>Afrika</lido:appellationValue>
+                                 </lido:namePlaceSet>
+                              </lido:partOfPlace>
+                           </lido:partOfPlace>
+                        </lido:partOfPlace>
+                     </lido:place>
+                  </lido:eventPlace>
+                  <lido:eventMaterialsTech>
+                     <lido:materialsTech>
+                        <lido:termMaterialsTech lido:type="http://terminology.lido-schema.org/lido00132">
+                           <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099"
+                                           lido:source="https://d-nb.info/gnd">http://d-nb.info/gnd/4033734-0</lido:conceptID>
+                           <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099"
+                                           lido:source="http://vocab.getty.edu/aat">http://vocab.getty.edu/aat/300011020</lido:conceptID>
+                           <lido:term xml:lang="de">Kupfer</lido:term>
+                        </lido:termMaterialsTech>
+                     </lido:materialsTech>
+                  </lido:eventMaterialsTech>
+                  <lido:eventMaterialsTech>
+                     <lido:materialsTech>
+                        <lido:termMaterialsTech lido:type="http://terminology.lido-schema.org/lido00132">
+                           <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099"
+                                           lido:source="https://d-nb.info/gnd">http://d-nb.info/gnd/4014002-7</lido:conceptID>
+                           <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099"
+                                           lido:source="http://vocab.getty.edu/aat">http://vocab.getty.edu/aat/300011002</lido:conceptID>
+                           <lido:term xml:lang="de">Eisen</lido:term>
+                        </lido:termMaterialsTech>
+                     </lido:materialsTech>
+                  </lido:eventMaterialsTech>
+                  <lido:eventMaterialsTech>
+                     <lido:materialsTech>
+                        <lido:termMaterialsTech lido:type="http://terminology.lido-schema.org/lido00132">
+                           <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099"
+                                           lido:source="https://d-nb.info/gnd">http://d-nb.info/gnd/4025668-6</lido:conceptID>
+                           <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099"
+                                           lido:source="http://vocab.getty.edu/aat">http://vocab.getty.edu/aat/300011914</lido:conceptID>
+                           <lido:term xml:lang="de">Holz</lido:term>
+                        </lido:termMaterialsTech>
+                     </lido:materialsTech>
+                  </lido:eventMaterialsTech>
+                  <lido:eventMaterialsTech>
+                     <lido:materialsTech>
+                        <lido:termMaterialsTech lido:type="http://terminology.lido-schema.org/lido00131">
+                           <lido:term xml:lang="de">geschmiedet</lido:term>
+                        </lido:termMaterialsTech>
+                     </lido:materialsTech>
+                  </lido:eventMaterialsTech>
+                  <lido:eventMaterialsTech>
+                     <lido:materialsTech>
+                        <lido:termMaterialsTech lido:type="http://terminology.lido-schema.org/lido00131">
+                           <lido:term xml:lang="de">gedreht</lido:term>
+                        </lido:termMaterialsTech>
+                     </lido:materialsTech>
+                  </lido:eventMaterialsTech>
+                  <lido:eventMaterialsTech>
+                     <lido:materialsTech>
+                        <lido:termMaterialsTech lido:type="http://terminology.lido-schema.org/lido00131">
+                           <lido:term xml:lang="de">geschnitzt</lido:term>
+                        </lido:termMaterialsTech>
+                     </lido:materialsTech>
+                  </lido:eventMaterialsTech>
+               </lido:event>
+            </lido:eventSet>
+            <lido:eventSet lido:sortorder="2">
+               <lido:displayEvent xml:lang="de">Raub</lido:displayEvent>
+               <lido:event>
+                  <lido:eventType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099"
+                                     lido:source="http://terminology.lido-schema.org/eventType">http://terminology.lido-schema.org/lido00005</lido:conceptID>
+                     <lido:term xml:lang="de">Übertragung des Gewahrsams</lido:term>
+                     <lido:term xml:lang="en">Transfer of Custody</lido:term>
+                  </lido:eventType>
+                  <lido:eventActor>
+                     <lido:displayActorInRole>Bertram, Hermann (1872 - 1914)</lido:displayActorInRole>
+                     <lido:actorInRole>
+                        <lido:actor>
+                           <lido:actorID lido:type="http://terminology.lido-schema.org/lido00099"
+                                         lido:source="http://d-nb.info/gnd">https://d-nb.info/gnd/1161882332</lido:actorID>
+                           <lido:nameActorSet>
+                              <lido:appellationValue lido:pref="preferred">Bertram, Hermann (1872 - 1914)</lido:appellationValue>
+                           </lido:nameActorSet>
+                        </lido:actor>
+                        <lido:roleActor>
+                           <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099"
+                                           lido:source="http://id.loc.gov/vocabulary/relators/">http://id.loc.gov/vocabulary/relators/oth</lido:conceptID>
+                        </lido:roleActor>
+                     </lido:actorInRole>
+                  </lido:eventActor>
+                  <lido:eventDate>
+                     <lido:displayDate>1905-1907</lido:displayDate>
+                     <lido:date>
+                        <lido:earliestDate>1905-01-01</lido:earliestDate>
+                        <lido:latestDate>1907-12-31</lido:latestDate>
+                     </lido:date>
+                  </lido:eventDate>
+                  <lido:eventPlace>
+                     <lido:place>
+                        <lido:namePlaceSet>
+                           <lido:appellationValue lido:pref="preferred">Südkamerun</lido:appellationValue>
+                        </lido:namePlaceSet>
+                        <lido:partOfPlace>
+                           <lido:namePlaceSet>
+                              <lido:appellationValue>Kamerun</lido:appellationValue>
+                           </lido:namePlaceSet>
+                           <lido:partOfPlace>
+                              <lido:namePlaceSet>
+                                 <lido:appellationValue>Zentralafrika</lido:appellationValue>
+                              </lido:namePlaceSet>
+                              <lido:partOfPlace>
+                                 <lido:namePlaceSet>
+                                    <lido:appellationValue>Afrika</lido:appellationValue>
+                                 </lido:namePlaceSet>
+                              </lido:partOfPlace>
+                           </lido:partOfPlace>
+                        </lido:partOfPlace>
+                     </lido:place>
+                  </lido:eventPlace>
+                  <lido:eventDescriptionSet>
+                     <lido:descriptiveNoteValue>Kriegsbeute: vermutlich im Rahmen der "Südexpedition" (1905-1907) geraubt.</lido:descriptiveNoteValue>
+                  </lido:eventDescriptionSet>
+               </lido:event>
+            </lido:eventSet>
+            <lido:eventSet lido:sortorder="3">
+               <lido:displayEvent xml:lang="de">Unbekannter Erwerb</lido:displayEvent>
+               <lido:displayEvent xml:lang="en">Acquisition, unkown conditions</lido:displayEvent>
+               <lido:event>
+                  <lido:eventType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099"
+                                     lido:source="http://terminology.lido-schema.org/eventType">http://terminology.lido-schema.org/lido00001</lido:conceptID>
+                     <lido:term xml:lang="de">Erwerbung</lido:term>
+                     <lido:term xml:lang="en">Acquisition</lido:term>
+                  </lido:eventType>
+                  <lido:eventActor>
+                     <lido:displayActorInRole>Linden-Museum Stuttgart</lido:displayActorInRole>
+                     <lido:actorInRole>
+                        <lido:actor>
+                           <lido:actorID lido:type="http://terminology.lido-schema.org/lido00099"
+                                         lido:source="http://d-nb.info/gnd">https://d-nb.info/gnd/1048946-0</lido:actorID>
+                           <lido:nameActorSet>
+                              <lido:appellationValue lido:pref="preferred">Linden-Museum Stuttgart</lido:appellationValue>
+                           </lido:nameActorSet>
+                        </lido:actor>
+                        <lido:roleActor>
+                           <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099"
+                                           lido:source="http://id.loc.gov/vocabulary/relators/">http://id.loc.gov/vocabulary/relators/own</lido:conceptID>
+                           <lido:term xml:lang="de">Besitzende/kaufende Person/Organisation</lido:term>
+                           <lido:term xml:lang="en">Owner/Buyer</lido:term>
+                        </lido:roleActor>
+                     </lido:actorInRole>
+                  </lido:eventActor>
+                  <lido:eventDate>
+                     <lido:displayDate>1908</lido:displayDate>
+                     <lido:date>
+                        <lido:earliestDate>1908-01-01</lido:earliestDate>
+                        <lido:latestDate>1908-12-31</lido:latestDate>
+                     </lido:date>
+                  </lido:eventDate>
+                  <lido:eventPlace>
+                     <lido:place>
+                        <lido:placeID lido:type="http://terminology.lido-schema.org/lido00099"
+                                      lido:source="http://sws.geonames.org">http://www.geonames.org/3214105</lido:placeID>
+                        <lido:namePlaceSet>
+                           <lido:appellationValue lido:pref="preferred">Stuttgart</lido:appellationValue>
+                        </lido:namePlaceSet>
+                        <lido:partOfPlace>
+                           <lido:namePlaceSet>
+                              <lido:appellationValue>Baden-Württemberg</lido:appellationValue>
+                           </lido:namePlaceSet>
+                           <lido:partOfPlace>
+                              <lido:namePlaceSet>
+                                 <lido:appellationValue>Deutschland</lido:appellationValue>
+                              </lido:namePlaceSet>
+                           </lido:partOfPlace>
+                        </lido:partOfPlace>
+                     </lido:place>
+                  </lido:eventPlace>
+                  <lido:eventDescriptionSet>
+                     <lido:descriptiveNoteValue>Von 1905 bis 1907 hat Oberleutnant Bertram an der "Südexpedition“ teilgenommen. Bertram an Graf von Linden: Er habe die Sammlung "[...] mit vieler Mühe während 2 ½ jähriger kriegerischer Tätigkeit gesammelt" (Archiv Linden-Museum).</lido:descriptiveNoteValue>
+                  </lido:eventDescriptionSet>
+               </lido:event>
+            </lido:eventSet>
+            <lido:eventSet lido:sortorder="4">
+               <lido:displayEvent xml:lang="de">Tausch</lido:displayEvent>
+               <lido:displayEvent xml:lang="en">Exchange</lido:displayEvent>
+               <lido:event>
+                  <lido:eventType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099"
+                                     lido:source="http://terminology.lido-schema.org/eventType">http://terminology.lido-schema.org/lido00001</lido:conceptID>
+                     <lido:term xml:lang="de">Erwerbung</lido:term>
+                     <lido:term xml:lang="en">Acquisition</lido:term>
+                  </lido:eventType>
+                  <lido:eventActor>
+                     <lido:displayActorInRole>Linden-Museum Stuttgart</lido:displayActorInRole>
+                     <lido:actorInRole>
+                        <lido:actor>
+                           <lido:actorID lido:type="http://terminology.lido-schema.org/lido00099"
+                                         lido:source="http://d-nb.info/gnd">https://d-nb.info/gnd/1048946-0</lido:actorID>
+                           <lido:nameActorSet>
+                              <lido:appellationValue lido:pref="preferred">Linden-Museum Stuttgart</lido:appellationValue>
+                           </lido:nameActorSet>
+                        </lido:actor>
+                        <lido:roleActor>
+                           <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099"
+                                           lido:source="http://id.loc.gov/vocabulary/relators/">http://id.loc.gov/vocabulary/relators/fmo</lido:conceptID>
+                           <lido:term xml:lang="de">Abgebende Person/Körperschaft</lido:term>
+                           <lido:term xml:lang="en">Former Owner</lido:term>
+                        </lido:roleActor>
+                     </lido:actorInRole>
+                  </lido:eventActor>
+                  <lido:eventDate>
+                     <lido:displayDate>15.12.1971</lido:displayDate>
+                     <lido:date>
+                        <lido:earliestDate>1971-12-15</lido:earliestDate>
+                        <lido:latestDate>1971-12-15</lido:latestDate>
+                     </lido:date>
+                  </lido:eventDate>
+                  <lido:eventPlace>
+                     <lido:place>
+                        <lido:placeID lido:type="http://terminology.lido-schema.org/lido00099"
+                                      lido:source="http://sws.geonames.org">http://www.geonames.org/3214105</lido:placeID>
+                        <lido:namePlaceSet>
+                           <lido:appellationValue lido:pref="preferred">Stuttgart</lido:appellationValue>
+                        </lido:namePlaceSet>
+                        <lido:partOfPlace>
+                           <lido:namePlaceSet>
+                              <lido:appellationValue>Baden-Württemberg</lido:appellationValue>
+                           </lido:namePlaceSet>
+                           <lido:partOfPlace>
+                              <lido:namePlaceSet>
+                                 <lido:appellationValue>Deutschland</lido:appellationValue>
+                              </lido:namePlaceSet>
+                           </lido:partOfPlace>
+                        </lido:partOfPlace>
+                     </lido:place>
+                  </lido:eventPlace>
+                  <lido:eventDescriptionSet>
+                     <lido:descriptiveNoteValue>JGU Mainz erhielt Objekt im Tausch mit Linden-Museum.</lido:descriptiveNoteValue>
+                  </lido:eventDescriptionSet>
+               </lido:event>
+            </lido:eventSet>
+         </lido:eventWrap>
+         <lido:objectRelationWrap>
+            <lido:subjectWrap>
+               <lido:subjectSet>
+                  <lido:displaySubject>Werkzeug, Schneiden, Rasieren</lido:displaySubject>
+               </lido:subjectSet>
+            </lido:subjectWrap>
+         </lido:objectRelationWrap>
+      </lido:descriptiveMetadata>
+      <lido:administrativeMetadata xml:lang="de">
+         <lido:recordWrap>
+            <lido:recordID lido:type="http://terminology.lido-schema.org/lido00100">24968</lido:recordID>
+            <lido:recordType>
+               <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://terminology.lido-schema.org/lido00141</lido:conceptID>
+               <lido:term xml:lang="de">Einzelobjekt</lido:term>
+               <lido:term xml:lang="en">item</lido:term>
+            </lido:recordType>
+            <lido:recordSource>
+               <lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099"
+                                 lido:source="https://sigel.staatsbibliothek-berlin.de">https://ld.zdb-services.de/resource/organisations/DE-MUS-094228</lido:legalBodyID>
+               <lido:legalBodyName>
+                  <lido:appellationValue xml:lang="en">Collections of the Johannes Gutenberg University Mainz</lido:appellationValue>
+                  <lido:appellationValue xml:lang="de">Sammlungen der Johannes Gutenberg-Universität Mainz</lido:appellationValue>
+               </lido:legalBodyName>
+               <lido:legalBodyWeblink>https://www.ub.uni-mainz.de/de/universitaetssammlungen</lido:legalBodyWeblink>
+            </lido:recordSource>
+            <lido:recordRights>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099"
+                                  lido:source="http://creativecommons.org">http://creativecommons.org/publicdomain/zero/1.0/</lido:conceptID>
+                  <lido:term>CC0 1.0</lido:term>
+               </lido:rightsType>
+            </lido:recordRights>
+         </lido:recordWrap>
+         <lido:resourceWrap>
+            <lido:resourceSet lido:sortorder="1">
+               <lido:resourceID lido:type="http://terminology.lido-schema.org/lido00100">JGU ES 2557_001.tif</lido:resourceID>
+               <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00451">
+                  <lido:linkResource>https://objects.ub.uni-mainz.de/eas/partitions-inline/2/0/16000/16096/8c7a5ede4ffbf7e751c1f8cef856247947257e90/image/png</lido:linkResource>
+                  <lido:resourceMeasurementsSet>
+                     <lido:measurementType xml:lang="en">width</lido:measurementType>
+                     <lido:measurementUnit xml:lang="en">pixel</lido:measurementUnit>
+                     <lido:measurementValue>1000</lido:measurementValue>
+                  </lido:resourceMeasurementsSet>
+                  <lido:resourceMeasurementsSet>
+                     <lido:measurementType xml:lang="en">height</lido:measurementType>
+                     <lido:measurementUnit xml:lang="en">pixel</lido:measurementUnit>
+                     <lido:measurementValue>667</lido:measurementValue>
+                  </lido:resourceMeasurementsSet>
+               </lido:resourceRepresentation>
+               <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+                  <lido:linkResource>https://objects.ub.uni-mainz.de/eas/partitions-inline/2/0/16000/16096/6d9f1290eddaaead3748b6ada1a7ed4de174c607/image/png</lido:linkResource>
+                  <lido:resourceMeasurementsSet>
+                     <lido:measurementType xml:lang="en">width</lido:measurementType>
+                     <lido:measurementUnit xml:lang="en">pixel</lido:measurementUnit>
+                     <lido:measurementValue>8192</lido:measurementValue>
+                  </lido:resourceMeasurementsSet>
+                  <lido:resourceMeasurementsSet>
+                     <lido:measurementType xml:lang="en">height</lido:measurementType>
+                     <lido:measurementUnit xml:lang="en">pixel</lido:measurementUnit>
+                     <lido:measurementValue>5464</lido:measurementValue>
+                  </lido:resourceMeasurementsSet>
+               </lido:resourceRepresentation>
+               <lido:resourceType>
+                  <lido:term>IMAGE</lido:term>
+               </lido:resourceType>
+               <lido:resourceDateTaken>
+                  <lido:displayDate>2021-09-21</lido:displayDate>
+                  <lido:date>
+                     <lido:earliestDate>2021-09-21</lido:earliestDate>
+                     <lido:latestDate>2021-09-21</lido:latestDate>
+                  </lido:date>
+               </lido:resourceDateTaken>
+               <lido:rightsResource>
+                  <lido:rightsType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099"
+                                     lido:source="http://creativecommons.org">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                     <lido:term>CC-BY 4.0</lido:term>
+                  </lido:rightsType>
+                  <lido:creditLine>Larissa Arlt, JGU Mainz</lido:creditLine>
+               </lido:rightsResource>
+            </lido:resourceSet>
+            <lido:resourceSet lido:sortorder="2">
+               <lido:resourceID lido:type="http://terminology.lido-schema.org/lido00100">JGU ES 2557_002.tif</lido:resourceID>
+               <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00451">
+                  <lido:linkResource>https://objects.ub.uni-mainz.de/eas/partitions-inline/2/0/16000/16097/de3990de9c0335f9c90507d4a45dc4b08ef15a23/image/png</lido:linkResource>
+                  <lido:resourceMeasurementsSet>
+                     <lido:measurementType xml:lang="en">width</lido:measurementType>
+                     <lido:measurementUnit xml:lang="en">pixel</lido:measurementUnit>
+                     <lido:measurementValue>1000</lido:measurementValue>
+                  </lido:resourceMeasurementsSet>
+                  <lido:resourceMeasurementsSet>
+                     <lido:measurementType xml:lang="en">height</lido:measurementType>
+                     <lido:measurementUnit xml:lang="en">pixel</lido:measurementUnit>
+                     <lido:measurementValue>667</lido:measurementValue>
+                  </lido:resourceMeasurementsSet>
+               </lido:resourceRepresentation>
+               <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+                  <lido:linkResource>https://objects.ub.uni-mainz.de/eas/partitions-inline/2/0/16000/16097/7f83c1c895fb958691e7ca187c8e7c70fec12196/image/png</lido:linkResource>
+                  <lido:resourceMeasurementsSet>
+                     <lido:measurementType xml:lang="en">width</lido:measurementType>
+                     <lido:measurementUnit xml:lang="en">pixel</lido:measurementUnit>
+                     <lido:measurementValue>8192</lido:measurementValue>
+                  </lido:resourceMeasurementsSet>
+                  <lido:resourceMeasurementsSet>
+                     <lido:measurementType xml:lang="en">height</lido:measurementType>
+                     <lido:measurementUnit xml:lang="en">pixel</lido:measurementUnit>
+                     <lido:measurementValue>5464</lido:measurementValue>
+                  </lido:resourceMeasurementsSet>
+               </lido:resourceRepresentation>
+               <lido:resourceType>
+                  <lido:term>IMAGE</lido:term>
+               </lido:resourceType>
+               <lido:resourceDateTaken>
+                  <lido:displayDate>2021-09-21</lido:displayDate>
+                  <lido:date>
+                     <lido:earliestDate>2021-09-21</lido:earliestDate>
+                     <lido:latestDate>2021-09-21</lido:latestDate>
+                  </lido:date>
+               </lido:resourceDateTaken>
+               <lido:rightsResource>
+                  <lido:rightsType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099"
+                                     lido:source="http://creativecommons.org">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                     <lido:term>CC-BY 4.0</lido:term>
+                  </lido:rightsType>
+                  <lido:creditLine>Larissa Arlt, JGU Mainz</lido:creditLine>
+               </lido:rightsResource>
+            </lido:resourceSet>
+         </lido:resourceWrap>
+      </lido:administrativeMetadata>
+   </lido:lido>
+</lido:lidoWrap>
