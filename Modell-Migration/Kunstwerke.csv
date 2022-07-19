@@ -1,0 +1,228 @@
+_system_object_id;Objekttitel;objektgeschichte[].ereignis_typ#ubmz_event_id;Ereignistyp;objektgeschichte[].datum_ereignis;objektgeschichte[].datum_normiert_ereignis#from;objektgeschichte[].datum_normiert_ereignis#to;objektgeschichte[].unsicher_datum;objektgeschichte[].ort_ereignis#_system_object_id;Ort;objektgeschichte[].unsicher_ort;objektgeschichte[].personen_ereignis[].person_ereignis#_system_object_id;Person/Körperschaft;objektgeschichte[].personen_ereignis[].rolle_ereignis#_system_object_id;Rolle;objektgeschichte[].personen_ereignis[].unsicher;objektgeschichte[].bemerkung_ereignis;objektgeschichte[].ereignis_typ#ubmz_event_id;Ereignistyp;objektgeschichte[].datum_ereignis;objektgeschichte[].datum_normiert_ereignis#from;objektgeschichte[].datum_normiert_ereignis#to;objektgeschichte[].unsicher_datum;objektgeschichte[].ort_ereignis#_system_object_id;Ort;objektgeschichte[].unsicher_ort;objektgeschichte[].personen_ereignis[].person_ereignis#_system_object_id;Person/Körperschaft;objektgeschichte[].personen_ereignis[].rolle_ereignis#_system_object_id;Rolle;objektgeschichte[].personen_ereignis[].unsicher;objektgeschichte[].bemerkung_ereignis;objektgeschichte[].ereignis_typ#ubmz_event_id;Ereignistyp;objektgeschichte[].datum_ereignis;objektgeschichte[].datum_normiert_ereignis#from;objektgeschichte[].datum_normiert_ereignis#to;objektgeschichte[].unsicher_datum;objektgeschichte[].ort_ereignis#_system_object_id;Ort;objektgeschichte[].unsicher_ort;objektgeschichte[].personen_ereignis[].person_ereignis#_system_object_id;Person/Körperschaft;objektgeschichte[].personen_ereignis[].rolle_ereignis#_system_object_id;Rolle;objektgeschichte[].personen_ereignis[].unsicher;objektgeschichte[].bemerkung_ereignis;objektgeschichte[].ereignis_typ#ubmz_event_id;Ereignistyp;objektgeschichte[].datum_ereignis;objektgeschichte[].datum_normiert_ereignis#from;objektgeschichte[].datum_normiert_ereignis#to;objektgeschichte[].unsicher_datum;objektgeschichte[].ort_ereignis#_system_object_id;Ort;objektgeschichte[].unsicher_ort;objektgeschichte[].personen_ereignis[].person_ereignis#_system_object_id;Person/Körperschaft;objektgeschichte[].personen_ereignis[].rolle_ereignis#_system_object_id;Rolle;objektgeschichte[].personen_ereignis[].unsicher;objektgeschichte[].bemerkung_ereignis;
+  20055;"Büste von Julius Baum";"ubmz-14";"Herstellung";"1956";"1956";"1956";"0";"";"";"";"20054
+";"Kraut-Hartmann, Traute
+";"4272
+";"Herstellung (durch)
+";"0
+";"";"ubmz-17";"Künstlerische Schöpfung";"";"";"";"";"";"";"";"20053
+";"Baum, Julius (1882 - 1959)
+";"19962
+";"Schöpfung (Dargestellte Person)
+";"0
+";"";"ubmz-19";"Objektbewegung";"";"";"";"";"7750
+";"Mainz
+";"0
+";"";"";"";"";"";"";"ubmz-11";"Erwerbung";"1960";"1960";"1960";"0";"";"";"";"";"";"";"";"";"";""
+  20067;"Büste von Dagobert Frey";"ubmz-14";"Herstellung";"1950er";"1950";"1962";"0";"";"";"";"19194
+";"nicht identifiziert
+";"4272
+";"Herstellung (durch)
+";"0
+";"";"ubmz-17";"Künstlerische Schöpfung";"";"";"";"";"";"";"";"20065
+";"Frey, Dagobert (1883 - 1962)
+";"19962
+";"Schöpfung (Dargestellte Person)
+";"0
+";"";"ubmz-19";"Objektbewegung";"";"";"";"";"7750
+";"Mainz
+";"0
+";"";"";"";"";"";"";""
+  20078;"Selbstbildnis";"ubmz-14";"Herstellung";"1958";"1958";"1958";"0";"";"";"";"11797
+";"Roeder, Emy (1890 - 1971)
+";"4272
+";"Herstellung (durch)
+";"0
+";"";"ubmz-17";"Künstlerische Schöpfung";"";"";"";"";"";"";"";"11797
+";"Roeder, Emy (1890 - 1971)
+";"19962
+";"Schöpfung (Dargestellte Person)
+";"0
+";"";"ubmz-19";"Objektbewegung";"";"";"";"";"7750
+";"Mainz
+";"0
+";"";"";"";"";"";"";""
+  20093;"Phoenix";"ubmz-14";"Herstellung";"1959/1960";"1959";"1960";"0";"";"";"";"11797
+";"Roeder, Emy (1890 - 1971)
+";"4272
+";"Herstellung (durch)
+";"0
+";"";"ubmz-19";"Objektbewegung";"";"";"";"";"7750
+";"Mainz
+";"0
+";"";"";"";"";"";"";""
+  20096;"Mutter mit Kind";"ubmz-14";"Herstellung";"";"";"";"";"";"";"";"19194
+";"nicht identifiziert
+";"4272
+";"Herstellung (durch)
+";"0
+";"";"ubmz-19";"Objektbewegung";"";"";"";"";"7750
+";"Mainz
+";"0
+";"";"";"";"";"";"";""
+  20106;"weibliche Figur";"ubmz-14";"Herstellung";"";"";"";"";"";"";"";"19194
+";"nicht identifiziert
+";"4272
+";"Herstellung (durch)
+";"0
+";"";"ubmz-19";"Objektbewegung";"";"";"";"";"7750
+";"Mainz
+";"0
+";"";"";"";"";"";"";"ubmz-17";"Künstlerische Schöpfung";"1955-1970";"1955";"1970";"0";"";"";"";"";"";"";"";"";"";""
+  20122;"Relief: Marienkrönung";"ubmz-14";"Herstellung";"18. Jahrhundert";"1700";"1799";"0";"";"";"";"19194
+";"nicht identifiziert
+";"4272
+";"Herstellung (durch)
+";"0
+";"";"ubmz-12";"Fund";"";"";"";"";"7750
+";"Mainz
+";"0
+";"";"";"";"";"";" Zum Ort: Im Trümmerschutt in Mainz nach 1945 gefunden.";""
+  20125;"Maria Immakulata, Kopf";"ubmz-14";"Herstellung";"18. Jahrhunder";"1700";"1799";"0";"";"";"";"92
+";"unbekannt
+";"4272
+";"Herstellung (durch)
+";"0
+";"";"ubmz-12";"Fund";"";"";"";"";"7750
+";"Mainz
+";"0
+";"";"";"";"";"";" Zum Ort: Stammt von der Marienfigur am Wohnhaus Quintingasse 8";"ubmz-19";"Objektbewegung";"";"";"";"";"7750
+";"Mainz
+";"0
+";"";"";"";"";"";"";""
+  20133;"Figur Hl. Nepomuk, Kopf";"ubmz-14";"Herstellung";"18. Jahrhundert";"1700";"1799";"0";"";"";"";"92
+";"unbekannt
+";"4272
+";"Herstellung (durch)
+";"0
+";"";"ubmz-12";"Fund";"";"";"";"";"7750
+";"Mainz
+";"0
+";"";"";"";"";"";" Zum Ort: Kopf von der Nepomukfigur am Haus Seilergasse 6";""
+  20141;"Relief: männliche Figur";"ubmz-14";"Herstellung";"1850-1920";"1850";"1920";"0";"";"";"";"19194
+";"nicht identifiziert
+";"4272
+";"Herstellung (durch)
+";"0
+";"";"ubmz-19";"Objektbewegung";"";"";"";"";"7750
+";"Mainz
+";"0
+";"";"";"";"";"";"";""
+  20143;"Mosaik: Pfau";"ubmz-14";"Herstellung";"1960-1980";"1960";"1980";"0";"";"";"";"19194
+";"nicht identifiziert
+";"4272
+";"Herstellung (durch)
+";"0
+";"";"ubmz-19";"Objektbewegung";"";"";"";"";"7750
+";"Mainz
+";"0
+";"";"";"";"";"";" Zum Ort: Stammt aus dem Treppenhaus des 2012/3 abgerissenen Gebäudes der Hochschule für Musik (Bingerstr. 24)";"ubmz-30";"Übertragung des Gewahrsams";"2012";"2012";"2012";"0";"";"";"";"";"";"";"";"";"";""
+  20147;"Mutter mit Kindern";"ubmz-14";"Herstellung";"1950er";"1950";"1959";"0";"";"";"";"";"";"";"";"";"";"ubmz-19";"Objektbewegung";"";"";"";"";"7750
+";"Mainz
+";"0
+";"";"";"";"";"";"";""
+  20149;"Straßenbild";"ubmz-14";"Herstellung";"1950";"1950";"1950";"0";"";"";"";"20148
+";"Fuegen, Willy (1907 - 1987)
+";"4272
+";"Herstellung (durch)
+";"0
+";"";"ubmz-19";"Objektbewegung";"";"";"";"";"7750
+";"Mainz
+";"0
+";"";"";"";"";"";"";""
+  20151;"Lesende Frau";"ubmz-14";"Herstellung";"1950er";"1950";"1959";"0";"";"";"";"20150
+";"Krisam, Peter (1901 - 1985)
+";"4272
+";"Herstellung (durch)
+";"0
+";"";"ubmz-19";"Objektbewegung";"";"";"";"";"7750
+";"Mainz
+";"0
+";"";"";"";"";"";"";""
+  20154;"Stilleben mit Chello";"ubmz-14";"Herstellung";"1946";"1946";"1946";"0";"";"";"";"20152
+";"Stark, Gustl (1917 - 2009)
+";"4272
+";"Herstellung (durch)
+";"0
+";"";"ubmz-19";"Objektbewegung";"";"";"";"";"7750
+";"Mainz
+";"0
+";"";"";"";"";"";"";""
+  20155;"Frauenakt";"ubmz-14";"Herstellung";"";"";"";"";"";"";"";"19194
+";"nicht identifiziert
+";"4272
+";"Herstellung (durch)
+";"0
+";"";"ubmz-19";"Objektbewegung";"";"";"";"";"7750
+";"Mainz
+";"0
+";"";"";"";"";"";"";""
+  20156;"Frau vor Spiegel";"ubmz-14";"Herstellung";"";"";"";"";"";"";"";"19194
+";"nicht identifiziert
+";"4272
+";"Herstellung (durch)
+";"0
+";"";"ubmz-19";"Objektbewegung";"";"";"";"";"7750
+";"Mainz
+";"0
+";"";"";"";"";"";"";""
+  20158;"ohne Titel";"ubmz-14";"Herstellung";"";"";"";"";"";"";"";"19194
+";"nicht identifiziert
+";"4272
+";"Herstellung (durch)
+";"0
+";"";"ubmz-19";"Objektbewegung";"";"";"";"";"7750
+";"Mainz
+";"0
+";"";"";"";"";"";"";""
+  20160;"Interieur";"ubmz-14";"Herstellung";"1948";"1948";"1948";"0";"";"";"";"20159
+";"Heß, Reinhard (1904 - 1998)
+";"4272
+";"Herstellung (durch)
+";"0
+";"";"ubmz-19";"Objektbewegung";"";"";"";"";"7750
+";"Mainz
+";"0
+";"";"";"";"";"";"";""
+  20162;"Landschaftsbild Schalkenmehrener Maar";"ubmz-14";"Herstellung";"1949";"1949";"1949";"0";"";"";"";"20161
+";"Kreuzberg, Pitt (1888 - 1966)
+";"4272
+";"Herstellung (durch)
+";"0
+";"";"ubmz-19";"Objektbewegung";"";"";"";"";"7750
+";"Mainz
+";"0
+";"";"";"";"";"";"";""
+  20164;"Troja";"ubmz-14";"Herstellung";"";"";"";"";"";"";"";"20163
+";"Schoormans, Helimar (1925)
+";"4272
+";"Herstellung (durch)
+";"0
+";"";"ubmz-19";"Objektbewegung";"";"";"";"";"7750
+";"Mainz
+";"0
+";"";"";"";"";"";"";""
+  40475;"TEST Troja LÖSCHEN";"ubmz-14";"Herstellung";"2022";"2022";"2022";"0";"";"";"";"20163
+23315
+";"Schoormans, Helimar (1925)
+Adae, Fritz
+";"4272
+4272
+";"Herstellung (durch)
+Herstellung (durch)
+";"0
+0
+";"Bemerkung zu Schorrmans (Herstellung); Bemerkung zu Adae (Herstellung); Zum Datum: Bemerkung zum Datum 2022";"ubmz-19";"Objektbewegung";"";"";"";"";"7750
+23967
+";"Mainz
+Australien
+";"0
+0
+";"";"";"";"";"";" Zum Ort: Ergänzung zu Mainz;  Zum Ort: Zweiter Ort zu Objektbewegung";"ubmz-13";"Gebrauch";"1980";"1980";"1980";"0";"20583
+";"China
+";"0
+";"65
+";"Weber, Klaus T.
+";"241
+";"Gebrauch (durch)
+";"0
+";"Bemerkung zu Klaus Weber; Zum Datum: Bemerkung zum Datum 1980;  Zum Ort: Ergänzung zu China";""
