@@ -2,19 +2,26 @@
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
     xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:lido="http://www.lido-schema.org"
     xmlns:easydb="https://schema.easydb.de/EASYDB/1.0/objects/" exclude-result-prefixes="xs"
-    version="1.0">
+    version="2.0">
     <xsl:output method="text" encoding="utf-8"/>
 
-    <xsl:param name="version" select="M1.0"/>
+    <xsl:param name="version" select="M1.1"/>
     <!-- Version dieser XSLT-Transformation -->
     <xsl:param name="language" select="'all'"/>
     <!-- bevorzugte Sprache z.B. en-US/de-DE/all -->
     <xsl:param name="authoritydata" select="'links'"/>
     <!-- all/links -->
+    <xsl:param name="creationid" select="'ubmz-17'"/>
+    <!-- ubmz-17 -->
     <xsl:param name="productionid" select="'ubmz-14'"/>
     <!-- ubmz-14 -->
+    <xsl:param name="acquisitionid" select="'ubmz-11'"/>
+    <!-- ubmz-11 -->
+    <xsl:param name="collectionid" select="'ubmz-24'"/>
+    <!-- ubmz-24 -->
     <xsl:param name="trennung">";"</xsl:param>
     <xsl:param name="trennungimfeld" select="'&#13;'"/>
+    <xsl:param name="eventreihenfolge" select="($creationid, $productionid, $acquisitionid, $collectionid)"/>
 
     <!-- Der Schlüssel wird zum Deduplizieren der Events innerhalb eines Objekts gebraucht (Muenchscher Algorithmus) -->
     <xsl:key name="events" match="easydb:ubmz_event_id"
@@ -121,17 +128,17 @@
     <xsl:template match="easydb:objekte">
         <xsl:message>
             <xsl:value-of
-                select="concat('--- Objekt ', easydb:_id, ' - ', easydb:_system_object_id)"/>
+                select="concat('--- Objekt ', easydb:_id, ' - ', easydb:_system_object_id[1])"/>
         </xsl:message>
         <xsl:value-of select="./easydb:_system_object_id"/><xsl:text>;"</xsl:text>
         <xsl:value-of select="easydb:objekttitel/easydb:de-DE"/><xsl:value-of select="$trennung"/>
             <xsl:for-each
                 select=".//easydb:ubmz_event_id[generate-id() = generate-id(key('events', concat(generate-id(ancestor::easydb:objekte), '.', .))[1])]">
                 <xsl:sort
-                    select="concat(number(.!=$productionid),'.',ancestor::easydb:objekte/easydb:_nested__objekte__datumsangaben/easydb:objekte__datumsangaben[easydb:ereignis/easydb:ereignisse/easydb:ubmz_event_id = current()]/easydb:datum_normiert/easydb:*[1])"
+                    select="concat(9-index-of(reverse($eventreihenfolge),.),'.',ancestor::easydb:objekte/easydb:_nested__objekte__datumsangaben/easydb:objekte__datumsangaben[easydb:ereignis/easydb:ereignisse/easydb:ubmz_event_id = current()]/easydb:datum_normiert/easydb:*[1])"
                     data-type="text"/>
                 <xsl:message><xsl:value-of select="position()"/> Sortiere: <xsl:value-of
-                    select="concat(number(.!=$productionid),'.',ancestor::easydb:objekte/easydb:_nested__objekte__datumsangaben/easydb:objekte__datumsangaben[easydb:ereignis/easydb:ereignisse/easydb:ubmz_event_id = current()]/easydb:datum_normiert/easydb:*[1])"
+                    select="concat(9-index-of(reverse($eventreihenfolge),.),'.',ancestor::easydb:objekte/easydb:_nested__objekte__datumsangaben/easydb:objekte__datumsangaben[easydb:ereignis/easydb:ereignisse/easydb:ubmz_event_id = current()]/easydb:datum_normiert/easydb:*[1])"
                     /></xsl:message>
                 <xsl:message>Event <xsl:value-of select="."/> - <xsl:value-of select="name(ancestor::easydb:*[parent::easydb:objekte])"/></xsl:message>
                 <xsl:value-of
