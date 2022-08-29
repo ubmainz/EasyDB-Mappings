@@ -61,7 +61,7 @@
         <xsl:variable name="pk_node"
             select="$person_node/easydb:person_koerperschaft/easydb:personen_koerperschaften"/>
         <xsl:message>Personen-ID - <xsl:value-of select="$pk_node/easydb:_system_object_id"/></xsl:message>
-        <xsl:value-of select="$pk_node/easydb:_system_object_id"/>
+        <xsl:value-of select="$pk_node/easydb:_system_object_id[1]"/>
     </xsl:template>
  
     <!-- Rollen in Events -->
@@ -75,7 +75,7 @@
     <xsl:template name="rollen-id">
         <xsl:param name="person_node"/>
         <xsl:message>Rollen-ID - <xsl:value-of select="$person_node/easydb:rolle/easydb:rollen/easydb:_system_object_id"/></xsl:message>
-        <xsl:value-of select="$person_node/easydb:rolle/easydb:rollen/easydb:_system_object_id"/>
+        <xsl:value-of select="$person_node/easydb:rolle/easydb:rollen/easydb:_system_object_id[1]"/>
     </xsl:template>
  
     <!-- Personen unsicher -->
@@ -101,7 +101,7 @@
         <xsl:param name="ort_node"/>
         <xsl:variable name="o_node" select="$ort_node/easydb:ort/easydb:orte"/>
         <xsl:message>Ort-ID - <xsl:value-of select="$o_node/easydb:_system_object_id"/></xsl:message>
-        <xsl:value-of select="$o_node/easydb:_system_object_id"/>
+        <xsl:value-of select="$o_node/easydb:_system_object_id[1]"/>
     </xsl:template>
     
     <!-- Ort unsicher -->
@@ -130,7 +130,7 @@
             <xsl:value-of
                 select="concat('--- Objekt ', easydb:_id, ' - ', easydb:_system_object_id[1])"/>
         </xsl:message>
-        <xsl:value-of select="./easydb:_system_object_id"/><xsl:text>;"</xsl:text>
+        <xsl:value-of select="./easydb:_system_object_id[1]"/><xsl:text>;"</xsl:text>
         <xsl:value-of select="easydb:objekttitel/easydb:de-DE"/><xsl:value-of select="$trennung"/>
             <xsl:for-each
                 select=".//easydb:ubmz_event_id[generate-id() = generate-id(key('events', concat(generate-id(ancestor::easydb:objekte), '.', .))[1])]">
