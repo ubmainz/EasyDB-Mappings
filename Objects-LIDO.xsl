@@ -389,19 +389,7 @@
                                         >https://sigel.staatsbibliothek-berlin.de</xsl:attribute>https://ld.zdb-services.de/resource/organisations/DE-MUS-094228</xsl:element>
                                 <xsl:element name="lido:legalBodyName">
                                     <xsl:element name="lido:appellationValue">
-                                        <xsl:choose>
-                                            <xsl:when
-                                                test="contains(easydb:_nested__objekte__standorte/easydb:objekte__standorte/easydb:standort/easydb:standorte/easydb:name, 'Gutenberg-Universität')">
-                                                <xsl:value-of
-                                                  select="concat(normalize-space(easydb:pool), ', Johannes Gutenberg-Universität Mainz')"
-                                                />
-                                            </xsl:when>
-                                            <xsl:otherwise>
-                                                <xsl:value-of
-                                                  select="easydb:_nested__objekte__standorte/easydb:objekte__standorte/easydb:standort/easydb:standorte/easydb:name"
-                                                />
-                                            </xsl:otherwise>
-                                        </xsl:choose>
+                                         <xsl:value-of select="concat(normalize-space(easydb:pool), ', Johannes Gutenberg-Universität Mainz')"/>
                                     </xsl:element>
                                 </xsl:element>
                             </xsl:element>
