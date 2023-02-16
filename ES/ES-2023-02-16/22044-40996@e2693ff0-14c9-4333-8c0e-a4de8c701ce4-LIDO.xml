@@ -393,7 +393,7 @@
             <lido:resourceSet lido:sortorder="1">
                <lido:resourceID lido:type="http://terminology.lido-schema.org/lido00100">JGU ES 2329_01.TIF</lido:resourceID>
                <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00451">
-                  <lido:linkResource>https://objects.ub.uni-mainz.de/eas/partitions-inline/2/0/15000/15441/7d7ae832acf6c418fd1a89b1da622306f89a3da4/image/png</lido:linkResource>
+                  <lido:linkResource lido:formatResource="png">https://objects.ub.uni-mainz.de/eas/partitions-inline/2/0/15000/15441/7d7ae832acf6c418fd1a89b1da622306f89a3da4/image/png</lido:linkResource>
                   <lido:resourceMeasurementsSet>
                      <lido:measurementType xml:lang="en">width</lido:measurementType>
                      <lido:measurementUnit xml:lang="en">pixel</lido:measurementUnit>
@@ -439,7 +439,7 @@
             <lido:resourceSet lido:sortorder="2">
                <lido:resourceID lido:type="http://terminology.lido-schema.org/lido00100">JGU ES 2329_02.TIF</lido:resourceID>
                <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00451">
-                  <lido:linkResource>https://objects.ub.uni-mainz.de/eas/partitions-inline/2/0/15000/15442/65dd1ecb35a0f344062c084a0b47c3f2e8db6070/image/png</lido:linkResource>
+                  <lido:linkResource lido:formatResource="png">https://objects.ub.uni-mainz.de/eas/partitions-inline/2/0/15000/15442/65dd1ecb35a0f344062c084a0b47c3f2e8db6070/image/png</lido:linkResource>
                   <lido:resourceMeasurementsSet>
                      <lido:measurementType xml:lang="en">width</lido:measurementType>
                      <lido:measurementUnit xml:lang="en">pixel</lido:measurementUnit>
@@ -485,7 +485,7 @@
             <lido:resourceSet lido:sortorder="3">
                <lido:resourceID lido:type="http://terminology.lido-schema.org/lido00100">JGU ES 2329_03.TIF</lido:resourceID>
                <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00451">
-                  <lido:linkResource>https://objects.ub.uni-mainz.de/eas/partitions-inline/2/0/15000/15443/47f5f1267b9b7c321ffd0b97748b97f7c1934ad9/image/png</lido:linkResource>
+                  <lido:linkResource lido:formatResource="png">https://objects.ub.uni-mainz.de/eas/partitions-inline/2/0/15000/15443/47f5f1267b9b7c321ffd0b97748b97f7c1934ad9/image/png</lido:linkResource>
                   <lido:resourceMeasurementsSet>
                      <lido:measurementType xml:lang="en">width</lido:measurementType>
                      <lido:measurementUnit xml:lang="en">pixel</lido:measurementUnit>
@@ -893,7 +893,7 @@
             <lido:resourceSet lido:sortorder="1">
                <lido:resourceID lido:type="http://terminology.lido-schema.org/lido00100">JGU ES 2410_001.tif</lido:resourceID>
                <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00451">
-                  <lido:linkResource>https://objects.ub.uni-mainz.de/eas/partitions-inline/2/0/15000/15908/1f5fb7c3f82c25230f7b9b7905391016eb7fe26b/image/png</lido:linkResource>
+                  <lido:linkResource lido:formatResource="png">https://objects.ub.uni-mainz.de/eas/partitions-inline/2/0/15000/15908/1f5fb7c3f82c25230f7b9b7905391016eb7fe26b/image/png</lido:linkResource>
                   <lido:resourceMeasurementsSet>
                      <lido:measurementType xml:lang="en">width</lido:measurementType>
                      <lido:measurementUnit xml:lang="en">pixel</lido:measurementUnit>
@@ -939,7 +939,7 @@
             <lido:resourceSet lido:sortorder="2">
                <lido:resourceID lido:type="http://terminology.lido-schema.org/lido00100">JGU ES 2410_002.tif</lido:resourceID>
                <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00451">
-                  <lido:linkResource>https://objects.ub.uni-mainz.de/eas/partitions-inline/2/0/15000/15909/5e621688e26738c053e492295cfad83bbc2760c7/image/png</lido:linkResource>
+                  <lido:linkResource lido:formatResource="png">https://objects.ub.uni-mainz.de/eas/partitions-inline/2/0/15000/15909/5e621688e26738c053e492295cfad83bbc2760c7/image/png</lido:linkResource>
                   <lido:resourceMeasurementsSet>
                      <lido:measurementType xml:lang="en">width</lido:measurementType>
                      <lido:measurementUnit xml:lang="en">pixel</lido:measurementUnit>
@@ -985,7 +985,7 @@
             <lido:resourceSet lido:sortorder="3">
                <lido:resourceID lido:type="http://terminology.lido-schema.org/lido00100">JGU ES 2410_003.tif</lido:resourceID>
                <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00451">
-                  <lido:linkResource>https://objects.ub.uni-mainz.de/eas/partitions-inline/2/0/15000/15910/c64b627010a8b0edf8813a5be15fc6745edec6f4/image/png</lido:linkResource>
+                  <lido:linkResource lido:formatResource="png">https://objects.ub.uni-mainz.de/eas/partitions-inline/2/0/15000/15910/c64b627010a8b0edf8813a5be15fc6745edec6f4/image/png</lido:linkResource>
                   <lido:resourceMeasurementsSet>
                      <lido:measurementType xml:lang="en">width</lido:measurementType>
                      <lido:measurementUnit xml:lang="en">pixel</lido:measurementUnit>
@@ -1031,7 +1031,7 @@
             <lido:resourceSet lido:sortorder="4">
                <lido:resourceID lido:type="http://terminology.lido-schema.org/lido00100">JGU ES 2410_004.tif</lido:resourceID>
                <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00451">
-                  <lido:linkResource>https://objects.ub.uni-mainz.de/eas/partitions-inline/2/0/15000/15911/8f4639b56ace0fbb760cd3c944a228f451381e31/image/png</lido:linkResource>
+                  <lido:linkResource lido:formatResource="png">https://objects.ub.uni-mainz.de/eas/partitions-inline/2/0/15000/15911/8f4639b56ace0fbb760cd3c944a228f451381e31/image/png</lido:linkResource>
                   <lido:resourceMeasurementsSet>
                      <lido:measurementType xml:lang="en">width</lido:measurementType>
                      <lido:measurementUnit xml:lang="en">pixel</lido:measurementUnit>
@@ -1077,7 +1077,7 @@
             <lido:resourceSet lido:sortorder="5">
                <lido:resourceID lido:type="http://terminology.lido-schema.org/lido00100">JGU ES 2410_005.tif</lido:resourceID>
                <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00451">
-                  <lido:linkResource>https://objects.ub.uni-mainz.de/eas/partitions-inline/2/0/15000/15912/98a71db7263a981051125d7dd854d4ea080760ad/image/png</lido:linkResource>
+                  <lido:linkResource lido:formatResource="png">https://objects.ub.uni-mainz.de/eas/partitions-inline/2/0/15000/15912/98a71db7263a981051125d7dd854d4ea080760ad/image/png</lido:linkResource>
                   <lido:resourceMeasurementsSet>
                      <lido:measurementType xml:lang="en">width</lido:measurementType>
                      <lido:measurementUnit xml:lang="en">pixel</lido:measurementUnit>
@@ -1123,7 +1123,7 @@
             <lido:resourceSet lido:sortorder="6">
                <lido:resourceID lido:type="http://terminology.lido-schema.org/lido00100">JGU ES 2410_006.tif</lido:resourceID>
                <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00451">
-                  <lido:linkResource>https://objects.ub.uni-mainz.de/eas/partitions-inline/2/0/15000/15913/05666eaf328cb5034988a7750f91921613f3377c/image/png</lido:linkResource>
+                  <lido:linkResource lido:formatResource="png">https://objects.ub.uni-mainz.de/eas/partitions-inline/2/0/15000/15913/05666eaf328cb5034988a7750f91921613f3377c/image/png</lido:linkResource>
                   <lido:resourceMeasurementsSet>
                      <lido:measurementType xml:lang="en">width</lido:measurementType>
                      <lido:measurementUnit xml:lang="en">pixel</lido:measurementUnit>
@@ -1544,7 +1544,7 @@ Beschreibung in Inventarliste des Linden-Museum: „1 Kriegsmütze aus Bast e Fe
             <lido:resourceSet lido:sortorder="1">
                <lido:resourceID lido:type="http://terminology.lido-schema.org/lido00100">JGU ES 2519_01.tif</lido:resourceID>
                <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00451">
-                  <lido:linkResource>https://objects.ub.uni-mainz.de/eas/partitions-inline/2/0/15000/15414/bae63d59c0724ec45f1b369a4249b9da2e5478ed/image/png</lido:linkResource>
+                  <lido:linkResource lido:formatResource="png">https://objects.ub.uni-mainz.de/eas/partitions-inline/2/0/15000/15414/bae63d59c0724ec45f1b369a4249b9da2e5478ed/image/png</lido:linkResource>
                   <lido:resourceMeasurementsSet>
                      <lido:measurementType xml:lang="en">width</lido:measurementType>
                      <lido:measurementUnit xml:lang="en">pixel</lido:measurementUnit>
@@ -1590,7 +1590,7 @@ Beschreibung in Inventarliste des Linden-Museum: „1 Kriegsmütze aus Bast e Fe
             <lido:resourceSet lido:sortorder="2">
                <lido:resourceID lido:type="http://terminology.lido-schema.org/lido00100">JGU ES 2519_02.tif</lido:resourceID>
                <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00451">
-                  <lido:linkResource>https://objects.ub.uni-mainz.de/eas/partitions-inline/2/0/15000/15415/77ad4864124b77f19ff251c084fb351505291082/image/png</lido:linkResource>
+                  <lido:linkResource lido:formatResource="png">https://objects.ub.uni-mainz.de/eas/partitions-inline/2/0/15000/15415/77ad4864124b77f19ff251c084fb351505291082/image/png</lido:linkResource>
                   <lido:resourceMeasurementsSet>
                      <lido:measurementType xml:lang="en">width</lido:measurementType>
                      <lido:measurementUnit xml:lang="en">pixel</lido:measurementUnit>
@@ -1636,7 +1636,7 @@ Beschreibung in Inventarliste des Linden-Museum: „1 Kriegsmütze aus Bast e Fe
             <lido:resourceSet lido:sortorder="3">
                <lido:resourceID lido:type="http://terminology.lido-schema.org/lido00100">JGU ES 2519_03.tif</lido:resourceID>
                <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00451">
-                  <lido:linkResource>https://objects.ub.uni-mainz.de/eas/partitions-inline/2/0/15000/15416/25c4cf31447442651116e34b0f3b30f06346c1c5/image/png</lido:linkResource>
+                  <lido:linkResource lido:formatResource="png">https://objects.ub.uni-mainz.de/eas/partitions-inline/2/0/15000/15416/25c4cf31447442651116e34b0f3b30f06346c1c5/image/png</lido:linkResource>
                   <lido:resourceMeasurementsSet>
                      <lido:measurementType xml:lang="en">width</lido:measurementType>
                      <lido:measurementUnit xml:lang="en">pixel</lido:measurementUnit>
@@ -1682,7 +1682,7 @@ Beschreibung in Inventarliste des Linden-Museum: „1 Kriegsmütze aus Bast e Fe
             <lido:resourceSet lido:sortorder="4">
                <lido:resourceID lido:type="http://terminology.lido-schema.org/lido00100">JGU ES 2519_04.tif</lido:resourceID>
                <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00451">
-                  <lido:linkResource>https://objects.ub.uni-mainz.de/eas/partitions-inline/2/0/15000/15417/c3131f252af0d329f56273ff1e5026c54a135ede/image/png</lido:linkResource>
+                  <lido:linkResource lido:formatResource="png">https://objects.ub.uni-mainz.de/eas/partitions-inline/2/0/15000/15417/c3131f252af0d329f56273ff1e5026c54a135ede/image/png</lido:linkResource>
                   <lido:resourceMeasurementsSet>
                      <lido:measurementType xml:lang="en">width</lido:measurementType>
                      <lido:measurementUnit xml:lang="en">pixel</lido:measurementUnit>
@@ -1970,7 +1970,7 @@ Beschreibung in Inventarliste des Linden-Museum: „1 Kriegsmütze aus Bast e Fe
             <lido:resourceSet lido:sortorder="1">
                <lido:resourceID lido:type="http://terminology.lido-schema.org/lido00100">JGU ES 52_01.tif</lido:resourceID>
                <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00451">
-                  <lido:linkResource>https://objects.ub.uni-mainz.de/eas/partitions-inline/2/0/15000/15406/13da02b589ce0e4dbb53d8d9777191d2aa3c514d/image/png</lido:linkResource>
+                  <lido:linkResource lido:formatResource="png">https://objects.ub.uni-mainz.de/eas/partitions-inline/2/0/15000/15406/13da02b589ce0e4dbb53d8d9777191d2aa3c514d/image/png</lido:linkResource>
                   <lido:resourceMeasurementsSet>
                      <lido:measurementType xml:lang="en">width</lido:measurementType>
                      <lido:measurementUnit xml:lang="en">pixel</lido:measurementUnit>
@@ -2016,7 +2016,7 @@ Beschreibung in Inventarliste des Linden-Museum: „1 Kriegsmütze aus Bast e Fe
             <lido:resourceSet lido:sortorder="2">
                <lido:resourceID lido:type="http://terminology.lido-schema.org/lido00100">JGU ES 52_02.tif</lido:resourceID>
                <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00451">
-                  <lido:linkResource>https://objects.ub.uni-mainz.de/eas/partitions-inline/2/0/15000/15407/27126cdc6860a90976f3ca30a2c2df694d5a05b9/image/png</lido:linkResource>
+                  <lido:linkResource lido:formatResource="png">https://objects.ub.uni-mainz.de/eas/partitions-inline/2/0/15000/15407/27126cdc6860a90976f3ca30a2c2df694d5a05b9/image/png</lido:linkResource>
                   <lido:resourceMeasurementsSet>
                      <lido:measurementType xml:lang="en">width</lido:measurementType>
                      <lido:measurementUnit xml:lang="en">pixel</lido:measurementUnit>
@@ -2062,7 +2062,7 @@ Beschreibung in Inventarliste des Linden-Museum: „1 Kriegsmütze aus Bast e Fe
             <lido:resourceSet lido:sortorder="3">
                <lido:resourceID lido:type="http://terminology.lido-schema.org/lido00100">JGU ES 52_03.tif</lido:resourceID>
                <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00451">
-                  <lido:linkResource>https://objects.ub.uni-mainz.de/eas/partitions-inline/2/0/15000/15408/1b9e0634d39a56f8c8f057ab4a3704fa559d6146/image/png</lido:linkResource>
+                  <lido:linkResource lido:formatResource="png">https://objects.ub.uni-mainz.de/eas/partitions-inline/2/0/15000/15408/1b9e0634d39a56f8c8f057ab4a3704fa559d6146/image/png</lido:linkResource>
                   <lido:resourceMeasurementsSet>
                      <lido:measurementType xml:lang="en">width</lido:measurementType>
                      <lido:measurementUnit xml:lang="en">pixel</lido:measurementUnit>
@@ -2108,7 +2108,7 @@ Beschreibung in Inventarliste des Linden-Museum: „1 Kriegsmütze aus Bast e Fe
             <lido:resourceSet lido:sortorder="4">
                <lido:resourceID lido:type="http://terminology.lido-schema.org/lido00100">JGU ES 52_04.tif</lido:resourceID>
                <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00451">
-                  <lido:linkResource>https://objects.ub.uni-mainz.de/eas/partitions-inline/2/0/15000/15409/f895fa388cf7681010e3130ae4ff503ff07e775c/image/png</lido:linkResource>
+                  <lido:linkResource lido:formatResource="png">https://objects.ub.uni-mainz.de/eas/partitions-inline/2/0/15000/15409/f895fa388cf7681010e3130ae4ff503ff07e775c/image/png</lido:linkResource>
                   <lido:resourceMeasurementsSet>
                      <lido:measurementType xml:lang="en">width</lido:measurementType>
                      <lido:measurementUnit xml:lang="en">pixel</lido:measurementUnit>
@@ -2540,7 +2540,7 @@ Beschreibung in Inventarliste des Linden-Museum: „1 Kriegsmütze aus Bast e Fe
             <lido:resourceSet lido:sortorder="1">
                <lido:resourceID lido:type="http://terminology.lido-schema.org/lido00100">JGU ES 1988_01.TIF</lido:resourceID>
                <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00451">
-                  <lido:linkResource>https://objects.ub.uni-mainz.de/eas/partitions-inline/2/0/15000/15429/4282ac07fe3431f6ee94ca985821eb8b52f9aaa3/image/png</lido:linkResource>
+                  <lido:linkResource lido:formatResource="png">https://objects.ub.uni-mainz.de/eas/partitions-inline/2/0/15000/15429/4282ac07fe3431f6ee94ca985821eb8b52f9aaa3/image/png</lido:linkResource>
                   <lido:resourceMeasurementsSet>
                      <lido:measurementType xml:lang="en">width</lido:measurementType>
                      <lido:measurementUnit xml:lang="en">pixel</lido:measurementUnit>
@@ -2586,7 +2586,7 @@ Beschreibung in Inventarliste des Linden-Museum: „1 Kriegsmütze aus Bast e Fe
             <lido:resourceSet lido:sortorder="2">
                <lido:resourceID lido:type="http://terminology.lido-schema.org/lido00100">JGU ES 1988_02.TIF</lido:resourceID>
                <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00451">
-                  <lido:linkResource>https://objects.ub.uni-mainz.de/eas/partitions-inline/2/0/15000/15430/5fca974c5daa447585d586c9fa6e43a6b72b5346/image/png</lido:linkResource>
+                  <lido:linkResource lido:formatResource="png">https://objects.ub.uni-mainz.de/eas/partitions-inline/2/0/15000/15430/5fca974c5daa447585d586c9fa6e43a6b72b5346/image/png</lido:linkResource>
                   <lido:resourceMeasurementsSet>
                      <lido:measurementType xml:lang="en">width</lido:measurementType>
                      <lido:measurementUnit xml:lang="en">pixel</lido:measurementUnit>
@@ -2632,7 +2632,7 @@ Beschreibung in Inventarliste des Linden-Museum: „1 Kriegsmütze aus Bast e Fe
             <lido:resourceSet lido:sortorder="3">
                <lido:resourceID lido:type="http://terminology.lido-schema.org/lido00100">JGU ES 1988_03.TIF</lido:resourceID>
                <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00451">
-                  <lido:linkResource>https://objects.ub.uni-mainz.de/eas/partitions-inline/2/0/15000/15431/4cb12f9e5d84401030e54340427f0f2150cf911a/image/png</lido:linkResource>
+                  <lido:linkResource lido:formatResource="png">https://objects.ub.uni-mainz.de/eas/partitions-inline/2/0/15000/15431/4cb12f9e5d84401030e54340427f0f2150cf911a/image/png</lido:linkResource>
                   <lido:resourceMeasurementsSet>
                      <lido:measurementType xml:lang="en">width</lido:measurementType>
                      <lido:measurementUnit xml:lang="en">pixel</lido:measurementUnit>
@@ -2678,7 +2678,7 @@ Beschreibung in Inventarliste des Linden-Museum: „1 Kriegsmütze aus Bast e Fe
             <lido:resourceSet lido:sortorder="4">
                <lido:resourceID lido:type="http://terminology.lido-schema.org/lido00100">JGU ES 1988_04.TIF</lido:resourceID>
                <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00451">
-                  <lido:linkResource>https://objects.ub.uni-mainz.de/eas/partitions-inline/2/0/15000/15432/a66a32c8b0220befd8c0e9d29c22347097d2086c/image/png</lido:linkResource>
+                  <lido:linkResource lido:formatResource="png">https://objects.ub.uni-mainz.de/eas/partitions-inline/2/0/15000/15432/a66a32c8b0220befd8c0e9d29c22347097d2086c/image/png</lido:linkResource>
                   <lido:resourceMeasurementsSet>
                      <lido:measurementType xml:lang="en">width</lido:measurementType>
                      <lido:measurementUnit xml:lang="en">pixel</lido:measurementUnit>
@@ -2724,7 +2724,7 @@ Beschreibung in Inventarliste des Linden-Museum: „1 Kriegsmütze aus Bast e Fe
             <lido:resourceSet lido:sortorder="5">
                <lido:resourceID lido:type="http://terminology.lido-schema.org/lido00100">JGU ES 1988_05.TIF</lido:resourceID>
                <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00451">
-                  <lido:linkResource>https://objects.ub.uni-mainz.de/eas/partitions-inline/2/0/15000/15433/a3a5e103c821feb5cedb60b65bb5caac5f69ec1e/image/png</lido:linkResource>
+                  <lido:linkResource lido:formatResource="png">https://objects.ub.uni-mainz.de/eas/partitions-inline/2/0/15000/15433/a3a5e103c821feb5cedb60b65bb5caac5f69ec1e/image/png</lido:linkResource>
                   <lido:resourceMeasurementsSet>
                      <lido:measurementType xml:lang="en">width</lido:measurementType>
                      <lido:measurementUnit xml:lang="en">pixel</lido:measurementUnit>
@@ -3344,7 +3344,7 @@ Englisch (Digital Benin): The commemorative head, Uhunmwu Elao, of an Ọba plac
             <lido:resourceSet lido:sortorder="1">
                <lido:resourceID lido:type="http://terminology.lido-schema.org/lido00100">IMG_931192.TIF</lido:resourceID>
                <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00451">
-                  <lido:linkResource>https://objects.ub.uni-mainz.de/eas/partitions-inline/2/0/15000/15619/c1d794079078b27f8d49547af6353a309d85e337/image/png</lido:linkResource>
+                  <lido:linkResource lido:formatResource="png">https://objects.ub.uni-mainz.de/eas/partitions-inline/2/0/15000/15619/c1d794079078b27f8d49547af6353a309d85e337/image/png</lido:linkResource>
                   <lido:resourceMeasurementsSet>
                      <lido:measurementType xml:lang="en">width</lido:measurementType>
                      <lido:measurementUnit xml:lang="en">pixel</lido:measurementUnit>
@@ -3390,7 +3390,7 @@ Englisch (Digital Benin): The commemorative head, Uhunmwu Elao, of an Ọba plac
             <lido:resourceSet lido:sortorder="2">
                <lido:resourceID lido:type="http://terminology.lido-schema.org/lido00100">IMG_931195.TIF</lido:resourceID>
                <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00451">
-                  <lido:linkResource>https://objects.ub.uni-mainz.de/eas/partitions-inline/2/0/15000/15620/44b35fabb1cb5f4dccea1ec3abcd69b3c134de91/image/png</lido:linkResource>
+                  <lido:linkResource lido:formatResource="png">https://objects.ub.uni-mainz.de/eas/partitions-inline/2/0/15000/15620/44b35fabb1cb5f4dccea1ec3abcd69b3c134de91/image/png</lido:linkResource>
                   <lido:resourceMeasurementsSet>
                      <lido:measurementType xml:lang="en">width</lido:measurementType>
                      <lido:measurementUnit xml:lang="en">pixel</lido:measurementUnit>
@@ -3436,7 +3436,7 @@ Englisch (Digital Benin): The commemorative head, Uhunmwu Elao, of an Ọba plac
             <lido:resourceSet lido:sortorder="3">
                <lido:resourceID lido:type="http://terminology.lido-schema.org/lido00100">IMG_931199.TIF</lido:resourceID>
                <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00451">
-                  <lido:linkResource>https://objects.ub.uni-mainz.de/eas/partitions-inline/2/0/15000/15621/559204bfde4acb39b0732ba7108ef78b9be3082c/image/png</lido:linkResource>
+                  <lido:linkResource lido:formatResource="png">https://objects.ub.uni-mainz.de/eas/partitions-inline/2/0/15000/15621/559204bfde4acb39b0732ba7108ef78b9be3082c/image/png</lido:linkResource>
                   <lido:resourceMeasurementsSet>
                      <lido:measurementType xml:lang="en">width</lido:measurementType>
                      <lido:measurementUnit xml:lang="en">pixel</lido:measurementUnit>
@@ -3482,7 +3482,7 @@ Englisch (Digital Benin): The commemorative head, Uhunmwu Elao, of an Ọba plac
             <lido:resourceSet lido:sortorder="4">
                <lido:resourceID lido:type="http://terminology.lido-schema.org/lido00100">IMG_931204.TIF</lido:resourceID>
                <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00451">
-                  <lido:linkResource>https://objects.ub.uni-mainz.de/eas/partitions-inline/2/0/15000/15622/fd28b3598b2302ee2e6f01c5f087ae2262c719c4/image/png</lido:linkResource>
+                  <lido:linkResource lido:formatResource="png">https://objects.ub.uni-mainz.de/eas/partitions-inline/2/0/15000/15622/fd28b3598b2302ee2e6f01c5f087ae2262c719c4/image/png</lido:linkResource>
                   <lido:resourceMeasurementsSet>
                      <lido:measurementType xml:lang="en">width</lido:measurementType>
                      <lido:measurementUnit xml:lang="en">pixel</lido:measurementUnit>
@@ -3528,7 +3528,7 @@ Englisch (Digital Benin): The commemorative head, Uhunmwu Elao, of an Ọba plac
             <lido:resourceSet lido:sortorder="5">
                <lido:resourceID lido:type="http://terminology.lido-schema.org/lido00100">Job_0004.tif</lido:resourceID>
                <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00451">
-                  <lido:linkResource>https://objects.ub.uni-mainz.de/eas/partitions-inline/2/0/15000/15624/77b532d99309c2bead519e668e9546be5453aec3/image/png</lido:linkResource>
+                  <lido:linkResource lido:formatResource="png">https://objects.ub.uni-mainz.de/eas/partitions-inline/2/0/15000/15624/77b532d99309c2bead519e668e9546be5453aec3/image/png</lido:linkResource>
                   <lido:resourceMeasurementsSet>
                      <lido:measurementType xml:lang="en">width</lido:measurementType>
                      <lido:measurementUnit xml:lang="en">pixel</lido:measurementUnit>
@@ -3574,7 +3574,7 @@ Englisch (Digital Benin): The commemorative head, Uhunmwu Elao, of an Ọba plac
             <lido:resourceSet lido:sortorder="6">
                <lido:resourceID lido:type="http://terminology.lido-schema.org/lido00100">Job_0029.tif</lido:resourceID>
                <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00451">
-                  <lido:linkResource>https://objects.ub.uni-mainz.de/eas/partitions-inline/2/0/15000/15625/f1474fb0f647a51d55c6c138409b5f7918e6b349/image/png</lido:linkResource>
+                  <lido:linkResource lido:formatResource="png">https://objects.ub.uni-mainz.de/eas/partitions-inline/2/0/15000/15625/f1474fb0f647a51d55c6c138409b5f7918e6b349/image/png</lido:linkResource>
                   <lido:resourceMeasurementsSet>
                      <lido:measurementType xml:lang="en">width</lido:measurementType>
                      <lido:measurementUnit xml:lang="en">pixel</lido:measurementUnit>
@@ -3620,7 +3620,7 @@ Englisch (Digital Benin): The commemorative head, Uhunmwu Elao, of an Ọba plac
             <lido:resourceSet lido:sortorder="7">
                <lido:resourceID lido:type="http://terminology.lido-schema.org/lido00100">Job_0034.tif</lido:resourceID>
                <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00451">
-                  <lido:linkResource>https://objects.ub.uni-mainz.de/eas/partitions-inline/2/0/15000/15626/470e1e302fec7f85ea535cd5007a8df14329ca92/image/png</lido:linkResource>
+                  <lido:linkResource lido:formatResource="png">https://objects.ub.uni-mainz.de/eas/partitions-inline/2/0/15000/15626/470e1e302fec7f85ea535cd5007a8df14329ca92/image/png</lido:linkResource>
                   <lido:resourceMeasurementsSet>
                      <lido:measurementType xml:lang="en">width</lido:measurementType>
                      <lido:measurementUnit xml:lang="en">pixel</lido:measurementUnit>
@@ -3959,7 +3959,7 @@ Englisch (Digital Benin): The commemorative head, Uhunmwu Elao, of an Ọba plac
             <lido:resourceSet lido:sortorder="1">
                <lido:resourceID lido:type="http://terminology.lido-schema.org/lido00100">JGU ES 1643_001.tif</lido:resourceID>
                <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00451">
-                  <lido:linkResource>https://objects.ub.uni-mainz.de/eas/partitions-inline/2/0/16000/16183/7ede2e08467ecef91d0b96f3b83d3202a44a8491/image/png</lido:linkResource>
+                  <lido:linkResource lido:formatResource="png">https://objects.ub.uni-mainz.de/eas/partitions-inline/2/0/16000/16183/7ede2e08467ecef91d0b96f3b83d3202a44a8491/image/png</lido:linkResource>
                   <lido:resourceMeasurementsSet>
                      <lido:measurementType xml:lang="en">width</lido:measurementType>
                      <lido:measurementUnit xml:lang="en">pixel</lido:measurementUnit>
@@ -4005,7 +4005,7 @@ Englisch (Digital Benin): The commemorative head, Uhunmwu Elao, of an Ọba plac
             <lido:resourceSet lido:sortorder="2">
                <lido:resourceID lido:type="http://terminology.lido-schema.org/lido00100">JGU ES 1643_002.tif</lido:resourceID>
                <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00451">
-                  <lido:linkResource>https://objects.ub.uni-mainz.de/eas/partitions-inline/2/0/16000/16186/cda2268a61944926c62d0ee4a98ad4c35a24fc53/image/png</lido:linkResource>
+                  <lido:linkResource lido:formatResource="png">https://objects.ub.uni-mainz.de/eas/partitions-inline/2/0/16000/16186/cda2268a61944926c62d0ee4a98ad4c35a24fc53/image/png</lido:linkResource>
                   <lido:resourceMeasurementsSet>
                      <lido:measurementType xml:lang="en">width</lido:measurementType>
                      <lido:measurementUnit xml:lang="en">pixel</lido:measurementUnit>
@@ -4051,7 +4051,7 @@ Englisch (Digital Benin): The commemorative head, Uhunmwu Elao, of an Ọba plac
             <lido:resourceSet lido:sortorder="3">
                <lido:resourceID lido:type="http://terminology.lido-schema.org/lido00100">JGU ES 1643_003.tif</lido:resourceID>
                <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00451">
-                  <lido:linkResource>https://objects.ub.uni-mainz.de/eas/partitions-inline/2/0/16000/16184/3af66b3e8f0a429f39353040768d2986c3b65c0b/image/png</lido:linkResource>
+                  <lido:linkResource lido:formatResource="png">https://objects.ub.uni-mainz.de/eas/partitions-inline/2/0/16000/16184/3af66b3e8f0a429f39353040768d2986c3b65c0b/image/png</lido:linkResource>
                   <lido:resourceMeasurementsSet>
                      <lido:measurementType xml:lang="en">width</lido:measurementType>
                      <lido:measurementUnit xml:lang="en">pixel</lido:measurementUnit>
@@ -4097,7 +4097,7 @@ Englisch (Digital Benin): The commemorative head, Uhunmwu Elao, of an Ọba plac
             <lido:resourceSet lido:sortorder="4">
                <lido:resourceID lido:type="http://terminology.lido-schema.org/lido00100">JGU ES 1643_004.tif</lido:resourceID>
                <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00451">
-                  <lido:linkResource>https://objects.ub.uni-mainz.de/eas/partitions-inline/2/0/16000/16185/532a28de536ce4c43bb75c760d204ab8b08d8094/image/png</lido:linkResource>
+                  <lido:linkResource lido:formatResource="png">https://objects.ub.uni-mainz.de/eas/partitions-inline/2/0/16000/16185/532a28de536ce4c43bb75c760d204ab8b08d8094/image/png</lido:linkResource>
                   <lido:resourceMeasurementsSet>
                      <lido:measurementType xml:lang="en">width</lido:measurementType>
                      <lido:measurementUnit xml:lang="en">pixel</lido:measurementUnit>
@@ -4429,7 +4429,7 @@ Englisch (Digital Benin): The commemorative head, Uhunmwu Elao, of an Ọba plac
             <lido:resourceSet lido:sortorder="1">
                <lido:resourceID lido:type="http://terminology.lido-schema.org/lido00100">900440.tif</lido:resourceID>
                <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00451">
-                  <lido:linkResource>https://objects.ub.uni-mainz.de/eas/partitions-inline/2/0/30000/30858/09d5d3552715791f3bb102914f2e6415770b433e/image/png</lido:linkResource>
+                  <lido:linkResource lido:formatResource="png">https://objects.ub.uni-mainz.de/eas/partitions-inline/2/0/30000/30858/09d5d3552715791f3bb102914f2e6415770b433e/image/png</lido:linkResource>
                   <lido:resourceMeasurementsSet>
                      <lido:measurementType xml:lang="en">width</lido:measurementType>
                      <lido:measurementUnit xml:lang="en">pixel</lido:measurementUnit>
@@ -4475,7 +4475,7 @@ Englisch (Digital Benin): The commemorative head, Uhunmwu Elao, of an Ọba plac
             <lido:resourceSet lido:sortorder="2">
                <lido:resourceID lido:type="http://terminology.lido-schema.org/lido00100">900433.tif</lido:resourceID>
                <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00451">
-                  <lido:linkResource>https://objects.ub.uni-mainz.de/eas/partitions-inline/2/0/30000/30859/b7b63fffdc476aff605ebea84da6ecd767f7b30c/image/png</lido:linkResource>
+                  <lido:linkResource lido:formatResource="png">https://objects.ub.uni-mainz.de/eas/partitions-inline/2/0/30000/30859/b7b63fffdc476aff605ebea84da6ecd767f7b30c/image/png</lido:linkResource>
                   <lido:resourceMeasurementsSet>
                      <lido:measurementType xml:lang="en">width</lido:measurementType>
                      <lido:measurementUnit xml:lang="en">pixel</lido:measurementUnit>
@@ -4917,7 +4917,7 @@ Englisch (Digital Benin): The commemorative head, Uhunmwu Elao, of an Ọba plac
             <lido:resourceSet lido:sortorder="1">
                <lido:resourceID lido:type="http://terminology.lido-schema.org/lido00100">Disclaimer_sacredobjects_JGU.gif</lido:resourceID>
                <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00451">
-                  <lido:linkResource>https://objects.ub.uni-mainz.de/eas/partitions-inline/2/0/33000/33469/cf08006f1adfbd89183d8fd0af3cccb226ddd457/image/png</lido:linkResource>
+                  <lido:linkResource lido:formatResource="png">https://objects.ub.uni-mainz.de/eas/partitions-inline/2/0/33000/33469/cf08006f1adfbd89183d8fd0af3cccb226ddd457/image/png</lido:linkResource>
                   <lido:resourceMeasurementsSet>
                      <lido:measurementType xml:lang="en">width</lido:measurementType>
                      <lido:measurementUnit xml:lang="en">pixel</lido:measurementUnit>

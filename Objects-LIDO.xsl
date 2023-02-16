@@ -715,6 +715,7 @@
             <xsl:element name="lido:resourceRepresentation">
                 <xsl:attribute name="lido:type">http://terminology.lido-schema.org/lido00451</xsl:attribute>
                 <xsl:element name="lido:linkResource">
+                    <xsl:attribute name="lido:formatResource"><xsl:value-of select="easydb:datei/easydb:files/easydb:file/easydb:versions/easydb:version[@name = 'preview']/easydb:extension"/></xsl:attribute>
                     <xsl:value-of
                         select="easydb:datei/easydb:files/easydb:file/easydb:versions/easydb:version[@name = 'preview']/easydb:url"
                     />
