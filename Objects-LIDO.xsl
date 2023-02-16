@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
-    xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:lido="http://www.lido-schema.org"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+    xmlns:lido="http://www.lido-schema.org"
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
     xmlns:easydb="https://schema.easydb.de/EASYDB/1.0/objects/" exclude-result-prefixes="xs"
     version="1.0">
     <xsl:output method="xml" encoding="utf-8" omit-xml-declaration="no" indent="yes"/>
@@ -17,7 +20,7 @@
     <!-- URI-Typ http://terminology.lido-schema.org/lido00099 oder auch URI -->
     <xsl:param name="local" select="'http://terminology.lido-schema.org/lido00100'"/>
     <!-- Local-Typ http://terminology.lido-schema.org/lido00100 oder auch local -->
-    <xsl:param name="preferred" select="'preferred'"/>
+    <xsl:param name="preferred" select="'http://terminology.lido-schema.org/lido00526'"/>
     <!-- Preferred-Typ http://terminology.lido-schema.org/lido00169 oder auch preferred (für DDB) -->
 
     <!-- Der Schlüssel wird zum Deduplizieren der Events innerhalb eines Objekts gebraucht (Muenchscher Algorithmus) -->
@@ -397,6 +400,16 @@
                                 <xsl:attribute name="lido:type">http://terminology.lido-schema.org/lido00113</xsl:attribute> <!-- Inventarnummer (DDB) -->
                                 <xsl:value-of select="easydb:inventarnummer"/>
                             </xsl:element>
+                            <xsl:for-each select="easydb:_nested__objekte__weitere_nummern/easydb:objekte__weitere_nummern">
+                                <xsl:element name="lido:workID">
+                                    <xsl:choose>
+                                        <xsl:when test="easydb:typ/easydb:typ_weitere_nummern/easydb:name='alte Inventarnummer'">
+                                            <xsl:attribute name="lido:type">http://terminology.lido-schema.org/lido00188</xsl:attribute> <!-- alte Inventarnummer (DDB) -->
+                                        </xsl:when>
+                                    </xsl:choose>
+                                    <xsl:value-of select="easydb:nummer"/>
+                                </xsl:element>
+                            </xsl:for-each>
                             <xsl:element name="lido:repositoryLocation">
                                 <xsl:element name="lido:placeID">
                                     <xsl:attribute name="lido:type">
@@ -634,6 +647,21 @@
                         </xsl:element>
                     </xsl:element>
 -->
+                <xsl:element name="lido:collection">
+                    <xsl:element name="lido:object">
+                        <xsl:element name="lido:objectType">
+                            <xsl:element name="skos:Concept">
+                                <xsl:attribute name="rdf:about">http://terminology.lido-schema.org/lido01034</xsl:attribute>
+                                <xsl:element name="skos:prefLabel">
+                                    <xsl:attribute name="xml:lang">en</xsl:attribute>
+                                    <xsl:text>Physical collection</xsl:text></xsl:element>
+                            </xsl:element>
+                        </xsl:element>
+                        <xsl:element name="lido:objectName">
+                            <xsl:element name="lido:appellationValue"><xsl:value-of select="normalize-space(easydb:pool)"/></xsl:element>
+                        </xsl:element>
+                    </xsl:element>
+                </xsl:element>
                 </xsl:element>
                 <xsl:element name="lido:resourceWrap">
                     <xsl:apply-templates
