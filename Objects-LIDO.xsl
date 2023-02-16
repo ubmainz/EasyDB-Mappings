@@ -760,6 +760,12 @@
             </xsl:element>
             <xsl:element name="lido:rightsResource">
                 <xsl:element name="lido:rightsType">
+                    <xsl:attribute name="lido:type">http://terminology.lido-schema.org/lido00921</xsl:attribute>
+                    <xsl:element name="skos:Concept">
+                        <xsl:attribute name="rdf:about"><xsl:value-of select="easydb:lizenz/easydb:lizenzen/easydb:link"/></xsl:attribute>
+                        <xsl:element name="skos:prefLabel">
+                            <xsl:value-of select="easydb:lizenz/easydb:lizenzen/easydb:name/easydb:en-US"/></xsl:element>
+                    </xsl:element>
                     <xsl:element name="lido:conceptID">
                         <xsl:attribute name="lido:type"><xsl:value-of select="$uri"/></xsl:attribute>
                         <xsl:attribute name="lido:source">http://creativecommons.org</xsl:attribute>

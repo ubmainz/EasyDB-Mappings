@@ -429,7 +429,10 @@
                   </lido:date>
                </lido:resourceDateTaken>
                <lido:rightsResource>
-                  <lido:rightsType>
+                  <lido:rightsType lido:type="http://terminology.lido-schema.org/lido00921">
+                     <skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="https://creativecommons.org/licenses/by/4.0/">
+                        <skos:prefLabel>CC BY 4.0</skos:prefLabel>
+                     </skos:Concept>
                      <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://creativecommons.org">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
                      <lido:term>CC BY 4.0</lido:term>
                   </lido:rightsType>
@@ -475,7 +478,10 @@
                   </lido:date>
                </lido:resourceDateTaken>
                <lido:rightsResource>
-                  <lido:rightsType>
+                  <lido:rightsType lido:type="http://terminology.lido-schema.org/lido00921">
+                     <skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="https://creativecommons.org/licenses/by/4.0/">
+                        <skos:prefLabel>CC BY 4.0</skos:prefLabel>
+                     </skos:Concept>
                      <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://creativecommons.org">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
                      <lido:term>CC BY 4.0</lido:term>
                   </lido:rightsType>
@@ -521,7 +527,10 @@
                   </lido:date>
                </lido:resourceDateTaken>
                <lido:rightsResource>
-                  <lido:rightsType>
+                  <lido:rightsType lido:type="http://terminology.lido-schema.org/lido00921">
+                     <skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="https://creativecommons.org/licenses/by/4.0/">
+                        <skos:prefLabel>CC BY 4.0</skos:prefLabel>
+                     </skos:Concept>
                      <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://creativecommons.org">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
                      <lido:term>CC BY 4.0</lido:term>
                   </lido:rightsType>
@@ -929,7 +938,10 @@
                   </lido:date>
                </lido:resourceDateTaken>
                <lido:rightsResource>
-                  <lido:rightsType>
+                  <lido:rightsType lido:type="http://terminology.lido-schema.org/lido00921">
+                     <skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="https://creativecommons.org/licenses/by/4.0/">
+                        <skos:prefLabel>CC BY 4.0</skos:prefLabel>
+                     </skos:Concept>
                      <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://creativecommons.org">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
                      <lido:term>CC BY 4.0</lido:term>
                   </lido:rightsType>
@@ -975,7 +987,10 @@
                   </lido:date>
                </lido:resourceDateTaken>
                <lido:rightsResource>
-                  <lido:rightsType>
+                  <lido:rightsType lido:type="http://terminology.lido-schema.org/lido00921">
+                     <skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="https://creativecommons.org/licenses/by/4.0/">
+                        <skos:prefLabel>CC BY 4.0</skos:prefLabel>
+                     </skos:Concept>
                      <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://creativecommons.org">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
                      <lido:term>CC BY 4.0</lido:term>
                   </lido:rightsType>
@@ -1021,7 +1036,10 @@
                   </lido:date>
                </lido:resourceDateTaken>
                <lido:rightsResource>
-                  <lido:rightsType>
+                  <lido:rightsType lido:type="http://terminology.lido-schema.org/lido00921">
+                     <skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="https://creativecommons.org/licenses/by/4.0/">
+                        <skos:prefLabel>CC BY 4.0</skos:prefLabel>
+                     </skos:Concept>
                      <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://creativecommons.org">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
                      <lido:term>CC BY 4.0</lido:term>
                   </lido:rightsType>
@@ -1067,7 +1085,10 @@
                   </lido:date>
                </lido:resourceDateTaken>
                <lido:rightsResource>
-                  <lido:rightsType>
+                  <lido:rightsType lido:type="http://terminology.lido-schema.org/lido00921">
+                     <skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="https://creativecommons.org/licenses/by/4.0/">
+                        <skos:prefLabel>CC BY 4.0</skos:prefLabel>
+                     </skos:Concept>
                      <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://creativecommons.org">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
                      <lido:term>CC BY 4.0</lido:term>
                   </lido:rightsType>
@@ -1113,7 +1134,10 @@
                   </lido:date>
                </lido:resourceDateTaken>
                <lido:rightsResource>
-                  <lido:rightsType>
+                  <lido:rightsType lido:type="http://terminology.lido-schema.org/lido00921">
+                     <skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="https://creativecommons.org/licenses/by/4.0/">
+                        <skos:prefLabel>CC BY 4.0</skos:prefLabel>
+                     </skos:Concept>
                      <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://creativecommons.org">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
                      <lido:term>CC BY 4.0</lido:term>
                   </lido:rightsType>
@@ -1159,7 +1183,10 @@
                   </lido:date>
                </lido:resourceDateTaken>
                <lido:rightsResource>
-                  <lido:rightsType>
+                  <lido:rightsType lido:type="http://terminology.lido-schema.org/lido00921">
+                     <skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="https://creativecommons.org/licenses/by/4.0/">
+                        <skos:prefLabel>CC BY 4.0</skos:prefLabel>
+                     </skos:Concept>
                      <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://creativecommons.org">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
                      <lido:term>CC BY 4.0</lido:term>
                   </lido:rightsType>
@@ -1580,7 +1607,10 @@ Beschreibung in Inventarliste des Linden-Museum: „1 Kriegsmütze aus Bast e Fe
                   </lido:date>
                </lido:resourceDateTaken>
                <lido:rightsResource>
-                  <lido:rightsType>
+                  <lido:rightsType lido:type="http://terminology.lido-schema.org/lido00921">
+                     <skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="https://creativecommons.org/licenses/by/4.0/">
+                        <skos:prefLabel>CC BY 4.0</skos:prefLabel>
+                     </skos:Concept>
                      <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://creativecommons.org">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
                      <lido:term>CC BY 4.0</lido:term>
                   </lido:rightsType>
@@ -1626,7 +1656,10 @@ Beschreibung in Inventarliste des Linden-Museum: „1 Kriegsmütze aus Bast e Fe
                   </lido:date>
                </lido:resourceDateTaken>
                <lido:rightsResource>
-                  <lido:rightsType>
+                  <lido:rightsType lido:type="http://terminology.lido-schema.org/lido00921">
+                     <skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="https://creativecommons.org/licenses/by/4.0/">
+                        <skos:prefLabel>CC BY 4.0</skos:prefLabel>
+                     </skos:Concept>
                      <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://creativecommons.org">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
                      <lido:term>CC BY 4.0</lido:term>
                   </lido:rightsType>
@@ -1672,7 +1705,10 @@ Beschreibung in Inventarliste des Linden-Museum: „1 Kriegsmütze aus Bast e Fe
                   </lido:date>
                </lido:resourceDateTaken>
                <lido:rightsResource>
-                  <lido:rightsType>
+                  <lido:rightsType lido:type="http://terminology.lido-schema.org/lido00921">
+                     <skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="https://creativecommons.org/licenses/by/4.0/">
+                        <skos:prefLabel>CC BY 4.0</skos:prefLabel>
+                     </skos:Concept>
                      <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://creativecommons.org">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
                      <lido:term>CC BY 4.0</lido:term>
                   </lido:rightsType>
@@ -1718,7 +1754,10 @@ Beschreibung in Inventarliste des Linden-Museum: „1 Kriegsmütze aus Bast e Fe
                   </lido:date>
                </lido:resourceDateTaken>
                <lido:rightsResource>
-                  <lido:rightsType>
+                  <lido:rightsType lido:type="http://terminology.lido-schema.org/lido00921">
+                     <skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="https://creativecommons.org/licenses/by/4.0/">
+                        <skos:prefLabel>CC BY 4.0</skos:prefLabel>
+                     </skos:Concept>
                      <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://creativecommons.org">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
                      <lido:term>CC BY 4.0</lido:term>
                   </lido:rightsType>
@@ -2006,7 +2045,10 @@ Beschreibung in Inventarliste des Linden-Museum: „1 Kriegsmütze aus Bast e Fe
                   </lido:date>
                </lido:resourceDateTaken>
                <lido:rightsResource>
-                  <lido:rightsType>
+                  <lido:rightsType lido:type="http://terminology.lido-schema.org/lido00921">
+                     <skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="https://creativecommons.org/licenses/by/4.0/">
+                        <skos:prefLabel>CC BY 4.0</skos:prefLabel>
+                     </skos:Concept>
                      <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://creativecommons.org">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
                      <lido:term>CC BY 4.0</lido:term>
                   </lido:rightsType>
@@ -2052,7 +2094,10 @@ Beschreibung in Inventarliste des Linden-Museum: „1 Kriegsmütze aus Bast e Fe
                   </lido:date>
                </lido:resourceDateTaken>
                <lido:rightsResource>
-                  <lido:rightsType>
+                  <lido:rightsType lido:type="http://terminology.lido-schema.org/lido00921">
+                     <skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="https://creativecommons.org/licenses/by/4.0/">
+                        <skos:prefLabel>CC BY 4.0</skos:prefLabel>
+                     </skos:Concept>
                      <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://creativecommons.org">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
                      <lido:term>CC BY 4.0</lido:term>
                   </lido:rightsType>
@@ -2098,7 +2143,10 @@ Beschreibung in Inventarliste des Linden-Museum: „1 Kriegsmütze aus Bast e Fe
                   </lido:date>
                </lido:resourceDateTaken>
                <lido:rightsResource>
-                  <lido:rightsType>
+                  <lido:rightsType lido:type="http://terminology.lido-schema.org/lido00921">
+                     <skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="https://creativecommons.org/licenses/by/4.0/">
+                        <skos:prefLabel>CC BY 4.0</skos:prefLabel>
+                     </skos:Concept>
                      <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://creativecommons.org">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
                      <lido:term>CC BY 4.0</lido:term>
                   </lido:rightsType>
@@ -2144,7 +2192,10 @@ Beschreibung in Inventarliste des Linden-Museum: „1 Kriegsmütze aus Bast e Fe
                   </lido:date>
                </lido:resourceDateTaken>
                <lido:rightsResource>
-                  <lido:rightsType>
+                  <lido:rightsType lido:type="http://terminology.lido-schema.org/lido00921">
+                     <skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="https://creativecommons.org/licenses/by/4.0/">
+                        <skos:prefLabel>CC BY 4.0</skos:prefLabel>
+                     </skos:Concept>
                      <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://creativecommons.org">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
                      <lido:term>CC BY 4.0</lido:term>
                   </lido:rightsType>
@@ -2576,7 +2627,10 @@ Beschreibung in Inventarliste des Linden-Museum: „1 Kriegsmütze aus Bast e Fe
                   </lido:date>
                </lido:resourceDateTaken>
                <lido:rightsResource>
-                  <lido:rightsType>
+                  <lido:rightsType lido:type="http://terminology.lido-schema.org/lido00921">
+                     <skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="https://creativecommons.org/licenses/by/4.0/">
+                        <skos:prefLabel>CC BY 4.0</skos:prefLabel>
+                     </skos:Concept>
                      <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://creativecommons.org">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
                      <lido:term>CC BY 4.0</lido:term>
                   </lido:rightsType>
@@ -2622,7 +2676,10 @@ Beschreibung in Inventarliste des Linden-Museum: „1 Kriegsmütze aus Bast e Fe
                   </lido:date>
                </lido:resourceDateTaken>
                <lido:rightsResource>
-                  <lido:rightsType>
+                  <lido:rightsType lido:type="http://terminology.lido-schema.org/lido00921">
+                     <skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="https://creativecommons.org/licenses/by/4.0/">
+                        <skos:prefLabel>CC BY 4.0</skos:prefLabel>
+                     </skos:Concept>
                      <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://creativecommons.org">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
                      <lido:term>CC BY 4.0</lido:term>
                   </lido:rightsType>
@@ -2668,7 +2725,10 @@ Beschreibung in Inventarliste des Linden-Museum: „1 Kriegsmütze aus Bast e Fe
                   </lido:date>
                </lido:resourceDateTaken>
                <lido:rightsResource>
-                  <lido:rightsType>
+                  <lido:rightsType lido:type="http://terminology.lido-schema.org/lido00921">
+                     <skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="https://creativecommons.org/licenses/by/4.0/">
+                        <skos:prefLabel>CC BY 4.0</skos:prefLabel>
+                     </skos:Concept>
                      <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://creativecommons.org">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
                      <lido:term>CC BY 4.0</lido:term>
                   </lido:rightsType>
@@ -2714,7 +2774,10 @@ Beschreibung in Inventarliste des Linden-Museum: „1 Kriegsmütze aus Bast e Fe
                   </lido:date>
                </lido:resourceDateTaken>
                <lido:rightsResource>
-                  <lido:rightsType>
+                  <lido:rightsType lido:type="http://terminology.lido-schema.org/lido00921">
+                     <skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="https://creativecommons.org/licenses/by/4.0/">
+                        <skos:prefLabel>CC BY 4.0</skos:prefLabel>
+                     </skos:Concept>
                      <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://creativecommons.org">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
                      <lido:term>CC BY 4.0</lido:term>
                   </lido:rightsType>
@@ -2760,7 +2823,10 @@ Beschreibung in Inventarliste des Linden-Museum: „1 Kriegsmütze aus Bast e Fe
                   </lido:date>
                </lido:resourceDateTaken>
                <lido:rightsResource>
-                  <lido:rightsType>
+                  <lido:rightsType lido:type="http://terminology.lido-schema.org/lido00921">
+                     <skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="https://creativecommons.org/licenses/by/4.0/">
+                        <skos:prefLabel>CC BY 4.0</skos:prefLabel>
+                     </skos:Concept>
                      <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://creativecommons.org">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
                      <lido:term>CC BY 4.0</lido:term>
                   </lido:rightsType>
@@ -3380,7 +3446,10 @@ Englisch (Digital Benin): The commemorative head, Uhunmwu Elao, of an Ọba plac
                   </lido:date>
                </lido:resourceDateTaken>
                <lido:rightsResource>
-                  <lido:rightsType>
+                  <lido:rightsType lido:type="http://terminology.lido-schema.org/lido00921">
+                     <skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="https://creativecommons.org/licenses/by/4.0/">
+                        <skos:prefLabel>CC BY 4.0</skos:prefLabel>
+                     </skos:Concept>
                      <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://creativecommons.org">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
                      <lido:term>CC BY 4.0</lido:term>
                   </lido:rightsType>
@@ -3426,7 +3495,10 @@ Englisch (Digital Benin): The commemorative head, Uhunmwu Elao, of an Ọba plac
                   </lido:date>
                </lido:resourceDateTaken>
                <lido:rightsResource>
-                  <lido:rightsType>
+                  <lido:rightsType lido:type="http://terminology.lido-schema.org/lido00921">
+                     <skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="https://creativecommons.org/licenses/by/4.0/">
+                        <skos:prefLabel>CC BY 4.0</skos:prefLabel>
+                     </skos:Concept>
                      <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://creativecommons.org">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
                      <lido:term>CC BY 4.0</lido:term>
                   </lido:rightsType>
@@ -3472,7 +3544,10 @@ Englisch (Digital Benin): The commemorative head, Uhunmwu Elao, of an Ọba plac
                   </lido:date>
                </lido:resourceDateTaken>
                <lido:rightsResource>
-                  <lido:rightsType>
+                  <lido:rightsType lido:type="http://terminology.lido-schema.org/lido00921">
+                     <skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="https://creativecommons.org/licenses/by/4.0/">
+                        <skos:prefLabel>CC BY 4.0</skos:prefLabel>
+                     </skos:Concept>
                      <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://creativecommons.org">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
                      <lido:term>CC BY 4.0</lido:term>
                   </lido:rightsType>
@@ -3518,7 +3593,10 @@ Englisch (Digital Benin): The commemorative head, Uhunmwu Elao, of an Ọba plac
                   </lido:date>
                </lido:resourceDateTaken>
                <lido:rightsResource>
-                  <lido:rightsType>
+                  <lido:rightsType lido:type="http://terminology.lido-schema.org/lido00921">
+                     <skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="https://creativecommons.org/licenses/by/4.0/">
+                        <skos:prefLabel>CC BY 4.0</skos:prefLabel>
+                     </skos:Concept>
                      <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://creativecommons.org">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
                      <lido:term>CC BY 4.0</lido:term>
                   </lido:rightsType>
@@ -3564,7 +3642,10 @@ Englisch (Digital Benin): The commemorative head, Uhunmwu Elao, of an Ọba plac
                   </lido:date>
                </lido:resourceDateTaken>
                <lido:rightsResource>
-                  <lido:rightsType>
+                  <lido:rightsType lido:type="http://terminology.lido-schema.org/lido00921">
+                     <skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="https://creativecommons.org/licenses/by/4.0/">
+                        <skos:prefLabel>CC BY 4.0</skos:prefLabel>
+                     </skos:Concept>
                      <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://creativecommons.org">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
                      <lido:term>CC BY 4.0</lido:term>
                   </lido:rightsType>
@@ -3610,7 +3691,10 @@ Englisch (Digital Benin): The commemorative head, Uhunmwu Elao, of an Ọba plac
                   </lido:date>
                </lido:resourceDateTaken>
                <lido:rightsResource>
-                  <lido:rightsType>
+                  <lido:rightsType lido:type="http://terminology.lido-schema.org/lido00921">
+                     <skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="https://creativecommons.org/licenses/by/4.0/">
+                        <skos:prefLabel>CC BY 4.0</skos:prefLabel>
+                     </skos:Concept>
                      <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://creativecommons.org">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
                      <lido:term>CC BY 4.0</lido:term>
                   </lido:rightsType>
@@ -3656,7 +3740,10 @@ Englisch (Digital Benin): The commemorative head, Uhunmwu Elao, of an Ọba plac
                   </lido:date>
                </lido:resourceDateTaken>
                <lido:rightsResource>
-                  <lido:rightsType>
+                  <lido:rightsType lido:type="http://terminology.lido-schema.org/lido00921">
+                     <skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="https://creativecommons.org/licenses/by/4.0/">
+                        <skos:prefLabel>CC BY 4.0</skos:prefLabel>
+                     </skos:Concept>
                      <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://creativecommons.org">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
                      <lido:term>CC BY 4.0</lido:term>
                   </lido:rightsType>
@@ -3995,7 +4082,10 @@ Englisch (Digital Benin): The commemorative head, Uhunmwu Elao, of an Ọba plac
                   </lido:date>
                </lido:resourceDateTaken>
                <lido:rightsResource>
-                  <lido:rightsType>
+                  <lido:rightsType lido:type="http://terminology.lido-schema.org/lido00921">
+                     <skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="https://creativecommons.org/licenses/by/4.0/">
+                        <skos:prefLabel>CC BY 4.0</skos:prefLabel>
+                     </skos:Concept>
                      <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://creativecommons.org">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
                      <lido:term>CC BY 4.0</lido:term>
                   </lido:rightsType>
@@ -4041,7 +4131,10 @@ Englisch (Digital Benin): The commemorative head, Uhunmwu Elao, of an Ọba plac
                   </lido:date>
                </lido:resourceDateTaken>
                <lido:rightsResource>
-                  <lido:rightsType>
+                  <lido:rightsType lido:type="http://terminology.lido-schema.org/lido00921">
+                     <skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="https://creativecommons.org/licenses/by/4.0/">
+                        <skos:prefLabel>CC BY 4.0</skos:prefLabel>
+                     </skos:Concept>
                      <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://creativecommons.org">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
                      <lido:term>CC BY 4.0</lido:term>
                   </lido:rightsType>
@@ -4087,7 +4180,10 @@ Englisch (Digital Benin): The commemorative head, Uhunmwu Elao, of an Ọba plac
                   </lido:date>
                </lido:resourceDateTaken>
                <lido:rightsResource>
-                  <lido:rightsType>
+                  <lido:rightsType lido:type="http://terminology.lido-schema.org/lido00921">
+                     <skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="https://creativecommons.org/licenses/by/4.0/">
+                        <skos:prefLabel>CC BY 4.0</skos:prefLabel>
+                     </skos:Concept>
                      <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://creativecommons.org">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
                      <lido:term>CC BY 4.0</lido:term>
                   </lido:rightsType>
@@ -4133,7 +4229,10 @@ Englisch (Digital Benin): The commemorative head, Uhunmwu Elao, of an Ọba plac
                   </lido:date>
                </lido:resourceDateTaken>
                <lido:rightsResource>
-                  <lido:rightsType>
+                  <lido:rightsType lido:type="http://terminology.lido-schema.org/lido00921">
+                     <skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="https://creativecommons.org/licenses/by/4.0/">
+                        <skos:prefLabel>CC BY 4.0</skos:prefLabel>
+                     </skos:Concept>
                      <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://creativecommons.org">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
                      <lido:term>CC BY 4.0</lido:term>
                   </lido:rightsType>
@@ -4465,7 +4564,10 @@ Englisch (Digital Benin): The commemorative head, Uhunmwu Elao, of an Ọba plac
                   </lido:date>
                </lido:resourceDateTaken>
                <lido:rightsResource>
-                  <lido:rightsType>
+                  <lido:rightsType lido:type="http://terminology.lido-schema.org/lido00921">
+                     <skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="https://creativecommons.org/licenses/by/4.0/">
+                        <skos:prefLabel>CC BY 4.0</skos:prefLabel>
+                     </skos:Concept>
                      <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://creativecommons.org">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
                      <lido:term>CC BY 4.0</lido:term>
                   </lido:rightsType>
@@ -4511,7 +4613,10 @@ Englisch (Digital Benin): The commemorative head, Uhunmwu Elao, of an Ọba plac
                   </lido:date>
                </lido:resourceDateTaken>
                <lido:rightsResource>
-                  <lido:rightsType>
+                  <lido:rightsType lido:type="http://terminology.lido-schema.org/lido00921">
+                     <skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="https://creativecommons.org/licenses/by/4.0/">
+                        <skos:prefLabel>CC BY 4.0</skos:prefLabel>
+                     </skos:Concept>
                      <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://creativecommons.org">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
                      <lido:term>CC BY 4.0</lido:term>
                   </lido:rightsType>
@@ -4953,7 +5058,10 @@ Englisch (Digital Benin): The commemorative head, Uhunmwu Elao, of an Ọba plac
                   </lido:date>
                </lido:resourceDateTaken>
                <lido:rightsResource>
-                  <lido:rightsType>
+                  <lido:rightsType lido:type="http://terminology.lido-schema.org/lido00921">
+                     <skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="https://creativecommons.org/publicdomain/zero/1.0/">
+                        <skos:prefLabel>CC-0</skos:prefLabel>
+                     </skos:Concept>
                      <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://creativecommons.org">https://creativecommons.org/publicdomain/zero/1.0/</lido:conceptID>
                      <lido:term>CC-0</lido:term>
                   </lido:rightsType>
