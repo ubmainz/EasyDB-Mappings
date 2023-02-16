@@ -394,7 +394,7 @@
                                 </xsl:element>
                             </xsl:element>
                             <xsl:element name="lido:workID">
-                                <xsl:attribute name="lido:type">Inventarnummer</xsl:attribute> <!-- DDB -->
+                                <xsl:attribute name="lido:type">http://terminology.lido-schema.org/lido00113</xsl:attribute> <!-- Inventarnummer (DDB) -->
                                 <xsl:value-of select="easydb:inventarnummer"/>
                             </xsl:element>
                             <xsl:element name="lido:repositoryLocation">
@@ -404,17 +404,13 @@
                                     </xsl:attribute>
                                     <xsl:attribute name="lido:source"
                                         >http://sws.geonames.org</xsl:attribute>
-                                    <xsl:value-of
-                                        select="easydb:_nested__objekte__standorte/easydb:objekte__standorte/easydb:standort/easydb:standorte/easydb:custom[@name = 'geonames_id']/easydb:string[@name = 'conceptURI']"
-                                    />
+                                    <xsl:text>http://www.geonames.org/6554818></xsl:text>
                                 </xsl:element>
                                 <xsl:element name="lido:namePlaceSet">
                                     <xsl:element name="lido:appellationValue">
                                         <xsl:attribute name="lido:pref"
                                             ><xsl:value-of select="$preferred"/></xsl:attribute>
-                                        <xsl:value-of
-                                            select="easydb:_nested__objekte__standorte/easydb:objekte__standorte/easydb:standort/easydb:standorte/easydb:custom[@name = 'geonames_id']/easydb:object/easydb:string"
-                                        />
+                                        <xsl:text>Mainz</xsl:text>
                                     </xsl:element>
                                 </xsl:element>
                             </xsl:element>
