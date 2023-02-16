@@ -20,8 +20,6 @@
     <!-- URI-Typ http://terminology.lido-schema.org/lido00099 oder auch URI -->
     <xsl:param name="local" select="'http://terminology.lido-schema.org/lido00100'"/>
     <!-- Local-Typ http://terminology.lido-schema.org/lido00100 oder auch local -->
-    <xsl:param name="preferred" select="'http://terminology.lido-schema.org/lido00526'"/>
-    <!-- Preferred-Typ http://terminology.lido-schema.org/lido00169 oder auch preferred (für DDB) -->
 
     <!-- Der Schlüssel wird zum Deduplizieren der Events innerhalb eines Objekts gebraucht (Muenchscher Algorithmus) -->
     <xsl:key name="events" match="easydb:ubmz_event_id"
@@ -180,8 +178,7 @@
                             </xsl:if>
                             <xsl:element name="lido:nameActorSet">
                                 <xsl:element name="lido:appellationValue">
-                                    <xsl:attribute name="lido:pref"
-                                        ><xsl:value-of select="$preferred"/></xsl:attribute>
+                                    <xsl:attribute name="lido:pref">http://terminology.lido-schema.org/lido00169</xsl:attribute>
                                     <xsl:value-of select="$pk_node/easydb:name"/>
                                 </xsl:element>
                             </xsl:element>
@@ -259,8 +256,7 @@
                 </xsl:if>
                 <xsl:element name="lido:namePlaceSet">
                     <xsl:element name="lido:appellationValue">
-                        <xsl:attribute name="lido:pref"
-                            ><xsl:value-of select="$preferred"/></xsl:attribute>
+                        <xsl:attribute name="lido:pref">http://terminology.lido-schema.org/lido00169</xsl:attribute>
                         <xsl:value-of select="$o_node/easydb:name"/>
                     </xsl:element>
                 </xsl:element>
@@ -326,8 +322,7 @@
                                         />
                                     </xsl:element>
                                     <xsl:element name="lido:term">
-                                        <xsl:attribute name="lido:pref"
-                                            ><xsl:value-of select="$preferred"/></xsl:attribute>
+                                        <xsl:attribute name="lido:pref">http://terminology.lido-schema.org/lido00526</xsl:attribute>
                                         <xsl:value-of
                                             select="easydb:custom[(@name = 'objektbezeichnung') and (@type = 'custom:base.custom-data-type-gnd.gnd')]/easydb:string[@name = 'conceptName']"
                                         />
@@ -427,8 +422,7 @@
                                 </xsl:element>
                                 <xsl:element name="lido:namePlaceSet">
                                     <xsl:element name="lido:appellationValue">
-                                        <xsl:attribute name="lido:pref"
-                                            ><xsl:value-of select="$preferred"/></xsl:attribute>
+                                        <xsl:attribute name="lido:pref">http://terminology.lido-schema.org/lido00169</xsl:attribute>
                                         <xsl:text>Mainz</xsl:text>
                                     </xsl:element>
                                 </xsl:element>

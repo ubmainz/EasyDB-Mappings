@@ -42,7 +42,7 @@
                   <lido:repositoryLocation>
                      <lido:placeID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://sws.geonames.org">http://www.geonames.org/6554818&gt;</lido:placeID>
                      <lido:namePlaceSet>
-                        <lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00526">Mainz</lido:appellationValue>
+                        <lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00169">Mainz</lido:appellationValue>
                      </lido:namePlaceSet>
                   </lido:repositoryLocation>
                </lido:repositorySet>
@@ -129,7 +129,7 @@
                      <lido:place>
                         <lido:placeID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://sws.geonames.org">http://www.geonames.org/2221102</lido:placeID>
                         <lido:namePlaceSet>
-                           <lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00526">Fossong-Wentscheng</lido:appellationValue>
+                           <lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00169">Fossong-Wentscheng</lido:appellationValue>
                         </lido:namePlaceSet>
                         <lido:partOfPlace>
                            <lido:namePlaceSet>
@@ -170,7 +170,7 @@
                         <lido:actor>
                            <lido:actorID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://d-nb.info/gnd">https://d-nb.info/gnd/1162085029</lido:actorID>
                            <lido:nameActorSet>
-                              <lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00526">Diehl, Adolf (1870 - 1943)</lido:appellationValue>
+                              <lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00169">Diehl, Adolf (1870 - 1943)</lido:appellationValue>
                            </lido:nameActorSet>
                         </lido:actor>
                         <lido:roleActor>
@@ -191,7 +191,7 @@
                      <lido:place>
                         <lido:placeID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://sws.geonames.org">http://www.geonames.org/2233387</lido:placeID>
                         <lido:namePlaceSet>
-                           <lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00526">Kamerun</lido:appellationValue>
+                           <lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00169">Kamerun</lido:appellationValue>
                         </lido:namePlaceSet>
                         <lido:partOfPlace>
                            <lido:namePlaceSet>
@@ -225,7 +225,7 @@
                         <lido:actor>
                            <lido:actorID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://d-nb.info/gnd">https://d-nb.info/gnd/1048946-0</lido:actorID>
                            <lido:nameActorSet>
-                              <lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00526">Linden-Museum Stuttgart</lido:appellationValue>
+                              <lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00169">Linden-Museum Stuttgart</lido:appellationValue>
                            </lido:nameActorSet>
                         </lido:actor>
                         <lido:roleActor>
@@ -246,7 +246,7 @@
                      <lido:place>
                         <lido:placeID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://sws.geonames.org">http://www.geonames.org/3214105</lido:placeID>
                         <lido:namePlaceSet>
-                           <lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00526">Stuttgart</lido:appellationValue>
+                           <lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00169">Stuttgart</lido:appellationValue>
                         </lido:namePlaceSet>
                         <lido:partOfPlace>
                            <lido:namePlaceSet>
@@ -280,7 +280,7 @@
                         <lido:actor>
                            <lido:actorID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://d-nb.info/gnd">https://d-nb.info/gnd/1048946-0</lido:actorID>
                            <lido:nameActorSet>
-                              <lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00526">Linden-Museum Stuttgart</lido:appellationValue>
+                              <lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00169">Linden-Museum Stuttgart</lido:appellationValue>
                            </lido:nameActorSet>
                         </lido:actor>
                         <lido:roleActor>
@@ -301,7 +301,7 @@
                      <lido:place>
                         <lido:placeID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://sws.geonames.org">http://www.geonames.org/3214105</lido:placeID>
                         <lido:namePlaceSet>
-                           <lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00526">Stuttgart</lido:appellationValue>
+                           <lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00169">Stuttgart</lido:appellationValue>
                         </lido:namePlaceSet>
                         <lido:partOfPlace>
                            <lido:namePlaceSet>
@@ -553,7 +553,7 @@
                   <lido:repositoryLocation>
                      <lido:placeID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://sws.geonames.org">http://www.geonames.org/6554818&gt;</lido:placeID>
                      <lido:namePlaceSet>
-                        <lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00526">Mainz</lido:appellationValue>
+                        <lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00169">Mainz</lido:appellationValue>
                      </lido:namePlaceSet>
                   </lido:repositoryLocation>
                </lido:repositorySet>
@@ -586,7 +586,7 @@
                      <lido:place>
                         <lido:placeID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://sws.geonames.org">http://www.geonames.org/2223602</lido:placeID>
                         <lido:namePlaceSet>
-                           <lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00526">Region Nordwesten</lido:appellationValue>
+                           <lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00169">Region Nordwesten</lido:appellationValue>
                         </lido:namePlaceSet>
                         <lido:partOfPlace>
                            <lido:namePlaceSet>
@@ -654,7 +654,7 @@
                         <lido:actor>
                            <lido:actorID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://d-nb.info/gnd">https://d-nb.info/gnd/124119808</lido:actorID>
                            <lido:nameActorSet>
-                              <lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00526">Esser, Max (1866 - 1943)</lido:appellationValue>
+                              <lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00169">Esser, Max (1866 - 1943)</lido:appellationValue>
                            </lido:nameActorSet>
                         </lido:actor>
                         <lido:roleActor>
@@ -675,7 +675,7 @@
                      <lido:place>
                         <lido:placeID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://sws.geonames.org">http://www.geonames.org/2233387</lido:placeID>
                         <lido:namePlaceSet>
-                           <lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00526">Kamerun</lido:appellationValue>
+                           <lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00169">Kamerun</lido:appellationValue>
                         </lido:namePlaceSet>
                         <lido:partOfPlace>
                            <lido:namePlaceSet>
@@ -709,7 +709,7 @@
                         <lido:actor>
                            <lido:actorID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://d-nb.info/gnd">https://d-nb.info/gnd/1048946-0</lido:actorID>
                            <lido:nameActorSet>
-                              <lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00526">Linden-Museum Stuttgart</lido:appellationValue>
+                              <lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00169">Linden-Museum Stuttgart</lido:appellationValue>
                            </lido:nameActorSet>
                         </lido:actor>
                         <lido:roleActor>
@@ -730,7 +730,7 @@
                      <lido:place>
                         <lido:placeID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://sws.geonames.org">http://www.geonames.org/3214105</lido:placeID>
                         <lido:namePlaceSet>
-                           <lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00526">Stuttgart</lido:appellationValue>
+                           <lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00169">Stuttgart</lido:appellationValue>
                         </lido:namePlaceSet>
                         <lido:partOfPlace>
                            <lido:namePlaceSet>
@@ -764,7 +764,7 @@
                         <lido:actor>
                            <lido:actorID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://d-nb.info/gnd">https://d-nb.info/gnd/1048946-0</lido:actorID>
                            <lido:nameActorSet>
-                              <lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00526">Linden-Museum Stuttgart</lido:appellationValue>
+                              <lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00169">Linden-Museum Stuttgart</lido:appellationValue>
                            </lido:nameActorSet>
                         </lido:actor>
                         <lido:roleActor>
@@ -785,7 +785,7 @@
                      <lido:place>
                         <lido:placeID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://sws.geonames.org">http://www.geonames.org/3214105</lido:placeID>
                         <lido:namePlaceSet>
-                           <lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00526">Stuttgart</lido:appellationValue>
+                           <lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00169">Stuttgart</lido:appellationValue>
                         </lido:namePlaceSet>
                         <lido:partOfPlace>
                            <lido:namePlaceSet>
@@ -1173,7 +1173,7 @@
                   <lido:repositoryLocation>
                      <lido:placeID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://sws.geonames.org">http://www.geonames.org/6554818&gt;</lido:placeID>
                      <lido:namePlaceSet>
-                        <lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00526">Mainz</lido:appellationValue>
+                        <lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00169">Mainz</lido:appellationValue>
                      </lido:namePlaceSet>
                   </lido:repositoryLocation>
                </lido:repositorySet>
@@ -1205,7 +1205,7 @@ Beschreibung in Inventarliste des Linden-Museum: „1 Kriegsmütze aus Bast e Fe
                      <lido:actorInRole>
                         <lido:actor>
                            <lido:nameActorSet>
-                              <lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00526">uns nicht bekannt</lido:appellationValue>
+                              <lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00169">uns nicht bekannt</lido:appellationValue>
                            </lido:nameActorSet>
                         </lido:actor>
                         <lido:roleActor>
@@ -1236,7 +1236,7 @@ Beschreibung in Inventarliste des Linden-Museum: „1 Kriegsmütze aus Bast e Fe
                      <lido:place>
                         <lido:placeID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://sws.geonames.org">http://www.geonames.org/2233387</lido:placeID>
                         <lido:namePlaceSet>
-                           <lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00526">Kamerun</lido:appellationValue>
+                           <lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00169">Kamerun</lido:appellationValue>
                         </lido:namePlaceSet>
                         <lido:partOfPlace>
                            <lido:namePlaceSet>
@@ -1291,7 +1291,7 @@ Beschreibung in Inventarliste des Linden-Museum: „1 Kriegsmütze aus Bast e Fe
                         <lido:actor>
                            <lido:actorID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://d-nb.info/gnd">https://d-nb.info/gnd/143578243</lido:actorID>
                            <lido:nameActorSet>
-                              <lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00526">Haberer, Karl Albert (1864 - 1941)</lido:appellationValue>
+                              <lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00169">Haberer, Karl Albert (1864 - 1941)</lido:appellationValue>
                            </lido:nameActorSet>
                         </lido:actor>
                         <lido:roleActor>
@@ -1310,7 +1310,7 @@ Beschreibung in Inventarliste des Linden-Museum: „1 Kriegsmütze aus Bast e Fe
                      <lido:place>
                         <lido:placeID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://sws.geonames.org">http://www.geonames.org/2233387</lido:placeID>
                         <lido:namePlaceSet>
-                           <lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00526">Kamerun</lido:appellationValue>
+                           <lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00169">Kamerun</lido:appellationValue>
                         </lido:namePlaceSet>
                         <lido:partOfPlace>
                            <lido:namePlaceSet>
@@ -1344,7 +1344,7 @@ Beschreibung in Inventarliste des Linden-Museum: „1 Kriegsmütze aus Bast e Fe
                         <lido:actor>
                            <lido:actorID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://d-nb.info/gnd">https://d-nb.info/gnd/1048946-0</lido:actorID>
                            <lido:nameActorSet>
-                              <lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00526">Linden-Museum Stuttgart</lido:appellationValue>
+                              <lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00169">Linden-Museum Stuttgart</lido:appellationValue>
                            </lido:nameActorSet>
                         </lido:actor>
                         <lido:roleActor>
@@ -1365,7 +1365,7 @@ Beschreibung in Inventarliste des Linden-Museum: „1 Kriegsmütze aus Bast e Fe
                      <lido:place>
                         <lido:placeID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://sws.geonames.org">http://www.geonames.org/3214105</lido:placeID>
                         <lido:namePlaceSet>
-                           <lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00526">Stuttgart</lido:appellationValue>
+                           <lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00169">Stuttgart</lido:appellationValue>
                         </lido:namePlaceSet>
                         <lido:partOfPlace>
                            <lido:namePlaceSet>
@@ -1399,7 +1399,7 @@ Beschreibung in Inventarliste des Linden-Museum: „1 Kriegsmütze aus Bast e Fe
                         <lido:actor>
                            <lido:actorID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://d-nb.info/gnd">https://d-nb.info/gnd/1048946-0</lido:actorID>
                            <lido:nameActorSet>
-                              <lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00526">Linden-Museum Stuttgart</lido:appellationValue>
+                              <lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00169">Linden-Museum Stuttgart</lido:appellationValue>
                            </lido:nameActorSet>
                         </lido:actor>
                         <lido:roleActor>
@@ -1420,7 +1420,7 @@ Beschreibung in Inventarliste des Linden-Museum: „1 Kriegsmütze aus Bast e Fe
                      <lido:place>
                         <lido:placeID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://sws.geonames.org">http://www.geonames.org/3214105</lido:placeID>
                         <lido:namePlaceSet>
-                           <lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00526">Stuttgart</lido:appellationValue>
+                           <lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00169">Stuttgart</lido:appellationValue>
                         </lido:namePlaceSet>
                         <lido:partOfPlace>
                            <lido:namePlaceSet>
@@ -1711,7 +1711,7 @@ Beschreibung in Inventarliste des Linden-Museum: „1 Kriegsmütze aus Bast e Fe
                   <lido:repositoryLocation>
                      <lido:placeID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://sws.geonames.org">http://www.geonames.org/6554818&gt;</lido:placeID>
                      <lido:namePlaceSet>
-                        <lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00526">Mainz</lido:appellationValue>
+                        <lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00169">Mainz</lido:appellationValue>
                      </lido:namePlaceSet>
                   </lido:repositoryLocation>
                </lido:repositorySet>
@@ -1743,7 +1743,7 @@ Beschreibung in Inventarliste des Linden-Museum: „1 Kriegsmütze aus Bast e Fe
                         <lido:actor>
                            <lido:actorID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://d-nb.info/gnd">https://d-nb.info/gnd/1127659715</lido:actorID>
                            <lido:nameActorSet>
-                              <lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00526">Wahnes, Carl Johann Friedrich (1833 - 1910)</lido:appellationValue>
+                              <lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00169">Wahnes, Carl Johann Friedrich (1833 - 1910)</lido:appellationValue>
                            </lido:nameActorSet>
                         </lido:actor>
                         <lido:roleActor>
@@ -1764,7 +1764,7 @@ Beschreibung in Inventarliste des Linden-Museum: „1 Kriegsmütze aus Bast e Fe
                      <lido:place>
                         <lido:placeID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://sws.geonames.org">http://www.geonames.org/2089693</lido:placeID>
                         <lido:namePlaceSet>
-                           <lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00526">Papua-Neuguinea, Neu-Irland</lido:appellationValue>
+                           <lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00169">Papua-Neuguinea, Neu-Irland</lido:appellationValue>
                         </lido:namePlaceSet>
                         <lido:partOfPlace>
                            <lido:namePlaceSet>
@@ -1807,7 +1807,7 @@ Beschreibung in Inventarliste des Linden-Museum: „1 Kriegsmütze aus Bast e Fe
                      <lido:actorInRole>
                         <lido:actor>
                            <lido:nameActorSet>
-                              <lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00526">Schneider, Edith</lido:appellationValue>
+                              <lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00169">Schneider, Edith</lido:appellationValue>
                            </lido:nameActorSet>
                         </lido:actor>
                         <lido:roleActor>
@@ -1827,7 +1827,7 @@ Beschreibung in Inventarliste des Linden-Museum: „1 Kriegsmütze aus Bast e Fe
                   <lido:eventPlace>
                      <lido:place>
                         <lido:namePlaceSet>
-                           <lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00526">Mainz</lido:appellationValue>
+                           <lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00169">Mainz</lido:appellationValue>
                         </lido:namePlaceSet>
                         <lido:partOfPlace>
                            <lido:namePlaceSet>
@@ -2120,7 +2120,7 @@ Beschreibung in Inventarliste des Linden-Museum: „1 Kriegsmütze aus Bast e Fe
                   <lido:repositoryLocation>
                      <lido:placeID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://sws.geonames.org">http://www.geonames.org/6554818&gt;</lido:placeID>
                      <lido:namePlaceSet>
-                        <lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00526">Mainz</lido:appellationValue>
+                        <lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00169">Mainz</lido:appellationValue>
                      </lido:namePlaceSet>
                   </lido:repositoryLocation>
                </lido:repositorySet>
@@ -2151,7 +2151,7 @@ Beschreibung in Inventarliste des Linden-Museum: „1 Kriegsmütze aus Bast e Fe
                      <lido:actorInRole>
                         <lido:actor>
                            <lido:nameActorSet>
-                              <lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00526">uns nicht bekannt</lido:appellationValue>
+                              <lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00169">uns nicht bekannt</lido:appellationValue>
                            </lido:nameActorSet>
                         </lido:actor>
                         <lido:roleActor>
@@ -2173,7 +2173,7 @@ Beschreibung in Inventarliste des Linden-Museum: „1 Kriegsmütze aus Bast e Fe
                      <lido:place>
                         <lido:placeID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://sws.geonames.org">http://www.geonames.org/2145234</lido:placeID>
                         <lido:namePlaceSet>
-                           <lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00526">Victoria</lido:appellationValue>
+                           <lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00169">Victoria</lido:appellationValue>
                         </lido:namePlaceSet>
                         <lido:partOfPlace>
                            <lido:namePlaceSet>
@@ -2217,7 +2217,7 @@ Beschreibung in Inventarliste des Linden-Museum: „1 Kriegsmütze aus Bast e Fe
                      <lido:actorInRole>
                         <lido:actor>
                            <lido:nameActorSet>
-                              <lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00526">Ethnografika-Händler*innen</lido:appellationValue>
+                              <lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00169">Ethnografika-Händler*innen</lido:appellationValue>
                            </lido:nameActorSet>
                         </lido:actor>
                         <lido:roleActor>
@@ -2238,7 +2238,7 @@ Beschreibung in Inventarliste des Linden-Museum: „1 Kriegsmütze aus Bast e Fe
                      <lido:place>
                         <lido:placeID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://sws.geonames.org">http://www.geonames.org/2077456</lido:placeID>
                         <lido:namePlaceSet>
-                           <lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00526">Australien</lido:appellationValue>
+                           <lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00169">Australien</lido:appellationValue>
                         </lido:namePlaceSet>
                      </lido:place>
                   </lido:eventPlace>
@@ -2261,7 +2261,7 @@ Beschreibung in Inventarliste des Linden-Museum: „1 Kriegsmütze aus Bast e Fe
                      <lido:actorInRole>
                         <lido:actor>
                            <lido:nameActorSet>
-                              <lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00526">Waldthausen, Emma Caroline Helene von</lido:appellationValue>
+                              <lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00169">Waldthausen, Emma Caroline Helene von</lido:appellationValue>
                            </lido:nameActorSet>
                         </lido:actor>
                         <lido:roleActor>
@@ -2282,7 +2282,7 @@ Beschreibung in Inventarliste des Linden-Museum: „1 Kriegsmütze aus Bast e Fe
                      <lido:place>
                         <lido:placeID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://sws.geonames.org">http://www.geonames.org/2921044</lido:placeID>
                         <lido:namePlaceSet>
-                           <lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00526">Deutschland</lido:appellationValue>
+                           <lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00169">Deutschland</lido:appellationValue>
                         </lido:namePlaceSet>
                      </lido:place>
                   </lido:eventPlace>
@@ -2302,7 +2302,7 @@ Beschreibung in Inventarliste des Linden-Museum: „1 Kriegsmütze aus Bast e Fe
                      <lido:actorInRole>
                         <lido:actor>
                            <lido:nameActorSet>
-                              <lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00526">Waldthausen, Emma Caroline Helene von</lido:appellationValue>
+                              <lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00169">Waldthausen, Emma Caroline Helene von</lido:appellationValue>
                            </lido:nameActorSet>
                         </lido:actor>
                         <lido:roleActor>
@@ -2323,7 +2323,7 @@ Beschreibung in Inventarliste des Linden-Museum: „1 Kriegsmütze aus Bast e Fe
                      <lido:place>
                         <lido:placeID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://sws.geonames.org">http://www.geonames.org/3214105</lido:placeID>
                         <lido:namePlaceSet>
-                           <lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00526">Stuttgart</lido:appellationValue>
+                           <lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00169">Stuttgart</lido:appellationValue>
                         </lido:namePlaceSet>
                         <lido:partOfPlace>
                            <lido:namePlaceSet>
@@ -2357,7 +2357,7 @@ Beschreibung in Inventarliste des Linden-Museum: „1 Kriegsmütze aus Bast e Fe
                         <lido:actor>
                            <lido:actorID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://d-nb.info/gnd">https://d-nb.info/gnd/1048946-0</lido:actorID>
                            <lido:nameActorSet>
-                              <lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00526">Linden-Museum Stuttgart</lido:appellationValue>
+                              <lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00169">Linden-Museum Stuttgart</lido:appellationValue>
                            </lido:nameActorSet>
                         </lido:actor>
                         <lido:roleActor>
@@ -2378,7 +2378,7 @@ Beschreibung in Inventarliste des Linden-Museum: „1 Kriegsmütze aus Bast e Fe
                      <lido:place>
                         <lido:placeID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://sws.geonames.org">http://www.geonames.org/3214105</lido:placeID>
                         <lido:namePlaceSet>
-                           <lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00526">Stuttgart</lido:appellationValue>
+                           <lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00169">Stuttgart</lido:appellationValue>
                         </lido:namePlaceSet>
                         <lido:partOfPlace>
                            <lido:namePlaceSet>
@@ -2717,7 +2717,7 @@ Beschreibung in Inventarliste des Linden-Museum: „1 Kriegsmütze aus Bast e Fe
                   <lido:repositoryLocation>
                      <lido:placeID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://sws.geonames.org">http://www.geonames.org/6554818&gt;</lido:placeID>
                      <lido:namePlaceSet>
-                        <lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00526">Mainz</lido:appellationValue>
+                        <lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00169">Mainz</lido:appellationValue>
                      </lido:namePlaceSet>
                   </lido:repositoryLocation>
                </lido:repositorySet>
@@ -2759,7 +2759,7 @@ Englisch (Digital Benin): The commemorative head, Uhunmwu Elao, of an Ọba plac
                      <lido:actorInRole>
                         <lido:actor>
                            <lido:nameActorSet>
-                              <lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00526">uns nicht bekannt</lido:appellationValue>
+                              <lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00169">uns nicht bekannt</lido:appellationValue>
                            </lido:nameActorSet>
                         </lido:actor>
                         <lido:roleActor>
@@ -2781,7 +2781,7 @@ Englisch (Digital Benin): The commemorative head, Uhunmwu Elao, of an Ọba plac
                      <lido:place>
                         <lido:placeID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://sws.geonames.org">http://www.geonames.org/2347282</lido:placeID>
                         <lido:namePlaceSet>
-                           <lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00526">Benin City</lido:appellationValue>
+                           <lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00169">Benin City</lido:appellationValue>
                         </lido:namePlaceSet>
                         <lido:partOfPlace>
                            <lido:namePlaceSet>
@@ -2849,7 +2849,7 @@ Englisch (Digital Benin): The commemorative head, Uhunmwu Elao, of an Ọba plac
                      <lido:place>
                         <lido:placeID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://sws.geonames.org">http://www.geonames.org/2347282</lido:placeID>
                         <lido:namePlaceSet>
-                           <lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00526">Benin City</lido:appellationValue>
+                           <lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00169">Benin City</lido:appellationValue>
                         </lido:namePlaceSet>
                         <lido:partOfPlace>
                            <lido:namePlaceSet>
@@ -2891,7 +2891,7 @@ Englisch (Digital Benin): The commemorative head, Uhunmwu Elao, of an Ọba plac
                      <lido:actorInRole>
                         <lido:actor>
                            <lido:nameActorSet>
-                              <lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00526">Britische Kolonialtruppen</lido:appellationValue>
+                              <lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00169">Britische Kolonialtruppen</lido:appellationValue>
                            </lido:nameActorSet>
                         </lido:actor>
                         <lido:roleActor>
@@ -2910,7 +2910,7 @@ Englisch (Digital Benin): The commemorative head, Uhunmwu Elao, of an Ọba plac
                      <lido:place>
                         <lido:placeID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://sws.geonames.org">http://www.geonames.org/2347282</lido:placeID>
                         <lido:namePlaceSet>
-                           <lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00526">Benin City</lido:appellationValue>
+                           <lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00169">Benin City</lido:appellationValue>
                         </lido:namePlaceSet>
                         <lido:partOfPlace>
                            <lido:namePlaceSet>
@@ -2956,7 +2956,7 @@ Englisch (Digital Benin): The commemorative head, Uhunmwu Elao, of an Ọba plac
                      <lido:actorInRole>
                         <lido:actor>
                            <lido:nameActorSet>
-                              <lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00526">Schmidt, Eduard (1895-1899)</lido:appellationValue>
+                              <lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00169">Schmidt, Eduard (1895-1899)</lido:appellationValue>
                            </lido:nameActorSet>
                         </lido:actor>
                         <lido:roleActor>
@@ -2976,7 +2976,7 @@ Englisch (Digital Benin): The commemorative head, Uhunmwu Elao, of an Ọba plac
                   <lido:eventPlace>
                      <lido:place>
                         <lido:namePlaceSet>
-                           <lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00526">Lagos</lido:appellationValue>
+                           <lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00169">Lagos</lido:appellationValue>
                         </lido:namePlaceSet>
                         <lido:partOfPlace>
                            <lido:namePlaceSet>
@@ -3015,7 +3015,7 @@ Englisch (Digital Benin): The commemorative head, Uhunmwu Elao, of an Ọba plac
                         <lido:actor>
                            <lido:actorID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://d-nb.info/gnd">https://d-nb.info/gnd/117645036</lido:actorID>
                            <lido:nameActorSet>
-                              <lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00526">Schoeller, Max (1865 - 1943)</lido:appellationValue>
+                              <lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00169">Schoeller, Max (1865 - 1943)</lido:appellationValue>
                            </lido:nameActorSet>
                         </lido:actor>
                         <lido:roleActor>
@@ -3036,7 +3036,7 @@ Englisch (Digital Benin): The commemorative head, Uhunmwu Elao, of an Ọba plac
                      <lido:place>
                         <lido:placeID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://sws.geonames.org">http://www.geonames.org/2950157</lido:placeID>
                         <lido:namePlaceSet>
-                           <lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00526">Berlin</lido:appellationValue>
+                           <lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00169">Berlin</lido:appellationValue>
                         </lido:namePlaceSet>
                         <lido:partOfPlace>
                            <lido:namePlaceSet>
@@ -3062,7 +3062,7 @@ Englisch (Digital Benin): The commemorative head, Uhunmwu Elao, of an Ọba plac
                         <lido:actor>
                            <lido:actorID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://d-nb.info/gnd">https://d-nb.info/gnd/117645036</lido:actorID>
                            <lido:nameActorSet>
-                              <lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00526">Schoeller, Max (1865 - 1943)</lido:appellationValue>
+                              <lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00169">Schoeller, Max (1865 - 1943)</lido:appellationValue>
                            </lido:nameActorSet>
                         </lido:actor>
                         <lido:roleActor>
@@ -3078,7 +3078,7 @@ Englisch (Digital Benin): The commemorative head, Uhunmwu Elao, of an Ọba plac
                         <lido:actor>
                            <lido:actorID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://d-nb.info/gnd">https://d-nb.info/gnd/1048946-0</lido:actorID>
                            <lido:nameActorSet>
-                              <lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00526">Linden-Museum Stuttgart</lido:appellationValue>
+                              <lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00169">Linden-Museum Stuttgart</lido:appellationValue>
                            </lido:nameActorSet>
                         </lido:actor>
                         <lido:roleActor>
@@ -3099,7 +3099,7 @@ Englisch (Digital Benin): The commemorative head, Uhunmwu Elao, of an Ọba plac
                      <lido:place>
                         <lido:placeID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://sws.geonames.org">http://www.geonames.org/3214105</lido:placeID>
                         <lido:namePlaceSet>
-                           <lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00526">Stuttgart</lido:appellationValue>
+                           <lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00169">Stuttgart</lido:appellationValue>
                         </lido:namePlaceSet>
                         <lido:partOfPlace>
                            <lido:namePlaceSet>
@@ -3133,7 +3133,7 @@ Englisch (Digital Benin): The commemorative head, Uhunmwu Elao, of an Ọba plac
                         <lido:actor>
                            <lido:actorID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://d-nb.info/gnd">https://d-nb.info/gnd/1048946-0</lido:actorID>
                            <lido:nameActorSet>
-                              <lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00526">Linden-Museum Stuttgart</lido:appellationValue>
+                              <lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00169">Linden-Museum Stuttgart</lido:appellationValue>
                            </lido:nameActorSet>
                         </lido:actor>
                         <lido:roleActor>
@@ -3154,7 +3154,7 @@ Englisch (Digital Benin): The commemorative head, Uhunmwu Elao, of an Ọba plac
                      <lido:place>
                         <lido:placeID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://sws.geonames.org">http://www.geonames.org/3214105</lido:placeID>
                         <lido:namePlaceSet>
-                           <lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00526">Stuttgart</lido:appellationValue>
+                           <lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00169">Stuttgart</lido:appellationValue>
                         </lido:namePlaceSet>
                         <lido:partOfPlace>
                            <lido:namePlaceSet>
@@ -3593,7 +3593,7 @@ Englisch (Digital Benin): The commemorative head, Uhunmwu Elao, of an Ọba plac
                   <lido:repositoryLocation>
                      <lido:placeID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://sws.geonames.org">http://www.geonames.org/6554818&gt;</lido:placeID>
                      <lido:namePlaceSet>
-                        <lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00526">Mainz</lido:appellationValue>
+                        <lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00169">Mainz</lido:appellationValue>
                      </lido:namePlaceSet>
                   </lido:repositoryLocation>
                </lido:repositorySet>
@@ -3622,7 +3622,7 @@ Englisch (Digital Benin): The commemorative head, Uhunmwu Elao, of an Ọba plac
                   <lido:eventPlace>
                      <lido:place>
                         <lido:namePlaceSet>
-                           <lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00526">Insel Siar</lido:appellationValue>
+                           <lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00169">Insel Siar</lido:appellationValue>
                         </lido:namePlaceSet>
                         <lido:partOfPlace>
                            <lido:namePlaceSet>
@@ -3693,7 +3693,7 @@ Englisch (Digital Benin): The commemorative head, Uhunmwu Elao, of an Ọba plac
                      <lido:actorInRole>
                         <lido:actor>
                            <lido:nameActorSet>
-                              <lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00526">Bergmann, Karoline</lido:appellationValue>
+                              <lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00169">Bergmann, Karoline</lido:appellationValue>
                            </lido:nameActorSet>
                         </lido:actor>
                         <lido:roleActor>
@@ -3713,7 +3713,7 @@ Englisch (Digital Benin): The commemorative head, Uhunmwu Elao, of an Ọba plac
                   <lido:eventPlace>
                      <lido:place>
                         <lido:namePlaceSet>
-                           <lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00526">Papua-Neuguinea</lido:appellationValue>
+                           <lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00169">Papua-Neuguinea</lido:appellationValue>
                         </lido:namePlaceSet>
                         <lido:partOfPlace>
                            <lido:namePlaceSet>
@@ -3756,7 +3756,7 @@ Englisch (Digital Benin): The commemorative head, Uhunmwu Elao, of an Ọba plac
                      <lido:actorInRole>
                         <lido:actor>
                            <lido:nameActorSet>
-                              <lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00526">Bergmann, Karoline</lido:appellationValue>
+                              <lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00169">Bergmann, Karoline</lido:appellationValue>
                            </lido:nameActorSet>
                         </lido:actor>
                         <lido:roleActor>
@@ -4051,7 +4051,7 @@ Englisch (Digital Benin): The commemorative head, Uhunmwu Elao, of an Ọba plac
                   <lido:repositoryLocation>
                      <lido:placeID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://sws.geonames.org">http://www.geonames.org/6554818&gt;</lido:placeID>
                      <lido:namePlaceSet>
-                        <lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00526">Mainz</lido:appellationValue>
+                        <lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00169">Mainz</lido:appellationValue>
                      </lido:namePlaceSet>
                   </lido:repositoryLocation>
                </lido:repositorySet>
@@ -4093,7 +4093,7 @@ Englisch (Digital Benin): The commemorative head, Uhunmwu Elao, of an Ọba plac
                   <lido:eventPlace>
                      <lido:place>
                         <lido:namePlaceSet>
-                           <lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00526">Bondongo-Losombo</lido:appellationValue>
+                           <lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00169">Bondongo-Losombo</lido:appellationValue>
                         </lido:namePlaceSet>
                         <lido:partOfPlace>
                            <lido:namePlaceSet>
@@ -4144,7 +4144,7 @@ Englisch (Digital Benin): The commemorative head, Uhunmwu Elao, of an Ọba plac
                         <lido:actor>
                            <lido:actorID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://d-nb.info/gnd">http://d-nb.info/gnd/119073137</lido:actorID>
                            <lido:nameActorSet>
-                              <lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00526">Sulzmann, Erika (1911-1989)</lido:appellationValue>
+                              <lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00169">Sulzmann, Erika (1911-1989)</lido:appellationValue>
                            </lido:nameActorSet>
                         </lido:actor>
                         <lido:roleActor>
@@ -4165,7 +4165,7 @@ Englisch (Digital Benin): The commemorative head, Uhunmwu Elao, of an Ọba plac
                      <lido:place>
                         <lido:placeID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://sws.geonames.org">http://www.geonames.org/2315374</lido:placeID>
                         <lido:namePlaceSet>
-                           <lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00526">Isangí</lido:appellationValue>
+                           <lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00169">Isangí</lido:appellationValue>
                         </lido:namePlaceSet>
                         <lido:partOfPlace>
                            <lido:namePlaceSet>
@@ -4208,7 +4208,7 @@ Englisch (Digital Benin): The commemorative head, Uhunmwu Elao, of an Ọba plac
                   <lido:eventPlace>
                      <lido:place>
                         <lido:namePlaceSet>
-                           <lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00526">Bondongo-Losombo</lido:appellationValue>
+                           <lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00169">Bondongo-Losombo</lido:appellationValue>
                         </lido:namePlaceSet>
                         <lido:partOfPlace>
                            <lido:namePlaceSet>
@@ -4410,7 +4410,7 @@ Englisch (Digital Benin): The commemorative head, Uhunmwu Elao, of an Ọba plac
                   <lido:repositoryLocation>
                      <lido:placeID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://sws.geonames.org">http://www.geonames.org/6554818&gt;</lido:placeID>
                      <lido:namePlaceSet>
-                        <lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00526">Mainz</lido:appellationValue>
+                        <lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00169">Mainz</lido:appellationValue>
                      </lido:namePlaceSet>
                   </lido:repositoryLocation>
                </lido:repositorySet>
@@ -4456,7 +4456,7 @@ Englisch (Digital Benin): The commemorative head, Uhunmwu Elao, of an Ọba plac
                      <lido:place>
                         <lido:placeID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://sws.geonames.org">http://www.geonames.org/2064513</lido:placeID>
                         <lido:namePlaceSet>
-                           <lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00526">Northern Territory</lido:appellationValue>
+                           <lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00169">Northern Territory</lido:appellationValue>
                         </lido:namePlaceSet>
                         <lido:partOfPlace>
                            <lido:namePlaceSet>
@@ -4523,7 +4523,7 @@ Englisch (Digital Benin): The commemorative head, Uhunmwu Elao, of an Ọba plac
                         <lido:actor>
                            <lido:actorID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://d-nb.info/gnd">https://d-nb.info/gnd/102168474</lido:actorID>
                            <lido:nameActorSet>
-                              <lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00526">Strehlow, Carl Friedrich Theodor (1871 - 1922)</lido:appellationValue>
+                              <lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00169">Strehlow, Carl Friedrich Theodor (1871 - 1922)</lido:appellationValue>
                            </lido:nameActorSet>
                         </lido:actor>
                         <lido:roleActor>
@@ -4544,7 +4544,7 @@ Englisch (Digital Benin): The commemorative head, Uhunmwu Elao, of an Ọba plac
                      <lido:place>
                         <lido:placeID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://sws.geonames.org">http://www.geonames.org/2064513</lido:placeID>
                         <lido:namePlaceSet>
-                           <lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00526">Northern Territory</lido:appellationValue>
+                           <lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00169">Northern Territory</lido:appellationValue>
                         </lido:namePlaceSet>
                         <lido:partOfPlace>
                            <lido:namePlaceSet>
@@ -4573,7 +4573,7 @@ Englisch (Digital Benin): The commemorative head, Uhunmwu Elao, of an Ọba plac
                         <lido:actor>
                            <lido:actorID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://d-nb.info/gnd">https://d-nb.info/gnd/12751841X</lido:actorID>
                            <lido:nameActorSet>
-                              <lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00526">Leonhardi, Freiherr Moritz von (1856 - 1910)</lido:appellationValue>
+                              <lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00169">Leonhardi, Freiherr Moritz von (1856 - 1910)</lido:appellationValue>
                            </lido:nameActorSet>
                         </lido:actor>
                         <lido:roleActor>
@@ -4603,7 +4603,7 @@ Englisch (Digital Benin): The commemorative head, Uhunmwu Elao, of an Ọba plac
                         <lido:actor>
                            <lido:actorID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://d-nb.info/gnd">https://d-nb.info/gnd/1048946-0</lido:actorID>
                            <lido:nameActorSet>
-                              <lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00526">Linden-Museum Stuttgart</lido:appellationValue>
+                              <lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00169">Linden-Museum Stuttgart</lido:appellationValue>
                            </lido:nameActorSet>
                         </lido:actor>
                         <lido:roleActor>
@@ -4624,7 +4624,7 @@ Englisch (Digital Benin): The commemorative head, Uhunmwu Elao, of an Ọba plac
                      <lido:place>
                         <lido:placeID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://sws.geonames.org">http://www.geonames.org/3214105</lido:placeID>
                         <lido:namePlaceSet>
-                           <lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00526">Stuttgart</lido:appellationValue>
+                           <lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00169">Stuttgart</lido:appellationValue>
                         </lido:namePlaceSet>
                         <lido:partOfPlace>
                            <lido:namePlaceSet>
@@ -4658,7 +4658,7 @@ Englisch (Digital Benin): The commemorative head, Uhunmwu Elao, of an Ọba plac
                         <lido:actor>
                            <lido:actorID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://d-nb.info/gnd">https://d-nb.info/gnd/1048946-0</lido:actorID>
                            <lido:nameActorSet>
-                              <lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00526">Linden-Museum Stuttgart</lido:appellationValue>
+                              <lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00169">Linden-Museum Stuttgart</lido:appellationValue>
                            </lido:nameActorSet>
                         </lido:actor>
                         <lido:roleActor>
@@ -4679,7 +4679,7 @@ Englisch (Digital Benin): The commemorative head, Uhunmwu Elao, of an Ọba plac
                      <lido:place>
                         <lido:placeID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://sws.geonames.org">http://www.geonames.org/3214105</lido:placeID>
                         <lido:namePlaceSet>
-                           <lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00526">Stuttgart</lido:appellationValue>
+                           <lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00169">Stuttgart</lido:appellationValue>
                         </lido:namePlaceSet>
                         <lido:partOfPlace>
                            <lido:namePlaceSet>
