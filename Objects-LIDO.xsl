@@ -309,6 +309,12 @@
                             <xsl:choose>
                                 <xsl:when
                                     test="easydb:custom[(@name = 'objektbezeichnung') and (@type = 'custom:base.custom-data-type-gnd.gnd')]/easydb:string[@name = 'conceptName']/text()">
+                                    <xsl:element name="skos:Concept">
+                                        <xsl:attribute name="rdf:about"><xsl:value-of
+                                            select="easydb:custom[(@name = 'objektbezeichnung_aat')]/easydb:string[@name = 'conceptURI']"/></xsl:attribute>
+                                        <xsl:element name="skos:prefLabel"><xsl:value-of
+                                            select="easydb:custom[(@name = 'objektbezeichnung_aat')]/easydb:string[@name = 'conceptName']"/></xsl:element>
+                                    </xsl:element>
                                     <xsl:element name="lido:conceptID">
                                         <xsl:attribute name="lido:type">
                                             <xsl:value-of select="$uri"/>

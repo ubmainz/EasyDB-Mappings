@@ -7,6 +7,9 @@
          <lido:objectClassificationWrap>
             <lido:objectWorkTypeWrap>
                <lido:objectWorkType>
+                  <skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://vocab.getty.edu/aat/300379317">
+                     <skos:prefLabel>dance masks</skos:prefLabel>
+                  </skos:Concept>
                   <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="https://d-nb.info/gnd">https://d-nb.info/gnd/4312433-1</lido:conceptID>
                   <lido:term lido:pref="http://terminology.lido-schema.org/lido00526">Tanzmaske</lido:term>
                </lido:objectWorkType>
@@ -516,6 +519,9 @@
          <lido:objectClassificationWrap>
             <lido:objectWorkTypeWrap>
                <lido:objectWorkType>
+                  <skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://vocab.getty.edu/aat/300046001">
+                     <skos:prefLabel>necklaces</skos:prefLabel>
+                  </skos:Concept>
                   <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="https://d-nb.info/gnd">https://d-nb.info/gnd/4023083-1</lido:conceptID>
                   <lido:term lido:pref="http://terminology.lido-schema.org/lido00526">Halskette</lido:term>
                </lido:objectWorkType>
@@ -1132,6 +1138,9 @@
          <lido:objectClassificationWrap>
             <lido:objectWorkTypeWrap>
                <lido:objectWorkType>
+                  <skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://vocab.getty.edu/aat/300046094">
+                     <skos:prefLabel>caps (headgear)</skos:prefLabel>
+                  </skos:Concept>
                   <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="https://d-nb.info/gnd">https://d-nb.info/gnd/4463019-0</lido:conceptID>
                   <lido:term lido:pref="http://terminology.lido-schema.org/lido00526">Mütze</lido:term>
                </lido:objectWorkType>
@@ -1669,6 +1678,9 @@ Beschreibung in Inventarliste des Linden-Museum: „1 Kriegsmütze aus Bast e Fe
          <lido:objectClassificationWrap>
             <lido:objectWorkTypeWrap>
                <lido:objectWorkType>
+                  <skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://vocab.getty.edu/aat/300209286">
+                     <skos:prefLabel>jewelry</skos:prefLabel>
+                  </skos:Concept>
                   <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="https://d-nb.info/gnd">https://d-nb.info/gnd/4052945-9</lido:conceptID>
                   <lido:term lido:pref="http://terminology.lido-schema.org/lido00526">Schmuck</lido:term>
                </lido:objectWorkType>
@@ -2073,6 +2085,9 @@ Beschreibung in Inventarliste des Linden-Museum: „1 Kriegsmütze aus Bast e Fe
          <lido:objectClassificationWrap>
             <lido:objectWorkTypeWrap>
                <lido:objectWorkType>
+                  <skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://vocab.getty.edu/aat/300036869">
+                     <skos:prefLabel>shields (armor)</skos:prefLabel>
+                  </skos:Concept>
                   <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="https://d-nb.info/gnd">https://d-nb.info/gnd/4179600-7</lido:conceptID>
                   <lido:term lido:pref="http://terminology.lido-schema.org/lido00526">Schild</lido:term>
                </lido:objectWorkType>
@@ -2667,6 +2682,9 @@ Beschreibung in Inventarliste des Linden-Museum: „1 Kriegsmütze aus Bast e Fe
          <lido:objectClassificationWrap>
             <lido:objectWorkTypeWrap>
                <lido:objectWorkType>
+                  <skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://vocab.getty.edu/aat/300047090">
+                     <skos:prefLabel>sculpture (visual works)</skos:prefLabel>
+                  </skos:Concept>
                   <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="https://d-nb.info/gnd">https://d-nb.info/gnd/4046277-8</lido:conceptID>
                   <lido:term lido:pref="http://terminology.lido-schema.org/lido00526">Plastik</lido:term>
                </lido:objectWorkType>
@@ -3541,6 +3559,9 @@ Englisch (Digital Benin): The commemorative head, Uhunmwu Elao, of an Ọba plac
          <lido:objectClassificationWrap>
             <lido:objectWorkTypeWrap>
                <lido:objectWorkType>
+                  <skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://vocab.getty.edu/aat/300209286">
+                     <skos:prefLabel>jewelry</skos:prefLabel>
+                  </skos:Concept>
                   <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="https://d-nb.info/gnd">https://d-nb.info/gnd/4052945-9</lido:conceptID>
                   <lido:term lido:pref="http://terminology.lido-schema.org/lido00526">Schmuck</lido:term>
                </lido:objectWorkType>
@@ -3996,6 +4017,9 @@ Englisch (Digital Benin): The commemorative head, Uhunmwu Elao, of an Ọba plac
          <lido:objectClassificationWrap>
             <lido:objectWorkTypeWrap>
                <lido:objectWorkType>
+                  <skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://vocab.getty.edu/aat/300045697">
+                     <skos:prefLabel>pots (containers)</skos:prefLabel>
+                  </skos:Concept>
                   <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="https://d-nb.info/gnd">https://d-nb.info/gnd/4581588-4</lido:conceptID>
                   <lido:term lido:pref="http://terminology.lido-schema.org/lido00526">Topf</lido:term>
                </lido:objectWorkType>
@@ -4352,6 +4376,9 @@ Englisch (Digital Benin): The commemorative head, Uhunmwu Elao, of an Ọba plac
          <lido:objectClassificationWrap>
             <lido:objectWorkTypeWrap>
                <lido:objectWorkType>
+                  <skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://vocab.getty.edu/aat/300312158">
+                     <skos:prefLabel>ritual objects</skos:prefLabel>
+                  </skos:Concept>
                   <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="https://d-nb.info/gnd">https://d-nb.info/gnd/4747843-3</lido:conceptID>
                   <lido:term lido:pref="http://terminology.lido-schema.org/lido00526">Heiliger Gegenstand</lido:term>
                </lido:objectWorkType>
