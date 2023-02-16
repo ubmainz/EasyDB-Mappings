@@ -659,21 +659,37 @@
                         </xsl:element>
                     </xsl:element>
 -->
-                <xsl:element name="lido:collection">
-                    <xsl:element name="lido:object">
-                        <xsl:element name="lido:objectType">
-                            <xsl:element name="skos:Concept">
-                                <xsl:attribute name="rdf:about">http://terminology.lido-schema.org/lido01034</xsl:attribute>
-                                <xsl:element name="skos:prefLabel">
-                                    <xsl:attribute name="xml:lang">en</xsl:attribute>
-                                    <xsl:text>Physical collection</xsl:text></xsl:element>
+                    <xsl:element name="lido:collection">
+                        <xsl:element name="lido:object">
+                            <xsl:element name="lido:objectType">
+                                <xsl:element name="skos:Concept">
+                                    <xsl:attribute name="rdf:about">http://terminology.lido-schema.org/lido01034</xsl:attribute>
+                                    <xsl:element name="skos:prefLabel">
+                                        <xsl:attribute name="xml:lang">en</xsl:attribute>
+                                        <xsl:text>Physical collection</xsl:text></xsl:element>
+                                </xsl:element>
+                            </xsl:element>
+                            <xsl:element name="lido:objectName">
+                                <xsl:element name="lido:appellationValue"><xsl:value-of select="normalize-space(easydb:pool)"/></xsl:element>
                             </xsl:element>
                         </xsl:element>
-                        <xsl:element name="lido:objectName">
-                            <xsl:element name="lido:appellationValue"><xsl:value-of select="normalize-space(easydb:pool)"/></xsl:element>
+                    </xsl:element>
+                    <xsl:element name="lido:collection">
+                        <xsl:element name="lido:object">
+                            <xsl:element name="lido:objectWebResource">https://ccc.deutsche-digitale-bibliothek.de/</xsl:element>
+                            <xsl:element name="lido:objectType">
+                                <xsl:element name="skos:Concept">
+                                    <xsl:attribute name="rdf:about">http://terminology.lido-schema.org/lido01055</xsl:attribute>
+                                    <xsl:element name="skos:prefLabel">
+                                        <xsl:attribute name="xml:lang">en</xsl:attribute>
+                                        <xsl:text>Online collection</xsl:text></xsl:element>
+                                </xsl:element>
+                            </xsl:element>
+                            <xsl:element name="lido:objectName">
+                                <xsl:element name="lido:appellationValue">Collections from Colonial Contexts</xsl:element>
+                            </xsl:element>
                         </xsl:element>
                     </xsl:element>
-                </xsl:element>
                 </xsl:element>
                 <xsl:element name="lido:resourceWrap">
                     <xsl:apply-templates

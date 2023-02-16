@@ -375,6 +375,19 @@
                   </lido:objectName>
                </lido:object>
             </lido:collection>
+            <lido:collection>
+               <lido:object>
+                  <lido:objectWebResource>https://ccc.deutsche-digitale-bibliothek.de/</lido:objectWebResource>
+                  <lido:objectType>
+                     <skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://terminology.lido-schema.org/lido01055">
+                        <skos:prefLabel xml:lang="en">Online collection</skos:prefLabel>
+                     </skos:Concept>
+                  </lido:objectType>
+                  <lido:objectName>
+                     <lido:appellationValue>Collections from Colonial Contexts</lido:appellationValue>
+                  </lido:objectName>
+               </lido:object>
+            </lido:collection>
          </lido:recordWrap>
          <lido:resourceWrap>
             <lido:resourceSet lido:sortorder="1">
@@ -859,6 +872,19 @@
                   </lido:objectType>
                   <lido:objectName>
                      <lido:appellationValue>Ethnografische Studiensammlung</lido:appellationValue>
+                  </lido:objectName>
+               </lido:object>
+            </lido:collection>
+            <lido:collection>
+               <lido:object>
+                  <lido:objectWebResource>https://ccc.deutsche-digitale-bibliothek.de/</lido:objectWebResource>
+                  <lido:objectType>
+                     <skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://terminology.lido-schema.org/lido01055">
+                        <skos:prefLabel xml:lang="en">Online collection</skos:prefLabel>
+                     </skos:Concept>
+                  </lido:objectType>
+                  <lido:objectName>
+                     <lido:appellationValue>Collections from Colonial Contexts</lido:appellationValue>
                   </lido:objectName>
                </lido:object>
             </lido:collection>
@@ -1500,6 +1526,19 @@ Beschreibung in Inventarliste des Linden-Museum: „1 Kriegsmütze aus Bast e Fe
                   </lido:objectName>
                </lido:object>
             </lido:collection>
+            <lido:collection>
+               <lido:object>
+                  <lido:objectWebResource>https://ccc.deutsche-digitale-bibliothek.de/</lido:objectWebResource>
+                  <lido:objectType>
+                     <skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://terminology.lido-schema.org/lido01055">
+                        <skos:prefLabel xml:lang="en">Online collection</skos:prefLabel>
+                     </skos:Concept>
+                  </lido:objectType>
+                  <lido:objectName>
+                     <lido:appellationValue>Collections from Colonial Contexts</lido:appellationValue>
+                  </lido:objectName>
+               </lido:object>
+            </lido:collection>
          </lido:recordWrap>
          <lido:resourceWrap>
             <lido:resourceSet lido:sortorder="1">
@@ -1910,6 +1949,19 @@ Beschreibung in Inventarliste des Linden-Museum: „1 Kriegsmütze aus Bast e Fe
                   </lido:objectType>
                   <lido:objectName>
                      <lido:appellationValue>Ethnografische Studiensammlung</lido:appellationValue>
+                  </lido:objectName>
+               </lido:object>
+            </lido:collection>
+            <lido:collection>
+               <lido:object>
+                  <lido:objectWebResource>https://ccc.deutsche-digitale-bibliothek.de/</lido:objectWebResource>
+                  <lido:objectType>
+                     <skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://terminology.lido-schema.org/lido01055">
+                        <skos:prefLabel xml:lang="en">Online collection</skos:prefLabel>
+                     </skos:Concept>
+                  </lido:objectType>
+                  <lido:objectName>
+                     <lido:appellationValue>Collections from Colonial Contexts</lido:appellationValue>
                   </lido:objectName>
                </lido:object>
             </lido:collection>
@@ -2467,6 +2519,19 @@ Beschreibung in Inventarliste des Linden-Museum: „1 Kriegsmütze aus Bast e Fe
                   </lido:objectType>
                   <lido:objectName>
                      <lido:appellationValue>Ethnografische Studiensammlung</lido:appellationValue>
+                  </lido:objectName>
+               </lido:object>
+            </lido:collection>
+            <lido:collection>
+               <lido:object>
+                  <lido:objectWebResource>https://ccc.deutsche-digitale-bibliothek.de/</lido:objectWebResource>
+                  <lido:objectType>
+                     <skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://terminology.lido-schema.org/lido01055">
+                        <skos:prefLabel xml:lang="en">Online collection</skos:prefLabel>
+                     </skos:Concept>
+                  </lido:objectType>
+                  <lido:objectName>
+                     <lido:appellationValue>Collections from Colonial Contexts</lido:appellationValue>
                   </lido:objectName>
                </lido:object>
             </lido:collection>
@@ -3261,6 +3326,19 @@ Englisch (Digital Benin): The commemorative head, Uhunmwu Elao, of an Ọba plac
                   </lido:objectName>
                </lido:object>
             </lido:collection>
+            <lido:collection>
+               <lido:object>
+                  <lido:objectWebResource>https://ccc.deutsche-digitale-bibliothek.de/</lido:objectWebResource>
+                  <lido:objectType>
+                     <skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://terminology.lido-schema.org/lido01055">
+                        <skos:prefLabel xml:lang="en">Online collection</skos:prefLabel>
+                     </skos:Concept>
+                  </lido:objectType>
+                  <lido:objectName>
+                     <lido:appellationValue>Collections from Colonial Contexts</lido:appellationValue>
+                  </lido:objectName>
+               </lido:object>
+            </lido:collection>
          </lido:recordWrap>
          <lido:resourceWrap>
             <lido:resourceSet lido:sortorder="1">
@@ -3863,6 +3941,19 @@ Englisch (Digital Benin): The commemorative head, Uhunmwu Elao, of an Ọba plac
                   </lido:objectName>
                </lido:object>
             </lido:collection>
+            <lido:collection>
+               <lido:object>
+                  <lido:objectWebResource>https://ccc.deutsche-digitale-bibliothek.de/</lido:objectWebResource>
+                  <lido:objectType>
+                     <skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://terminology.lido-schema.org/lido01055">
+                        <skos:prefLabel xml:lang="en">Online collection</skos:prefLabel>
+                     </skos:Concept>
+                  </lido:objectType>
+                  <lido:objectName>
+                     <lido:appellationValue>Collections from Colonial Contexts</lido:appellationValue>
+                  </lido:objectName>
+               </lido:object>
+            </lido:collection>
          </lido:recordWrap>
          <lido:resourceWrap>
             <lido:resourceSet lido:sortorder="1">
@@ -4317,6 +4408,19 @@ Englisch (Digital Benin): The commemorative head, Uhunmwu Elao, of an Ọba plac
                   </lido:objectType>
                   <lido:objectName>
                      <lido:appellationValue>Ethnografische Studiensammlung</lido:appellationValue>
+                  </lido:objectName>
+               </lido:object>
+            </lido:collection>
+            <lido:collection>
+               <lido:object>
+                  <lido:objectWebResource>https://ccc.deutsche-digitale-bibliothek.de/</lido:objectWebResource>
+                  <lido:objectType>
+                     <skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://terminology.lido-schema.org/lido01055">
+                        <skos:prefLabel xml:lang="en">Online collection</skos:prefLabel>
+                     </skos:Concept>
+                  </lido:objectType>
+                  <lido:objectName>
+                     <lido:appellationValue>Collections from Colonial Contexts</lido:appellationValue>
                   </lido:objectName>
                </lido:object>
             </lido:collection>
@@ -4792,6 +4896,19 @@ Englisch (Digital Benin): The commemorative head, Uhunmwu Elao, of an Ọba plac
                   </lido:objectType>
                   <lido:objectName>
                      <lido:appellationValue>Ethnografische Studiensammlung</lido:appellationValue>
+                  </lido:objectName>
+               </lido:object>
+            </lido:collection>
+            <lido:collection>
+               <lido:object>
+                  <lido:objectWebResource>https://ccc.deutsche-digitale-bibliothek.de/</lido:objectWebResource>
+                  <lido:objectType>
+                     <skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://terminology.lido-schema.org/lido01055">
+                        <skos:prefLabel xml:lang="en">Online collection</skos:prefLabel>
+                     </skos:Concept>
+                  </lido:objectType>
+                  <lido:objectName>
+                     <lido:appellationValue>Collections from Colonial Contexts</lido:appellationValue>
                   </lido:objectName>
                </lido:object>
             </lido:collection>
