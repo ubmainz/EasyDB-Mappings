@@ -339,6 +339,9 @@
          <lido:recordWrap>
             <lido:recordID lido:type="http://terminology.lido-schema.org/lido00100">22044</lido:recordID>
             <lido:recordType>
+               <skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://terminology.lido-schema.org/lido00141">
+                  <skos:prefLabel xml:lang="en">Item-level record</skos:prefLabel>
+               </skos:Concept>
                <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://terminology.lido-schema.org/lido00141</lido:conceptID>
                <lido:term xml:lang="de">Einzelobjekt</lido:term>
                <lido:term xml:lang="en">item</lido:term>
@@ -352,7 +355,10 @@
                <lido:legalBodyWeblink>https://www.ub.uni-mainz.de/de/universitaetssammlungen</lido:legalBodyWeblink>
             </lido:recordSource>
             <lido:recordRights>
-               <lido:rightsType>
+               <lido:rightsType lido:type="http://terminology.lido-schema.org/lido00921">
+                  <skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+                     <skos:prefLabel>CC0 1.0</skos:prefLabel>
+                  </skos:Concept>
                   <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://creativecommons.org">http://creativecommons.org/publicdomain/zero/1.0/</lido:conceptID>
                   <lido:term>CC0 1.0</lido:term>
                </lido:rightsType>
@@ -820,6 +826,9 @@
          <lido:recordWrap>
             <lido:recordID lido:type="http://terminology.lido-schema.org/lido00100">22975</lido:recordID>
             <lido:recordType>
+               <skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://terminology.lido-schema.org/lido00141">
+                  <skos:prefLabel xml:lang="en">Item-level record</skos:prefLabel>
+               </skos:Concept>
                <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://terminology.lido-schema.org/lido00141</lido:conceptID>
                <lido:term xml:lang="de">Einzelobjekt</lido:term>
                <lido:term xml:lang="en">item</lido:term>
@@ -833,7 +842,10 @@
                <lido:legalBodyWeblink>https://www.ub.uni-mainz.de/de/universitaetssammlungen</lido:legalBodyWeblink>
             </lido:recordSource>
             <lido:recordRights>
-               <lido:rightsType>
+               <lido:rightsType lido:type="http://terminology.lido-schema.org/lido00921">
+                  <skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+                     <skos:prefLabel>CC0 1.0</skos:prefLabel>
+                  </skos:Concept>
                   <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://creativecommons.org">http://creativecommons.org/publicdomain/zero/1.0/</lido:conceptID>
                   <lido:term>CC0 1.0</lido:term>
                </lido:rightsType>
@@ -1452,6 +1464,9 @@ Beschreibung in Inventarliste des Linden-Museum: „1 Kriegsmütze aus Bast e Fe
          <lido:recordWrap>
             <lido:recordID lido:type="http://terminology.lido-schema.org/lido00100">23116</lido:recordID>
             <lido:recordType>
+               <skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://terminology.lido-schema.org/lido00141">
+                  <skos:prefLabel xml:lang="en">Item-level record</skos:prefLabel>
+               </skos:Concept>
                <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://terminology.lido-schema.org/lido00141</lido:conceptID>
                <lido:term xml:lang="de">Einzelobjekt</lido:term>
                <lido:term xml:lang="en">item</lido:term>
@@ -1465,7 +1480,10 @@ Beschreibung in Inventarliste des Linden-Museum: „1 Kriegsmütze aus Bast e Fe
                <lido:legalBodyWeblink>https://www.ub.uni-mainz.de/de/universitaetssammlungen</lido:legalBodyWeblink>
             </lido:recordSource>
             <lido:recordRights>
-               <lido:rightsType>
+               <lido:rightsType lido:type="http://terminology.lido-schema.org/lido00921">
+                  <skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+                     <skos:prefLabel>CC0 1.0</skos:prefLabel>
+                  </skos:Concept>
                   <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://creativecommons.org">http://creativecommons.org/publicdomain/zero/1.0/</lido:conceptID>
                   <lido:term>CC0 1.0</lido:term>
                </lido:rightsType>
@@ -1859,6 +1877,9 @@ Beschreibung in Inventarliste des Linden-Museum: „1 Kriegsmütze aus Bast e Fe
          <lido:recordWrap>
             <lido:recordID lido:type="http://terminology.lido-schema.org/lido00100">23937</lido:recordID>
             <lido:recordType>
+               <skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://terminology.lido-schema.org/lido00141">
+                  <skos:prefLabel xml:lang="en">Item-level record</skos:prefLabel>
+               </skos:Concept>
                <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://terminology.lido-schema.org/lido00141</lido:conceptID>
                <lido:term xml:lang="de">Einzelobjekt</lido:term>
                <lido:term xml:lang="en">item</lido:term>
@@ -1872,7 +1893,10 @@ Beschreibung in Inventarliste des Linden-Museum: „1 Kriegsmütze aus Bast e Fe
                <lido:legalBodyWeblink>https://www.ub.uni-mainz.de/de/universitaetssammlungen</lido:legalBodyWeblink>
             </lido:recordSource>
             <lido:recordRights>
-               <lido:rightsType>
+               <lido:rightsType lido:type="http://terminology.lido-schema.org/lido00921">
+                  <skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+                     <skos:prefLabel>CC0 1.0</skos:prefLabel>
+                  </skos:Concept>
                   <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://creativecommons.org">http://creativecommons.org/publicdomain/zero/1.0/</lido:conceptID>
                   <lido:term>CC0 1.0</lido:term>
                </lido:rightsType>
@@ -2410,6 +2434,9 @@ Beschreibung in Inventarliste des Linden-Museum: „1 Kriegsmütze aus Bast e Fe
          <lido:recordWrap>
             <lido:recordID lido:type="http://terminology.lido-schema.org/lido00100">23964</lido:recordID>
             <lido:recordType>
+               <skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://terminology.lido-schema.org/lido00141">
+                  <skos:prefLabel xml:lang="en">Item-level record</skos:prefLabel>
+               </skos:Concept>
                <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://terminology.lido-schema.org/lido00141</lido:conceptID>
                <lido:term xml:lang="de">Einzelobjekt</lido:term>
                <lido:term xml:lang="en">item</lido:term>
@@ -2423,7 +2450,10 @@ Beschreibung in Inventarliste des Linden-Museum: „1 Kriegsmütze aus Bast e Fe
                <lido:legalBodyWeblink>https://www.ub.uni-mainz.de/de/universitaetssammlungen</lido:legalBodyWeblink>
             </lido:recordSource>
             <lido:recordRights>
-               <lido:rightsType>
+               <lido:rightsType lido:type="http://terminology.lido-schema.org/lido00921">
+                  <skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+                     <skos:prefLabel>CC0 1.0</skos:prefLabel>
+                  </skos:Concept>
                   <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://creativecommons.org">http://creativecommons.org/publicdomain/zero/1.0/</lido:conceptID>
                   <lido:term>CC0 1.0</lido:term>
                </lido:rightsType>
@@ -3195,6 +3225,9 @@ Englisch (Digital Benin): The commemorative head, Uhunmwu Elao, of an Ọba plac
          <lido:recordWrap>
             <lido:recordID lido:type="http://terminology.lido-schema.org/lido00100">24254</lido:recordID>
             <lido:recordType>
+               <skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://terminology.lido-schema.org/lido00141">
+                  <skos:prefLabel xml:lang="en">Item-level record</skos:prefLabel>
+               </skos:Concept>
                <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://terminology.lido-schema.org/lido00141</lido:conceptID>
                <lido:term xml:lang="de">Einzelobjekt</lido:term>
                <lido:term xml:lang="en">item</lido:term>
@@ -3208,7 +3241,10 @@ Englisch (Digital Benin): The commemorative head, Uhunmwu Elao, of an Ọba plac
                <lido:legalBodyWeblink>https://www.ub.uni-mainz.de/de/universitaetssammlungen</lido:legalBodyWeblink>
             </lido:recordSource>
             <lido:recordRights>
-               <lido:rightsType>
+               <lido:rightsType lido:type="http://terminology.lido-schema.org/lido00921">
+                  <skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+                     <skos:prefLabel>CC0 1.0</skos:prefLabel>
+                  </skos:Concept>
                   <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://creativecommons.org">http://creativecommons.org/publicdomain/zero/1.0/</lido:conceptID>
                   <lido:term>CC0 1.0</lido:term>
                </lido:rightsType>
@@ -3791,6 +3827,9 @@ Englisch (Digital Benin): The commemorative head, Uhunmwu Elao, of an Ọba plac
          <lido:recordWrap>
             <lido:recordID lido:type="http://terminology.lido-schema.org/lido00100">24901</lido:recordID>
             <lido:recordType>
+               <skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://terminology.lido-schema.org/lido00141">
+                  <skos:prefLabel xml:lang="en">Item-level record</skos:prefLabel>
+               </skos:Concept>
                <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://terminology.lido-schema.org/lido00141</lido:conceptID>
                <lido:term xml:lang="de">Einzelobjekt</lido:term>
                <lido:term xml:lang="en">item</lido:term>
@@ -3804,7 +3843,10 @@ Englisch (Digital Benin): The commemorative head, Uhunmwu Elao, of an Ọba plac
                <lido:legalBodyWeblink>https://www.ub.uni-mainz.de/de/universitaetssammlungen</lido:legalBodyWeblink>
             </lido:recordSource>
             <lido:recordRights>
-               <lido:rightsType>
+               <lido:rightsType lido:type="http://terminology.lido-schema.org/lido00921">
+                  <skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+                     <skos:prefLabel>CC0 1.0</skos:prefLabel>
+                  </skos:Concept>
                   <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://creativecommons.org">http://creativecommons.org/publicdomain/zero/1.0/</lido:conceptID>
                   <lido:term>CC0 1.0</lido:term>
                </lido:rightsType>
@@ -4242,6 +4284,9 @@ Englisch (Digital Benin): The commemorative head, Uhunmwu Elao, of an Ọba plac
          <lido:recordWrap>
             <lido:recordID lido:type="http://terminology.lido-schema.org/lido00100">40587</lido:recordID>
             <lido:recordType>
+               <skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://terminology.lido-schema.org/lido00141">
+                  <skos:prefLabel xml:lang="en">Item-level record</skos:prefLabel>
+               </skos:Concept>
                <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://terminology.lido-schema.org/lido00141</lido:conceptID>
                <lido:term xml:lang="de">Einzelobjekt</lido:term>
                <lido:term xml:lang="en">item</lido:term>
@@ -4255,7 +4300,10 @@ Englisch (Digital Benin): The commemorative head, Uhunmwu Elao, of an Ọba plac
                <lido:legalBodyWeblink>https://www.ub.uni-mainz.de/de/universitaetssammlungen</lido:legalBodyWeblink>
             </lido:recordSource>
             <lido:recordRights>
-               <lido:rightsType>
+               <lido:rightsType lido:type="http://terminology.lido-schema.org/lido00921">
+                  <skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+                     <skos:prefLabel>CC0 1.0</skos:prefLabel>
+                  </skos:Concept>
                   <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://creativecommons.org">http://creativecommons.org/publicdomain/zero/1.0/</lido:conceptID>
                   <lido:term>CC0 1.0</lido:term>
                </lido:rightsType>
@@ -4711,6 +4759,9 @@ Englisch (Digital Benin): The commemorative head, Uhunmwu Elao, of an Ọba plac
          <lido:recordWrap>
             <lido:recordID lido:type="http://terminology.lido-schema.org/lido00100">40996</lido:recordID>
             <lido:recordType>
+               <skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://terminology.lido-schema.org/lido00141">
+                  <skos:prefLabel xml:lang="en">Item-level record</skos:prefLabel>
+               </skos:Concept>
                <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://terminology.lido-schema.org/lido00141</lido:conceptID>
                <lido:term xml:lang="de">Einzelobjekt</lido:term>
                <lido:term xml:lang="en">item</lido:term>
@@ -4724,7 +4775,10 @@ Englisch (Digital Benin): The commemorative head, Uhunmwu Elao, of an Ọba plac
                <lido:legalBodyWeblink>https://www.ub.uni-mainz.de/de/universitaetssammlungen</lido:legalBodyWeblink>
             </lido:recordSource>
             <lido:recordRights>
-               <lido:rightsType>
+               <lido:rightsType lido:type="http://terminology.lido-schema.org/lido00921">
+                  <skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+                     <skos:prefLabel>CC0 1.0</skos:prefLabel>
+                  </skos:Concept>
                   <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://creativecommons.org">http://creativecommons.org/publicdomain/zero/1.0/</lido:conceptID>
                   <lido:term>CC0 1.0</lido:term>
                </lido:rightsType>

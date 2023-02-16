@@ -599,6 +599,12 @@
                         <xsl:value-of select="easydb:_system_object_id"/>
                     </xsl:element>
                     <xsl:element name="lido:recordType">
+                        <xsl:element name="skos:Concept">
+                            <xsl:attribute name="rdf:about">http://terminology.lido-schema.org/lido00141</xsl:attribute>
+                            <xsl:element name="skos:prefLabel">
+                                <xsl:attribute name="xml:lang">en</xsl:attribute>
+                                <xsl:text>Item-level record</xsl:text></xsl:element>
+                        </xsl:element>
                         <xsl:element name="lido:conceptID"><xsl:attribute name="lido:type"
                                     ><xsl:value-of select="$uri"
                             /></xsl:attribute>http://terminology.lido-schema.org/lido00141</xsl:element>
@@ -628,6 +634,12 @@
                     </xsl:element>
                     <xsl:element name="lido:recordRights">
                         <xsl:element name="lido:rightsType">
+                            <xsl:attribute name="lido:type">http://terminology.lido-schema.org/lido00921</xsl:attribute>
+                            <xsl:element name="skos:Concept">
+                                <xsl:attribute name="rdf:about">http://creativecommons.org/publicdomain/zero/1.0/</xsl:attribute>
+                                <xsl:element name="skos:prefLabel">
+                                    <xsl:text>CC0 1.0</xsl:text></xsl:element>
+                            </xsl:element>
                             <xsl:element name="lido:conceptID">
                                 <xsl:attribute name="lido:type"
                                     >http://terminology.lido-schema.org/lido00099</xsl:attribute>
