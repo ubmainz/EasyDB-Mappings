@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<objects xmlns="https://schema.easydb.de/EASYDB/1.0/objects/" instance="easydb" uuid="e2693ff0-14c9-4333-8c0e-a4de8c701ce4" base-schema="270" user-schema="154" timestamp="2023-02-16T17:20:46+01:00">
+<objects xmlns="https://schema.easydb.de/EASYDB/1.0/objects/" instance="easydb" uuid="e2693ff0-14c9-4333-8c0e-a4de8c701ce4" base-schema="270" user-schema="154" timestamp="2023-02-17T10:23:33+01:00">
   <objekte>
     <_id>6333</_id>
     <_system_object_id>22044</_system_object_id>
@@ -161,7 +161,7 @@
         </file>
       </files>
     </_standard-eas>
-    <_exported_at>2023-02-16T17:20:43+01:00</_exported_at>
+    <_exported_at>2023-02-17T10:23:31+01:00</_exported_at>
     <_mask>objekte_es__all_fields</_mask>
     <_last_modified>2022-11-09T15:41:09Z</_last_modified>
     <_created>2021-05-21T14:21:07Z</_created>
@@ -1539,7 +1539,7 @@ Fossong-Wentschen (oder -Wentscheng)</weitere_informationen>
                   <compiled>tif image, 5792 x 8688 @ 24 bit, 144.11 MB</compiled>
                   <_download_allowed>1</_download_allowed>
                   <deep_link_url>https://objects.ub.uni-mainz.de/api/v1/objects/uuid/cbe430d8-5492-43d1-bbe6-4453712a872c/file/id/15441/file_version/name/original/disposition/inline</deep_link_url>
-                  <path>2023-02-16 17_20 easydb FULL DDB-2022/assets/JGU ES 2329_Elefantenmaske_22044.tif</path>
+                  <path>2023-02-17 10_23 easydb FULL DDB-2022/assets/JGU ES 2329_Elefantenmaske_22044.tif</path>
                 </version>
                 <version name="full">
                   <filesize>23711274</filesize>
@@ -1710,7 +1710,7 @@ Fossong-Wentschen (oder -Wentscheng)</weitere_informationen>
                   <compiled>tif image, 5792 x 8688 @ 24 bit, 144.11 MB</compiled>
                   <_download_allowed>1</_download_allowed>
                   <deep_link_url>https://objects.ub.uni-mainz.de/api/v1/objects/uuid/1da52050-eb66-4bb3-a379-101cadbbce43/file/id/15442/file_version/name/original/disposition/inline</deep_link_url>
-                  <path>2023-02-16 17_20 easydb FULL DDB-2022/assets/JGU ES 2329_Elefantenmaske_22044_3.tif</path>
+                  <path>2023-02-17 10_23 easydb FULL DDB-2022/assets/JGU ES 2329_Elefantenmaske_22044_3.tif</path>
                 </version>
                 <version name="full">
                   <filesize>24132639</filesize>
@@ -1881,7 +1881,7 @@ Fossong-Wentschen (oder -Wentscheng)</weitere_informationen>
                   <compiled>tif image, 5792 x 8688 @ 24 bit, 144.11 MB</compiled>
                   <_download_allowed>1</_download_allowed>
                   <deep_link_url>https://objects.ub.uni-mainz.de/api/v1/objects/uuid/5d894e00-9964-4400-a3d0-b3c82bf350bf/file/id/15443/file_version/name/original/disposition/inline</deep_link_url>
-                  <path>2023-02-16 17_20 easydb FULL DDB-2022/assets/JGU ES 2329_Elefantenmaske_22044_5.tif</path>
+                  <path>2023-02-17 10_23 easydb FULL DDB-2022/assets/JGU ES 2329_Elefantenmaske_22044_5.tif</path>
                 </version>
                 <version name="full">
                   <filesize>10423645</filesize>
@@ -2261,7 +2261,7 @@ Fossong-Wentschen (oder -Wentscheng)</weitere_informationen>
         </file>
       </files>
     </_standard-eas>
-    <_exported_at>2023-02-16T17:20:44+01:00</_exported_at>
+    <_exported_at>2023-02-17T10:23:31+01:00</_exported_at>
     <_mask>objekte_es__all_fields</_mask>
     <_last_modified>2022-11-09T08:35:24Z</_last_modified>
     <_created>2021-06-09T13:16:10Z</_created>
@@ -3422,7 +3422,7 @@ altes Etikett Linden-Museum Stuttgart: "I. C. 3289. / N. West Afrika (Bali.) / S
                   <compiled>tif image, 4917 x 7162 @ 24 bit, 100.77 MB</compiled>
                   <_download_allowed>1</_download_allowed>
                   <deep_link_url>https://objects.ub.uni-mainz.de/api/v1/objects/uuid/4caed08a-9f6f-4c3d-893c-8a2dc801e218/file/id/15908/file_version/name/original/disposition/inline</deep_link_url>
-                  <path>2023-02-16 17_20 easydb FULL DDB-2022/assets/JGU ES 2410_Halskette_22975.tif</path>
+                  <path>2023-02-17 10_23 easydb FULL DDB-2022/assets/JGU ES 2410_Halskette_22975.tif</path>
                 </version>
                 <version name="full">
                   <filesize>42056373</filesize>
@@ -3592,7 +3592,7 @@ altes Etikett Linden-Museum Stuttgart: "I. C. 3289. / N. West Afrika (Bali.) / S
                   <compiled>tif image, 4917 x 7162 @ 24 bit, 100.77 MB</compiled>
                   <_download_allowed>1</_download_allowed>
                   <deep_link_url>https://objects.ub.uni-mainz.de/api/v1/objects/uuid/75fbcfdd-e7d7-4abe-ba16-3e6feb56fa04/file/id/15909/file_version/name/original/disposition/inline</deep_link_url>
-                  <path>2023-02-16 17_20 easydb FULL DDB-2022/assets/JGU ES 2410_Halskette_22975_3.tif</path>
+                  <path>2023-02-17 10_23 easydb FULL DDB-2022/assets/JGU ES 2410_Halskette_22975_3.tif</path>
                 </version>
                 <version name="full">
                   <filesize>37436955</filesize>
@@ -3762,7 +3762,7 @@ altes Etikett Linden-Museum Stuttgart: "I. C. 3289. / N. West Afrika (Bali.) / S
                   <compiled>tif image, 4917 x 7162 @ 24 bit, 100.77 MB</compiled>
                   <_download_allowed>1</_download_allowed>
                   <deep_link_url>https://objects.ub.uni-mainz.de/api/v1/objects/uuid/3b3b998a-eb4e-40b7-82a6-a16fa6e408e5/file/id/15910/file_version/name/original/disposition/inline</deep_link_url>
-                  <path>2023-02-16 17_20 easydb FULL DDB-2022/assets/JGU ES 2410_Halskette_22975_5.tif</path>
+                  <path>2023-02-17 10_23 easydb FULL DDB-2022/assets/JGU ES 2410_Halskette_22975_5.tif</path>
                 </version>
                 <version name="full">
                   <filesize>39027994</filesize>
@@ -3932,7 +3932,7 @@ altes Etikett Linden-Museum Stuttgart: "I. C. 3289. / N. West Afrika (Bali.) / S
                   <compiled>tif image, 8192 x 5464 @ 24 bit, 128.08 MB</compiled>
                   <_download_allowed>1</_download_allowed>
                   <deep_link_url>https://objects.ub.uni-mainz.de/api/v1/objects/uuid/4e29098c-bcb8-4bc7-a665-de7274eab9bb/file/id/15911/file_version/name/original/disposition/inline</deep_link_url>
-                  <path>2023-02-16 17_20 easydb FULL DDB-2022/assets/JGU ES 2410_Halskette_22975_7.tif</path>
+                  <path>2023-02-17 10_23 easydb FULL DDB-2022/assets/JGU ES 2410_Halskette_22975_7.tif</path>
                 </version>
                 <version name="full">
                   <filesize>54591602</filesize>
@@ -4102,7 +4102,7 @@ altes Etikett Linden-Museum Stuttgart: "I. C. 3289. / N. West Afrika (Bali.) / S
                   <compiled>tif image, 5464 x 8192 @ 24 bit, 128.08 MB</compiled>
                   <_download_allowed>1</_download_allowed>
                   <deep_link_url>https://objects.ub.uni-mainz.de/api/v1/objects/uuid/de2f9802-50df-41df-80a1-3e8827b5348b/file/id/15912/file_version/name/original/disposition/inline</deep_link_url>
-                  <path>2023-02-16 17_20 easydb FULL DDB-2022/assets/JGU ES 2410_Halskette_22975_9.tif</path>
+                  <path>2023-02-17 10_23 easydb FULL DDB-2022/assets/JGU ES 2410_Halskette_22975_9.tif</path>
                 </version>
                 <version name="full">
                   <filesize>51152794</filesize>
@@ -4272,7 +4272,7 @@ altes Etikett Linden-Museum Stuttgart: "I. C. 3289. / N. West Afrika (Bali.) / S
                   <compiled>tif image, 5464 x 8192 @ 24 bit, 128.08 MB</compiled>
                   <_download_allowed>1</_download_allowed>
                   <deep_link_url>https://objects.ub.uni-mainz.de/api/v1/objects/uuid/1ede8bf1-d813-4341-8216-0d66ef333f39/file/id/15913/file_version/name/original/disposition/inline</deep_link_url>
-                  <path>2023-02-16 17_20 easydb FULL DDB-2022/assets/JGU ES 2410_Halskette_22975_11.tif</path>
+                  <path>2023-02-17 10_23 easydb FULL DDB-2022/assets/JGU ES 2410_Halskette_22975_11.tif</path>
                 </version>
                 <version name="huge">
                   <filesize>2879687</filesize>
@@ -4566,7 +4566,7 @@ altes Etikett Linden-Museum Stuttgart: "I. C. 3289. / N. West Afrika (Bali.) / S
         </file>
       </files>
     </_standard-eas>
-    <_exported_at>2023-02-16T17:20:44+01:00</_exported_at>
+    <_exported_at>2023-02-17T10:23:31+01:00</_exported_at>
     <_mask>objekte_es__all_fields</_mask>
     <_last_modified>2022-11-09T08:08:22Z</_last_modified>
     <_created>2021-06-09T13:16:17Z</_created>
@@ -5853,7 +5853,7 @@ Beschreibung in Inventarliste des Linden-Museum: „1 Kriegsmütze aus Bast e Fe
                   <compiled>tif image, 4804 x 5412 @ 24 bit, 74.41 MB</compiled>
                   <_download_allowed>1</_download_allowed>
                   <deep_link_url>https://objects.ub.uni-mainz.de/api/v1/objects/uuid/a5dcd9f7-cf8b-4ad1-a747-afeeeab72220/file/id/15414/file_version/name/original/disposition/inline</deep_link_url>
-                  <path>2023-02-16 17_20 easydb FULL DDB-2022/assets/JGU ES 2519_Federmütze_23116.tif</path>
+                  <path>2023-02-17 10_23 easydb FULL DDB-2022/assets/JGU ES 2519_Federmütze_23116.tif</path>
                 </version>
                 <version name="full">
                   <filesize>53391854</filesize>
@@ -6024,7 +6024,7 @@ Beschreibung in Inventarliste des Linden-Museum: „1 Kriegsmütze aus Bast e Fe
                   <compiled>tif image, 6340 x 4284 @ 24 bit, 77.73 MB</compiled>
                   <_download_allowed>1</_download_allowed>
                   <deep_link_url>https://objects.ub.uni-mainz.de/api/v1/objects/uuid/ca75e141-14bd-4214-a925-52ecb28ecb2d/file/id/15415/file_version/name/original/disposition/inline</deep_link_url>
-                  <path>2023-02-16 17_20 easydb FULL DDB-2022/assets/JGU ES 2519_Federmütze_23116_3.tif</path>
+                  <path>2023-02-17 10_23 easydb FULL DDB-2022/assets/JGU ES 2519_Federmütze_23116_3.tif</path>
                 </version>
                 <version name="full">
                   <filesize>58124578</filesize>
@@ -6195,7 +6195,7 @@ Beschreibung in Inventarliste des Linden-Museum: „1 Kriegsmütze aus Bast e Fe
                   <compiled>tif image, 4675 x 2606 @ 24 bit, 34.88 MB</compiled>
                   <_download_allowed>1</_download_allowed>
                   <deep_link_url>https://objects.ub.uni-mainz.de/api/v1/objects/uuid/e8a429d7-755d-4157-ba34-c347383f3936/file/id/15416/file_version/name/original/disposition/inline</deep_link_url>
-                  <path>2023-02-16 17_20 easydb FULL DDB-2022/assets/JGU ES 2519_Federmütze_23116_5.tif</path>
+                  <path>2023-02-17 10_23 easydb FULL DDB-2022/assets/JGU ES 2519_Federmütze_23116_5.tif</path>
                 </version>
                 <version name="full">
                   <filesize>24149766</filesize>
@@ -6366,7 +6366,7 @@ Beschreibung in Inventarliste des Linden-Museum: „1 Kriegsmütze aus Bast e Fe
                   <compiled>tif image, 7216 x 5412 @ 24 bit, 111.75 MB</compiled>
                   <_download_allowed>1</_download_allowed>
                   <deep_link_url>https://objects.ub.uni-mainz.de/api/v1/objects/uuid/d1a1af3b-5518-4857-a79d-a6efeb5c4a35/file/id/15417/file_version/name/original/disposition/inline</deep_link_url>
-                  <path>2023-02-16 17_20 easydb FULL DDB-2022/assets/JGU ES 2519_Federmütze_23116_7.tif</path>
+                  <path>2023-02-17 10_23 easydb FULL DDB-2022/assets/JGU ES 2519_Federmütze_23116_7.tif</path>
                 </version>
                 <version name="full">
                   <filesize>72673849</filesize>
@@ -6660,7 +6660,7 @@ Beschreibung in Inventarliste des Linden-Museum: „1 Kriegsmütze aus Bast e Fe
         </file>
       </files>
     </_standard-eas>
-    <_exported_at>2023-02-16T17:20:44+01:00</_exported_at>
+    <_exported_at>2023-02-17T10:23:31+01:00</_exported_at>
     <_mask>objekte_es__all_fields</_mask>
     <_last_modified>2022-11-09T08:14:43Z</_last_modified>
     <_created>2021-08-11T08:42:25Z</_created>
@@ -7402,7 +7402,7 @@ Beschreibung in Inventarliste des Linden-Museum: „1 Kriegsmütze aus Bast e Fe
                   <compiled>tif image, 4623 x 3565 @ 24 bit, 47.18 MB</compiled>
                   <_download_allowed>1</_download_allowed>
                   <deep_link_url>https://objects.ub.uni-mainz.de/api/v1/objects/uuid/cef76c15-c5bd-44dd-95b6-29f396d8a381/file/id/15406/file_version/name/original/disposition/inline</deep_link_url>
-                  <path>2023-02-16 17_20 easydb FULL DDB-2022/assets/JGU ES 52_Brustschmuck_23937.tif</path>
+                  <path>2023-02-17 10_23 easydb FULL DDB-2022/assets/JGU ES 52_Brustschmuck_23937.tif</path>
                 </version>
                 <version name="full">
                   <filesize>27249235</filesize>
@@ -7573,7 +7573,7 @@ Beschreibung in Inventarliste des Linden-Museum: „1 Kriegsmütze aus Bast e Fe
                   <compiled>tif image, 4684 x 3216 @ 24 bit, 43.12 MB</compiled>
                   <_download_allowed>1</_download_allowed>
                   <deep_link_url>https://objects.ub.uni-mainz.de/api/v1/objects/uuid/2d2a58ba-1e76-4691-a83e-473f8b4202a3/file/id/15407/file_version/name/original/disposition/inline</deep_link_url>
-                  <path>2023-02-16 17_20 easydb FULL DDB-2022/assets/JGU ES 52_Brustschmuck_23937_3.tif</path>
+                  <path>2023-02-17 10_23 easydb FULL DDB-2022/assets/JGU ES 52_Brustschmuck_23937_3.tif</path>
                 </version>
                 <version name="full">
                   <filesize>30967642</filesize>
@@ -7744,7 +7744,7 @@ Beschreibung in Inventarliste des Linden-Museum: „1 Kriegsmütze aus Bast e Fe
                   <compiled>tif image, 3677 x 2388 @ 24 bit, 25.15 MB</compiled>
                   <_download_allowed>1</_download_allowed>
                   <deep_link_url>https://objects.ub.uni-mainz.de/api/v1/objects/uuid/e1b2d6f1-2f52-48e0-a4d5-8a2a23678cd8/file/id/15408/file_version/name/original/disposition/inline</deep_link_url>
-                  <path>2023-02-16 17_20 easydb FULL DDB-2022/assets/JGU ES 52_Brustschmuck_23937_5.tif</path>
+                  <path>2023-02-17 10_23 easydb FULL DDB-2022/assets/JGU ES 52_Brustschmuck_23937_5.tif</path>
                 </version>
                 <version name="full">
                   <filesize>14996237</filesize>
@@ -7915,7 +7915,7 @@ Beschreibung in Inventarliste des Linden-Museum: „1 Kriegsmütze aus Bast e Fe
                   <compiled>tif image, 3224 x 3802 @ 24 bit, 35.10 MB</compiled>
                   <_download_allowed>1</_download_allowed>
                   <deep_link_url>https://objects.ub.uni-mainz.de/api/v1/objects/uuid/793de1c6-2d62-4604-b0b8-7a6263c86009/file/id/15409/file_version/name/original/disposition/inline</deep_link_url>
-                  <path>2023-02-16 17_20 easydb FULL DDB-2022/assets/JGU ES 52_Brustschmuck_23937_7.tif</path>
+                  <path>2023-02-17 10_23 easydb FULL DDB-2022/assets/JGU ES 52_Brustschmuck_23937_7.tif</path>
                 </version>
                 <version name="full">
                   <filesize>25116527</filesize>
@@ -8260,7 +8260,7 @@ Beschreibung in Inventarliste des Linden-Museum: „1 Kriegsmütze aus Bast e Fe
         </file>
       </files>
     </_standard-eas>
-    <_exported_at>2023-02-16T17:20:44+01:00</_exported_at>
+    <_exported_at>2023-02-17T10:23:32+01:00</_exported_at>
     <_mask>objekte_es__all_fields</_mask>
     <_last_modified>2022-12-24T08:37:49Z</_last_modified>
     <_created>2021-08-11T11:54:25Z</_created>
@@ -9570,7 +9570,7 @@ Am anderen Ende: runder Aufkleber (weiß) mit Zahl in der Mitte: 34</beschriftun
                   <compiled>tif image, 6024 x 8858 @ 24 bit, 152.69 MB</compiled>
                   <_download_allowed>1</_download_allowed>
                   <deep_link_url>https://objects.ub.uni-mainz.de/api/v1/objects/uuid/a959b69f-546c-4ee5-a829-b80d1ab5b1ed/file/id/15429/file_version/name/original/disposition/inline</deep_link_url>
-                  <path>2023-02-16 17_20 easydb FULL DDB-2022/assets/JGU ES 1988_Parierschild_23964.tif</path>
+                  <path>2023-02-17 10_23 easydb FULL DDB-2022/assets/JGU ES 1988_Parierschild_23964.tif</path>
                 </version>
                 <version name="full">
                   <filesize>13373248</filesize>
@@ -9741,7 +9741,7 @@ Am anderen Ende: runder Aufkleber (weiß) mit Zahl in der Mitte: 34</beschriftun
                   <compiled>tif image, 6024 x 8976 @ 24 bit, 154.72 MB</compiled>
                   <_download_allowed>1</_download_allowed>
                   <deep_link_url>https://objects.ub.uni-mainz.de/api/v1/objects/uuid/b5fa704b-5667-4ea9-86ad-c2970f483ff7/file/id/15430/file_version/name/original/disposition/inline</deep_link_url>
-                  <path>2023-02-16 17_20 easydb FULL DDB-2022/assets/JGU ES 1988_Parierschild_23964_3.tif</path>
+                  <path>2023-02-17 10_23 easydb FULL DDB-2022/assets/JGU ES 1988_Parierschild_23964_3.tif</path>
                 </version>
                 <version name="full">
                   <filesize>14580006</filesize>
@@ -9912,7 +9912,7 @@ Am anderen Ende: runder Aufkleber (weiß) mit Zahl in der Mitte: 34</beschriftun
                   <compiled>tif image, 8688 x 5792 @ 24 bit, 144.11 MB</compiled>
                   <_download_allowed>1</_download_allowed>
                   <deep_link_url>https://objects.ub.uni-mainz.de/api/v1/objects/uuid/4b9a8177-8aa6-40d9-8b15-117785894dcd/file/id/15431/file_version/name/original/disposition/inline</deep_link_url>
-                  <path>2023-02-16 17_20 easydb FULL DDB-2022/assets/JGU ES 1988_Parierschild_23964_5.tif</path>
+                  <path>2023-02-17 10_23 easydb FULL DDB-2022/assets/JGU ES 1988_Parierschild_23964_5.tif</path>
                 </version>
                 <version name="full">
                   <filesize>68027269</filesize>
@@ -10083,7 +10083,7 @@ Am anderen Ende: runder Aufkleber (weiß) mit Zahl in der Mitte: 34</beschriftun
                   <compiled>tif image, 8688 x 5792 @ 24 bit, 144.11 MB</compiled>
                   <_download_allowed>1</_download_allowed>
                   <deep_link_url>https://objects.ub.uni-mainz.de/api/v1/objects/uuid/8b85005e-14bc-4d6c-b5d1-1d4399e940db/file/id/15432/file_version/name/original/disposition/inline</deep_link_url>
-                  <path>2023-02-16 17_20 easydb FULL DDB-2022/assets/JGU ES 1988_Parierschild_23964_7.tif</path>
+                  <path>2023-02-17 10_23 easydb FULL DDB-2022/assets/JGU ES 1988_Parierschild_23964_7.tif</path>
                 </version>
                 <version name="full">
                   <filesize>57979057</filesize>
@@ -10254,7 +10254,7 @@ Am anderen Ende: runder Aufkleber (weiß) mit Zahl in der Mitte: 34</beschriftun
                   <compiled>tif image, 8688 x 5792 @ 24 bit, 144.11 MB</compiled>
                   <_download_allowed>1</_download_allowed>
                   <deep_link_url>https://objects.ub.uni-mainz.de/api/v1/objects/uuid/8b99e624-6106-4451-8d12-08ccbc61c1bf/file/id/15433/file_version/name/original/disposition/inline</deep_link_url>
-                  <path>2023-02-16 17_20 easydb FULL DDB-2022/assets/JGU ES 1988_Parierschild_23964_9.tif</path>
+                  <path>2023-02-17 10_23 easydb FULL DDB-2022/assets/JGU ES 1988_Parierschild_23964_9.tif</path>
                 </version>
                 <version name="full">
                   <filesize>54616149</filesize>
@@ -10340,6 +10340,1300 @@ Am anderen Ende: runder Aufkleber (weiß) mit Zahl in der Mitte: 34</beschriftun
         <unsicher type="boolean">0</unsicher>
       </bilder>
     </_reverse_nested__bilder__objekt>
+  </objekte>
+  <objekte>
+    <_id>6845</_id>
+    <_system_object_id>23968</_system_object_id>
+    <_version>35</_version>
+    <_uuid>940b8a0c-44fa-4c58-b781-fdfd8df4383c</_uuid>
+    <_objecttype>objekte</_objecttype>
+    <_global_object_id>23968@e2693ff0-14c9-4333-8c0e-a4de8c701ce4</_global_object_id>
+    <_system_object_id>23968</_system_object_id>
+    <pool id="43">
+      <de-DE>Ethnografische Studiensammlung</de-DE>
+    </pool>
+    <_standard>
+      <de-DE>Stabkarte</de-DE>
+      <en-US>Stabkarte</en-US>
+    </_standard>
+    <_standard-2>
+      <de-DE>uns nicht bekannt, Jaluit Atoll</de-DE>
+      <en-US>uns nicht bekannt, Jaluit Atoll</en-US>
+    </_standard-2>
+    <_standard-eas>
+      <files>
+        <file>
+          <eas-id>15423</eas-id>
+          <preferred>true</preferred>
+          <status>done</status>
+          <class>image</class>
+          <extension>tif</extension>
+          <name/>
+          <original_filename>JGU ES 1.tif</original_filename>
+          <compiled/>
+          <eas_parent_id/>
+          <date_inserted>2023-02-17T09:00:28Z</date_inserted>
+          <date_created/>
+          <date_uploaded>2021-08-11T15:05:35Z</date_uploaded>
+          <filesize>12382614</filesize>
+          <technical_metadata>
+            <file_sha224_checksum>0b40be86169d8b60a9eb459fe97b3cc20bf7d70018345c8bbb9fd498</file_sha224_checksum>
+            <orientation>1</orientation>
+            <camera_scanner>Hasselblad CFV-39 - Hasselblad ELX</camera_scanner>
+            <width>5412</width>
+            <height>7216</height>
+            <dpi>300</dpi>
+            <max_dimension>7216</max_dimension>
+            <format>portrait</format>
+            <aspect_ratio>0.75</aspect_ratio>
+            <colordepth>24</colordepth>
+            <colorspace>rgb</colorspace>
+            <colorprofile>Adobe RGB (1998)</colorprofile>
+          </technical_metadata>
+          <versions>
+            <version name="small">
+              <filesize>37215</filesize>
+              <height>333</height>
+              <has_more_jobs>0</has_more_jobs>
+              <class>image</class>
+              <width>250</width>
+              <url>https://objects.ub.uni-mainz.de/eas/partitions-inline/2/0/15000/15423/58eb7644f2b204373c9bcbbc83d99548516a05c6/image/png</url>
+              <status>done</status>
+              <extension>png</extension>
+              <aspect_ratio>0.75</aspect_ratio>
+              <dpi>299</dpi>
+              <download_url>https://objects.ub.uni-mainz.de/eas/partitions/2/0/15000/15423/58eb7644f2b204373c9bcbbc83d99548516a05c6/image/png/JGU%20ES%201-small.png</download_url>
+              <_download_allowed>0</_download_allowed>
+              <deep_link_url>https://objects.ub.uni-mainz.de/api/v1/objects/uuid/940b8a0c-44fa-4c58-b781-fdfd8df4383c/file/id/15423/file_version/name/small/disposition/inline</deep_link_url>
+            </version>
+          </versions>
+        </file>
+      </files>
+    </_standard-eas>
+    <_exported_at>2023-02-17T10:23:32+01:00</_exported_at>
+    <_mask>objekte_es__all_fields</_mask>
+    <_last_modified>2023-02-17T09:05:35Z</_last_modified>
+    <_created>2021-08-11T13:28:34Z</_created>
+    <owner type="user">
+      <id>308</id>
+      <displayname>Brandstetter, Anna-Maria</displayname>
+    </owner>
+    <tags>
+      <tag id="5">
+        <name>
+          <de-DE>Sammlungsintern</de-DE>
+        </name>
+      </tag>
+    </tags>
+    <collections>
+      <collection id="142"/>
+      <collection id="163"/>
+      <collection id="164"/>
+      <collection id="169"/>
+      <collection id="262"/>
+    </collections>
+    <_urls>
+      <url type="deep-link">https://objects.ub.uni-mainz.de/api/v1/objects/uuid/940b8a0c-44fa-4c58-b781-fdfd8df4383c</url>
+      <url type="easydb-id">https://objects.ub.uni-mainz.de/detail/23968</url>
+    </_urls>
+    <objekttitel type="text_l10n_oneline">
+      <de-DE>Stabkarte</de-DE>
+    </objekttitel>
+    <_nested__objekte__weitere_titel>
+      <objekte__weitere_titel>
+        <weiterer_titel type="text">Navigationskarte</weiterer_titel>
+      </objekte__weitere_titel>
+    </_nested__objekte__weitere_titel>
+    <objektkategorie>
+      <objektkategorien>
+        <_id>32</_id>
+        <_system_object_id>20497</_system_object_id>
+        <_version>1</_version>
+        <_has_children>false</_has_children>
+        <_uuid>75dcfa78-3e72-41b7-90cf-cb8888e8775d</_uuid>
+        <_objecttype>objektkategorien</_objecttype>
+        <_global_object_id>20497@e2693ff0-14c9-4333-8c0e-a4de8c701ce4</_global_object_id>
+        <_system_object_id>20497</_system_object_id>
+        <_standard>
+          <de-DE>Karte oder Plan</de-DE>
+          <en-US>map or plan</en-US>
+        </_standard>
+        <name type="text_l10n_oneline">
+          <de-DE>Karte oder Plan</de-DE>
+          <en-US>map or plan</en-US>
+        </name>
+        <uri type="text_oneline">http://portal.wissenschaftliche-sammlungen.de/ObjectGenre/243</uri>
+      </objektkategorien>
+    </objektkategorie>
+    <custom name="objektbezeichnung" type="custom:base.custom-data-type-gnd.gnd">
+      <string name="frontendLanguage">de</string>
+      <object name="_fulltext">
+        <string name="text">4740073-0 (DE-588c)4740073-0 Geodäsie, Kartografie Sachkultur, Volkskunst Stabkarte Stäbchenkarte Dünne, gespleißte Bambusstäbe und kleine Kaurischnecken, von feinen Pandanusblatt-Streifen zusammengehalten. Mit ihnen versuchten erfahrene Navigatoren auf den Marshallinseln ihr profundes Wissen an andere Mitglieder ihres Clans weiterzugeben. </string>
+      </object>
+      <string name="conceptURI">https://d-nb.info/gnd/4740073-0</string>
+      <string name="conceptName">Stabkarte</string>
+      <object name="_standard">
+        <string name="text">Stabkarte</string>
+      </object>
+    </custom>
+    <custom name="objektbezeichnung_aat" type="custom:base.custom-data-type-getty.getty">
+      <string name="frontendLanguage">de</string>
+      <object name="_fulltext">
+        <string name="text">marine charts</string>
+      </object>
+      <string name="conceptURI">http://vocab.getty.edu/aat/300028333</string>
+      <string name="conceptName">marine charts</string>
+      <object name="_standard"/>
+    </custom>
+    <standort_neu>
+      <standorte>
+        <_id>5</_id>
+        <_system_object_id>20547</_system_object_id>
+        <_version>5</_version>
+        <_has_children>false</_has_children>
+        <_uuid>ca19999b-0864-4aa8-820a-ded259146059</_uuid>
+        <_objecttype>standorte</_objecttype>
+        <_global_object_id>20547@e2693ff0-14c9-4333-8c0e-a4de8c701ce4</_global_object_id>
+        <_system_object_id>20547</_system_object_id>
+        <_standard>
+          <de-DE>Mainz, Johannes Gutenberg-Universität Mainz</de-DE>
+          <en-US>Mainz, Johannes Gutenberg-Universität Mainz</en-US>
+        </_standard>
+        <custom name="geonames_id" type="custom:base.custom-data-type-geonames.geonames">
+          <string name="frontendLanguage">de</string>
+          <object name="_fulltext">
+            <string name="text">Mainz</string>
+          </object>
+          <string name="conceptURI">http://www.geonames.org/6554818</string>
+          <object name="_standard">
+            <string name="text">Mainz</string>
+          </object>
+          <string name="conceptName">Mainz</string>
+        </custom>
+        <name type="text_oneline">Johannes Gutenberg-Universität Mainz</name>
+      </standorte>
+    </standort_neu>
+    <magazin type="text_oneline">8-1</magazin>
+    <inventarnummer type="text_oneline">JGU ES 1</inventarnummer>
+    <_nested__objekte__weitere_nummern>
+      <objekte__weitere_nummern>
+        <typ>
+          <typ_weitere_nummern>
+            <_id>2</_id>
+            <_system_object_id>248</_system_object_id>
+            <_version>1</_version>
+            <_uuid>09fe0e4f-482a-46ff-9f07-fff82bce1a13</_uuid>
+            <_objecttype>typ_weitere_nummern</_objecttype>
+            <_global_object_id>248@e2693ff0-14c9-4333-8c0e-a4de8c701ce4</_global_object_id>
+            <_system_object_id>248</_system_object_id>
+            <_standard>
+              <de-DE>alte Inventarnummer</de-DE>
+              <en-US>alte Inventarnummer</en-US>
+            </_standard>
+            <name type="text_oneline">alte Inventarnummer</name>
+          </typ_weitere_nummern>
+        </typ>
+        <nummer type="text_oneline">1</nummer>
+      </objekte__weitere_nummern>
+    </_nested__objekte__weitere_nummern>
+    <_nested__objekte__kulturbezug>
+      <objekte__kulturbezug>
+        <kulturbezug>
+          <kulturbezug>
+            <_id>62</_id>
+            <_system_object_id>23987</_system_object_id>
+            <_version>2</_version>
+            <_uuid>46e3347e-134d-4ce4-b21b-db8a2a35b411</_uuid>
+            <_objecttype>kulturbezug</_objecttype>
+            <_global_object_id>23987@e2693ff0-14c9-4333-8c0e-a4de8c701ce4</_global_object_id>
+            <_system_object_id>23987</_system_object_id>
+            <_standard>
+              <de-DE>Jaluit Atoll, Marshallinseln</de-DE>
+              <en-US>Jaluit Atoll, Marshallinseln</en-US>
+            </_standard>
+            <name type="text_oneline">Jaluit Atoll, Marshallinseln</name>
+          </kulturbezug>
+        </kulturbezug>
+      </objekte__kulturbezug>
+    </_nested__objekte__kulturbezug>
+    <_nested__objekte__verwendungen>
+      <objekte__verwendungen>
+        <verwendung>
+          <verwendung>
+            <_id>104</_id>
+            <_system_object_id>25139</_system_object_id>
+            <_version>1</_version>
+            <_uuid>633fb977-e3f6-421c-960f-0d96b14686ef</_uuid>
+            <_objecttype>verwendung</_objecttype>
+            <_global_object_id>25139@e2693ff0-14c9-4333-8c0e-a4de8c701ce4</_global_object_id>
+            <_system_object_id>25139</_system_object_id>
+            <_standard>
+              <de-DE>Navigation</de-DE>
+              <en-US>Navigation</en-US>
+            </_standard>
+            <name type="text_oneline">Navigation</name>
+          </verwendung>
+        </verwendung>
+      </objekte__verwendungen>
+    </_nested__objekte__verwendungen>
+    <objektbeschreibung type="text">Gitterwerk von Stäben aus der Mittelrippe von Wedeln der Kokospalme mit Kokosfaserschnüren zusammengebunden; L-förmige Stabkarte, soll die Inseln der Ralik-Kette (im Jaluit Atoll) darstellen: Ailinglaplap, Jabwat, Majuro, Milli, Djalut, Libijir (Jabor), Kili, Ebon, Namorik; die Stäbe sollen Dünungen und Strömungen zwischen Inseln anzeigen; Korallen auf gekreuzten Stäben sollen die Inseln markieren.</objektbeschreibung>
+    <_nested__objekte__personen_koerperschaften>
+      <objekte__personen_koerperschaften>
+        <person_koerperschaft>
+          <personen_koerperschaften>
+            <_id>276</_id>
+            <_system_object_id>23959</_system_object_id>
+            <_version>2</_version>
+            <_uuid>79c6a7f0-507a-4d8a-906b-c7ba30b646ac</_uuid>
+            <_objecttype>personen_koerperschaften</_objecttype>
+            <_global_object_id>23959@e2693ff0-14c9-4333-8c0e-a4de8c701ce4</_global_object_id>
+            <_system_object_id>23959</_system_object_id>
+            <pool id="43">
+              <de-DE>Ethnografische Studiensammlung</de-DE>
+            </pool>
+            <_standard>
+              <de-DE>uns nicht bekannt</de-DE>
+              <en-US>uns nicht bekannt</en-US>
+            </_standard>
+            <name type="text_oneline">uns nicht bekannt</name>
+          </personen_koerperschaften>
+        </person_koerperschaft>
+        <unsicher type="boolean">0</unsicher>
+        <rolle>
+          <rollen>
+            <_id>44</_id>
+            <_system_object_id>4272</_system_object_id>
+            <_version>7</_version>
+            <_uuid>45cf24c6-6162-4090-aec2-e9a6605973eb</_uuid>
+            <_objecttype>rollen</_objecttype>
+            <_global_object_id>4272@e2693ff0-14c9-4333-8c0e-a4de8c701ce4</_global_object_id>
+            <_system_object_id>4272</_system_object_id>
+            <_standard>
+              <de-DE>Herstellung (durch)</de-DE>
+              <en-US>Production</en-US>
+            </_standard>
+            <name type="text_l10n_oneline">
+              <de-DE>Herstellung (durch)</de-DE>
+              <en-US>Production</en-US>
+            </name>
+            <lido_event type="text_oneline">lido00007</lido_event>
+            <lido_name type="text_l10n_oneline">
+              <de-DE>Herstellung</de-DE>
+              <en-US>Production</en-US>
+            </lido_name>
+            <marcrelator type="text_oneline">oth</marcrelator>
+            <ubmz_event_id type="text_oneline">ubmz-14</ubmz_event_id>
+            <ubmz_name type="text_l10n_oneline">
+              <de-DE>Herstellung</de-DE>
+              <en-US>Production</en-US>
+            </ubmz_name>
+          </rollen>
+        </rolle>
+        <bemerkung type="text">unbekannter Handwerker</bemerkung>
+      </objekte__personen_koerperschaften>
+      <objekte__personen_koerperschaften>
+        <person_koerperschaft>
+          <personen_koerperschaften>
+            <_id>280</_id>
+            <_system_object_id>23969</_system_object_id>
+            <_version>5</_version>
+            <_uuid>b96a70f5-031d-4a52-88bc-3da75ed920ae</_uuid>
+            <_objecttype>personen_koerperschaften</_objecttype>
+            <_global_object_id>23969@e2693ff0-14c9-4333-8c0e-a4de8c701ce4</_global_object_id>
+            <_system_object_id>23969</_system_object_id>
+            <pool id="43">
+              <de-DE>Ethnografische Studiensammlung</de-DE>
+            </pool>
+            <_standard>
+              <de-DE>Rittscher, Adolf (1873 - 1956)</de-DE>
+              <en-US>Rittscher, Adolf (1873 - 1956)</en-US>
+            </_standard>
+            <_standard-2>
+              <de-DE>A. Rittscher (15.08.1973 - 30.09.1956) war von 1902 bis 1904 für die Jaluit-Gesellschaft tätig, eine 1887 gegründete deutsche Kolonialgesellschaft, die auf den Marshall-, Karolinen- und Gilbertinseln Kokosnussplantagen betrieb und vor allem mit Kopra und Guano handelte. / 1950: wohnhaft in Lübeck</de-DE>
+              <en-US>A. Rittscher (15.08.1973 - 30.09.1956) war von 1902 bis 1904 für die Jaluit-Gesellschaft tätig, eine 1887 gegründete deutsche Kolonialgesellschaft, die auf den Marshall-, Karolinen- und Gilbertinseln Kokosnussplantagen betrieb und vor allem mit Kopra und Guano handelte. / 1950: wohnhaft in Lübeck</en-US>
+            </_standard-2>
+            <name type="text_oneline">Rittscher, Adolf (1873 - 1956)</name>
+            <bemerkung type="text">A. Rittscher (15.08.1973 - 30.09.1956) war von 1902 bis 1904 für die Jaluit-Gesellschaft tätig, eine 1887 gegründete deutsche Kolonialgesellschaft, die auf den Marshall-, Karolinen- und Gilbertinseln Kokosnussplantagen betrieb und vor allem mit Kopra und Guano handelte. / 1950: wohnhaft in Lübeck</bemerkung>
+          </personen_koerperschaften>
+        </person_koerperschaft>
+        <unsicher type="boolean">0</unsicher>
+        <rolle>
+          <rollen>
+            <_id>54</_id>
+            <_system_object_id>21415</_system_object_id>
+            <_version>12</_version>
+            <_uuid>2cdd6bb3-ace1-46b2-aff4-80cbe55a4f1e</_uuid>
+            <_objecttype>rollen</_objecttype>
+            <_global_object_id>21415@e2693ff0-14c9-4333-8c0e-a4de8c701ce4</_global_object_id>
+            <_system_object_id>21415</_system_object_id>
+            <_standard>
+              <de-DE>Kauf (durch)</de-DE>
+              <en-US>Purchase (Buyer)</en-US>
+            </_standard>
+            <name type="text_l10n_oneline">
+              <de-DE>Kauf (durch)</de-DE>
+              <en-US>Purchase (Buyer)</en-US>
+            </name>
+            <bemerkung type="text_l10n">
+              <de-DE>Erwerbung, verkauft an diese Person/Körperschaft</de-DE>
+            </bemerkung>
+            <lido_event type="text_oneline">lido00001</lido_event>
+            <lido_name type="text_l10n_oneline">
+              <de-DE>Erwerbung</de-DE>
+              <en-US>Acquisition</en-US>
+            </lido_name>
+            <marcrelator type="text_oneline">own</marcrelator>
+            <marcrelator_name type="text_l10n_oneline">
+              <de-DE>Besitzer/Besitzerin, Eigentümer/Eigentümerin</de-DE>
+              <en-US>Owner</en-US>
+            </marcrelator_name>
+            <ubmz_event_id type="text_oneline">ubmz-15</ubmz_event_id>
+            <ubmz_name type="text_l10n_oneline">
+              <de-DE>Kauf</de-DE>
+              <en-US>Purchase</en-US>
+            </ubmz_name>
+          </rollen>
+        </rolle>
+        <bemerkung type="text">A. Rittscher hat die fragilen Objekte im Jahr 1903 von einem lokalen Händler auf Jaluit, einer Insel des gleichnamigen Atolls der Marshallinseln, gekauft. Diese Stabkarten wurden vermutlich für den Verkauf gefertigt.</bemerkung>
+      </objekte__personen_koerperschaften>
+      <objekte__personen_koerperschaften>
+        <person_koerperschaft>
+          <personen_koerperschaften>
+            <_id>280</_id>
+            <_system_object_id>23969</_system_object_id>
+            <_version>5</_version>
+            <_uuid>b96a70f5-031d-4a52-88bc-3da75ed920ae</_uuid>
+            <_objecttype>personen_koerperschaften</_objecttype>
+            <_global_object_id>23969@e2693ff0-14c9-4333-8c0e-a4de8c701ce4</_global_object_id>
+            <_system_object_id>23969</_system_object_id>
+            <pool id="43">
+              <de-DE>Ethnografische Studiensammlung</de-DE>
+            </pool>
+            <_standard>
+              <de-DE>Rittscher, Adolf (1873 - 1956)</de-DE>
+              <en-US>Rittscher, Adolf (1873 - 1956)</en-US>
+            </_standard>
+            <_standard-2>
+              <de-DE>A. Rittscher (15.08.1973 - 30.09.1956) war von 1902 bis 1904 für die Jaluit-Gesellschaft tätig, eine 1887 gegründete deutsche Kolonialgesellschaft, die auf den Marshall-, Karolinen- und Gilbertinseln Kokosnussplantagen betrieb und vor allem mit Kopra und Guano handelte. / 1950: wohnhaft in Lübeck</de-DE>
+              <en-US>A. Rittscher (15.08.1973 - 30.09.1956) war von 1902 bis 1904 für die Jaluit-Gesellschaft tätig, eine 1887 gegründete deutsche Kolonialgesellschaft, die auf den Marshall-, Karolinen- und Gilbertinseln Kokosnussplantagen betrieb und vor allem mit Kopra und Guano handelte. / 1950: wohnhaft in Lübeck</en-US>
+            </_standard-2>
+            <name type="text_oneline">Rittscher, Adolf (1873 - 1956)</name>
+            <bemerkung type="text">A. Rittscher (15.08.1973 - 30.09.1956) war von 1902 bis 1904 für die Jaluit-Gesellschaft tätig, eine 1887 gegründete deutsche Kolonialgesellschaft, die auf den Marshall-, Karolinen- und Gilbertinseln Kokosnussplantagen betrieb und vor allem mit Kopra und Guano handelte. / 1950: wohnhaft in Lübeck</bemerkung>
+          </personen_koerperschaften>
+        </person_koerperschaft>
+        <unsicher type="boolean">0</unsicher>
+        <rolle>
+          <rollen>
+            <_id>74</_id>
+            <_system_object_id>42602</_system_object_id>
+            <_version>3</_version>
+            <_uuid>e7f53b36-9f3c-45ac-b124-0637d36104c3</_uuid>
+            <_objecttype>rollen</_objecttype>
+            <_global_object_id>42602@e2693ff0-14c9-4333-8c0e-a4de8c701ce4</_global_object_id>
+            <_system_object_id>42602</_system_object_id>
+            <_standard>
+              <de-DE>Erwerbung (von)</de-DE>
+              <en-US>Acquisition (Seller)</en-US>
+            </_standard>
+            <name type="text_l10n_oneline">
+              <de-DE>Erwerbung (von)</de-DE>
+              <en-US>Acquisition (Seller)</en-US>
+            </name>
+            <bemerkung type="text_l10n">
+              <de-DE>erworben von dieser Person/Körperschaft</de-DE>
+            </bemerkung>
+            <lido_event type="text_oneline">lido00001</lido_event>
+            <lido_name type="text_l10n_oneline">
+              <de-DE>Erwerbung</de-DE>
+              <en-US>Acquisition</en-US>
+            </lido_name>
+            <marcrelator type="text_oneline">sll</marcrelator>
+            <marcrelator_name type="text_l10n_oneline">
+              <de-DE>Verkäufer/Verkäuferin</de-DE>
+              <en-US>Seller</en-US>
+            </marcrelator_name>
+            <ubmz_event_id type="text_oneline">ubmz-11</ubmz_event_id>
+            <ubmz_name type="text_l10n_oneline">
+              <de-DE>Erwerbung</de-DE>
+              <en-US>Acquisition</en-US>
+            </ubmz_name>
+          </rollen>
+        </rolle>
+      </objekte__personen_koerperschaften>
+    </_nested__objekte__personen_koerperschaften>
+    <_nested__objekte__orte>
+      <objekte__orte>
+        <ereignis>
+          <ereignisse>
+            <_id>44</_id>
+            <_system_object_id>204</_system_object_id>
+            <_version>7</_version>
+            <_uuid>a42afc8e-81d2-4d09-ab49-d5781dadb073</_uuid>
+            <_objecttype>ereignisse</_objecttype>
+            <_global_object_id>204@e2693ff0-14c9-4333-8c0e-a4de8c701ce4</_global_object_id>
+            <_system_object_id>204</_system_object_id>
+            <_standard>
+              <de-DE>Herstellung</de-DE>
+              <en-US>Production</en-US>
+            </_standard>
+            <name type="text_l10n_oneline">
+              <de-DE>Herstellung</de-DE>
+              <en-US>Production</en-US>
+            </name>
+            <bemerkung type="text_l10n_oneline">
+              <de-DE>Die Erstellung eines oder mehrerer physischer Objekte. Nicht für konzeptionelle und immaterielle Elemente verwenden (dafür bitte "Künstlerische Schöpfung" auswählen).</de-DE>
+              <en-US>The creation of one or more physical items. Do not use for conceptual and non-material items (use Creation for these). (AthenaPlus)</en-US>
+            </bemerkung>
+            <lido_id type="text_oneline">lido00007</lido_id>
+            <lido_name type="text_l10n_oneline">
+              <de-DE>Herstellung</de-DE>
+              <en-US>Production</en-US>
+            </lido_name>
+            <ubmz_event_id type="text_oneline">ubmz-14</ubmz_event_id>
+          </ereignisse>
+        </ereignis>
+        <ort>
+          <orte>
+            <_id>1158</_id>
+            <_system_object_id>25220</_system_object_id>
+            <_version>1</_version>
+            <_id_parent>1049</_id_parent>
+            <_path>
+              <orte level="0" parent-level="4">
+                <_system_object_id>24607</_system_object_id>
+                <_global_object_id>24607@e2693ff0-14c9-4333-8c0e-a4de8c701ce4</_global_object_id>
+                <_uuid>dc4fef28-b9f5-4f2e-9e61-8db88dadae12</_uuid>
+                <_has_children>true</_has_children>
+                <_id>1115</_id>
+                <_objecttype>orte</_objecttype>
+                <_standard>
+                  <de-DE>Pazifik</de-DE>
+                  <en-US>Pazifik</en-US>
+                </_standard>
+              </orte>
+              <orte level="1" parent-level="3">
+                <_system_object_id>23953</_system_object_id>
+                <_global_object_id>23953@e2693ff0-14c9-4333-8c0e-a4de8c701ce4</_global_object_id>
+                <_uuid>ef3fe24b-1aa3-4582-854d-2f856481f43e</_uuid>
+                <_has_children>true</_has_children>
+                <_id>1041</_id>
+                <_objecttype>orte</_objecttype>
+                <_standard>
+                  <de-DE>Ozeanien</de-DE>
+                  <en-US>Ozeanien</en-US>
+                </_standard>
+              </orte>
+              <orte level="2" parent-level="2">
+                <_system_object_id>23954</_system_object_id>
+                <_global_object_id>23954@e2693ff0-14c9-4333-8c0e-a4de8c701ce4</_global_object_id>
+                <_uuid>71642723-1ef4-41bc-8b2f-bc46061bb8b0</_uuid>
+                <_has_children>true</_has_children>
+                <_id>1042</_id>
+                <_objecttype>orte</_objecttype>
+                <_standard>
+                  <de-DE>Melanesien</de-DE>
+                  <en-US>Melanesien</en-US>
+                </_standard>
+              </orte>
+              <orte level="3" parent-level="1">
+                <_system_object_id>23971</_system_object_id>
+                <_global_object_id>23971@e2693ff0-14c9-4333-8c0e-a4de8c701ce4</_global_object_id>
+                <_uuid>3a9a7eab-d5a4-4a8d-8910-61ee85b1da4d</_uuid>
+                <_has_children>true</_has_children>
+                <_id>1049</_id>
+                <_objecttype>orte</_objecttype>
+                <_standard>
+                  <de-DE>Marshallinseln</de-DE>
+                  <en-US>Marshallinseln</en-US>
+                </_standard>
+              </orte>
+              <orte level="4" parent-level="0">
+                <_system_object_id>25220</_system_object_id>
+                <_global_object_id>25220@e2693ff0-14c9-4333-8c0e-a4de8c701ce4</_global_object_id>
+                <_uuid>d83f16b0-22ff-453b-9de9-f5d6cfd0b204</_uuid>
+                <_has_children>false</_has_children>
+                <_id>1158</_id>
+                <_objecttype>orte</_objecttype>
+                <_standard>
+                  <de-DE>Jaluit Atoll</de-DE>
+                  <en-US>Jaluit Atoll</en-US>
+                </_standard>
+              </orte>
+            </_path>
+            <_has_children>false</_has_children>
+            <_uuid>d83f16b0-22ff-453b-9de9-f5d6cfd0b204</_uuid>
+            <_objecttype>orte</_objecttype>
+            <_global_object_id>25220@e2693ff0-14c9-4333-8c0e-a4de8c701ce4</_global_object_id>
+            <_system_object_id>25220</_system_object_id>
+            <_standard>
+              <de-DE>Jaluit Atoll</de-DE>
+              <en-US>Jaluit Atoll</en-US>
+            </_standard>
+            <custom name="geonames_id" type="custom:base.custom-data-type-geonames.geonames">
+              <string name="frontendLanguage">de</string>
+              <object name="_fulltext">
+                <string name="text">Jaluit Atoll</string>
+              </object>
+              <string name="conceptURI">http://www.geonames.org/2080409</string>
+              <object name="_standard">
+                <string name="text">Jaluit Atoll</string>
+              </object>
+              <string name="conceptName">Jaluit Atoll</string>
+            </custom>
+            <name type="text_oneline">Jaluit Atoll</name>
+          </orte>
+        </ort>
+        <bemerkung type="text">vermutlich auf der Insel Jaluit im gleichnamigen Atoll</bemerkung>
+        <unsicher type="boolean">0</unsicher>
+      </objekte__orte>
+      <objekte__orte>
+        <ereignis>
+          <ereignisse>
+            <_id>78</_id>
+            <_system_object_id>21410</_system_object_id>
+            <_version>3</_version>
+            <_uuid>8b7a6de7-fb8a-435c-9996-34e0c5458dd7</_uuid>
+            <_objecttype>ereignisse</_objecttype>
+            <_global_object_id>21410@e2693ff0-14c9-4333-8c0e-a4de8c701ce4</_global_object_id>
+            <_system_object_id>21410</_system_object_id>
+            <_standard>
+              <de-DE>Kauf</de-DE>
+              <en-US>Purchase</en-US>
+            </_standard>
+            <name type="text_l10n_oneline">
+              <de-DE>Kauf</de-DE>
+              <en-US>Purchase</en-US>
+            </name>
+            <bemerkung type="text_l10n_oneline">
+              <de-DE>Erwerbung, erworben durch Kauf</de-DE>
+            </bemerkung>
+            <lido_id type="text_oneline">lido00001</lido_id>
+            <lido_name type="text_l10n_oneline">
+              <de-DE>Erwerbung</de-DE>
+              <en-US>Acquisition</en-US>
+            </lido_name>
+            <ubmz_event_id type="text_oneline">ubmz-15</ubmz_event_id>
+          </ereignisse>
+        </ereignis>
+        <ort>
+          <orte>
+            <_id>1158</_id>
+            <_system_object_id>25220</_system_object_id>
+            <_version>1</_version>
+            <_id_parent>1049</_id_parent>
+            <_path>
+              <orte level="0" parent-level="4">
+                <_system_object_id>24607</_system_object_id>
+                <_global_object_id>24607@e2693ff0-14c9-4333-8c0e-a4de8c701ce4</_global_object_id>
+                <_uuid>dc4fef28-b9f5-4f2e-9e61-8db88dadae12</_uuid>
+                <_has_children>true</_has_children>
+                <_id>1115</_id>
+                <_objecttype>orte</_objecttype>
+                <_standard>
+                  <de-DE>Pazifik</de-DE>
+                  <en-US>Pazifik</en-US>
+                </_standard>
+              </orte>
+              <orte level="1" parent-level="3">
+                <_system_object_id>23953</_system_object_id>
+                <_global_object_id>23953@e2693ff0-14c9-4333-8c0e-a4de8c701ce4</_global_object_id>
+                <_uuid>ef3fe24b-1aa3-4582-854d-2f856481f43e</_uuid>
+                <_has_children>true</_has_children>
+                <_id>1041</_id>
+                <_objecttype>orte</_objecttype>
+                <_standard>
+                  <de-DE>Ozeanien</de-DE>
+                  <en-US>Ozeanien</en-US>
+                </_standard>
+              </orte>
+              <orte level="2" parent-level="2">
+                <_system_object_id>23954</_system_object_id>
+                <_global_object_id>23954@e2693ff0-14c9-4333-8c0e-a4de8c701ce4</_global_object_id>
+                <_uuid>71642723-1ef4-41bc-8b2f-bc46061bb8b0</_uuid>
+                <_has_children>true</_has_children>
+                <_id>1042</_id>
+                <_objecttype>orte</_objecttype>
+                <_standard>
+                  <de-DE>Melanesien</de-DE>
+                  <en-US>Melanesien</en-US>
+                </_standard>
+              </orte>
+              <orte level="3" parent-level="1">
+                <_system_object_id>23971</_system_object_id>
+                <_global_object_id>23971@e2693ff0-14c9-4333-8c0e-a4de8c701ce4</_global_object_id>
+                <_uuid>3a9a7eab-d5a4-4a8d-8910-61ee85b1da4d</_uuid>
+                <_has_children>true</_has_children>
+                <_id>1049</_id>
+                <_objecttype>orte</_objecttype>
+                <_standard>
+                  <de-DE>Marshallinseln</de-DE>
+                  <en-US>Marshallinseln</en-US>
+                </_standard>
+              </orte>
+              <orte level="4" parent-level="0">
+                <_system_object_id>25220</_system_object_id>
+                <_global_object_id>25220@e2693ff0-14c9-4333-8c0e-a4de8c701ce4</_global_object_id>
+                <_uuid>d83f16b0-22ff-453b-9de9-f5d6cfd0b204</_uuid>
+                <_has_children>false</_has_children>
+                <_id>1158</_id>
+                <_objecttype>orte</_objecttype>
+                <_standard>
+                  <de-DE>Jaluit Atoll</de-DE>
+                  <en-US>Jaluit Atoll</en-US>
+                </_standard>
+              </orte>
+            </_path>
+            <_has_children>false</_has_children>
+            <_uuid>d83f16b0-22ff-453b-9de9-f5d6cfd0b204</_uuid>
+            <_objecttype>orte</_objecttype>
+            <_global_object_id>25220@e2693ff0-14c9-4333-8c0e-a4de8c701ce4</_global_object_id>
+            <_system_object_id>25220</_system_object_id>
+            <_standard>
+              <de-DE>Jaluit Atoll</de-DE>
+              <en-US>Jaluit Atoll</en-US>
+            </_standard>
+            <custom name="geonames_id" type="custom:base.custom-data-type-geonames.geonames">
+              <string name="frontendLanguage">de</string>
+              <object name="_fulltext">
+                <string name="text">Jaluit Atoll</string>
+              </object>
+              <string name="conceptURI">http://www.geonames.org/2080409</string>
+              <object name="_standard">
+                <string name="text">Jaluit Atoll</string>
+              </object>
+              <string name="conceptName">Jaluit Atoll</string>
+            </custom>
+            <name type="text_oneline">Jaluit Atoll</name>
+          </orte>
+        </ort>
+        <bemerkung type="text">vermutlich auf der Insel Jaluit im gleichnamigen Atoll</bemerkung>
+        <unsicher type="boolean">0</unsicher>
+      </objekte__orte>
+      <objekte__orte>
+        <ereignis>
+          <ereignisse>
+            <_id>30</_id>
+            <_system_object_id>190</_system_object_id>
+            <_version>5</_version>
+            <_uuid>193bbdb1-7bdc-4d13-9a7b-331329facc66</_uuid>
+            <_objecttype>ereignisse</_objecttype>
+            <_global_object_id>190@e2693ff0-14c9-4333-8c0e-a4de8c701ce4</_global_object_id>
+            <_system_object_id>190</_system_object_id>
+            <_standard>
+              <de-DE>Erwerbung</de-DE>
+              <en-US>Acquisition</en-US>
+            </_standard>
+            <name type="text_l10n_oneline">
+              <de-DE>Erwerbung</de-DE>
+              <en-US>Acquisition</en-US>
+            </name>
+            <bemerkung type="text_l10n_oneline">
+              <de-DE>Die Begründung des rechtlichen Eigentums an Objekten durch eine Organisation, z. B. durch Auswahl, Bestellung, Kauf, Geschenk oder Umtausch.</de-DE>
+              <en-US>The establishment of legal ownership of items, by an organisation, e.g. by selection, ordering, purchase, gift, or exchange. (AthenaPlus)</en-US>
+            </bemerkung>
+            <lido_id type="text_oneline">lido00001</lido_id>
+            <lido_name type="text_l10n_oneline">
+              <de-DE>Erwerbung</de-DE>
+              <en-US>Acquisition</en-US>
+            </lido_name>
+            <ubmz_event_id type="text_oneline">ubmz-11</ubmz_event_id>
+          </ereignisse>
+        </ereignis>
+        <ort>
+          <orte>
+            <_id>627</_id>
+            <_system_object_id>7750</_system_object_id>
+            <_version>1</_version>
+            <_id_parent>252</_id_parent>
+            <_path>
+              <orte level="0" parent-level="2">
+                <_system_object_id>31</_system_object_id>
+                <_global_object_id>31@e2693ff0-14c9-4333-8c0e-a4de8c701ce4</_global_object_id>
+                <_uuid>943ae48c-b0aa-4dba-9b6f-dc821c55f634</_uuid>
+                <_has_children>true</_has_children>
+                <_id>3</_id>
+                <_objecttype>orte</_objecttype>
+                <_standard>
+                  <de-DE>Deutschland</de-DE>
+                  <en-US>Deutschland</en-US>
+                </_standard>
+              </orte>
+              <orte level="1" parent-level="1">
+                <_system_object_id>4779</_system_object_id>
+                <_global_object_id>4779@e2693ff0-14c9-4333-8c0e-a4de8c701ce4</_global_object_id>
+                <_uuid>808bde5e-2349-4b39-9cc4-a11aff84ab03</_uuid>
+                <_has_children>true</_has_children>
+                <_id>252</_id>
+                <_objecttype>orte</_objecttype>
+                <_standard>
+                  <de-DE>Rheinland-Pfalz</de-DE>
+                  <en-US>Rheinland-Pfalz</en-US>
+                </_standard>
+              </orte>
+              <orte level="2" parent-level="0">
+                <_system_object_id>7750</_system_object_id>
+                <_global_object_id>7750@e2693ff0-14c9-4333-8c0e-a4de8c701ce4</_global_object_id>
+                <_uuid>24a3d782-e707-4f5d-9794-f37403fe067d</_uuid>
+                <_has_children>true</_has_children>
+                <_id>627</_id>
+                <_objecttype>orte</_objecttype>
+                <_standard>
+                  <de-DE>Mainz</de-DE>
+                  <en-US>Mainz</en-US>
+                </_standard>
+              </orte>
+            </_path>
+            <_has_children>true</_has_children>
+            <_uuid>24a3d782-e707-4f5d-9794-f37403fe067d</_uuid>
+            <_objecttype>orte</_objecttype>
+            <_global_object_id>7750@e2693ff0-14c9-4333-8c0e-a4de8c701ce4</_global_object_id>
+            <_system_object_id>7750</_system_object_id>
+            <_standard>
+              <de-DE>Mainz</de-DE>
+              <en-US>Mainz</en-US>
+            </_standard>
+            <name type="text_oneline">Mainz</name>
+          </orte>
+        </ort>
+        <unsicher type="boolean">0</unsicher>
+      </objekte__orte>
+    </_nested__objekte__orte>
+    <_nested__objekte__datumsangaben>
+      <objekte__datumsangaben>
+        <ereignis>
+          <ereignisse>
+            <_id>44</_id>
+            <_system_object_id>204</_system_object_id>
+            <_version>7</_version>
+            <_uuid>a42afc8e-81d2-4d09-ab49-d5781dadb073</_uuid>
+            <_objecttype>ereignisse</_objecttype>
+            <_global_object_id>204@e2693ff0-14c9-4333-8c0e-a4de8c701ce4</_global_object_id>
+            <_system_object_id>204</_system_object_id>
+            <_standard>
+              <de-DE>Herstellung</de-DE>
+              <en-US>Production</en-US>
+            </_standard>
+            <name type="text_l10n_oneline">
+              <de-DE>Herstellung</de-DE>
+              <en-US>Production</en-US>
+            </name>
+            <bemerkung type="text_l10n_oneline">
+              <de-DE>Die Erstellung eines oder mehrerer physischer Objekte. Nicht für konzeptionelle und immaterielle Elemente verwenden (dafür bitte "Künstlerische Schöpfung" auswählen).</de-DE>
+              <en-US>The creation of one or more physical items. Do not use for conceptual and non-material items (use Creation for these). (AthenaPlus)</en-US>
+            </bemerkung>
+            <lido_id type="text_oneline">lido00007</lido_id>
+            <lido_name type="text_l10n_oneline">
+              <de-DE>Herstellung</de-DE>
+              <en-US>Production</en-US>
+            </lido_name>
+            <ubmz_event_id type="text_oneline">ubmz-14</ubmz_event_id>
+          </ereignisse>
+        </ereignis>
+        <datum_frei type="text_oneline">vor 1903</datum_frei>
+        <datum_normiert type="daterange">
+          <to>1902-12-31</to>
+        </datum_normiert>
+        <unsicher type="boolean">0</unsicher>
+      </objekte__datumsangaben>
+      <objekte__datumsangaben>
+        <ereignis>
+          <ereignisse>
+            <_id>78</_id>
+            <_system_object_id>21410</_system_object_id>
+            <_version>3</_version>
+            <_uuid>8b7a6de7-fb8a-435c-9996-34e0c5458dd7</_uuid>
+            <_objecttype>ereignisse</_objecttype>
+            <_global_object_id>21410@e2693ff0-14c9-4333-8c0e-a4de8c701ce4</_global_object_id>
+            <_system_object_id>21410</_system_object_id>
+            <_standard>
+              <de-DE>Kauf</de-DE>
+              <en-US>Purchase</en-US>
+            </_standard>
+            <name type="text_l10n_oneline">
+              <de-DE>Kauf</de-DE>
+              <en-US>Purchase</en-US>
+            </name>
+            <bemerkung type="text_l10n_oneline">
+              <de-DE>Erwerbung, erworben durch Kauf</de-DE>
+            </bemerkung>
+            <lido_id type="text_oneline">lido00001</lido_id>
+            <lido_name type="text_l10n_oneline">
+              <de-DE>Erwerbung</de-DE>
+              <en-US>Acquisition</en-US>
+            </lido_name>
+            <ubmz_event_id type="text_oneline">ubmz-15</ubmz_event_id>
+          </ereignisse>
+        </ereignis>
+        <datum_frei type="text_oneline">1903</datum_frei>
+        <datum_normiert type="daterange">
+          <from>1903-01-01</from>
+          <to>1903-12-31</to>
+        </datum_normiert>
+        <unsicher type="boolean">0</unsicher>
+      </objekte__datumsangaben>
+      <objekte__datumsangaben>
+        <ereignis>
+          <ereignisse>
+            <_id>30</_id>
+            <_system_object_id>190</_system_object_id>
+            <_version>5</_version>
+            <_uuid>193bbdb1-7bdc-4d13-9a7b-331329facc66</_uuid>
+            <_objecttype>ereignisse</_objecttype>
+            <_global_object_id>190@e2693ff0-14c9-4333-8c0e-a4de8c701ce4</_global_object_id>
+            <_system_object_id>190</_system_object_id>
+            <_standard>
+              <de-DE>Erwerbung</de-DE>
+              <en-US>Acquisition</en-US>
+            </_standard>
+            <name type="text_l10n_oneline">
+              <de-DE>Erwerbung</de-DE>
+              <en-US>Acquisition</en-US>
+            </name>
+            <bemerkung type="text_l10n_oneline">
+              <de-DE>Die Begründung des rechtlichen Eigentums an Objekten durch eine Organisation, z. B. durch Auswahl, Bestellung, Kauf, Geschenk oder Umtausch.</de-DE>
+              <en-US>The establishment of legal ownership of items, by an organisation, e.g. by selection, ordering, purchase, gift, or exchange. (AthenaPlus)</en-US>
+            </bemerkung>
+            <lido_id type="text_oneline">lido00001</lido_id>
+            <lido_name type="text_l10n_oneline">
+              <de-DE>Erwerbung</de-DE>
+              <en-US>Acquisition</en-US>
+            </lido_name>
+            <ubmz_event_id type="text_oneline">ubmz-11</ubmz_event_id>
+          </ereignisse>
+        </ereignis>
+        <datum_frei type="text_oneline">21.07.1950</datum_frei>
+        <datum_normiert type="daterange">
+          <from>1950-07-21</from>
+          <to>1950-07-21</to>
+        </datum_normiert>
+        <datum_bemerkung type="text">A. Rittscher verkaufte dem damaligen Institut für Völkerkunde (heute Ethnologie und Afrikastudien) zwei Stabkarten: JGU ES 1 und JGU ES 2.</datum_bemerkung>
+        <unsicher type="boolean">0</unsicher>
+      </objekte__datumsangaben>
+    </_nested__objekte__datumsangaben>
+    <_nested__objekte__materialien>
+      <objekte__materialien>
+        <material>
+          <material>
+            <_id>872</_id>
+            <_system_object_id>22850</_system_object_id>
+            <_version>5</_version>
+            <_id_parent>787</_id_parent>
+            <_path>
+              <material level="0" parent-level="3">
+                <_system_object_id>22180</_system_object_id>
+                <_global_object_id>22180@e2693ff0-14c9-4333-8c0e-a4de8c701ce4</_global_object_id>
+                <_uuid>a115e343-1f12-4cb3-a09b-aa988f1dc47b</_uuid>
+                <_has_children>true</_has_children>
+                <_id>202</_id>
+                <_objecttype>material</_objecttype>
+                <_standard>
+                  <de-DE>Pflanzenteil</de-DE>
+                  <en-US>Pflanzenteil</en-US>
+                </_standard>
+              </material>
+              <material level="1" parent-level="2">
+                <_system_object_id>22525</_system_object_id>
+                <_global_object_id>22525@e2693ff0-14c9-4333-8c0e-a4de8c701ce4</_global_object_id>
+                <_uuid>1e857bde-9bfb-4e05-89c8-ec76c1effa1f</_uuid>
+                <_has_children>true</_has_children>
+                <_id>547</_id>
+                <_objecttype>material</_objecttype>
+                <_standard>
+                  <de-DE>Blatt</de-DE>
+                  <en-US>Blatt</en-US>
+                </_standard>
+              </material>
+              <material level="2" parent-level="1">
+                <_system_object_id>22765</_system_object_id>
+                <_global_object_id>22765@e2693ff0-14c9-4333-8c0e-a4de8c701ce4</_global_object_id>
+                <_uuid>978d5aba-b88c-4841-85c3-bbd1a5d3eefc</_uuid>
+                <_has_children>true</_has_children>
+                <_id>787</_id>
+                <_objecttype>material</_objecttype>
+                <_standard>
+                  <de-DE>Kokosblatt</de-DE>
+                  <en-US>Kokosblatt</en-US>
+                </_standard>
+              </material>
+              <material level="3" parent-level="0">
+                <_system_object_id>22850</_system_object_id>
+                <_global_object_id>22850@e2693ff0-14c9-4333-8c0e-a4de8c701ce4</_global_object_id>
+                <_uuid>b0161290-1b86-4f78-abef-97bc1bb9c33f</_uuid>
+                <_has_children>false</_has_children>
+                <_id>872</_id>
+                <_objecttype>material</_objecttype>
+                <_standard>
+                  <de-DE>Kokosblattrippen</de-DE>
+                  <en-US>Kokosblattrippen</en-US>
+                </_standard>
+              </material>
+            </_path>
+            <_has_children>false</_has_children>
+            <_uuid>b0161290-1b86-4f78-abef-97bc1bb9c33f</_uuid>
+            <_objecttype>material</_objecttype>
+            <_global_object_id>22850@e2693ff0-14c9-4333-8c0e-a4de8c701ce4</_global_object_id>
+            <_system_object_id>22850</_system_object_id>
+            <_standard>
+              <de-DE>Kokosblattrippen</de-DE>
+              <en-US>Kokosblattrippen</en-US>
+            </_standard>
+            <name type="text_l10n_oneline">
+              <de-DE>Kokosblattrippen</de-DE>
+            </name>
+            <alte_kuniweb type="text_oneline">702</alte_kuniweb>
+          </material>
+        </material>
+      </objekte__materialien>
+      <objekte__materialien>
+        <material>
+          <material>
+            <_id>196</_id>
+            <_system_object_id>22174</_system_object_id>
+            <_version>6</_version>
+            <_has_children>false</_has_children>
+            <_uuid>a7a9ecd5-627a-4770-8ae3-64a2f01d3572</_uuid>
+            <_objecttype>material</_objecttype>
+            <_global_object_id>22174@e2693ff0-14c9-4333-8c0e-a4de8c701ce4</_global_object_id>
+            <_system_object_id>22174</_system_object_id>
+            <_standard>
+              <de-DE>Koralle</de-DE>
+              <en-US>Koralle</en-US>
+            </_standard>
+            <name type="text_l10n_oneline">
+              <de-DE>Koralle</de-DE>
+            </name>
+            <dnb type="text_oneline">http://d-nb.info/gnd/4688448-8</dnb>
+            <getty type="text_oneline">http://vocab.getty.edu/aat/300011800</getty>
+            <alte_kuniweb type="text_oneline">195</alte_kuniweb>
+          </material>
+        </material>
+      </objekte__materialien>
+      <objekte__materialien>
+        <material>
+          <material>
+            <_id>641</_id>
+            <_system_object_id>22619</_system_object_id>
+            <_version>5</_version>
+            <_id_parent>327</_id_parent>
+            <_path>
+              <material level="0" parent-level="2">
+                <_system_object_id>22155</_system_object_id>
+                <_global_object_id>22155@e2693ff0-14c9-4333-8c0e-a4de8c701ce4</_global_object_id>
+                <_uuid>4a88dc46-6407-45d6-b9bc-78c5e782ed26</_uuid>
+                <_has_children>true</_has_children>
+                <_id>177</_id>
+                <_objecttype>material</_objecttype>
+                <_standard>
+                  <de-DE>Naturfaser</de-DE>
+                  <en-US>Naturfaser</en-US>
+                </_standard>
+              </material>
+              <material level="1" parent-level="1">
+                <_system_object_id>22305</_system_object_id>
+                <_global_object_id>22305@e2693ff0-14c9-4333-8c0e-a4de8c701ce4</_global_object_id>
+                <_uuid>0572a3c8-aa3e-4cdf-9972-f6c8a5fd8ff3</_uuid>
+                <_has_children>true</_has_children>
+                <_id>327</_id>
+                <_objecttype>material</_objecttype>
+                <_standard>
+                  <de-DE>Pflanzenfaser</de-DE>
+                  <en-US>Pflanzenfaser</en-US>
+                </_standard>
+              </material>
+              <material level="2" parent-level="0">
+                <_system_object_id>22619</_system_object_id>
+                <_global_object_id>22619@e2693ff0-14c9-4333-8c0e-a4de8c701ce4</_global_object_id>
+                <_uuid>c9f2bd4b-7d7d-4e1a-9cfd-ca3da37665f2</_uuid>
+                <_has_children>false</_has_children>
+                <_id>641</_id>
+                <_objecttype>material</_objecttype>
+                <_standard>
+                  <de-DE>Kokosfaser</de-DE>
+                  <en-US>Kokosfaser</en-US>
+                </_standard>
+              </material>
+            </_path>
+            <_has_children>false</_has_children>
+            <_uuid>c9f2bd4b-7d7d-4e1a-9cfd-ca3da37665f2</_uuid>
+            <_objecttype>material</_objecttype>
+            <_global_object_id>22619@e2693ff0-14c9-4333-8c0e-a4de8c701ce4</_global_object_id>
+            <_system_object_id>22619</_system_object_id>
+            <_standard>
+              <de-DE>Kokosfaser</de-DE>
+              <en-US>Kokosfaser</en-US>
+            </_standard>
+            <name type="text_l10n_oneline">
+              <de-DE>Kokosfaser</de-DE>
+            </name>
+            <dnb type="text_oneline">http://d-nb.info/gnd/4219306-0</dnb>
+            <getty type="text_oneline">http://vocab.getty.edu/aat/300014056</getty>
+            <alte_kuniweb type="text_oneline">192</alte_kuniweb>
+          </material>
+        </material>
+      </objekte__materialien>
+    </_nested__objekte__materialien>
+    <masse type="text">B 27,5 / B 14 cm / L 44 cm</masse>
+    <erhaltungszustand type="text">Eine Koralle ist abgefallen, liegt lose bei Stabkarte.</erhaltungszustand>
+    <bemerkung type="text">Ankauf der beiden Stabkarten: 20,- DM</bemerkung>
+    <_reverse_nested__bilder__objekt>
+      <bilder>
+        <_uuid>302699d8-e19b-43c0-9efb-0785c36ecee5</_uuid>
+        <_objecttype>bilder</_objecttype>
+        <_global_object_id>23974@e2693ff0-14c9-4333-8c0e-a4de8c701ce4</_global_object_id>
+        <_system_object_id>23974</_system_object_id>
+        <pool id="43">
+          <de-DE>Ethnografische Studiensammlung</de-DE>
+        </pool>
+        <datei>
+          <files>
+            <file>
+              <eas-id>15423</eas-id>
+              <preferred>true</preferred>
+              <status>done</status>
+              <class>image</class>
+              <extension>tif</extension>
+              <name/>
+              <original_filename>JGU ES 1.tif</original_filename>
+              <compiled>tif image, 5412 x 7216 @ 24 bit, 11.81 MB</compiled>
+              <eas_parent_id/>
+              <date_inserted>2023-02-17T09:00:28Z</date_inserted>
+              <date_created>2013-08-23T11:44:20Z</date_created>
+              <date_uploaded>2021-08-11T15:05:35Z</date_uploaded>
+              <filesize>12382614</filesize>
+              <technical_metadata>
+                <file_sha224_checksum>0b40be86169d8b60a9eb459fe97b3cc20bf7d70018345c8bbb9fd498</file_sha224_checksum>
+                <orientation>1</orientation>
+                <camera_scanner>Hasselblad CFV-39 - Hasselblad ELX</camera_scanner>
+                <width>5412</width>
+                <height>7216</height>
+                <dpi>300</dpi>
+                <max_dimension>7216</max_dimension>
+                <format>portrait</format>
+                <aspect_ratio>0.75</aspect_ratio>
+                <colordepth>24</colordepth>
+                <colorspace>rgb</colorspace>
+                <colorprofile>Adobe RGB (1998)</colorprofile>
+              </technical_metadata>
+              <versions>
+                <version name="small">
+                  <filesize>37215</filesize>
+                  <height>333</height>
+                  <has_more_jobs>0</has_more_jobs>
+                  <class>image</class>
+                  <width>250</width>
+                  <url>https://objects.ub.uni-mainz.de/eas/partitions-inline/2/0/15000/15423/58eb7644f2b204373c9bcbbc83d99548516a05c6/image/png</url>
+                  <status>done</status>
+                  <extension>png</extension>
+                  <aspect_ratio>0.75</aspect_ratio>
+                  <dpi>299</dpi>
+                  <download_url>https://objects.ub.uni-mainz.de/eas/partitions/2/0/15000/15423/58eb7644f2b204373c9bcbbc83d99548516a05c6/image/png/JGU%20ES%201-small.png</download_url>
+                  <_download_allowed>1</_download_allowed>
+                  <deep_link_url>https://objects.ub.uni-mainz.de/api/v1/objects/uuid/302699d8-e19b-43c0-9efb-0785c36ecee5/file/id/15423/file_version/name/small/disposition/inline</deep_link_url>
+                </version>
+                <version name="preview">
+                  <filesize>236958</filesize>
+                  <height>1000</height>
+                  <has_more_jobs>0</has_more_jobs>
+                  <class>image</class>
+                  <width>750</width>
+                  <url>https://objects.ub.uni-mainz.de/eas/partitions-inline/2/0/15000/15423/1d5939e9d75d604ef7bb91166271bae3e9da86d8/image/png</url>
+                  <status>done</status>
+                  <extension>png</extension>
+                  <aspect_ratio>0.75</aspect_ratio>
+                  <dpi>299</dpi>
+                  <zoom_url>https://objects.ub.uni-mainz.de/eas/zoomer/15423/48034bc91e87dea7cb58431ba9e94bf7?instance=easydb5</zoom_url>
+                  <download_url>https://objects.ub.uni-mainz.de/eas/partitions/2/0/15000/15423/1d5939e9d75d604ef7bb91166271bae3e9da86d8/image/png/JGU%20ES%201-preview.png</download_url>
+                  <_download_allowed>1</_download_allowed>
+                  <deep_link_url>https://objects.ub.uni-mainz.de/api/v1/objects/uuid/302699d8-e19b-43c0-9efb-0785c36ecee5/file/id/15423/file_version/name/preview/disposition/inline</deep_link_url>
+                </version>
+                <version name="original">
+                  <filesize>12382614</filesize>
+                  <height>7216</height>
+                  <status>done</status>
+                  <has_more_jobs>0</has_more_jobs>
+                  <download_url>https://objects.ub.uni-mainz.de/eas/partitions/1/0/15000/15423/23b6ce7d4009f7afaf9dc933bd9229ce95325bf0/image/tiff/JGU%20ES%201.tif</download_url>
+                  <aspect_ratio>0.75</aspect_ratio>
+                  <class>image</class>
+                  <width>5412</width>
+                  <url>https://objects.ub.uni-mainz.de/eas/partitions-inline/1/0/15000/15423/23b6ce7d4009f7afaf9dc933bd9229ce95325bf0/image/tiff</url>
+                  <date_created>2013-08-23T11:44:20Z</date_created>
+                  <extension>tif</extension>
+                  <dpi>300</dpi>
+                  <compiled>tif image, 5412 x 7216 @ 24 bit, 11.81 MB</compiled>
+                  <_download_allowed>1</_download_allowed>
+                  <deep_link_url>https://objects.ub.uni-mainz.de/api/v1/objects/uuid/302699d8-e19b-43c0-9efb-0785c36ecee5/file/id/15423/file_version/name/original/disposition/inline</deep_link_url>
+                  <path>2023-02-17 10_23 easydb FULL DDB-2022/assets/JGU ES 1_Stabkarte_23968.tif</path>
+                </version>
+                <version name="full">
+                  <filesize>10387226</filesize>
+                  <height>7216</height>
+                  <has_more_jobs>0</has_more_jobs>
+                  <class>image</class>
+                  <width>5412</width>
+                  <url>https://objects.ub.uni-mainz.de/eas/partitions-inline/2/0/15000/15423/9d1062d0d20ae17a7d868d3d5fea7645990a6c17/image/png</url>
+                  <status>done</status>
+                  <extension>png</extension>
+                  <aspect_ratio>0.75</aspect_ratio>
+                  <dpi>299</dpi>
+                  <zoom_url>https://objects.ub.uni-mainz.de/eas/zoomer/15423/041b2840f67d26a7abe52519962e4b57?instance=easydb5</zoom_url>
+                  <download_url>https://objects.ub.uni-mainz.de/eas/partitions/2/0/15000/15423/9d1062d0d20ae17a7d868d3d5fea7645990a6c17/image/png/JGU%20ES%201-full.png</download_url>
+                  <_download_allowed>1</_download_allowed>
+                  <deep_link_url>https://objects.ub.uni-mainz.de/api/v1/objects/uuid/302699d8-e19b-43c0-9efb-0785c36ecee5/file/id/15423/file_version/name/full/disposition/inline</deep_link_url>
+                </version>
+                <version name="huge">
+                  <filesize>881447</filesize>
+                  <height>2000</height>
+                  <has_more_jobs>0</has_more_jobs>
+                  <class>image</class>
+                  <width>1500</width>
+                  <url>https://objects.ub.uni-mainz.de/eas/partitions-inline/2/0/15000/15423/8194288006dcccfa07e8fab67e27d92a0266f655/image/png</url>
+                  <status>done</status>
+                  <extension>png</extension>
+                  <aspect_ratio>0.75</aspect_ratio>
+                  <dpi>299</dpi>
+                  <zoom_url>https://objects.ub.uni-mainz.de/eas/zoomer/15423/5f0ce83a1a4b9c72ca00f01100fc8930?instance=easydb5</zoom_url>
+                  <download_url>https://objects.ub.uni-mainz.de/eas/partitions/2/0/15000/15423/8194288006dcccfa07e8fab67e27d92a0266f655/image/png/JGU%20ES%201-huge.png</download_url>
+                  <_download_allowed>1</_download_allowed>
+                  <deep_link_url>https://objects.ub.uni-mainz.de/api/v1/objects/uuid/302699d8-e19b-43c0-9efb-0785c36ecee5/file/id/15423/file_version/name/huge/disposition/inline</deep_link_url>
+                </version>
+              </versions>
+            </file>
+          </files>
+        </datei>
+        <lizenz>
+          <lizenzen>
+            <_id>7</_id>
+            <_system_object_id>77</_system_object_id>
+            <_version>9</_version>
+            <_uuid>d6394210-dea0-472c-b7f6-6a206401dfd2</_uuid>
+            <_objecttype>lizenzen</_objecttype>
+            <_global_object_id>77@e2693ff0-14c9-4333-8c0e-a4de8c701ce4</_global_object_id>
+            <_system_object_id>77</_system_object_id>
+            <_standard>
+              <de-DE>CC BY 4.0</de-DE>
+              <en-US>CC BY 4.0</en-US>
+            </_standard>
+            <_standard-2>
+              <de-DE>Creative Commons Namensnennung. Lizenzvertrag: https://creativecommons.org/licenses/by/4.0/deed.de</de-DE>
+              <en-US>Creative Commons Attribution . License deed: https://creativecommons.org/licenses/by/4.0/deed.en</en-US>
+            </_standard-2>
+            <name type="text_l10n_oneline">
+              <de-DE>CC BY 4.0</de-DE>
+              <en-US>CC BY 4.0</en-US>
+            </name>
+            <bemerkung type="text_l10n">
+              <de-DE>Creative Commons Namensnennung. Lizenzvertrag: https://creativecommons.org/licenses/by/4.0/deed.de</de-DE>
+              <en-US>Creative Commons Attribution . License deed: https://creativecommons.org/licenses/by/4.0/deed.en</en-US>
+            </bemerkung>
+            <link type="string">https://creativecommons.org/licenses/by/4.0/</link>
+          </lizenzen>
+        </lizenz>
+        <urheber>
+          <urheber>
+            <_id>13</_id>
+            <_system_object_id>13303</_system_object_id>
+            <_version>2</_version>
+            <_uuid>65bd1633-435c-4ec6-bcf5-1ce3a5a9d3fe</_uuid>
+            <_objecttype>urheber</_objecttype>
+            <_global_object_id>13303@e2693ff0-14c9-4333-8c0e-a4de8c701ce4</_global_object_id>
+            <_system_object_id>13303</_system_object_id>
+            <_standard>
+              <de-DE>Monika Gräwe, JGU Mainz</de-DE>
+              <en-US>Monika Gräwe, JGU Mainz</en-US>
+            </_standard>
+            <name type="text_oneline">Monika Gräwe, JGU Mainz</name>
+          </urheber>
+        </urheber>
+        <aufnahmedatum type="date">2013-08-23</aufnahmedatum>
+        <unsicher type="boolean">0</unsicher>
+      </bilder>
+    </_reverse_nested__bilder__objekt>
+    <_nested__objekte__weblinks_literatur>
+      <objekte__weblinks_literatur>
+        <art_der_beziehung>
+          <art_der_beziehung>
+            <_id>4</_id>
+            <_system_object_id>410</_system_object_id>
+            <_version>1</_version>
+            <_uuid>275c8a86-cac0-4716-ac27-1441027b6be3</_uuid>
+            <_objecttype>art_der_beziehung</_objecttype>
+            <_global_object_id>410@e2693ff0-14c9-4333-8c0e-a4de8c701ce4</_global_object_id>
+            <_system_object_id>410</_system_object_id>
+            <_standard>
+              <de-DE>beschrieben in</de-DE>
+              <en-US>is desribed by</en-US>
+            </_standard>
+            <datacite_id type="text_oneline">IsDescribedBy</datacite_id>
+            <name type="text_l10n_oneline">
+              <de-DE>beschrieben in</de-DE>
+              <en-US>is desribed by</en-US>
+            </name>
+          </art_der_beziehung>
+        </art_der_beziehung>
+        <custom name="identifier_quelle" type="custom:base.custom-data-type-link.link">
+          <string name="hostname">www.sammlungen.uni-mainz.de</string>
+          <string name="tld">de</string>
+          <string name="url">https://www.sammlungen.uni-mainz.de/ansichtssache-archiv/objekt-des-monats-maerz-2015/</string>
+          <object name="_fulltext">
+            <string name="string">https://www.sammlungen.uni-mainz.de/ansichtssache-archiv/objekt-des-monats-maerz-2015/</string>
+            <object name="l10ntext">
+              <string name="de_DE"/>
+              <string name="en_US"/>
+            </object>
+          </object>
+          <object name="text">
+            <string name="de_DE"/>
+            <string name="en_US"/>
+          </object>
+          <object name="_standard">
+            <string name="text">https://www.sammlungen.uni-mainz.de/ansichtssache-archiv/objekt-des-monats-maerz-2015/</string>
+          </object>
+        </custom>
+        <literatur type="text">Anna-Maria Brandstetter, 2015: Kaufen en gros - verkaufen en détails. Zwei Stabkarten von den Marshallinseln.</literatur>
+      </objekte__weblinks_literatur>
+      <objekte__weblinks_literatur>
+        <art_der_beziehung>
+          <art_der_beziehung>
+            <_id>5</_id>
+            <_system_object_id>411</_system_object_id>
+            <_version>3</_version>
+            <_uuid>307f72f6-1a56-41ee-8a00-2513c0bde8d2</_uuid>
+            <_objecttype>art_der_beziehung</_objecttype>
+            <_global_object_id>411@e2693ff0-14c9-4333-8c0e-a4de8c701ce4</_global_object_id>
+            <_system_object_id>411</_system_object_id>
+            <_standard>
+              <de-DE>Referenz</de-DE>
+              <en-US>reference</en-US>
+            </_standard>
+            <datacite_id type="text_oneline">Reference</datacite_id>
+            <name type="text_l10n_oneline">
+              <de-DE>Referenz</de-DE>
+              <en-US>reference</en-US>
+            </name>
+          </art_der_beziehung>
+        </art_der_beziehung>
+        <custom name="identifier_quelle" type="custom:base.custom-data-type-link.link">
+          <string name="hostname">smarthistory.org</string>
+          <string name="tld">org</string>
+          <string name="url">https://smarthistory.org/chart-marshall/</string>
+          <object name="_fulltext">
+            <string name="string">https://smarthistory.org/chart-marshall/</string>
+            <object name="l10ntext">
+              <string name="de_DE"/>
+              <string name="en_US"/>
+            </object>
+          </object>
+          <object name="text">
+            <string name="de_DE"/>
+            <string name="en_US"/>
+          </object>
+          <object name="_standard">
+            <string name="text">https://smarthistory.org/chart-marshall/</string>
+          </object>
+        </custom>
+        <literatur type="text">Dr. Jenny Newell and Dr. Steven Zucker, 2017: "Navigation Chart, Marshall Islands," in: Smarthistory, April 1, 2017, accessed August 20, 2022.</literatur>
+      </objekte__weblinks_literatur>
+    </_nested__objekte__weblinks_literatur>
   </objekte>
   <objekte>
     <_id>6974</_id>
@@ -10686,7 +11980,7 @@ Am anderen Ende: runder Aufkleber (weiß) mit Zahl in der Mitte: 34</beschriftun
         </file>
       </files>
     </_standard-eas>
-    <_exported_at>2023-02-16T17:20:45+01:00</_exported_at>
+    <_exported_at>2023-02-17T10:23:32+01:00</_exported_at>
     <_mask>objekte_es__all_fields</_mask>
     <_last_modified>2022-11-03T20:24:35Z</_last_modified>
     <_created>2021-09-02T09:23:32Z</_created>
@@ -12661,7 +13955,7 @@ Englisch (Digital Benin): The commemorative head, Uhunmwu Elao, of an Ọba plac
                   <compiled>tif image, 5792 x 8688 @ 24 bit, 143.99 MB</compiled>
                   <_download_allowed>1</_download_allowed>
                   <deep_link_url>https://objects.ub.uni-mainz.de/api/v1/objects/uuid/f0e2f9ec-d147-4b6b-8cd7-f123556d2ccf/file/id/15619/file_version/name/original/disposition/inline</deep_link_url>
-                  <path>2023-02-16 17_20 easydb FULL DDB-2022/assets/JGU ES 2595_Gedenkkopf eines Edo-Königs_24254.tif</path>
+                  <path>2023-02-17 10_23 easydb FULL DDB-2022/assets/JGU ES 2595_Gedenkkopf eines Edo-Königs_24254.tif</path>
                 </version>
                 <version name="full">
                   <filesize>56736461</filesize>
@@ -12832,7 +14126,7 @@ Englisch (Digital Benin): The commemorative head, Uhunmwu Elao, of an Ọba plac
                   <compiled>tif image, 5792 x 8688 @ 24 bit, 143.99 MB</compiled>
                   <_download_allowed>1</_download_allowed>
                   <deep_link_url>https://objects.ub.uni-mainz.de/api/v1/objects/uuid/57a16eca-a66c-481b-a9ab-6e07b7eb2758/file/id/15620/file_version/name/original/disposition/inline</deep_link_url>
-                  <path>2023-02-16 17_20 easydb FULL DDB-2022/assets/JGU ES 2595_Gedenkkopf eines Edo-Königs_24254_3.tif</path>
+                  <path>2023-02-17 10_23 easydb FULL DDB-2022/assets/JGU ES 2595_Gedenkkopf eines Edo-Königs_24254_3.tif</path>
                 </version>
                 <version name="full">
                   <filesize>60737204</filesize>
@@ -13003,7 +14297,7 @@ Englisch (Digital Benin): The commemorative head, Uhunmwu Elao, of an Ọba plac
                   <compiled>tif image, 5792 x 8688 @ 24 bit, 143.99 MB</compiled>
                   <_download_allowed>1</_download_allowed>
                   <deep_link_url>https://objects.ub.uni-mainz.de/api/v1/objects/uuid/d5cc3b21-0d1a-47a9-aed1-56828ab724da/file/id/15621/file_version/name/original/disposition/inline</deep_link_url>
-                  <path>2023-02-16 17_20 easydb FULL DDB-2022/assets/JGU ES 2595_Gedenkkopf eines Edo-Königs_24254_5.tif</path>
+                  <path>2023-02-17 10_23 easydb FULL DDB-2022/assets/JGU ES 2595_Gedenkkopf eines Edo-Königs_24254_5.tif</path>
                 </version>
                 <version name="huge">
                   <filesize>3358742</filesize>
@@ -13174,7 +14468,7 @@ Englisch (Digital Benin): The commemorative head, Uhunmwu Elao, of an Ọba plac
                   <compiled>tif image, 5792 x 8688 @ 24 bit, 143.99 MB</compiled>
                   <_download_allowed>1</_download_allowed>
                   <deep_link_url>https://objects.ub.uni-mainz.de/api/v1/objects/uuid/be1ab11d-d0b7-43f7-b64f-77249fc0d1bd/file/id/15622/file_version/name/original/disposition/inline</deep_link_url>
-                  <path>2023-02-16 17_20 easydb FULL DDB-2022/assets/JGU ES 2595_Gedenkkopf eines Edo-Königs_24254_7.tif</path>
+                  <path>2023-02-17 10_23 easydb FULL DDB-2022/assets/JGU ES 2595_Gedenkkopf eines Edo-Königs_24254_7.tif</path>
                 </version>
                 <version name="full">
                   <filesize>54031287</filesize>
@@ -13345,7 +14639,7 @@ Englisch (Digital Benin): The commemorative head, Uhunmwu Elao, of an Ọba plac
                   <compiled>tif image, 4021 x 5664 @ 24 bit, 65.19 MB</compiled>
                   <_download_allowed>1</_download_allowed>
                   <deep_link_url>https://objects.ub.uni-mainz.de/api/v1/objects/uuid/5e299764-87b4-4688-92ef-4d715ee4a264/file/id/15624/file_version/name/original/disposition/inline</deep_link_url>
-                  <path>2023-02-16 17_20 easydb FULL DDB-2022/assets/JGU ES 2595_Gedenkkopf eines Edo-Königs_24254_9.tif</path>
+                  <path>2023-02-17 10_23 easydb FULL DDB-2022/assets/JGU ES 2595_Gedenkkopf eines Edo-Königs_24254_9.tif</path>
                 </version>
                 <version name="full">
                   <filesize>37368923</filesize>
@@ -13516,7 +14810,7 @@ Englisch (Digital Benin): The commemorative head, Uhunmwu Elao, of an Ọba plac
                   <compiled>tif image, 4821 x 6833 @ 24 bit, 94.28 MB</compiled>
                   <_download_allowed>1</_download_allowed>
                   <deep_link_url>https://objects.ub.uni-mainz.de/api/v1/objects/uuid/e54dab83-d78e-4259-bdee-e96818e807a2/file/id/15625/file_version/name/original/disposition/inline</deep_link_url>
-                  <path>2023-02-16 17_20 easydb FULL DDB-2022/assets/JGU ES 2595_Gedenkkopf eines Edo-Königs_24254_11.tif</path>
+                  <path>2023-02-17 10_23 easydb FULL DDB-2022/assets/JGU ES 2595_Gedenkkopf eines Edo-Königs_24254_11.tif</path>
                 </version>
                 <version name="full">
                   <filesize>61806034</filesize>
@@ -13687,7 +14981,7 @@ Englisch (Digital Benin): The commemorative head, Uhunmwu Elao, of an Ọba plac
                   <compiled>tif image, 4724 x 6528 @ 24 bit, 88.26 MB</compiled>
                   <_download_allowed>1</_download_allowed>
                   <deep_link_url>https://objects.ub.uni-mainz.de/api/v1/objects/uuid/58d7c926-88e9-4df8-a7d0-f7de7aaef9f3/file/id/15626/file_version/name/original/disposition/inline</deep_link_url>
-                  <path>2023-02-16 17_20 easydb FULL DDB-2022/assets/JGU ES 2595_Gedenkkopf eines Edo-Königs_24254_13.tif</path>
+                  <path>2023-02-17 10_23 easydb FULL DDB-2022/assets/JGU ES 2595_Gedenkkopf eines Edo-Königs_24254_13.tif</path>
                 </version>
                 <version name="full">
                   <filesize>55186883</filesize>
@@ -13977,7 +15271,7 @@ Englisch (Digital Benin): The commemorative head, Uhunmwu Elao, of an Ọba plac
         </file>
       </files>
     </_standard-eas>
-    <_exported_at>2023-02-16T17:20:45+01:00</_exported_at>
+    <_exported_at>2023-02-17T10:23:33+01:00</_exported_at>
     <_mask>objekte_es__all_fields</_mask>
     <_last_modified>2022-10-26T10:52:51Z</_last_modified>
     <_created>2021-10-04T10:25:10Z</_created>
@@ -14778,7 +16072,7 @@ altes Etikett, beschriftet von unbekannter Person: "Schmuck, Fr. Wilh.hafen / Eb
                   <compiled>tif image, 7660 x 5287 @ 24 bit, 115.90 MB</compiled>
                   <_download_allowed>1</_download_allowed>
                   <deep_link_url>https://objects.ub.uni-mainz.de/api/v1/objects/uuid/8db7bad9-881f-42db-8da2-325f99ea867d/file/id/16183/file_version/name/original/disposition/inline</deep_link_url>
-                  <path>2023-02-16 17_20 easydb FULL DDB-2022/assets/JGU ES 1643_Schmuck_24901.tif</path>
+                  <path>2023-02-17 10_23 easydb FULL DDB-2022/assets/JGU ES 1643_Schmuck_24901.tif</path>
                 </version>
                 <version name="huge">
                   <filesize>353256</filesize>
@@ -14949,7 +16243,7 @@ altes Etikett, beschriftet von unbekannter Person: "Schmuck, Fr. Wilh.hafen / Eb
                   <compiled>tif image, 7449 x 4968 @ 24 bit, 105.91 MB</compiled>
                   <_download_allowed>1</_download_allowed>
                   <deep_link_url>https://objects.ub.uni-mainz.de/api/v1/objects/uuid/d5406ab6-ee92-41fc-b1c6-325b78ace18a/file/id/16186/file_version/name/original/disposition/inline</deep_link_url>
-                  <path>2023-02-16 17_20 easydb FULL DDB-2022/assets/JGU ES 1643_Schmuck_24901_3.tif</path>
+                  <path>2023-02-17 10_23 easydb FULL DDB-2022/assets/JGU ES 1643_Schmuck_24901_3.tif</path>
                 </version>
                 <version name="huge">
                   <filesize>475587</filesize>
@@ -15118,7 +16412,7 @@ altes Etikett, beschriftet von unbekannter Person: "Schmuck, Fr. Wilh.hafen / Eb
                   <compiled>tif image, 1959 x 1259 @ 24 bit, 7.07 MB</compiled>
                   <_download_allowed>1</_download_allowed>
                   <deep_link_url>https://objects.ub.uni-mainz.de/api/v1/objects/uuid/53cf2406-fc02-4762-9699-b0037e74ae5f/file/id/16184/file_version/name/original/disposition/inline</deep_link_url>
-                  <path>2023-02-16 17_20 easydb FULL DDB-2022/assets/JGU ES 1643_Schmuck_24901_5.tif</path>
+                  <path>2023-02-17 10_23 easydb FULL DDB-2022/assets/JGU ES 1643_Schmuck_24901_5.tif</path>
                 </version>
                 <version name="huge">
                   <filesize>2531557</filesize>
@@ -15271,7 +16565,7 @@ altes Etikett, beschriftet von unbekannter Person: "Schmuck, Fr. Wilh.hafen / Eb
                   <compiled>tif image, 1875 x 1369 @ 24 bit, 7.36 MB</compiled>
                   <_download_allowed>1</_download_allowed>
                   <deep_link_url>https://objects.ub.uni-mainz.de/api/v1/objects/uuid/bf5d52ae-9c3b-4700-863c-e3b8e6b99a32/file/id/16185/file_version/name/original/disposition/inline</deep_link_url>
-                  <path>2023-02-16 17_20 easydb FULL DDB-2022/assets/JGU ES 1643_Schmuck_24901_7.tif</path>
+                  <path>2023-02-17 10_23 easydb FULL DDB-2022/assets/JGU ES 1643_Schmuck_24901_7.tif</path>
                 </version>
                 <version name="huge">
                   <filesize>4892943</filesize>
@@ -15455,7 +16749,7 @@ altes Etikett, beschriftet von unbekannter Person: "Schmuck, Fr. Wilh.hafen / Eb
         </file>
       </files>
     </_standard-eas>
-    <_exported_at>2023-02-16T17:20:46+01:00</_exported_at>
+    <_exported_at>2023-02-17T10:23:33+01:00</_exported_at>
     <_mask>objekte_es__all_fields</_mask>
     <_last_modified>2022-12-02T12:53:31Z</_last_modified>
     <_created>2022-08-23T15:12:42Z</_created>
@@ -16306,7 +17600,7 @@ altes Etikett, beschriftet von unbekannter Person: "Schmuck, Fr. Wilh.hafen / Eb
                   <compiled>tif image, 8858 x 5906 @ 24 bit, 38.28 MB</compiled>
                   <_download_allowed>1</_download_allowed>
                   <deep_link_url>https://objects.ub.uni-mainz.de/api/v1/objects/uuid/ce85ab59-5854-4199-8ba4-a15e81c3ee20/file/id/30858/file_version/name/original/disposition/inline</deep_link_url>
-                  <path>2023-02-16 17_20 easydb FULL DDB-2022/assets/JGU ES 383_Topf_40587.tif</path>
+                  <path>2023-02-17 10_23 easydb FULL DDB-2022/assets/JGU ES 383_Topf_40587.tif</path>
                 </version>
                 <version name="huge">
                   <filesize>2234139</filesize>
@@ -16476,7 +17770,7 @@ altes Etikett, beschriftet von unbekannter Person: "Schmuck, Fr. Wilh.hafen / Eb
                   <compiled>tif image, 8858 x 5906 @ 24 bit, 36.60 MB</compiled>
                   <_download_allowed>1</_download_allowed>
                   <deep_link_url>https://objects.ub.uni-mainz.de/api/v1/objects/uuid/9055f7d1-f7ec-4db0-9341-af9313f12369/file/id/30859/file_version/name/original/disposition/inline</deep_link_url>
-                  <path>2023-02-16 17_20 easydb FULL DDB-2022/assets/JGU ES 383_Topf_40587_3.tif</path>
+                  <path>2023-02-17 10_23 easydb FULL DDB-2022/assets/JGU ES 383_Topf_40587_3.tif</path>
                 </version>
                 <version name="huge">
                   <filesize>2181010</filesize>
@@ -16674,7 +17968,7 @@ altes Etikett, beschriftet von unbekannter Person: "Schmuck, Fr. Wilh.hafen / Eb
         </file>
       </files>
     </_standard-eas>
-    <_exported_at>2023-02-16T17:20:46+01:00</_exported_at>
+    <_exported_at>2023-02-17T10:23:33+01:00</_exported_at>
     <_mask>objekte_es__all_fields</_mask>
     <_last_modified>2022-11-08T13:57:25Z</_last_modified>
     <_created>2022-11-07T14:32:33Z</_created>
@@ -17993,7 +19287,7 @@ altes Etikett, beschriftet von unbekannter Person: "Schmuck, Fr. Wilh.hafen / Eb
                   <download_url>https://objects.ub.uni-mainz.de/eas/partitions/1/0/33000/33469/cb563c17dd0f53a77cdfdbd5fd5fc24391e7de8a/image/gif/Disclaimer_sacredobjects_JGU.gif</download_url>
                   <_download_allowed>1</_download_allowed>
                   <deep_link_url>https://objects.ub.uni-mainz.de/api/v1/objects/uuid/51332c74-d31f-467f-9ab0-c3a6fee605da/file/id/33469/file_version/name/original/disposition/inline</deep_link_url>
-                  <path>2023-02-16 17_20 easydb FULL DDB-2022/assets/JGU ES 1973_Tjurunga_40996.gif</path>
+                  <path>2023-02-17 10_23 easydb FULL DDB-2022/assets/JGU ES 1973_Tjurunga_40996.gif</path>
                 </version>
                 <version name="huge">
                   <filesize>35692</filesize>

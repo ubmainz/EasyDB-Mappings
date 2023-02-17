@@ -2838,6 +2838,384 @@ Beschreibung in Inventarliste des Linden-Museum: „1 Kriegsmütze aus Bast e Fe
    </lido:lido>
   
    <lido:lido>
+      <lido:lidoRecID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-094228-23968</lido:lidoRecID>
+      <lido:descriptiveMetadata xml:lang="de">
+         <lido:objectClassificationWrap>
+            <lido:objectWorkTypeWrap>
+               <lido:objectWorkType>
+                  <skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://vocab.getty.edu/aat/300028333">
+                     <skos:prefLabel>marine charts</skos:prefLabel>
+                  </skos:Concept>
+                  <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="https://d-nb.info/gnd">https://d-nb.info/gnd/4740073-0</lido:conceptID>
+                  <lido:term lido:pref="http://terminology.lido-schema.org/lido00526">Stabkarte</lido:term>
+               </lido:objectWorkType>
+            </lido:objectWorkTypeWrap>
+            <lido:classificationWrap>
+               <lido:classification lido:type="Klassifikation">
+                  <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="https://portal.wissenschaftliche-sammlungen.de/ConceptScheme/33">http://portal.wissenschaftliche-sammlungen.de/ObjectGenre/243</lido:conceptID>
+                  <lido:term xml:lang="de">Karte oder Plan</lido:term>
+                  <lido:term xml:lang="en">map or plan</lido:term>
+               </lido:classification>
+            </lido:classificationWrap>
+         </lido:objectClassificationWrap>
+         <lido:objectIdentificationWrap>
+            <lido:titleWrap>
+               <lido:titleSet>
+                  <lido:appellationValue xml:lang="de">Stabkarte</lido:appellationValue>
+               </lido:titleSet>
+            </lido:titleWrap>
+            <lido:repositoryWrap>
+               <lido:repositorySet lido:type="http://terminology.lido-schema.org/lido00475">
+                  <lido:repositoryName>
+                     <lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="https://sigel.staatsbibliothek-berlin.de">https://ld.zdb-services.de/resource/organisations/DE-MUS-094228</lido:legalBodyID>
+                     <lido:legalBodyName>
+                        <lido:appellationValue>Ethnografische Studiensammlung, Johannes Gutenberg-Universität Mainz</lido:appellationValue>
+                     </lido:legalBodyName>
+                  </lido:repositoryName>
+                  <lido:workID lido:type="http://terminology.lido-schema.org/lido00113">JGU ES 1</lido:workID>
+                  <lido:workID lido:type="http://terminology.lido-schema.org/lido00188">1</lido:workID>
+                  <lido:repositoryLocation>
+                     <lido:placeID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://sws.geonames.org">http://www.geonames.org/6554818&gt;</lido:placeID>
+                     <lido:namePlaceSet>
+                        <lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00169">Mainz</lido:appellationValue>
+                     </lido:namePlaceSet>
+                  </lido:repositoryLocation>
+               </lido:repositorySet>
+            </lido:repositoryWrap>
+            <lido:objectDescriptionWrap>
+               <lido:objectDescriptionSet>
+                  <lido:descriptiveNoteValue>Gitterwerk von Stäben aus der Mittelrippe von Wedeln der Kokospalme mit Kokosfaserschnüren zusammengebunden; L-förmige Stabkarte, soll die Inseln der Ralik-Kette (im Jaluit Atoll) darstellen: Ailinglaplap, Jabwat, Majuro, Milli, Djalut, Libijir (Jabor), Kili, Ebon, Namorik; die Stäbe sollen Dünungen und Strömungen zwischen Inseln anzeigen; Korallen auf gekreuzten Stäben sollen die Inseln markieren.</lido:descriptiveNoteValue>
+               </lido:objectDescriptionSet>
+            </lido:objectDescriptionWrap>
+            <lido:objectMeasurementsWrap>
+               <lido:objectMeasurementsSet>
+                  <lido:displayObjectMeasurements>B 27,5 / B 14 cm / L 44 cm</lido:displayObjectMeasurements>
+               </lido:objectMeasurementsSet>
+            </lido:objectMeasurementsWrap>
+         </lido:objectIdentificationWrap>
+         <lido:eventWrap>
+            <lido:eventSet lido:sortorder="1">
+               <lido:displayEvent xml:lang="de">Herstellung</lido:displayEvent>
+               <lido:displayEvent xml:lang="en">Production</lido:displayEvent>
+               <lido:event>
+                  <lido:eventType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://terminology.lido-schema.org/eventType">http://terminology.lido-schema.org/lido00007</lido:conceptID>
+                     <lido:term xml:lang="de">Herstellung</lido:term>
+                     <lido:term xml:lang="en">Production</lido:term>
+                  </lido:eventType>
+                  <lido:eventActor>
+                     <lido:displayActorInRole>uns nicht bekannt</lido:displayActorInRole>
+                     <lido:actorInRole>
+                        <lido:actor>
+                           <lido:nameActorSet>
+                              <lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00169">uns nicht bekannt</lido:appellationValue>
+                           </lido:nameActorSet>
+                        </lido:actor>
+                        <lido:roleActor>
+                           <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://id.loc.gov/vocabulary/relators/">http://id.loc.gov/vocabulary/relators/oth</lido:conceptID>
+                        </lido:roleActor>
+                     </lido:actorInRole>
+                  </lido:eventActor>
+                  <lido:culture>
+                     <lido:term>Jaluit Atoll, Marshallinseln</lido:term>
+                  </lido:culture>
+                  <lido:eventDate>
+                     <lido:displayDate>vor 1903</lido:displayDate>
+                     <lido:date>
+                        <lido:earliestDate/>
+                        <lido:latestDate>1902-12-31</lido:latestDate>
+                     </lido:date>
+                  </lido:eventDate>
+                  <lido:eventPlace>
+                     <lido:place>
+                        <lido:placeID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://sws.geonames.org">http://www.geonames.org/2080409</lido:placeID>
+                        <lido:namePlaceSet>
+                           <lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00169">Jaluit Atoll</lido:appellationValue>
+                        </lido:namePlaceSet>
+                        <lido:partOfPlace>
+                           <lido:namePlaceSet>
+                              <lido:appellationValue>Marshallinseln</lido:appellationValue>
+                           </lido:namePlaceSet>
+                           <lido:partOfPlace>
+                              <lido:namePlaceSet>
+                                 <lido:appellationValue>Melanesien</lido:appellationValue>
+                              </lido:namePlaceSet>
+                              <lido:partOfPlace>
+                                 <lido:namePlaceSet>
+                                    <lido:appellationValue>Ozeanien</lido:appellationValue>
+                                 </lido:namePlaceSet>
+                                 <lido:partOfPlace>
+                                    <lido:namePlaceSet>
+                                       <lido:appellationValue>Pazifik</lido:appellationValue>
+                                    </lido:namePlaceSet>
+                                 </lido:partOfPlace>
+                              </lido:partOfPlace>
+                           </lido:partOfPlace>
+                        </lido:partOfPlace>
+                     </lido:place>
+                  </lido:eventPlace>
+                  <lido:eventMaterialsTech>
+                     <lido:materialsTech>
+                        <lido:termMaterialsTech lido:type="http://terminology.lido-schema.org/lido00132">
+                           <lido:term xml:lang="de">Kokosblattrippen</lido:term>
+                        </lido:termMaterialsTech>
+                     </lido:materialsTech>
+                  </lido:eventMaterialsTech>
+                  <lido:eventMaterialsTech>
+                     <lido:materialsTech>
+                        <lido:termMaterialsTech lido:type="http://terminology.lido-schema.org/lido00132">
+                           <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="https://d-nb.info/gnd">http://d-nb.info/gnd/4688448-8</lido:conceptID>
+                           <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://vocab.getty.edu/aat">http://vocab.getty.edu/aat/300011800</lido:conceptID>
+                           <lido:term xml:lang="de">Koralle</lido:term>
+                        </lido:termMaterialsTech>
+                     </lido:materialsTech>
+                  </lido:eventMaterialsTech>
+                  <lido:eventMaterialsTech>
+                     <lido:materialsTech>
+                        <lido:termMaterialsTech lido:type="http://terminology.lido-schema.org/lido00132">
+                           <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="https://d-nb.info/gnd">http://d-nb.info/gnd/4219306-0</lido:conceptID>
+                           <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://vocab.getty.edu/aat">http://vocab.getty.edu/aat/300014056</lido:conceptID>
+                           <lido:term xml:lang="de">Kokosfaser</lido:term>
+                        </lido:termMaterialsTech>
+                     </lido:materialsTech>
+                  </lido:eventMaterialsTech>
+                  <lido:eventDescriptionSet>
+                     <lido:descriptiveNoteValue>unbekannter Handwerker</lido:descriptiveNoteValue>
+                  </lido:eventDescriptionSet>
+               </lido:event>
+            </lido:eventSet>
+            <lido:eventSet lido:sortorder="2">
+               <lido:displayEvent xml:lang="de">Kauf</lido:displayEvent>
+               <lido:displayEvent xml:lang="en">Purchase</lido:displayEvent>
+               <lido:event>
+                  <lido:eventType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://terminology.lido-schema.org/eventType">http://terminology.lido-schema.org/lido00001</lido:conceptID>
+                     <lido:term xml:lang="de">Erwerbung</lido:term>
+                     <lido:term xml:lang="en">Acquisition</lido:term>
+                  </lido:eventType>
+                  <lido:eventActor>
+                     <lido:displayActorInRole>Rittscher, Adolf (1873 - 1956)</lido:displayActorInRole>
+                     <lido:actorInRole>
+                        <lido:actor>
+                           <lido:nameActorSet>
+                              <lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00169">Rittscher, Adolf (1873 - 1956)</lido:appellationValue>
+                           </lido:nameActorSet>
+                        </lido:actor>
+                        <lido:roleActor>
+                           <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://id.loc.gov/vocabulary/relators/">http://id.loc.gov/vocabulary/relators/own</lido:conceptID>
+                           <lido:term xml:lang="de">Besitzer/Besitzerin, Eigentümer/Eigentümerin</lido:term>
+                           <lido:term xml:lang="en">Owner</lido:term>
+                        </lido:roleActor>
+                     </lido:actorInRole>
+                  </lido:eventActor>
+                  <lido:eventDate>
+                     <lido:displayDate>1903</lido:displayDate>
+                     <lido:date>
+                        <lido:earliestDate>1903-01-01</lido:earliestDate>
+                        <lido:latestDate>1903-12-31</lido:latestDate>
+                     </lido:date>
+                  </lido:eventDate>
+                  <lido:eventPlace>
+                     <lido:place>
+                        <lido:placeID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://sws.geonames.org">http://www.geonames.org/2080409</lido:placeID>
+                        <lido:namePlaceSet>
+                           <lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00169">Jaluit Atoll</lido:appellationValue>
+                        </lido:namePlaceSet>
+                        <lido:partOfPlace>
+                           <lido:namePlaceSet>
+                              <lido:appellationValue>Marshallinseln</lido:appellationValue>
+                           </lido:namePlaceSet>
+                           <lido:partOfPlace>
+                              <lido:namePlaceSet>
+                                 <lido:appellationValue>Melanesien</lido:appellationValue>
+                              </lido:namePlaceSet>
+                              <lido:partOfPlace>
+                                 <lido:namePlaceSet>
+                                    <lido:appellationValue>Ozeanien</lido:appellationValue>
+                                 </lido:namePlaceSet>
+                                 <lido:partOfPlace>
+                                    <lido:namePlaceSet>
+                                       <lido:appellationValue>Pazifik</lido:appellationValue>
+                                    </lido:namePlaceSet>
+                                 </lido:partOfPlace>
+                              </lido:partOfPlace>
+                           </lido:partOfPlace>
+                        </lido:partOfPlace>
+                     </lido:place>
+                  </lido:eventPlace>
+                  <lido:eventDescriptionSet>
+                     <lido:descriptiveNoteValue>A. Rittscher hat die fragilen Objekte im Jahr 1903 von einem lokalen Händler auf Jaluit, einer Insel des gleichnamigen Atolls der Marshallinseln, gekauft. Diese Stabkarten wurden vermutlich für den Verkauf gefertigt.</lido:descriptiveNoteValue>
+                  </lido:eventDescriptionSet>
+               </lido:event>
+            </lido:eventSet>
+            <lido:eventSet lido:sortorder="3">
+               <lido:displayEvent xml:lang="de">Erwerbung</lido:displayEvent>
+               <lido:displayEvent xml:lang="en">Acquisition</lido:displayEvent>
+               <lido:event>
+                  <lido:eventType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://terminology.lido-schema.org/eventType">http://terminology.lido-schema.org/lido00001</lido:conceptID>
+                     <lido:term xml:lang="de">Erwerbung</lido:term>
+                     <lido:term xml:lang="en">Acquisition</lido:term>
+                  </lido:eventType>
+                  <lido:eventActor>
+                     <lido:displayActorInRole>Rittscher, Adolf (1873 - 1956)</lido:displayActorInRole>
+                     <lido:actorInRole>
+                        <lido:actor>
+                           <lido:nameActorSet>
+                              <lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00169">Rittscher, Adolf (1873 - 1956)</lido:appellationValue>
+                           </lido:nameActorSet>
+                        </lido:actor>
+                        <lido:roleActor>
+                           <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://id.loc.gov/vocabulary/relators/">http://id.loc.gov/vocabulary/relators/sll</lido:conceptID>
+                           <lido:term xml:lang="de">Verkäufer/Verkäuferin</lido:term>
+                           <lido:term xml:lang="en">Seller</lido:term>
+                        </lido:roleActor>
+                     </lido:actorInRole>
+                  </lido:eventActor>
+                  <lido:eventDate>
+                     <lido:displayDate>21.07.1950</lido:displayDate>
+                     <lido:date>
+                        <lido:earliestDate>1950-07-21</lido:earliestDate>
+                        <lido:latestDate>1950-07-21</lido:latestDate>
+                     </lido:date>
+                  </lido:eventDate>
+                  <lido:eventPlace>
+                     <lido:place>
+                        <lido:namePlaceSet>
+                           <lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00169">Mainz</lido:appellationValue>
+                        </lido:namePlaceSet>
+                        <lido:partOfPlace>
+                           <lido:namePlaceSet>
+                              <lido:appellationValue>Rheinland-Pfalz</lido:appellationValue>
+                           </lido:namePlaceSet>
+                           <lido:partOfPlace>
+                              <lido:namePlaceSet>
+                                 <lido:appellationValue>Deutschland</lido:appellationValue>
+                              </lido:namePlaceSet>
+                           </lido:partOfPlace>
+                        </lido:partOfPlace>
+                     </lido:place>
+                  </lido:eventPlace>
+               </lido:event>
+            </lido:eventSet>
+         </lido:eventWrap>
+         <lido:objectRelationWrap>
+            <lido:subjectWrap>
+               <lido:subjectSet>
+                  <lido:displaySubject>Navigation</lido:displaySubject>
+               </lido:subjectSet>
+            </lido:subjectWrap>
+         </lido:objectRelationWrap>
+      </lido:descriptiveMetadata>
+      <lido:administrativeMetadata xml:lang="de">
+         <lido:recordWrap>
+            <lido:recordID lido:type="http://terminology.lido-schema.org/lido00100">23968</lido:recordID>
+            <lido:recordType>
+               <skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://terminology.lido-schema.org/lido00141">
+                  <skos:prefLabel xml:lang="en">Item-level record</skos:prefLabel>
+               </skos:Concept>
+               <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://terminology.lido-schema.org/lido00141</lido:conceptID>
+               <lido:term xml:lang="de">Einzelobjekt</lido:term>
+               <lido:term xml:lang="en">item</lido:term>
+            </lido:recordType>
+            <lido:recordSource>
+               <lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="https://sigel.staatsbibliothek-berlin.de">https://ld.zdb-services.de/resource/organisations/DE-MUS-094228</lido:legalBodyID>
+               <lido:legalBodyName>
+                  <lido:appellationValue xml:lang="en">Collections of the Johannes Gutenberg University Mainz</lido:appellationValue>
+                  <lido:appellationValue xml:lang="de">Sammlungen der Johannes Gutenberg-Universität Mainz</lido:appellationValue>
+               </lido:legalBodyName>
+               <lido:legalBodyWeblink>https://www.ub.uni-mainz.de/de/universitaetssammlungen</lido:legalBodyWeblink>
+            </lido:recordSource>
+            <lido:recordRights>
+               <lido:rightsType lido:type="http://terminology.lido-schema.org/lido00921">
+                  <skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+                     <skos:prefLabel>CC0 1.0</skos:prefLabel>
+                  </skos:Concept>
+                  <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://creativecommons.org">http://creativecommons.org/publicdomain/zero/1.0/</lido:conceptID>
+                  <lido:term>CC0 1.0</lido:term>
+               </lido:rightsType>
+            </lido:recordRights>
+            <lido:collection>
+               <lido:object>
+                  <lido:objectType>
+                     <skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://terminology.lido-schema.org/lido01034">
+                        <skos:prefLabel xml:lang="en">Physical collection</skos:prefLabel>
+                     </skos:Concept>
+                  </lido:objectType>
+                  <lido:objectName>
+                     <lido:appellationValue>Ethnografische Studiensammlung</lido:appellationValue>
+                  </lido:objectName>
+               </lido:object>
+            </lido:collection>
+            <lido:collection>
+               <lido:object>
+                  <lido:objectWebResource>https://ccc.deutsche-digitale-bibliothek.de/</lido:objectWebResource>
+                  <lido:objectType>
+                     <skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://terminology.lido-schema.org/lido01055">
+                        <skos:prefLabel xml:lang="en">Online collection</skos:prefLabel>
+                     </skos:Concept>
+                  </lido:objectType>
+                  <lido:objectName>
+                     <lido:appellationValue>Collections from Colonial Contexts</lido:appellationValue>
+                  </lido:objectName>
+               </lido:object>
+            </lido:collection>
+         </lido:recordWrap>
+         <lido:resourceWrap>
+            <lido:resourceSet lido:sortorder="1">
+               <lido:resourceID lido:type="http://terminology.lido-schema.org/lido00100">JGU ES 1.tif</lido:resourceID>
+               <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00451">
+                  <lido:linkResource lido:formatResource="png">https://objects.ub.uni-mainz.de/eas/partitions-inline/2/0/15000/15423/1d5939e9d75d604ef7bb91166271bae3e9da86d8/image/png</lido:linkResource>
+                  <lido:resourceMeasurementsSet>
+                     <lido:measurementType xml:lang="en">width</lido:measurementType>
+                     <lido:measurementUnit xml:lang="en">pixel</lido:measurementUnit>
+                     <lido:measurementValue>750</lido:measurementValue>
+                  </lido:resourceMeasurementsSet>
+                  <lido:resourceMeasurementsSet>
+                     <lido:measurementType xml:lang="en">height</lido:measurementType>
+                     <lido:measurementUnit xml:lang="en">pixel</lido:measurementUnit>
+                     <lido:measurementValue>1000</lido:measurementValue>
+                  </lido:resourceMeasurementsSet>
+               </lido:resourceRepresentation>
+               <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+                  <lido:linkResource>https://objects.ub.uni-mainz.de/eas/partitions-inline/2/0/15000/15423/9d1062d0d20ae17a7d868d3d5fea7645990a6c17/image/png</lido:linkResource>
+                  <lido:resourceMeasurementsSet>
+                     <lido:measurementType xml:lang="en">width</lido:measurementType>
+                     <lido:measurementUnit xml:lang="en">pixel</lido:measurementUnit>
+                     <lido:measurementValue>5412</lido:measurementValue>
+                  </lido:resourceMeasurementsSet>
+                  <lido:resourceMeasurementsSet>
+                     <lido:measurementType xml:lang="en">height</lido:measurementType>
+                     <lido:measurementUnit xml:lang="en">pixel</lido:measurementUnit>
+                     <lido:measurementValue>7216</lido:measurementValue>
+                  </lido:resourceMeasurementsSet>
+               </lido:resourceRepresentation>
+               <lido:resourceType>
+                  <lido:term>IMAGE</lido:term>
+               </lido:resourceType>
+               <lido:resourceDateTaken>
+                  <lido:displayDate>2013-08-23</lido:displayDate>
+                  <lido:date>
+                     <lido:earliestDate>2013-08-23</lido:earliestDate>
+                     <lido:latestDate>2013-08-23</lido:latestDate>
+                  </lido:date>
+               </lido:resourceDateTaken>
+               <lido:rightsResource>
+                  <lido:rightsType lido:type="http://terminology.lido-schema.org/lido00921">
+                     <skos:Concept xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="https://creativecommons.org/licenses/by/4.0/">
+                        <skos:prefLabel>CC BY 4.0</skos:prefLabel>
+                     </skos:Concept>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099" lido:source="http://creativecommons.org">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                     <lido:term>CC BY 4.0</lido:term>
+                  </lido:rightsType>
+                  <lido:creditLine>Monika Gräwe, JGU Mainz</lido:creditLine>
+               </lido:rightsResource>
+            </lido:resourceSet>
+         </lido:resourceWrap>
+      </lido:administrativeMetadata>
+   </lido:lido>
+  
+   <lido:lido>
       <lido:lidoRecID lido:type="http://terminology.lido-schema.org/lido00100">DE-MUS-094228-24254</lido:lidoRecID>
       <lido:descriptiveMetadata xml:lang="de">
          <lido:objectClassificationWrap>
