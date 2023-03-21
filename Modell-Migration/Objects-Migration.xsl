@@ -17,11 +17,19 @@
     <!-- ubmz-14 -->
     <xsl:param name="acquisitionid" select="'ubmz-11'"/>
     <!-- ubmz-11 -->
+    <xsl:param name="purchaseid" select="'ubmz-15'"/>
+    <!-- ubmz-15 -->
+    <xsl:param name="donationid" select="'ubmz-25'"/>
+    <!-- ubmz-25 -->
     <xsl:param name="collectionid" select="'ubmz-24'"/>
     <!-- ubmz-24 -->
+    <xsl:param name="findingid" select="'ubmz-12'"/>
+    <!-- ubmz-12 -->
+    <xsl:param name="typeassignmentid" select="'ubmz-29'"/>
+    <!-- ubmz-29 -->
     <xsl:param name="trennung">";"</xsl:param>
     <xsl:param name="trennungimfeld" select="'&#13;'"/>
-    <xsl:param name="eventreihenfolge" select="($creationid, $productionid, $acquisitionid, $collectionid)"/>
+    <xsl:param name="eventreihenfolge" select="($creationid, $findingid, $acquisitionid, $purchaseid, $donationid, $typeassignmentid)"/>
 
     <!-- Der Schlüssel wird zum Deduplizieren der Events innerhalb eines Objekts gebraucht (Muenchscher Algorithmus) -->
     <xsl:key name="events" match="easydb:ubmz_event_id"
