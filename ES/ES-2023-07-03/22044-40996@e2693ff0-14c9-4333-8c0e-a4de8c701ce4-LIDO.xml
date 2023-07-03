@@ -31,6 +31,7 @@
                   <lido:appellationValue xml:lang="de">Elefantenmaske</lido:appellationValue>
                </lido:titleSet>
             </lido:titleWrap>
+            <lido:inscriptionsWrap/>
             <lido:repositoryWrap>
                <lido:repositorySet lido:type="http://terminology.lido-schema.org/lido00475">
                   <lido:repositoryName>
@@ -612,6 +613,13 @@
                   <lido:appellationValue xml:lang="de">Halskette</lido:appellationValue>
                </lido:titleSet>
             </lido:titleWrap>
+            <lido:inscriptionsWrap>
+               <lido:inscriptions>
+                  <lido:inscriptionDescription>
+                     <lido:descriptiveNoteValue>3289 / 3689 / Esser</lido:descriptiveNoteValue>
+                  </lido:inscriptionDescription>
+               </lido:inscriptions>
+            </lido:inscriptionsWrap>
             <lido:repositoryWrap>
                <lido:repositorySet lido:type="http://terminology.lido-schema.org/lido00475">
                   <lido:repositoryName>
@@ -1319,6 +1327,7 @@
                   <lido:appellationValue xml:lang="de">Federmütze</lido:appellationValue>
                </lido:titleSet>
             </lido:titleWrap>
+            <lido:inscriptionsWrap/>
             <lido:repositoryWrap>
                <lido:repositorySet lido:type="http://terminology.lido-schema.org/lido00475">
                   <lido:repositoryName>
@@ -1936,6 +1945,7 @@ Beschreibung in Inventarliste des Linden-Museum: „1 Kriegsmütze aus Bast e Fe
                   <lido:appellationValue xml:lang="de">Brustschmuck</lido:appellationValue>
                </lido:titleSet>
             </lido:titleWrap>
+            <lido:inscriptionsWrap/>
             <lido:repositoryWrap>
                <lido:repositorySet lido:type="http://terminology.lido-schema.org/lido00475">
                   <lido:repositoryName>
@@ -2407,6 +2417,15 @@ Beschreibung in Inventarliste des Linden-Museum: „1 Kriegsmütze aus Bast e Fe
                   <lido:appellationValue xml:lang="de">Parierschild</lido:appellationValue>
                </lido:titleSet>
             </lido:titleWrap>
+            <lido:inscriptionsWrap>
+               <lido:inscriptions>
+                  <lido:inscriptionDescription>
+                     <lido:descriptiveNoteValue>Neben dem Griff: Australien. / Slg. Waldthausen / 1988. Darüber ist die vorherige Beschriftung aus dem Linden-Museum nur noch schwach lesbar; sie wurde vermutlich in Mainz entfernt: L. 1436/268. / 91976
+An einem Ende, gleiche Seite wie Beschriftung beim Griff: L. 1436/268
+Am anderen Ende: runder Aufkleber (weiß) mit Zahl in der Mitte: 34</lido:descriptiveNoteValue>
+                  </lido:inscriptionDescription>
+               </lido:inscriptions>
+            </lido:inscriptionsWrap>
             <lido:repositoryWrap>
                <lido:repositorySet lido:type="http://terminology.lido-schema.org/lido00475">
                   <lido:repositoryName>
@@ -3086,6 +3105,7 @@ Beschreibung in Inventarliste des Linden-Museum: „1 Kriegsmütze aus Bast e Fe
                   <lido:appellationValue xml:lang="de">Stabkarte</lido:appellationValue>
                </lido:titleSet>
             </lido:titleWrap>
+            <lido:inscriptionsWrap/>
             <lido:repositoryWrap>
                <lido:repositorySet lido:type="http://terminology.lido-schema.org/lido00475">
                   <lido:repositoryName>
@@ -3494,6 +3514,7 @@ Beschreibung in Inventarliste des Linden-Museum: „1 Kriegsmütze aus Bast e Fe
                   <lido:appellationValue xml:lang="de">Gedenkkopf eines Edo-Königs</lido:appellationValue>
                </lido:titleSet>
             </lido:titleWrap>
+            <lido:inscriptionsWrap/>
             <lido:repositoryWrap>
                <lido:repositorySet lido:type="http://terminology.lido-schema.org/lido00475">
                   <lido:repositoryName>
@@ -4473,6 +4494,7 @@ Englisch (Digital Benin): The commemorative head, Uhunmwu Elao, of an Ọba plac
                   <lido:appellationValue xml:lang="de">Schmuck</lido:appellationValue>
                </lido:titleSet>
             </lido:titleWrap>
+            <lido:inscriptionsWrap/>
             <lido:repositoryWrap>
                <lido:repositorySet lido:type="http://terminology.lido-schema.org/lido00475">
                   <lido:repositoryName>
@@ -4996,6 +5018,7 @@ Englisch (Digital Benin): The commemorative head, Uhunmwu Elao, of an Ọba plac
                   <lido:appellationValue xml:lang="de">Topf</lido:appellationValue>
                </lido:titleSet>
             </lido:titleWrap>
+            <lido:inscriptionsWrap/>
             <lido:repositoryWrap>
                <lido:repositorySet lido:type="http://terminology.lido-schema.org/lido00475">
                   <lido:repositoryName>
@@ -5408,6 +5431,7 @@ Englisch (Digital Benin): The commemorative head, Uhunmwu Elao, of an Ọba plac
                   <lido:appellationValue xml:lang="de">Tjurunga</lido:appellationValue>
                </lido:titleSet>
             </lido:titleWrap>
+            <lido:inscriptionsWrap/>
             <lido:repositoryWrap>
                <lido:repositorySet lido:type="http://terminology.lido-schema.org/lido00475">
                   <lido:repositoryName>

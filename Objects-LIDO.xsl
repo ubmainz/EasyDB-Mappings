@@ -381,6 +381,20 @@
                             </xsl:call-template>
                         </xsl:element>
                     </xsl:element>
+                    <xsl:element name="lido:inscriptionsWrap">
+                        <xsl:for-each select="easydb:_nested__objekte__beschriftungen/easydb:objekte__beschriftungen">
+                                <xsl:element name="lido:inscriptions">
+                                    <xsl:choose>
+                                        <xsl:when test="easydb:beschriftungstyp/easydb:typ_beschriftung/easydb:name/easydb:de-DE='Inschrift'"><xsl:attribute name="type">http://vocab.getty.edu/aat/300028702</xsl:attribute></xsl:when>
+                                    </xsl:choose>
+                                    <xsl:element name="lido:inscriptionDescription">
+                                            <xsl:element name="lido:descriptiveNoteValue">
+                                                <xsl:value-of select="easydb:beschriftung"/>
+                                            </xsl:element>
+                                        </xsl:element>
+                                    </xsl:element>   
+                            </xsl:for-each>
+                     </xsl:element>
                     <xsl:element name="lido:repositoryWrap">
                         <xsl:element name="lido:repositorySet">
                             <xsl:attribute name="lido:type"
