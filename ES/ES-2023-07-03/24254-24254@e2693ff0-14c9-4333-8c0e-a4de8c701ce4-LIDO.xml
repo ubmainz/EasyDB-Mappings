@@ -30,6 +30,9 @@
                <lido:titleSet>
                   <lido:appellationValue xml:lang="de">Gedenkkopf eines Edo-Königs</lido:appellationValue>
                </lido:titleSet>
+               <lido:titleSet lido:type="http://vocab.getty.edu/aat/300417204">
+                  <lido:appellationValue xml:lang="bin">Uhunmwu-Elao</lido:appellationValue>
+               </lido:titleSet>
             </lido:titleWrap>
             <lido:inscriptionsWrap/>
             <lido:repositoryWrap>
