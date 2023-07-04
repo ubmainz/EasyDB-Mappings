@@ -27,7 +27,7 @@
          </lido:objectClassificationWrap>
          <lido:objectIdentificationWrap>
             <lido:titleWrap>
-               <lido:titleSet>
+               <lido:titleSet lido:pref="preferred">
                   <lido:appellationValue xml:lang="de">Gedenkkopf eines Edo-Königs</lido:appellationValue>
                </lido:titleSet>
                <lido:titleSet lido:type="http://vocab.getty.edu/aat/300417204">

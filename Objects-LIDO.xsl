@@ -374,6 +374,7 @@
                 <xsl:element name="lido:objectIdentificationWrap">
                     <xsl:element name="lido:titleWrap">
                         <xsl:element name="lido:titleSet">
+                            <xsl:attribute name="lido:pref">preferred</xsl:attribute>
                             <xsl:call-template name="languagetext">
                                 <xsl:with-param name="textnode" select="easydb:objekttitel"/>
                                 <xsl:with-param name="elementname" select="'lido:appellationValue'"
