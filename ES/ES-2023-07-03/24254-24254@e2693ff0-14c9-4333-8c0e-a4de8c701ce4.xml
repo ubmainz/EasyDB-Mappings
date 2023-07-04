@@ -1,0 +1,3313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects xmlns="https://schema.easydb.de/EASYDB/1.0/objects/" instance="easydb" uuid="e2693ff0-14c9-4333-8c0e-a4de8c701ce4" base-schema="271" user-schema="174" timestamp="2023-07-04T12:31:47+02:00">
+  <objekte>
+    <_id>6974</_id>
+    <_system_object_id>24254</_system_object_id>
+    <_version>39</_version>
+    <_uuid>5d8c6c31-bf11-421b-82e9-015d35fa39b5</_uuid>
+    <_objecttype>objekte</_objecttype>
+    <_global_object_id>24254@e2693ff0-14c9-4333-8c0e-a4de8c701ce4</_global_object_id>
+    <pool id="43">
+      <de-DE>Ethnografische Studiensammlung</de-DE>
+    </pool>
+    <_standard>
+      <de-DE>Gedenkkopf eines Edo-Königs</de-DE>
+      <en-US>Gedenkkopf eines Edo-Königs</en-US>
+    </_standard>
+    <_standard-eas>
+      <files>
+        <file>
+          <eas-id>15619</eas-id>
+          <preferred>true</preferred>
+          <status>done</status>
+          <class>image</class>
+          <extension>tif</extension>
+          <name/>
+          <original_filename>IMG_931192.TIF</original_filename>
+          <compiled/>
+          <eas_parent_id/>
+          <date_inserted>2023-07-03T20:27:44Z</date_inserted>
+          <date_created/>
+          <date_uploaded>2021-09-03T10:41:49Z</date_uploaded>
+          <filesize>150984952</filesize>
+          <technical_metadata>
+            <file_sha224_checksum>f0a5511eec3a2aeb749d78e798eb288a41cd41ab58b7e239f9043592</file_sha224_checksum>
+            <orientation>1</orientation>
+            <camera_scanner>Canon EOS 5DS R</camera_scanner>
+            <width>5792</width>
+            <height>8688</height>
+            <dpi>300</dpi>
+            <max_dimension>8688</max_dimension>
+            <format>portrait</format>
+            <aspect_ratio>0.66666666666666663</aspect_ratio>
+            <colordepth>24</colordepth>
+            <colorspace>rgb</colorspace>
+            <colorprofile>Adobe RGB (1998)</colorprofile>
+          </technical_metadata>
+          <versions>
+            <version name="small">
+              <filesize>119722</filesize>
+              <height>375</height>
+              <has_more_jobs>0</has_more_jobs>
+              <class>image</class>
+              <width>250</width>
+              <url>https://objects.ub.uni-mainz.de/eas/partitions-inline/2/0/15000/15619/eb4ffeb9cf6b08f188cc9228ec00d321253eaf99/image/png</url>
+              <status>done</status>
+              <extension>png</extension>
+              <aspect_ratio>0.66600000858306885</aspect_ratio>
+              <dpi>299</dpi>
+              <download_url>https://objects.ub.uni-mainz.de/eas/partitions/2/0/15000/15619/eb4ffeb9cf6b08f188cc9228ec00d321253eaf99/image/png/IMG_931192-small.png</download_url>
+              <_download_allowed>0</_download_allowed>
+              <deep_link_url>https://objects.ub.uni-mainz.de/api/v1/objects/uuid/5d8c6c31-bf11-421b-82e9-015d35fa39b5/file/id/15619/file_version/name/small/disposition/inline</deep_link_url>
+            </version>
+          </versions>
+        </file>
+        <file>
+          <eas-id>15620</eas-id>
+          <preferred>true</preferred>
+          <status>done</status>
+          <class>image</class>
+          <extension>tif</extension>
+          <name/>
+          <original_filename>IMG_931195.TIF</original_filename>
+          <compiled/>
+          <eas_parent_id/>
+          <date_inserted>2023-07-03T20:27:44Z</date_inserted>
+          <date_created/>
+          <date_uploaded>2021-09-03T10:42:03Z</date_uploaded>
+          <filesize>150985368</filesize>
+          <technical_metadata>
+            <file_sha224_checksum>8c5aacbbcc3d60ebcb62f2eb5f156e166479ba2136aa4144d2f522c6</file_sha224_checksum>
+            <orientation>1</orientation>
+            <camera_scanner>Canon EOS 5DS R</camera_scanner>
+            <width>5792</width>
+            <height>8688</height>
+            <dpi>300</dpi>
+            <max_dimension>8688</max_dimension>
+            <format>portrait</format>
+            <aspect_ratio>0.66666666666666663</aspect_ratio>
+            <colordepth>24</colordepth>
+            <colorspace>rgb</colorspace>
+            <colorprofile>Adobe RGB (1998)</colorprofile>
+          </technical_metadata>
+          <versions>
+            <version name="small">
+              <filesize>129102</filesize>
+              <height>375</height>
+              <has_more_jobs>0</has_more_jobs>
+              <class>image</class>
+              <width>250</width>
+              <url>https://objects.ub.uni-mainz.de/eas/partitions-inline/2/0/15000/15620/606b100b3f3f80bced5402d92ad3ee9b25e41ec3/image/png</url>
+              <status>done</status>
+              <extension>png</extension>
+              <aspect_ratio>0.66600000858306885</aspect_ratio>
+              <dpi>299</dpi>
+              <download_url>https://objects.ub.uni-mainz.de/eas/partitions/2/0/15000/15620/606b100b3f3f80bced5402d92ad3ee9b25e41ec3/image/png/IMG_931195-small.png</download_url>
+              <_download_allowed>0</_download_allowed>
+              <deep_link_url>https://objects.ub.uni-mainz.de/api/v1/objects/uuid/5d8c6c31-bf11-421b-82e9-015d35fa39b5/file/id/15620/file_version/name/small/disposition/inline</deep_link_url>
+            </version>
+          </versions>
+        </file>
+        <file>
+          <eas-id>15621</eas-id>
+          <preferred>true</preferred>
+          <status>done</status>
+          <class>image</class>
+          <extension>tif</extension>
+          <name/>
+          <original_filename>IMG_931199.TIF</original_filename>
+          <compiled/>
+          <eas_parent_id/>
+          <date_inserted>2023-07-03T20:27:44Z</date_inserted>
+          <date_created/>
+          <date_uploaded>2021-09-03T10:44:19Z</date_uploaded>
+          <filesize>150985096</filesize>
+          <technical_metadata>
+            <file_sha224_checksum>9a5ddf567987ee081a6def44203b684b34ca3f67423097970be51154</file_sha224_checksum>
+            <orientation>1</orientation>
+            <camera_scanner>Canon EOS 5DS R</camera_scanner>
+            <width>5792</width>
+            <height>8688</height>
+            <dpi>300</dpi>
+            <max_dimension>8688</max_dimension>
+            <format>portrait</format>
+            <aspect_ratio>0.66666666666666663</aspect_ratio>
+            <colordepth>24</colordepth>
+            <colorspace>rgb</colorspace>
+            <colorprofile>Adobe RGB (1998)</colorprofile>
+          </technical_metadata>
+          <versions>
+            <version name="small">
+              <filesize>126861</filesize>
+              <height>375</height>
+              <has_more_jobs>0</has_more_jobs>
+              <class>image</class>
+              <width>250</width>
+              <url>https://objects.ub.uni-mainz.de/eas/partitions-inline/2/0/15000/15621/650cada03327674f99bee1f62e325e98d042155d/image/png</url>
+              <status>done</status>
+              <extension>png</extension>
+              <aspect_ratio>0.66600000858306885</aspect_ratio>
+              <dpi>299</dpi>
+              <download_url>https://objects.ub.uni-mainz.de/eas/partitions/2/0/15000/15621/650cada03327674f99bee1f62e325e98d042155d/image/png/IMG_931199-small.png</download_url>
+              <_download_allowed>0</_download_allowed>
+              <deep_link_url>https://objects.ub.uni-mainz.de/api/v1/objects/uuid/5d8c6c31-bf11-421b-82e9-015d35fa39b5/file/id/15621/file_version/name/small/disposition/inline</deep_link_url>
+            </version>
+          </versions>
+        </file>
+        <file>
+          <eas-id>15622</eas-id>
+          <preferred>true</preferred>
+          <status>done</status>
+          <class>image</class>
+          <extension>tif</extension>
+          <name/>
+          <original_filename>IMG_931204.TIF</original_filename>
+          <compiled/>
+          <eas_parent_id/>
+          <date_inserted>2023-07-03T20:27:44Z</date_inserted>
+          <date_created/>
+          <date_uploaded>2021-09-03T10:46:23Z</date_uploaded>
+          <filesize>150984932</filesize>
+          <technical_metadata>
+            <file_sha224_checksum>17d01f8c049a79f7b34272da77cc8ec2f704d24d7e8bf9a4faa9421c</file_sha224_checksum>
+            <orientation>1</orientation>
+            <camera_scanner>Canon EOS 5DS R</camera_scanner>
+            <width>5792</width>
+            <height>8688</height>
+            <dpi>300</dpi>
+            <max_dimension>8688</max_dimension>
+            <format>portrait</format>
+            <aspect_ratio>0.66666666666666663</aspect_ratio>
+            <colordepth>24</colordepth>
+            <colorspace>rgb</colorspace>
+            <colorprofile>Adobe RGB (1998)</colorprofile>
+          </technical_metadata>
+          <versions>
+            <version name="small">
+              <filesize>120541</filesize>
+              <height>375</height>
+              <has_more_jobs>0</has_more_jobs>
+              <class>image</class>
+              <width>250</width>
+              <url>https://objects.ub.uni-mainz.de/eas/partitions-inline/2/0/15000/15622/2a9e76e83b640f8910b7084512a128c1b06c4796/image/png</url>
+              <status>done</status>
+              <extension>png</extension>
+              <aspect_ratio>0.66600000858306885</aspect_ratio>
+              <dpi>299</dpi>
+              <download_url>https://objects.ub.uni-mainz.de/eas/partitions/2/0/15000/15622/2a9e76e83b640f8910b7084512a128c1b06c4796/image/png/IMG_931204-small.png</download_url>
+              <_download_allowed>0</_download_allowed>
+              <deep_link_url>https://objects.ub.uni-mainz.de/api/v1/objects/uuid/5d8c6c31-bf11-421b-82e9-015d35fa39b5/file/id/15622/file_version/name/small/disposition/inline</deep_link_url>
+            </version>
+          </versions>
+        </file>
+        <file>
+          <eas-id>15624</eas-id>
+          <preferred>true</preferred>
+          <status>done</status>
+          <class>image</class>
+          <extension>tif</extension>
+          <name/>
+          <original_filename>Job_0004.tif</original_filename>
+          <compiled/>
+          <eas_parent_id/>
+          <date_inserted>2023-07-03T20:27:44Z</date_inserted>
+          <date_created/>
+          <date_uploaded>2021-09-03T10:47:16Z</date_uploaded>
+          <filesize>68354592</filesize>
+          <technical_metadata>
+            <file_sha224_checksum>b93a847ddbb4dc80dcae512fc5a7bad990c9513c7d9869ea4e1cf9fc</file_sha224_checksum>
+            <orientation>1</orientation>
+            <camera_scanner>Hasselblad CFV-39 - Hasselblad ELX</camera_scanner>
+            <width>4021</width>
+            <height>5664</height>
+            <dpi>300</dpi>
+            <max_dimension>5664</max_dimension>
+            <format>portrait</format>
+            <aspect_ratio>0.7099223163841808</aspect_ratio>
+            <colordepth>24</colordepth>
+            <colorspace>rgb</colorspace>
+            <colorprofile>Adobe RGB (1998)</colorprofile>
+          </technical_metadata>
+          <versions>
+            <version name="small">
+              <filesize>109352</filesize>
+              <height>352</height>
+              <has_more_jobs>0</has_more_jobs>
+              <class>image</class>
+              <width>250</width>
+              <url>https://objects.ub.uni-mainz.de/eas/partitions-inline/2/0/15000/15624/f21ea530c1c461dfa69bfc12e1d97d74a5b1f50f/image/png</url>
+              <status>done</status>
+              <extension>png</extension>
+              <aspect_ratio>0.70999997854232788</aspect_ratio>
+              <dpi>299</dpi>
+              <download_url>https://objects.ub.uni-mainz.de/eas/partitions/2/0/15000/15624/f21ea530c1c461dfa69bfc12e1d97d74a5b1f50f/image/png/Job_0004-small.png</download_url>
+              <_download_allowed>0</_download_allowed>
+              <deep_link_url>https://objects.ub.uni-mainz.de/api/v1/objects/uuid/5d8c6c31-bf11-421b-82e9-015d35fa39b5/file/id/15624/file_version/name/small/disposition/inline</deep_link_url>
+            </version>
+          </versions>
+        </file>
+        <file>
+          <eas-id>15625</eas-id>
+          <preferred>true</preferred>
+          <status>done</status>
+          <class>image</class>
+          <extension>tif</extension>
+          <name/>
+          <original_filename>Job_0029.tif</original_filename>
+          <compiled/>
+          <eas_parent_id/>
+          <date_inserted>2023-07-03T20:27:44Z</date_inserted>
+          <date_created/>
+          <date_uploaded>2021-09-03T10:48:51Z</date_uploaded>
+          <filesize>98856930</filesize>
+          <technical_metadata>
+            <file_sha224_checksum>8c85b75c678842465607c1f58b63b3cb54ecc862fba0f515071a4202</file_sha224_checksum>
+            <orientation>1</orientation>
+            <camera_scanner>Hasselblad CFV-39 - Hasselblad ELX</camera_scanner>
+            <width>4821</width>
+            <height>6833</height>
+            <dpi>300</dpi>
+            <max_dimension>6833</max_dimension>
+            <format>portrait</format>
+            <aspect_ratio>0.70554661202985514</aspect_ratio>
+            <colordepth>24</colordepth>
+            <colorspace>rgb</colorspace>
+            <colorprofile>Adobe RGB (1998)</colorprofile>
+          </technical_metadata>
+          <versions>
+            <version name="small">
+              <filesize>130398</filesize>
+              <height>354</height>
+              <has_more_jobs>0</has_more_jobs>
+              <class>image</class>
+              <width>250</width>
+              <url>https://objects.ub.uni-mainz.de/eas/partitions-inline/2/0/15000/15625/c6b3f229dc2b49360b728a65a06d2482a4251128/image/png</url>
+              <status>done</status>
+              <extension>png</extension>
+              <aspect_ratio>0.70599997043609619</aspect_ratio>
+              <dpi>299</dpi>
+              <download_url>https://objects.ub.uni-mainz.de/eas/partitions/2/0/15000/15625/c6b3f229dc2b49360b728a65a06d2482a4251128/image/png/Job_0029-small.png</download_url>
+              <_download_allowed>0</_download_allowed>
+              <deep_link_url>https://objects.ub.uni-mainz.de/api/v1/objects/uuid/5d8c6c31-bf11-421b-82e9-015d35fa39b5/file/id/15625/file_version/name/small/disposition/inline</deep_link_url>
+            </version>
+          </versions>
+        </file>
+        <file>
+          <eas-id>15626</eas-id>
+          <preferred>true</preferred>
+          <status>done</status>
+          <class>image</class>
+          <extension>tif</extension>
+          <name/>
+          <original_filename>Job_0034.tif</original_filename>
+          <compiled/>
+          <eas_parent_id/>
+          <date_inserted>2023-07-03T20:27:44Z</date_inserted>
+          <date_created/>
+          <date_uploaded>2021-09-03T10:50:01Z</date_uploaded>
+          <filesize>92550578</filesize>
+          <technical_metadata>
+            <file_sha224_checksum>ce643abd0976a4d6d7b62791491ba1024e54031a69a62c5564a5e171</file_sha224_checksum>
+            <orientation>1</orientation>
+            <camera_scanner>Hasselblad CFV-39 - Hasselblad ELX</camera_scanner>
+            <width>4724</width>
+            <height>6528</height>
+            <dpi>300</dpi>
+            <max_dimension>6528</max_dimension>
+            <format>portrait</format>
+            <aspect_ratio>0.72365196078431371</aspect_ratio>
+            <colordepth>24</colordepth>
+            <colorspace>rgb</colorspace>
+            <colorprofile>Adobe RGB (1998)</colorprofile>
+          </technical_metadata>
+          <versions>
+            <version name="small">
+              <filesize>112087</filesize>
+              <height>345</height>
+              <has_more_jobs>0</has_more_jobs>
+              <class>image</class>
+              <width>250</width>
+              <url>https://objects.ub.uni-mainz.de/eas/partitions-inline/2/0/15000/15626/942d888fa00de9e4147f1506df9a6aa63326ac5c/image/png</url>
+              <status>done</status>
+              <extension>png</extension>
+              <aspect_ratio>0.72399997711181641</aspect_ratio>
+              <dpi>299</dpi>
+              <download_url>https://objects.ub.uni-mainz.de/eas/partitions/2/0/15000/15626/942d888fa00de9e4147f1506df9a6aa63326ac5c/image/png/Job_0034-small.png</download_url>
+              <_download_allowed>0</_download_allowed>
+              <deep_link_url>https://objects.ub.uni-mainz.de/api/v1/objects/uuid/5d8c6c31-bf11-421b-82e9-015d35fa39b5/file/id/15626/file_version/name/small/disposition/inline</deep_link_url>
+            </version>
+          </versions>
+        </file>
+      </files>
+    </_standard-eas>
+    <_exported_at>2023-07-04T12:31:47+02:00</_exported_at>
+    <_mask>objekte_es__all_fields</_mask>
+    <_last_modified>2023-07-03T20:27:44Z</_last_modified>
+    <_created>2021-09-02T09:23:32Z</_created>
+    <owner type="user">
+      <id>251</id>
+      <displayname>Lisa Roemer</displayname>
+    </owner>
+    <tags>
+      <tag id="5">
+        <name>
+          <de-DE>Sammlungsintern</de-DE>
+        </name>
+      </tag>
+    </tags>
+    <collections>
+      <collection id="142"/>
+      <collection id="163"/>
+      <collection id="164"/>
+      <collection id="169"/>
+      <collection id="262"/>
+      <collection id="297"/>
+    </collections>
+    <_urls>
+      <url type="deep-link">https://objects.ub.uni-mainz.de/api/v1/objects/uuid/5d8c6c31-bf11-421b-82e9-015d35fa39b5</url>
+      <url type="easydb-id">https://objects.ub.uni-mainz.de/detail/24254</url>
+    </_urls>
+    <objekttitel type="text_l10n_oneline">
+      <de-DE>Gedenkkopf eines Edo-Königs</de-DE>
+    </objekttitel>
+    <urspruenglicher_name type="text_oneline">Uhunmwu-Elao</urspruenglicher_name>
+    <sprache>
+      <sprachen>
+        <_id>1</_id>
+        <_system_object_id>665590</_system_object_id>
+        <_version>1</_version>
+        <_uuid>047d7d2a-3801-4cd1-92f4-79c327b6f094</_uuid>
+        <_objecttype>sprachen</_objecttype>
+        <_global_object_id>665590@e2693ff0-14c9-4333-8c0e-a4de8c701ce4</_global_object_id>
+        <_standard>
+          <de-DE>Bini, Edo</de-DE>
+          <en-US>Bini, Edo</en-US>
+        </_standard>
+        <name type="text_oneline">Bini, Edo</name>
+        <iso type="text_oneline">bin</iso>
+        <bemerkung type="text">ISO 639-2, 639-3</bemerkung>
+      </sprachen>
+    </sprache>
+    <_nested__objekte__weitere_titel>
+      <objekte__weitere_titel>
+        <weiterer_titel type="text">Commemorative Head, Udo-Style Head</weiterer_titel>
+      </objekte__weitere_titel>
+    </_nested__objekte__weitere_titel>
+    <objektkategorie>
+      <objektkategorien>
+        <_id>55</_id>
+        <_system_object_id>20520</_system_object_id>
+        <_version>1</_version>
+        <_uuid>25d05669-0a54-4926-959e-c36c26e64f52</_uuid>
+        <_objecttype>objektkategorien</_objecttype>
+        <_global_object_id>20520@e2693ff0-14c9-4333-8c0e-a4de8c701ce4</_global_object_id>
+        <_standard>
+          <de-DE>Plastik/Skulptur</de-DE>
+          <en-US>sculpture</en-US>
+        </_standard>
+        <name type="text_l10n_oneline">
+          <de-DE>Plastik/Skulptur</de-DE>
+          <en-US>sculpture</en-US>
+        </name>
+        <uri type="text_oneline">http://portal.wissenschaftliche-sammlungen.de/ObjectGenre/255</uri>
+      </objektkategorien>
+    </objektkategorie>
+    <custom name="objektbezeichnung" type="custom:base.custom-data-type-gnd.gnd">
+      <string name="frontendLanguage">de</string>
+      <object name="_fulltext">
+        <string name="text">4046277-8 (DE-588c)4046277-8 Plastik Plastik Skulptur Bildwerk Plastiken Bildhauerkunst Skulpturen </string>
+      </object>
+      <string name="conceptURI">https://d-nb.info/gnd/4046277-8</string>
+      <string name="conceptName">Plastik</string>
+      <object name="_standard">
+        <string name="text">Plastik</string>
+      </object>
+    </custom>
+    <custom name="objektbezeichnung_aat" type="custom:base.custom-data-type-getty.getty">
+      <string name="frontendLanguage">de</string>
+      <object name="_fulltext">
+        <string name="text">sculpture (visual works)</string>
+      </object>
+      <string name="conceptURI">http://vocab.getty.edu/aat/300047090</string>
+      <string name="conceptName">sculpture (visual works)</string>
+      <object name="_standard"/>
+    </custom>
+    <standort_neu>
+      <standorte>
+        <_id>5</_id>
+        <_system_object_id>20547</_system_object_id>
+        <_version>5</_version>
+        <_uuid>ca19999b-0864-4aa8-820a-ded259146059</_uuid>
+        <_objecttype>standorte</_objecttype>
+        <_global_object_id>20547@e2693ff0-14c9-4333-8c0e-a4de8c701ce4</_global_object_id>
+        <_standard>
+          <de-DE>Mainz, Johannes Gutenberg-Universität Mainz</de-DE>
+          <en-US>Mainz, Johannes Gutenberg-Universität Mainz</en-US>
+        </_standard>
+        <custom name="geonames_id" type="custom:base.custom-data-type-geonames.geonames">
+          <string name="frontendLanguage">de</string>
+          <string name="conceptURI">http://www.geonames.org/6554818</string>
+          <object name="_fulltext">
+            <string name="text">Mainz</string>
+          </object>
+          <object name="_standard">
+            <string name="text">Mainz</string>
+          </object>
+          <string name="conceptName">Mainz</string>
+        </custom>
+        <name type="text_oneline">Johannes Gutenberg-Universität Mainz</name>
+      </standorte>
+    </standort_neu>
+    <inventarnummer type="text_oneline">JGU ES 2595</inventarnummer>
+    <_nested__objekte__weitere_nummern>
+      <objekte__weitere_nummern>
+        <typ>
+          <typ_weitere_nummern>
+            <_id>2</_id>
+            <_system_object_id>248</_system_object_id>
+            <_version>1</_version>
+            <_uuid>09fe0e4f-482a-46ff-9f07-fff82bce1a13</_uuid>
+            <_objecttype>typ_weitere_nummern</_objecttype>
+            <_global_object_id>248@e2693ff0-14c9-4333-8c0e-a4de8c701ce4</_global_object_id>
+            <_standard>
+              <de-DE>alte Inventarnummer</de-DE>
+              <en-US>alte Inventarnummer</en-US>
+            </_standard>
+            <name type="text_oneline">alte Inventarnummer</name>
+          </typ_weitere_nummern>
+        </typ>
+        <nummer type="text_oneline">2595</nummer>
+      </objekte__weitere_nummern>
+      <objekte__weitere_nummern>
+        <typ>
+          <typ_weitere_nummern>
+            <_id>2</_id>
+            <_system_object_id>248</_system_object_id>
+            <_version>1</_version>
+            <_uuid>09fe0e4f-482a-46ff-9f07-fff82bce1a13</_uuid>
+            <_objecttype>typ_weitere_nummern</_objecttype>
+            <_global_object_id>248@e2693ff0-14c9-4333-8c0e-a4de8c701ce4</_global_object_id>
+            <_standard>
+              <de-DE>alte Inventarnummer</de-DE>
+              <en-US>alte Inventarnummer</en-US>
+            </_standard>
+            <name type="text_oneline">alte Inventarnummer</name>
+          </typ_weitere_nummern>
+        </typ>
+        <nummer type="text_oneline">Linden-Museum: 3173</nummer>
+      </objekte__weitere_nummern>
+    </_nested__objekte__weitere_nummern>
+    <_nested__objekte__kulturbezug>
+      <objekte__kulturbezug>
+        <kulturbezug>
+          <kulturbezug>
+            <_id>59</_id>
+            <_system_object_id>23395</_system_object_id>
+            <_version>1</_version>
+            <_uuid>ccdc5cb4-f98f-4907-b698-7f29171d9d3c</_uuid>
+            <_objecttype>kulturbezug</_objecttype>
+            <_global_object_id>23395@e2693ff0-14c9-4333-8c0e-a4de8c701ce4</_global_object_id>
+            <_standard>
+              <de-DE>Edo</de-DE>
+              <en-US>Edo</en-US>
+            </_standard>
+            <name type="text_oneline">Edo</name>
+          </kulturbezug>
+        </kulturbezug>
+      </objekte__kulturbezug>
+    </_nested__objekte__kulturbezug>
+    <_nested__objekte__verwendungen>
+      <objekte__verwendungen>
+        <verwendung>
+          <verwendung>
+            <_id>94</_id>
+            <_system_object_id>24269</_system_object_id>
+            <_version>2</_version>
+            <_uuid>2096771a-2486-4345-a031-0bdfbbe6507f</_uuid>
+            <_objecttype>verwendung</_objecttype>
+            <_global_object_id>24269@e2693ff0-14c9-4333-8c0e-a4de8c701ce4</_global_object_id>
+            <_standard>
+              <de-DE>Ritual</de-DE>
+              <en-US>Ritual</en-US>
+            </_standard>
+            <name type="text_oneline">Ritual</name>
+          </verwendung>
+        </verwendung>
+      </objekte__verwendungen>
+      <objekte__verwendungen>
+        <verwendung>
+          <verwendung>
+            <_id>113</_id>
+            <_system_object_id>40985</_system_object_id>
+            <_version>1</_version>
+            <_uuid>95d05220-2fa3-4d18-847a-33a48ae44df3</_uuid>
+            <_objecttype>verwendung</_objecttype>
+            <_global_object_id>40985@e2693ff0-14c9-4333-8c0e-a4de8c701ce4</_global_object_id>
+            <_standard>
+              <de-DE>Altar</de-DE>
+              <en-US>Altar</en-US>
+            </_standard>
+            <name type="text_oneline">Altar</name>
+          </verwendung>
+        </verwendung>
+      </objekte__verwendungen>
+      <objekte__verwendungen>
+        <verwendung>
+          <verwendung>
+            <_id>111</_id>
+            <_system_object_id>40983</_system_object_id>
+            <_version>1</_version>
+            <_uuid>5cb6d965-23ee-4e08-a462-250a354fc425</_uuid>
+            <_objecttype>verwendung</_objecttype>
+            <_global_object_id>40983@e2693ff0-14c9-4333-8c0e-a4de8c701ce4</_global_object_id>
+            <_standard>
+              <de-DE>Schrein</de-DE>
+              <en-US>Schrein</en-US>
+            </_standard>
+            <name type="text_oneline">Schrein</name>
+          </verwendung>
+        </verwendung>
+      </objekte__verwendungen>
+      <objekte__verwendungen>
+        <verwendung>
+          <verwendung>
+            <_id>112</_id>
+            <_system_object_id>40984</_system_object_id>
+            <_version>1</_version>
+            <_uuid>e112b521-442c-485f-87f9-4bfea98287ff</_uuid>
+            <_objecttype>verwendung</_objecttype>
+            <_global_object_id>40984@e2693ff0-14c9-4333-8c0e-a4de8c701ce4</_global_object_id>
+            <_standard>
+              <de-DE>Politik</de-DE>
+              <en-US>Politik</en-US>
+            </_standard>
+            <name type="text_oneline">Politik</name>
+          </verwendung>
+        </verwendung>
+      </objekte__verwendungen>
+    </_nested__objekte__verwendungen>
+    <objektbeschreibung type="text">Der Gedenkkopf stand zu Ehren eines verstorbenen Königs auf einem Altar im Königspalast. Solche Altäre wurden und werden vom königlichen Nachfolger während der Begräbnisrituale errichtet. Sie verbinden den neuen König mit seinen königlichen Ahnen und legitimieren seine Herrschaft. / Im September 2020 hat die JGU Mainz Nigeria die Rückgabe des Gedenkkopfs angeboten.
+Englisch (Digital Benin): The commemorative head, Uhunmwu Elao, of an Ọba placed at the king’s ancestral shrine could be made from bronze, wood or terra-cotta. The altar consists of a commemorative head that supported the carved ivory tusk. It could have a circular base or a rectangular-shaped base. However, they all have a unifying feature, which is the hole at the centre in which the tusk is placed.</objektbeschreibung>
+    <_nested__objekte__personen_koerperschaften>
+      <objekte__personen_koerperschaften>
+        <person_koerperschaft>
+          <personen_koerperschaften>
+            <_id>276</_id>
+            <_system_object_id>23959</_system_object_id>
+            <_version>2</_version>
+            <_uuid>79c6a7f0-507a-4d8a-906b-c7ba30b646ac</_uuid>
+            <_objecttype>personen_koerperschaften</_objecttype>
+            <_global_object_id>23959@e2693ff0-14c9-4333-8c0e-a4de8c701ce4</_global_object_id>
+            <pool id="43">
+              <de-DE>Ethnografische Studiensammlung</de-DE>
+            </pool>
+            <_standard>
+              <de-DE>uns nicht bekannt</de-DE>
+              <en-US>uns nicht bekannt</en-US>
+            </_standard>
+            <name type="text_oneline">uns nicht bekannt</name>
+          </personen_koerperschaften>
+        </person_koerperschaft>
+        <unsicher type="boolean">0</unsicher>
+        <rolle>
+          <rollen>
+            <_id>44</_id>
+            <_system_object_id>4272</_system_object_id>
+            <_version>7</_version>
+            <_uuid>45cf24c6-6162-4090-aec2-e9a6605973eb</_uuid>
+            <_objecttype>rollen</_objecttype>
+            <_global_object_id>4272@e2693ff0-14c9-4333-8c0e-a4de8c701ce4</_global_object_id>
+            <_standard>
+              <de-DE>Herstellung (durch)</de-DE>
+              <en-US>Production</en-US>
+            </_standard>
+            <name type="text_l10n_oneline">
+              <de-DE>Herstellung (durch)</de-DE>
+              <en-US>Production</en-US>
+            </name>
+            <lido_event type="text_oneline">lido00007</lido_event>
+            <lido_name type="text_l10n_oneline">
+              <de-DE>Herstellung</de-DE>
+              <en-US>Production</en-US>
+            </lido_name>
+            <marcrelator type="text_oneline">oth</marcrelator>
+            <ubmz_event_id type="text_oneline">ubmz-14</ubmz_event_id>
+            <ubmz_name type="text_l10n_oneline">
+              <de-DE>Herstellung</de-DE>
+              <en-US>Production</en-US>
+            </ubmz_name>
+          </rollen>
+        </rolle>
+        <bemerkung type="text">Unbekannter Meister der Bronzegießergilde am Königshof von Benin.</bemerkung>
+      </objekte__personen_koerperschaften>
+      <objekte__personen_koerperschaften>
+        <person_koerperschaft>
+          <personen_koerperschaften>
+            <_id>288</_id>
+            <_system_object_id>24932</_system_object_id>
+            <_version>1</_version>
+            <_uuid>37dec582-d111-40f7-b3b6-43abb7dbbc03</_uuid>
+            <_objecttype>personen_koerperschaften</_objecttype>
+            <_global_object_id>24932@e2693ff0-14c9-4333-8c0e-a4de8c701ce4</_global_object_id>
+            <pool id="43">
+              <de-DE>Ethnografische Studiensammlung</de-DE>
+            </pool>
+            <_standard>
+              <de-DE>Britische Kolonialtruppen</de-DE>
+              <en-US>Britische Kolonialtruppen</en-US>
+            </_standard>
+            <name type="text_oneline">Britische Kolonialtruppen</name>
+          </personen_koerperschaften>
+        </person_koerperschaft>
+        <unsicher type="boolean">0</unsicher>
+        <rolle>
+          <rollen>
+            <_id>65</_id>
+            <_system_object_id>24260</_system_object_id>
+            <_version>7</_version>
+            <_uuid>d52c6455-6cc6-44fd-933c-8fb49360e626</_uuid>
+            <_objecttype>rollen</_objecttype>
+            <_global_object_id>24260@e2693ff0-14c9-4333-8c0e-a4de8c701ce4</_global_object_id>
+            <_standard>
+              <de-DE>Raub (durch)</de-DE>
+              <en-US>Looting (looter)</en-US>
+            </_standard>
+            <name type="text_l10n_oneline">
+              <de-DE>Raub (durch)</de-DE>
+              <en-US>Looting (looter)</en-US>
+            </name>
+            <lido_event type="text_oneline">lido00005</lido_event>
+            <lido_name type="text_l10n_oneline">
+              <de-DE>Übertragung des Gewahrsams</de-DE>
+              <en-US>Transfer of Custody</en-US>
+            </lido_name>
+            <marcrelator type="text_oneline">oth</marcrelator>
+            <ubmz_event_id type="text_oneline">ubmz-37</ubmz_event_id>
+            <ubmz_name type="text_l10n_oneline">
+              <de-DE>Raub</de-DE>
+            </ubmz_name>
+          </rollen>
+        </rolle>
+        <bemerkung type="text">Plünderung des Königspalastes durch britische Kolonialtruppen</bemerkung>
+      </objekte__personen_koerperschaften>
+      <objekte__personen_koerperschaften>
+        <person_koerperschaft>
+          <personen_koerperschaften>
+            <_id>266</_id>
+            <_system_object_id>23399</_system_object_id>
+            <_version>2</_version>
+            <_uuid>d1fe2979-3692-4f2a-abff-bb66ce0d2c58</_uuid>
+            <_objecttype>personen_koerperschaften</_objecttype>
+            <_global_object_id>23399@e2693ff0-14c9-4333-8c0e-a4de8c701ce4</_global_object_id>
+            <pool id="43">
+              <de-DE>Ethnografische Studiensammlung</de-DE>
+            </pool>
+            <_standard>
+              <de-DE>Schmidt, Eduard (1895-1899)</de-DE>
+              <en-US>Schmidt, Eduard (1895-1899)</en-US>
+            </_standard>
+            <name type="text_oneline">Schmidt, Eduard (1895-1899)</name>
+            <bemerkung type="text">Kaufmann, Hauptvertreter der Hamburger Handelsfirma Witt &amp; Büsch und deutscher Konsul in Lagos</bemerkung>
+          </personen_koerperschaften>
+        </person_koerperschaft>
+        <unsicher type="boolean">0</unsicher>
+        <rolle>
+          <rollen>
+            <_id>60</_id>
+            <_system_object_id>21905</_system_object_id>
+            <_version>11</_version>
+            <_uuid>f5a8cb8f-f692-47ff-b79d-2978e2a3d142</_uuid>
+            <_objecttype>rollen</_objecttype>
+            <_global_object_id>21905@e2693ff0-14c9-4333-8c0e-a4de8c701ce4</_global_object_id>
+            <_standard>
+              <de-DE>Kolonialer Erwerb (durch)</de-DE>
+              <en-US>Acquisition in a colonial context (Buyer)</en-US>
+            </_standard>
+            <name type="text_l10n_oneline">
+              <de-DE>Kolonialer Erwerb (durch)</de-DE>
+              <en-US>Acquisition in a colonial context (Buyer)</en-US>
+            </name>
+            <bemerkung type="text_l10n">
+              <de-DE>Erwerbung, erworben durch diese Person / Körperschaft in kolonialem Kontext</de-DE>
+            </bemerkung>
+            <lido_event type="text_oneline">lido00001</lido_event>
+            <lido_name type="text_l10n_oneline">
+              <de-DE>Erwerbung</de-DE>
+              <en-US>Acquisition</en-US>
+            </lido_name>
+            <marcrelator type="text_oneline">own</marcrelator>
+            <marcrelator_name type="text_l10n_oneline">
+              <de-DE>Besitzer/Besitzerin, Eigentümer/Eigentümerin</de-DE>
+              <en-US>Owner</en-US>
+            </marcrelator_name>
+            <ubmz_event_id type="text_oneline">ubmz-16</ubmz_event_id>
+            <ubmz_name type="text_l10n_oneline">
+              <de-DE>Kolonialer Erwerb</de-DE>
+              <en-US>Acquisition in a colonial context</en-US>
+            </ubmz_name>
+          </rollen>
+        </rolle>
+        <bemerkung type="text">Wenn Schmidt von Mitgliedern des britischen Militärs gekauft hat, dann liegt der Straftatbestand der Hehlerei vor.</bemerkung>
+      </objekte__personen_koerperschaften>
+      <objekte__personen_koerperschaften>
+        <person_koerperschaft>
+          <personen_koerperschaften>
+            <_id>267</_id>
+            <_system_object_id>23400</_system_object_id>
+            <_version>4</_version>
+            <_uuid>5f3c090c-a35e-4442-8c95-bf0dd6f95c5f</_uuid>
+            <_objecttype>personen_koerperschaften</_objecttype>
+            <_global_object_id>23400@e2693ff0-14c9-4333-8c0e-a4de8c701ce4</_global_object_id>
+            <pool id="43">
+              <de-DE>Ethnografische Studiensammlung</de-DE>
+            </pool>
+            <_standard>
+              <de-DE>Schoeller, Max (1865 - 1943)</de-DE>
+              <en-US>Schoeller, Max (1865 - 1943)</en-US>
+            </_standard>
+            <custom name="gnd_id" type="custom:base.custom-data-type-gnd.gnd">
+              <string name="frontendLanguage">de</string>
+              <object name="_fulltext">
+                <string name="text">117645036 (DE-588)109018431X (DE-588a)117645036 Schoeller, Max Düren (Wirkungsort); Studium der Chemie; Fabrikant, Forschungsreisender 1865 Männlich Forschungsreisender </string>
+              </object>
+              <string name="conceptURI">https://d-nb.info/gnd/117645036</string>
+              <object name="_standard">
+                <string name="text">Schoeller, Max (1865)</string>
+              </object>
+              <string name="conceptName">Schoeller, Max (1865)</string>
+            </custom>
+            <name type="text_oneline">Schoeller, Max (1865 - 1943)</name>
+            <bemerkung type="text">Kolonialaktivist, Afrikareisender (1865-1943)</bemerkung>
+          </personen_koerperschaften>
+        </person_koerperschaft>
+        <unsicher type="boolean">0</unsicher>
+        <rolle>
+          <rollen>
+            <_id>54</_id>
+            <_system_object_id>21415</_system_object_id>
+            <_version>12</_version>
+            <_uuid>2cdd6bb3-ace1-46b2-aff4-80cbe55a4f1e</_uuid>
+            <_objecttype>rollen</_objecttype>
+            <_global_object_id>21415@e2693ff0-14c9-4333-8c0e-a4de8c701ce4</_global_object_id>
+            <_standard>
+              <de-DE>Kauf (durch)</de-DE>
+              <en-US>Purchase (Buyer)</en-US>
+            </_standard>
+            <name type="text_l10n_oneline">
+              <de-DE>Kauf (durch)</de-DE>
+              <en-US>Purchase (Buyer)</en-US>
+            </name>
+            <bemerkung type="text_l10n">
+              <de-DE>Erwerbung, verkauft an diese Person/Körperschaft</de-DE>
+            </bemerkung>
+            <lido_event type="text_oneline">lido00001</lido_event>
+            <lido_name type="text_l10n_oneline">
+              <de-DE>Erwerbung</de-DE>
+              <en-US>Acquisition</en-US>
+            </lido_name>
+            <marcrelator type="text_oneline">own</marcrelator>
+            <marcrelator_name type="text_l10n_oneline">
+              <de-DE>Besitzer/Besitzerin, Eigentümer/Eigentümerin</de-DE>
+              <en-US>Owner</en-US>
+            </marcrelator_name>
+            <ubmz_event_id type="text_oneline">ubmz-15</ubmz_event_id>
+            <ubmz_name type="text_l10n_oneline">
+              <de-DE>Kauf</de-DE>
+              <en-US>Purchase</en-US>
+            </ubmz_name>
+          </rollen>
+        </rolle>
+      </objekte__personen_koerperschaften>
+      <objekte__personen_koerperschaften>
+        <person_koerperschaft>
+          <personen_koerperschaften>
+            <_id>267</_id>
+            <_system_object_id>23400</_system_object_id>
+            <_version>4</_version>
+            <_uuid>5f3c090c-a35e-4442-8c95-bf0dd6f95c5f</_uuid>
+            <_objecttype>personen_koerperschaften</_objecttype>
+            <_global_object_id>23400@e2693ff0-14c9-4333-8c0e-a4de8c701ce4</_global_object_id>
+            <pool id="43">
+              <de-DE>Ethnografische Studiensammlung</de-DE>
+            </pool>
+            <_standard>
+              <de-DE>Schoeller, Max (1865 - 1943)</de-DE>
+              <en-US>Schoeller, Max (1865 - 1943)</en-US>
+            </_standard>
+            <custom name="gnd_id" type="custom:base.custom-data-type-gnd.gnd">
+              <string name="frontendLanguage">de</string>
+              <object name="_fulltext">
+                <string name="text">117645036 (DE-588)109018431X (DE-588a)117645036 Schoeller, Max Düren (Wirkungsort); Studium der Chemie; Fabrikant, Forschungsreisender 1865 Männlich Forschungsreisender </string>
+              </object>
+              <string name="conceptURI">https://d-nb.info/gnd/117645036</string>
+              <object name="_standard">
+                <string name="text">Schoeller, Max (1865)</string>
+              </object>
+              <string name="conceptName">Schoeller, Max (1865)</string>
+            </custom>
+            <name type="text_oneline">Schoeller, Max (1865 - 1943)</name>
+            <bemerkung type="text">Kolonialaktivist, Afrikareisender (1865-1943)</bemerkung>
+          </personen_koerperschaften>
+        </person_koerperschaft>
+        <unsicher type="boolean">0</unsicher>
+        <rolle>
+          <rollen>
+            <_id>50</_id>
+            <_system_object_id>19961</_system_object_id>
+            <_version>6</_version>
+            <_uuid>fe47e42a-77b1-491c-a0c6-ffc0e381e88c</_uuid>
+            <_objecttype>rollen</_objecttype>
+            <_global_object_id>19961@e2693ff0-14c9-4333-8c0e-a4de8c701ce4</_global_object_id>
+            <_standard>
+              <de-DE>Schenkung (von)</de-DE>
+              <en-US>Donation (Donor)</en-US>
+            </_standard>
+            <name type="text_l10n_oneline">
+              <de-DE>Schenkung (von)</de-DE>
+              <en-US>Donation (Donor)</en-US>
+            </name>
+            <bemerkung type="text_l10n">
+              <de-DE>Erwerbung, erworben durch Schenkung von dieser Person/Körperschaft</de-DE>
+            </bemerkung>
+            <lido_event type="text_oneline">lido00001</lido_event>
+            <lido_name type="text_l10n_oneline">
+              <de-DE>Erwerbung</de-DE>
+              <en-US>Acquisition</en-US>
+            </lido_name>
+            <marcrelator type="text_oneline">dnr</marcrelator>
+            <marcrelator_name type="text_l10n_oneline">
+              <de-DE>Schenker/Schenkerin</de-DE>
+              <en-US>Donor</en-US>
+            </marcrelator_name>
+            <ubmz_event_id type="text_oneline">ubmz-25</ubmz_event_id>
+            <ubmz_name type="text_l10n_oneline">
+              <de-DE>Schenkung</de-DE>
+              <en-US>Donation</en-US>
+            </ubmz_name>
+          </rollen>
+        </rolle>
+        <bemerkung type="text">M. Schoeller überließ den Gedenkkopf (und andere Objekte) dem Linden-Museum im Tausch gegen die Verleihung des Ritterkreuzes 1. Klasse des Friedrichsordens (Dekret des Königs von Württemberg vom 10.04.1899).</bemerkung>
+      </objekte__personen_koerperschaften>
+      <objekte__personen_koerperschaften>
+        <person_koerperschaft>
+          <personen_koerperschaften>
+            <_id>206</_id>
+            <_system_object_id>22086</_system_object_id>
+            <_version>10</_version>
+            <_uuid>f9c6b402-43d3-477e-9f24-13f005a7312d</_uuid>
+            <_objecttype>personen_koerperschaften</_objecttype>
+            <_global_object_id>22086@e2693ff0-14c9-4333-8c0e-a4de8c701ce4</_global_object_id>
+            <pool id="43">
+              <de-DE>Ethnografische Studiensammlung</de-DE>
+            </pool>
+            <_standard>
+              <de-DE>Linden-Museum Stuttgart</de-DE>
+              <en-US>Linden-Museum Stuttgart</en-US>
+            </_standard>
+            <custom name="gnd_id" type="custom:base.custom-data-type-gnd.gnd">
+              <string name="frontendLanguage">de</string>
+              <object name="_fulltext">
+                <string name="text">1048946-0 (DE-588b)16293454-3 (DE-588)1068091274 (DE-588)1090432267 (DE-588b)16285955-7 (DE-588b)1048946-0 (DE-588c)4028285-5 (DE-588)4028285-5 Volkskunde, Völkerkunde (Allgemeines) Archiv, Museum Buchwissenschaft, Buchhandel Linden-Museum Stuttgart Linden-Museum für Völkerkunde (Stuttgart) Linden-Museum Stuttgart. Staatliches Museum für Völkerkunde Linden-Museum Stuttgart - Staatliches Museum für Völkerkunde Museum für Völkerkunde (Stuttgart). Linden-Museum Staatliches Museum für Völkerkunde (Stuttgart) Linden-Museum (Stuttgart) Linden-Museum Stuttgart, Staatliches Museum für Völkerkunde Museum für Länder- und Völkerkunde (Stuttgart) Staatliches Museum für Völkerkunde (Stuttgart). Linden-Museum Linden-Museum Stuttgart, Museum für Länder- und Völkerkunde Museum für Völkerkunde (Stuttgart) Museum für Länder- und Völkerkunde Linden-Museum für Völkerkunde Linden-Museum für Völkerkunde in Stuttgart Stuttgart, Linden-Museum 1911 Stuttgart Ethnologisches Museum Völkerkundemuseum, am 28.05.1911 eröffnet, hervorgegangen aus den Sammlungen des Württembergischen Vereins für Handelsgeographie (heute Gesellschaft für Erd- und Völkerkunde zu Stuttgart) </string>
+              </object>
+              <string name="conceptURI">https://d-nb.info/gnd/1048946-0</string>
+              <object name="_standard">
+                <string name="text">Linden-Museum Stuttgart</string>
+              </object>
+              <string name="conceptName">Linden-Museum Stuttgart</string>
+            </custom>
+            <name type="text_oneline">Linden-Museum Stuttgart</name>
+          </personen_koerperschaften>
+        </person_koerperschaft>
+        <unsicher type="boolean">0</unsicher>
+        <rolle>
+          <rollen>
+            <_id>63</_id>
+            <_system_object_id>23992</_system_object_id>
+            <_version>3</_version>
+            <_uuid>620b0515-6e3e-4284-ab38-e8a37ea4274a</_uuid>
+            <_objecttype>rollen</_objecttype>
+            <_global_object_id>23992@e2693ff0-14c9-4333-8c0e-a4de8c701ce4</_global_object_id>
+            <_standard>
+              <de-DE>Schenkung (an)</de-DE>
+              <en-US>Donation (Donee)</en-US>
+            </_standard>
+            <name type="text_l10n_oneline">
+              <de-DE>Schenkung (an)</de-DE>
+              <en-US>Donation (Donee)</en-US>
+            </name>
+            <bemerkung type="text_l10n">
+              <de-DE>Erwerbung, erworben durch Schenkung an diese Person/Körperschaft</de-DE>
+            </bemerkung>
+            <lido_event type="text_oneline">lido00001</lido_event>
+            <lido_name type="text_l10n_oneline">
+              <de-DE>Erwerbung</de-DE>
+              <en-US>Acquisition</en-US>
+            </lido_name>
+            <marcrelator type="text_oneline">own</marcrelator>
+            <marcrelator_name type="text_l10n_oneline">
+              <de-DE>Besitzer/Besitzerin, Eigentümer/Eigentümerin</de-DE>
+              <en-US>Owner</en-US>
+            </marcrelator_name>
+            <ubmz_event_id type="text_oneline">ubmz-25</ubmz_event_id>
+            <ubmz_name type="text_l10n_oneline">
+              <de-DE>Erwerbung</de-DE>
+              <en-US>Acquisition</en-US>
+            </ubmz_name>
+          </rollen>
+        </rolle>
+      </objekte__personen_koerperschaften>
+      <objekte__personen_koerperschaften>
+        <person_koerperschaft>
+          <personen_koerperschaften>
+            <_id>206</_id>
+            <_system_object_id>22086</_system_object_id>
+            <_version>10</_version>
+            <_uuid>f9c6b402-43d3-477e-9f24-13f005a7312d</_uuid>
+            <_objecttype>personen_koerperschaften</_objecttype>
+            <_global_object_id>22086@e2693ff0-14c9-4333-8c0e-a4de8c701ce4</_global_object_id>
+            <pool id="43">
+              <de-DE>Ethnografische Studiensammlung</de-DE>
+            </pool>
+            <_standard>
+              <de-DE>Linden-Museum Stuttgart</de-DE>
+              <en-US>Linden-Museum Stuttgart</en-US>
+            </_standard>
+            <custom name="gnd_id" type="custom:base.custom-data-type-gnd.gnd">
+              <string name="frontendLanguage">de</string>
+              <object name="_fulltext">
+                <string name="text">1048946-0 (DE-588b)16293454-3 (DE-588)1068091274 (DE-588)1090432267 (DE-588b)16285955-7 (DE-588b)1048946-0 (DE-588c)4028285-5 (DE-588)4028285-5 Volkskunde, Völkerkunde (Allgemeines) Archiv, Museum Buchwissenschaft, Buchhandel Linden-Museum Stuttgart Linden-Museum für Völkerkunde (Stuttgart) Linden-Museum Stuttgart. Staatliches Museum für Völkerkunde Linden-Museum Stuttgart - Staatliches Museum für Völkerkunde Museum für Völkerkunde (Stuttgart). Linden-Museum Staatliches Museum für Völkerkunde (Stuttgart) Linden-Museum (Stuttgart) Linden-Museum Stuttgart, Staatliches Museum für Völkerkunde Museum für Länder- und Völkerkunde (Stuttgart) Staatliches Museum für Völkerkunde (Stuttgart). Linden-Museum Linden-Museum Stuttgart, Museum für Länder- und Völkerkunde Museum für Völkerkunde (Stuttgart) Museum für Länder- und Völkerkunde Linden-Museum für Völkerkunde Linden-Museum für Völkerkunde in Stuttgart Stuttgart, Linden-Museum 1911 Stuttgart Ethnologisches Museum Völkerkundemuseum, am 28.05.1911 eröffnet, hervorgegangen aus den Sammlungen des Württembergischen Vereins für Handelsgeographie (heute Gesellschaft für Erd- und Völkerkunde zu Stuttgart) </string>
+              </object>
+              <string name="conceptURI">https://d-nb.info/gnd/1048946-0</string>
+              <object name="_standard">
+                <string name="text">Linden-Museum Stuttgart</string>
+              </object>
+              <string name="conceptName">Linden-Museum Stuttgart</string>
+            </custom>
+            <name type="text_oneline">Linden-Museum Stuttgart</name>
+          </personen_koerperschaften>
+        </person_koerperschaft>
+        <unsicher type="boolean">0</unsicher>
+        <rolle>
+          <rollen>
+            <_id>55</_id>
+            <_system_object_id>21416</_system_object_id>
+            <_version>8</_version>
+            <_uuid>933c847f-2d9d-4e17-9da5-adce73b9303e</_uuid>
+            <_objecttype>rollen</_objecttype>
+            <_global_object_id>21416@e2693ff0-14c9-4333-8c0e-a4de8c701ce4</_global_object_id>
+            <_standard>
+              <de-DE>Tausch (mit)</de-DE>
+              <en-US>Exchange (with)</en-US>
+            </_standard>
+            <name type="text_l10n_oneline">
+              <de-DE>Tausch (mit)</de-DE>
+              <en-US>Exchange (with)</en-US>
+            </name>
+            <bemerkung type="text_l10n">
+              <de-DE>Erwerbung, erworben im Tausch mit dieser Person / Körperschaft</de-DE>
+            </bemerkung>
+            <lido_event type="text_oneline">lido00001</lido_event>
+            <lido_name type="text_l10n_oneline">
+              <de-DE>Erwerbung</de-DE>
+              <en-US>Acquisition</en-US>
+            </lido_name>
+            <marcrelator type="text_oneline">fmo</marcrelator>
+            <marcrelator_name type="text_l10n_oneline">
+              <de-DE>ehemaliger Besitzer/ehemalige Besitzerin, ehemaliger Eigentümer/ehemalige Eigentümerin</de-DE>
+              <en-US>Former Owner</en-US>
+            </marcrelator_name>
+            <ubmz_event_id type="text_oneline">ubmz-26</ubmz_event_id>
+            <ubmz_name type="text_l10n_oneline">
+              <de-DE>Tausch</de-DE>
+              <en-US>Exchange</en-US>
+            </ubmz_name>
+          </rollen>
+        </rolle>
+        <bemerkung type="text">JGU Mainz erhielt Objekt im Tausch mit Linden-Museum.</bemerkung>
+      </objekte__personen_koerperschaften>
+    </_nested__objekte__personen_koerperschaften>
+    <_nested__objekte__orte>
+      <objekte__orte>
+        <ereignis>
+          <ereignisse>
+            <_id>44</_id>
+            <_system_object_id>204</_system_object_id>
+            <_version>7</_version>
+            <_uuid>a42afc8e-81d2-4d09-ab49-d5781dadb073</_uuid>
+            <_objecttype>ereignisse</_objecttype>
+            <_global_object_id>204@e2693ff0-14c9-4333-8c0e-a4de8c701ce4</_global_object_id>
+            <_standard>
+              <de-DE>Herstellung</de-DE>
+              <en-US>Production</en-US>
+            </_standard>
+            <name type="text_l10n_oneline">
+              <de-DE>Herstellung</de-DE>
+              <en-US>Production</en-US>
+            </name>
+            <bemerkung type="text_l10n_oneline">
+              <de-DE>Die Erstellung eines oder mehrerer physischer Objekte. Nicht für konzeptionelle und immaterielle Elemente verwenden (dafür bitte "Künstlerische Schöpfung" auswählen).</de-DE>
+              <en-US>The creation of one or more physical items. Do not use for conceptual and non-material items (use Creation for these). (AthenaPlus)</en-US>
+            </bemerkung>
+            <lido_id type="text_oneline">lido00007</lido_id>
+            <lido_name type="text_l10n_oneline">
+              <de-DE>Herstellung</de-DE>
+              <en-US>Production</en-US>
+            </lido_name>
+            <ubmz_event_id type="text_oneline">ubmz-14</ubmz_event_id>
+          </ereignisse>
+        </ereignis>
+        <ort>
+          <orte>
+            <_id>952</_id>
+            <_system_object_id>23398</_system_object_id>
+            <_version>5</_version>
+            <_id_parent>1055</_id_parent>
+            <_path>
+              <orte level="0" parent-level="4">
+                <_system_object_id>21919</_system_object_id>
+                <_global_object_id>21919@e2693ff0-14c9-4333-8c0e-a4de8c701ce4</_global_object_id>
+                <_uuid>7dabf413-b278-4a30-8da2-a928903d2599</_uuid>
+                <_has_children>true</_has_children>
+                <_id>899</_id>
+                <_objecttype>orte</_objecttype>
+                <_standard>
+                  <de-DE>Afrika</de-DE>
+                  <en-US>Afrika</en-US>
+                </_standard>
+              </orte>
+              <orte level="1" parent-level="3">
+                <_system_object_id>24257</_system_object_id>
+                <_global_object_id>24257@e2693ff0-14c9-4333-8c0e-a4de8c701ce4</_global_object_id>
+                <_uuid>c8a4dcaa-2f0e-4fb4-9b4d-6cde0fddd124</_uuid>
+                <_has_children>true</_has_children>
+                <_id>1056</_id>
+                <_objecttype>orte</_objecttype>
+                <_standard>
+                  <de-DE>Westafrika</de-DE>
+                  <en-US>Westafrika</en-US>
+                </_standard>
+              </orte>
+              <orte level="2" parent-level="2">
+                <_system_object_id>4782</_system_object_id>
+                <_global_object_id>4782@e2693ff0-14c9-4333-8c0e-a4de8c701ce4</_global_object_id>
+                <_uuid>70fefc92-36ec-41e2-98ec-65536437ce5d</_uuid>
+                <_has_children>true</_has_children>
+                <_id>255</_id>
+                <_objecttype>orte</_objecttype>
+                <_standard>
+                  <de-DE>Nigeria</de-DE>
+                  <en-US>Nigeria</en-US>
+                </_standard>
+              </orte>
+              <orte level="3" parent-level="1">
+                <_system_object_id>24256</_system_object_id>
+                <_global_object_id>24256@e2693ff0-14c9-4333-8c0e-a4de8c701ce4</_global_object_id>
+                <_uuid>e5dcdc51-b4ae-4a1a-b043-b04c81600f41</_uuid>
+                <_has_children>true</_has_children>
+                <_id>1055</_id>
+                <_objecttype>orte</_objecttype>
+                <_standard>
+                  <de-DE>Edo</de-DE>
+                  <en-US>Edo</en-US>
+                </_standard>
+                <_standard-2>
+                  <de-DE>Bundesstaat</de-DE>
+                  <en-US>Bundesstaat</en-US>
+                </_standard-2>
+              </orte>
+              <orte level="4" parent-level="0">
+                <_system_object_id>23398</_system_object_id>
+                <_global_object_id>23398@e2693ff0-14c9-4333-8c0e-a4de8c701ce4</_global_object_id>
+                <_uuid>9d737368-e58d-4c49-84bf-bf6c97ec5021</_uuid>
+                <_has_children>false</_has_children>
+                <_id>952</_id>
+                <_objecttype>orte</_objecttype>
+                <_standard>
+                  <de-DE>Benin City</de-DE>
+                  <en-US>Benin City</en-US>
+                </_standard>
+                <_standard-2>
+                  <de-DE>Hauptstadt des Königreichs und Sitz des heutigen Bundesstaates Edo State (Nigeria)</de-DE>
+                  <en-US>Hauptstadt des Königreichs und Sitz des heutigen Bundesstaates Edo State (Nigeria)</en-US>
+                </_standard-2>
+              </orte>
+            </_path>
+            <_uuid>9d737368-e58d-4c49-84bf-bf6c97ec5021</_uuid>
+            <_objecttype>orte</_objecttype>
+            <_global_object_id>23398@e2693ff0-14c9-4333-8c0e-a4de8c701ce4</_global_object_id>
+            <_standard>
+              <de-DE>Benin City</de-DE>
+              <en-US>Benin City</en-US>
+            </_standard>
+            <custom name="geonames_id" type="custom:base.custom-data-type-geonames.geonames">
+              <string name="frontendLanguage">de</string>
+              <object name="_fulltext">
+                <string name="text">Benin City</string>
+              </object>
+              <string name="conceptURI">http://www.geonames.org/2347282</string>
+              <object name="_standard">
+                <string name="text">Benin City</string>
+              </object>
+              <string name="conceptName">Benin City</string>
+            </custom>
+            <name type="text_oneline">Benin City</name>
+            <bemerkung type="text">Hauptstadt des Königreichs und Sitz des heutigen Bundesstaates Edo State (Nigeria)</bemerkung>
+          </orte>
+        </ort>
+        <unsicher type="boolean">0</unsicher>
+      </objekte__orte>
+      <objekte__orte>
+        <ereignis>
+          <ereignisse>
+            <_id>53</_id>
+            <_system_object_id>213</_system_object_id>
+            <_version>4</_version>
+            <_uuid>85319e77-9327-4e24-a02c-287a207b14f4</_uuid>
+            <_objecttype>ereignisse</_objecttype>
+            <_global_object_id>213@e2693ff0-14c9-4333-8c0e-a4de8c701ce4</_global_object_id>
+            <_standard>
+              <de-DE>Gebrauch</de-DE>
+              <en-US>Use</en-US>
+            </_standard>
+            <name type="text_l10n_oneline">
+              <de-DE>Gebrauch</de-DE>
+              <en-US>Use</en-US>
+            </name>
+            <bemerkung type="text_l10n_oneline">
+              <en-US>Employing, occupying, applying or exploiting the value of item. (AthenaPlus)</en-US>
+            </bemerkung>
+            <lido_id type="text_oneline">lido00011</lido_id>
+            <lido_name type="text_l10n_oneline">
+              <de-DE>Gebrauch</de-DE>
+              <en-US>Use</en-US>
+            </lido_name>
+            <ubmz_event_id type="text_oneline">ubmz-13</ubmz_event_id>
+          </ereignisse>
+        </ereignis>
+        <ort>
+          <orte>
+            <_id>952</_id>
+            <_system_object_id>23398</_system_object_id>
+            <_version>5</_version>
+            <_id_parent>1055</_id_parent>
+            <_path>
+              <orte level="0" parent-level="4">
+                <_system_object_id>21919</_system_object_id>
+                <_global_object_id>21919@e2693ff0-14c9-4333-8c0e-a4de8c701ce4</_global_object_id>
+                <_uuid>7dabf413-b278-4a30-8da2-a928903d2599</_uuid>
+                <_has_children>true</_has_children>
+                <_id>899</_id>
+                <_objecttype>orte</_objecttype>
+                <_standard>
+                  <de-DE>Afrika</de-DE>
+                  <en-US>Afrika</en-US>
+                </_standard>
+              </orte>
+              <orte level="1" parent-level="3">
+                <_system_object_id>24257</_system_object_id>
+                <_global_object_id>24257@e2693ff0-14c9-4333-8c0e-a4de8c701ce4</_global_object_id>
+                <_uuid>c8a4dcaa-2f0e-4fb4-9b4d-6cde0fddd124</_uuid>
+                <_has_children>true</_has_children>
+                <_id>1056</_id>
+                <_objecttype>orte</_objecttype>
+                <_standard>
+                  <de-DE>Westafrika</de-DE>
+                  <en-US>Westafrika</en-US>
+                </_standard>
+              </orte>
+              <orte level="2" parent-level="2">
+                <_system_object_id>4782</_system_object_id>
+                <_global_object_id>4782@e2693ff0-14c9-4333-8c0e-a4de8c701ce4</_global_object_id>
+                <_uuid>70fefc92-36ec-41e2-98ec-65536437ce5d</_uuid>
+                <_has_children>true</_has_children>
+                <_id>255</_id>
+                <_objecttype>orte</_objecttype>
+                <_standard>
+                  <de-DE>Nigeria</de-DE>
+                  <en-US>Nigeria</en-US>
+                </_standard>
+              </orte>
+              <orte level="3" parent-level="1">
+                <_system_object_id>24256</_system_object_id>
+                <_global_object_id>24256@e2693ff0-14c9-4333-8c0e-a4de8c701ce4</_global_object_id>
+                <_uuid>e5dcdc51-b4ae-4a1a-b043-b04c81600f41</_uuid>
+                <_has_children>true</_has_children>
+                <_id>1055</_id>
+                <_objecttype>orte</_objecttype>
+                <_standard>
+                  <de-DE>Edo</de-DE>
+                  <en-US>Edo</en-US>
+                </_standard>
+                <_standard-2>
+                  <de-DE>Bundesstaat</de-DE>
+                  <en-US>Bundesstaat</en-US>
+                </_standard-2>
+              </orte>
+              <orte level="4" parent-level="0">
+                <_system_object_id>23398</_system_object_id>
+                <_global_object_id>23398@e2693ff0-14c9-4333-8c0e-a4de8c701ce4</_global_object_id>
+                <_uuid>9d737368-e58d-4c49-84bf-bf6c97ec5021</_uuid>
+                <_has_children>false</_has_children>
+                <_id>952</_id>
+                <_objecttype>orte</_objecttype>
+                <_standard>
+                  <de-DE>Benin City</de-DE>
+                  <en-US>Benin City</en-US>
+                </_standard>
+                <_standard-2>
+                  <de-DE>Hauptstadt des Königreichs und Sitz des heutigen Bundesstaates Edo State (Nigeria)</de-DE>
+                  <en-US>Hauptstadt des Königreichs und Sitz des heutigen Bundesstaates Edo State (Nigeria)</en-US>
+                </_standard-2>
+              </orte>
+            </_path>
+            <_uuid>9d737368-e58d-4c49-84bf-bf6c97ec5021</_uuid>
+            <_objecttype>orte</_objecttype>
+            <_global_object_id>23398@e2693ff0-14c9-4333-8c0e-a4de8c701ce4</_global_object_id>
+            <_standard>
+              <de-DE>Benin City</de-DE>
+              <en-US>Benin City</en-US>
+            </_standard>
+            <custom name="geonames_id" type="custom:base.custom-data-type-geonames.geonames">
+              <string name="frontendLanguage">de</string>
+              <object name="_fulltext">
+                <string name="text">Benin City</string>
+              </object>
+              <string name="conceptURI">http://www.geonames.org/2347282</string>
+              <object name="_standard">
+                <string name="text">Benin City</string>
+              </object>
+              <string name="conceptName">Benin City</string>
+            </custom>
+            <name type="text_oneline">Benin City</name>
+            <bemerkung type="text">Hauptstadt des Königreichs und Sitz des heutigen Bundesstaates Edo State (Nigeria)</bemerkung>
+          </orte>
+        </ort>
+        <bemerkung type="text">Im Palast des Königs</bemerkung>
+        <unsicher type="boolean">0</unsicher>
+      </objekte__orte>
+      <objekte__orte>
+        <ereignis>
+          <ereignisse>
+            <_id>87</_id>
+            <_system_object_id>24259</_system_object_id>
+            <_version>2</_version>
+            <_uuid>e5d561f0-4c10-4f29-93b0-7090be76225a</_uuid>
+            <_objecttype>ereignisse</_objecttype>
+            <_global_object_id>24259@e2693ff0-14c9-4333-8c0e-a4de8c701ce4</_global_object_id>
+            <_standard>
+              <de-DE>Raub</de-DE>
+              <en-US>Raub</en-US>
+            </_standard>
+            <name type="text_l10n_oneline">
+              <de-DE>Raub</de-DE>
+            </name>
+            <lido_id type="text_oneline">lido00005</lido_id>
+            <lido_name type="text_l10n_oneline">
+              <de-DE>Übertragung des Gewahrsams</de-DE>
+              <en-US>Transfer of Custody</en-US>
+            </lido_name>
+            <ubmz_event_id type="text_oneline">ubmz-37</ubmz_event_id>
+          </ereignisse>
+        </ereignis>
+        <ort>
+          <orte>
+            <_id>952</_id>
+            <_system_object_id>23398</_system_object_id>
+            <_version>5</_version>
+            <_id_parent>1055</_id_parent>
+            <_path>
+              <orte level="0" parent-level="4">
+                <_system_object_id>21919</_system_object_id>
+                <_global_object_id>21919@e2693ff0-14c9-4333-8c0e-a4de8c701ce4</_global_object_id>
+                <_uuid>7dabf413-b278-4a30-8da2-a928903d2599</_uuid>
+                <_has_children>true</_has_children>
+                <_id>899</_id>
+                <_objecttype>orte</_objecttype>
+                <_standard>
+                  <de-DE>Afrika</de-DE>
+                  <en-US>Afrika</en-US>
+                </_standard>
+              </orte>
+              <orte level="1" parent-level="3">
+                <_system_object_id>24257</_system_object_id>
+                <_global_object_id>24257@e2693ff0-14c9-4333-8c0e-a4de8c701ce4</_global_object_id>
+                <_uuid>c8a4dcaa-2f0e-4fb4-9b4d-6cde0fddd124</_uuid>
+                <_has_children>true</_has_children>
+                <_id>1056</_id>
+                <_objecttype>orte</_objecttype>
+                <_standard>
+                  <de-DE>Westafrika</de-DE>
+                  <en-US>Westafrika</en-US>
+                </_standard>
+              </orte>
+              <orte level="2" parent-level="2">
+                <_system_object_id>4782</_system_object_id>
+                <_global_object_id>4782@e2693ff0-14c9-4333-8c0e-a4de8c701ce4</_global_object_id>
+                <_uuid>70fefc92-36ec-41e2-98ec-65536437ce5d</_uuid>
+                <_has_children>true</_has_children>
+                <_id>255</_id>
+                <_objecttype>orte</_objecttype>
+                <_standard>
+                  <de-DE>Nigeria</de-DE>
+                  <en-US>Nigeria</en-US>
+                </_standard>
+              </orte>
+              <orte level="3" parent-level="1">
+                <_system_object_id>24256</_system_object_id>
+                <_global_object_id>24256@e2693ff0-14c9-4333-8c0e-a4de8c701ce4</_global_object_id>
+                <_uuid>e5dcdc51-b4ae-4a1a-b043-b04c81600f41</_uuid>
+                <_has_children>true</_has_children>
+                <_id>1055</_id>
+                <_objecttype>orte</_objecttype>
+                <_standard>
+                  <de-DE>Edo</de-DE>
+                  <en-US>Edo</en-US>
+                </_standard>
+                <_standard-2>
+                  <de-DE>Bundesstaat</de-DE>
+                  <en-US>Bundesstaat</en-US>
+                </_standard-2>
+              </orte>
+              <orte level="4" parent-level="0">
+                <_system_object_id>23398</_system_object_id>
+                <_global_object_id>23398@e2693ff0-14c9-4333-8c0e-a4de8c701ce4</_global_object_id>
+                <_uuid>9d737368-e58d-4c49-84bf-bf6c97ec5021</_uuid>
+                <_has_children>false</_has_children>
+                <_id>952</_id>
+                <_objecttype>orte</_objecttype>
+                <_standard>
+                  <de-DE>Benin City</de-DE>
+                  <en-US>Benin City</en-US>
+                </_standard>
+                <_standard-2>
+                  <de-DE>Hauptstadt des Königreichs und Sitz des heutigen Bundesstaates Edo State (Nigeria)</de-DE>
+                  <en-US>Hauptstadt des Königreichs und Sitz des heutigen Bundesstaates Edo State (Nigeria)</en-US>
+                </_standard-2>
+              </orte>
+            </_path>
+            <_uuid>9d737368-e58d-4c49-84bf-bf6c97ec5021</_uuid>
+            <_objecttype>orte</_objecttype>
+            <_global_object_id>23398@e2693ff0-14c9-4333-8c0e-a4de8c701ce4</_global_object_id>
+            <_standard>
+              <de-DE>Benin City</de-DE>
+              <en-US>Benin City</en-US>
+            </_standard>
+            <custom name="geonames_id" type="custom:base.custom-data-type-geonames.geonames">
+              <string name="frontendLanguage">de</string>
+              <object name="_fulltext">
+                <string name="text">Benin City</string>
+              </object>
+              <string name="conceptURI">http://www.geonames.org/2347282</string>
+              <object name="_standard">
+                <string name="text">Benin City</string>
+              </object>
+              <string name="conceptName">Benin City</string>
+            </custom>
+            <name type="text_oneline">Benin City</name>
+            <bemerkung type="text">Hauptstadt des Königreichs und Sitz des heutigen Bundesstaates Edo State (Nigeria)</bemerkung>
+          </orte>
+        </ort>
+        <unsicher type="boolean">0</unsicher>
+      </objekte__orte>
+      <objekte__orte>
+        <ereignis>
+          <ereignisse>
+            <_id>84</_id>
+            <_system_object_id>21904</_system_object_id>
+            <_version>6</_version>
+            <_uuid>7b6c46b5-673b-4e6f-85c6-5b1074dbf7ad</_uuid>
+            <_objecttype>ereignisse</_objecttype>
+            <_global_object_id>21904@e2693ff0-14c9-4333-8c0e-a4de8c701ce4</_global_object_id>
+            <_standard>
+              <de-DE>Kolonialer Erwerb</de-DE>
+              <en-US>Acquisition in a colonial context</en-US>
+            </_standard>
+            <name type="text_l10n_oneline">
+              <de-DE>Kolonialer Erwerb</de-DE>
+              <en-US>Acquisition in a colonial context</en-US>
+            </name>
+            <bemerkung type="text_l10n_oneline">
+              <de-DE>Erwerbung, erworben in kolonialem Kontext</de-DE>
+              <en-US>Acquisition in a colonial context</en-US>
+            </bemerkung>
+            <lido_id type="text_oneline">lido00001</lido_id>
+            <lido_name type="text_l10n_oneline">
+              <de-DE>Erwerbung</de-DE>
+              <en-US>Acquisition</en-US>
+            </lido_name>
+            <ubmz_event_id type="text_oneline">ubmz-16</ubmz_event_id>
+          </ereignisse>
+        </ereignis>
+        <ort>
+          <orte>
+            <_id>1057</_id>
+            <_system_object_id>24258</_system_object_id>
+            <_version>2</_version>
+            <_id_parent>255</_id_parent>
+            <_path>
+              <orte level="0" parent-level="3">
+                <_system_object_id>21919</_system_object_id>
+                <_global_object_id>21919@e2693ff0-14c9-4333-8c0e-a4de8c701ce4</_global_object_id>
+                <_uuid>7dabf413-b278-4a30-8da2-a928903d2599</_uuid>
+                <_has_children>true</_has_children>
+                <_id>899</_id>
+                <_objecttype>orte</_objecttype>
+                <_standard>
+                  <de-DE>Afrika</de-DE>
+                  <en-US>Afrika</en-US>
+                </_standard>
+              </orte>
+              <orte level="1" parent-level="2">
+                <_system_object_id>24257</_system_object_id>
+                <_global_object_id>24257@e2693ff0-14c9-4333-8c0e-a4de8c701ce4</_global_object_id>
+                <_uuid>c8a4dcaa-2f0e-4fb4-9b4d-6cde0fddd124</_uuid>
+                <_has_children>true</_has_children>
+                <_id>1056</_id>
+                <_objecttype>orte</_objecttype>
+                <_standard>
+                  <de-DE>Westafrika</de-DE>
+                  <en-US>Westafrika</en-US>
+                </_standard>
+              </orte>
+              <orte level="2" parent-level="1">
+                <_system_object_id>4782</_system_object_id>
+                <_global_object_id>4782@e2693ff0-14c9-4333-8c0e-a4de8c701ce4</_global_object_id>
+                <_uuid>70fefc92-36ec-41e2-98ec-65536437ce5d</_uuid>
+                <_has_children>true</_has_children>
+                <_id>255</_id>
+                <_objecttype>orte</_objecttype>
+                <_standard>
+                  <de-DE>Nigeria</de-DE>
+                  <en-US>Nigeria</en-US>
+                </_standard>
+              </orte>
+              <orte level="3" parent-level="0">
+                <_system_object_id>24258</_system_object_id>
+                <_global_object_id>24258@e2693ff0-14c9-4333-8c0e-a4de8c701ce4</_global_object_id>
+                <_uuid>be325263-4800-4c9d-a952-4e534e9e6715</_uuid>
+                <_has_children>false</_has_children>
+                <_id>1057</_id>
+                <_objecttype>orte</_objecttype>
+                <_standard>
+                  <de-DE>Lagos</de-DE>
+                  <en-US>Lagos</en-US>
+                </_standard>
+              </orte>
+            </_path>
+            <_uuid>be325263-4800-4c9d-a952-4e534e9e6715</_uuid>
+            <_objecttype>orte</_objecttype>
+            <_global_object_id>24258@e2693ff0-14c9-4333-8c0e-a4de8c701ce4</_global_object_id>
+            <_standard>
+              <de-DE>Lagos</de-DE>
+              <en-US>Lagos</en-US>
+            </_standard>
+            <name type="text_oneline">Lagos</name>
+          </orte>
+        </ort>
+        <unsicher type="boolean">0</unsicher>
+      </objekte__orte>
+      <objekte__orte>
+        <ereignis>
+          <ereignisse>
+            <_id>78</_id>
+            <_system_object_id>21410</_system_object_id>
+            <_version>3</_version>
+            <_uuid>8b7a6de7-fb8a-435c-9996-34e0c5458dd7</_uuid>
+            <_objecttype>ereignisse</_objecttype>
+            <_global_object_id>21410@e2693ff0-14c9-4333-8c0e-a4de8c701ce4</_global_object_id>
+            <_standard>
+              <de-DE>Kauf</de-DE>
+              <en-US>Purchase</en-US>
+            </_standard>
+            <name type="text_l10n_oneline">
+              <de-DE>Kauf</de-DE>
+              <en-US>Purchase</en-US>
+            </name>
+            <bemerkung type="text_l10n_oneline">
+              <de-DE>Erwerbung, erworben durch Kauf</de-DE>
+            </bemerkung>
+            <lido_id type="text_oneline">lido00001</lido_id>
+            <lido_name type="text_l10n_oneline">
+              <de-DE>Erwerbung</de-DE>
+              <en-US>Acquisition</en-US>
+            </lido_name>
+            <ubmz_event_id type="text_oneline">ubmz-15</ubmz_event_id>
+          </ereignisse>
+        </ereignis>
+        <ort>
+          <orte>
+            <_id>1</_id>
+            <_system_object_id>3</_system_object_id>
+            <_version>5</_version>
+            <_id_parent>3</_id_parent>
+            <_path>
+              <orte level="0" parent-level="1">
+                <_system_object_id>31</_system_object_id>
+                <_global_object_id>31@e2693ff0-14c9-4333-8c0e-a4de8c701ce4</_global_object_id>
+                <_uuid>943ae48c-b0aa-4dba-9b6f-dc821c55f634</_uuid>
+                <_has_children>true</_has_children>
+                <_id>3</_id>
+                <_objecttype>orte</_objecttype>
+                <_standard>
+                  <de-DE>Deutschland</de-DE>
+                  <en-US>Deutschland</en-US>
+                </_standard>
+              </orte>
+              <orte level="1" parent-level="0">
+                <_system_object_id>3</_system_object_id>
+                <_global_object_id>3@e2693ff0-14c9-4333-8c0e-a4de8c701ce4</_global_object_id>
+                <_uuid>273ef440-9baf-4cc1-a52b-6544238373df</_uuid>
+                <_has_children>true</_has_children>
+                <_id>1</_id>
+                <_objecttype>orte</_objecttype>
+                <_standard>
+                  <de-DE>Berlin</de-DE>
+                  <en-US>Berlin</en-US>
+                </_standard>
+              </orte>
+            </_path>
+            <_uuid>273ef440-9baf-4cc1-a52b-6544238373df</_uuid>
+            <_objecttype>orte</_objecttype>
+            <_global_object_id>3@e2693ff0-14c9-4333-8c0e-a4de8c701ce4</_global_object_id>
+            <_standard>
+              <de-DE>Berlin</de-DE>
+              <en-US>Berlin</en-US>
+            </_standard>
+            <custom name="geonames_id" type="custom:base.custom-data-type-geonames.geonames">
+              <string name="frontendLanguage">de</string>
+              <object name="_fulltext">
+                <string name="string">Berlin</string>
+              </object>
+              <string name="conceptURI">http://www.geonames.org/2950157</string>
+              <object name="_standard">
+                <string name="text">Berlin</string>
+              </object>
+              <string name="conceptName">Berlin</string>
+            </custom>
+            <name type="text_oneline">Berlin</name>
+          </orte>
+        </ort>
+        <unsicher type="boolean">0</unsicher>
+      </objekte__orte>
+      <objekte__orte>
+        <ereignis>
+          <ereignisse>
+            <_id>80</_id>
+            <_system_object_id>21412</_system_object_id>
+            <_version>2</_version>
+            <_uuid>dcc93b4c-4b1d-4d30-87bc-079a29c3c98b</_uuid>
+            <_objecttype>ereignisse</_objecttype>
+            <_global_object_id>21412@e2693ff0-14c9-4333-8c0e-a4de8c701ce4</_global_object_id>
+            <_standard>
+              <de-DE>Schenkung</de-DE>
+              <en-US>Donation</en-US>
+            </_standard>
+            <name type="text_l10n_oneline">
+              <de-DE>Schenkung</de-DE>
+              <en-US>Donation</en-US>
+            </name>
+            <bemerkung type="text_l10n_oneline">
+              <de-DE>Erwerbung, erworben durch Schenkung</de-DE>
+            </bemerkung>
+            <lido_id type="text_oneline">lido00001</lido_id>
+            <lido_name type="text_l10n_oneline">
+              <de-DE>Erwerbung</de-DE>
+              <en-US>Acquisition</en-US>
+            </lido_name>
+            <ubmz_event_id type="text_oneline">ubmz-25</ubmz_event_id>
+          </ereignisse>
+        </ereignis>
+        <ort>
+          <orte>
+            <_id>909</_id>
+            <_system_object_id>22085</_system_object_id>
+            <_version>9</_version>
+            <_id_parent>251</_id_parent>
+            <_path>
+              <orte level="0" parent-level="2">
+                <_system_object_id>31</_system_object_id>
+                <_global_object_id>31@e2693ff0-14c9-4333-8c0e-a4de8c701ce4</_global_object_id>
+                <_uuid>943ae48c-b0aa-4dba-9b6f-dc821c55f634</_uuid>
+                <_has_children>true</_has_children>
+                <_id>3</_id>
+                <_objecttype>orte</_objecttype>
+                <_standard>
+                  <de-DE>Deutschland</de-DE>
+                  <en-US>Deutschland</en-US>
+                </_standard>
+              </orte>
+              <orte level="1" parent-level="1">
+                <_system_object_id>4778</_system_object_id>
+                <_global_object_id>4778@e2693ff0-14c9-4333-8c0e-a4de8c701ce4</_global_object_id>
+                <_uuid>a5ac6903-ca40-4a0d-adbf-d404eea7437a</_uuid>
+                <_has_children>true</_has_children>
+                <_id>251</_id>
+                <_objecttype>orte</_objecttype>
+                <_standard>
+                  <de-DE>Baden-Württemberg</de-DE>
+                  <en-US>Baden-Württemberg</en-US>
+                </_standard>
+              </orte>
+              <orte level="2" parent-level="0">
+                <_system_object_id>22085</_system_object_id>
+                <_global_object_id>22085@e2693ff0-14c9-4333-8c0e-a4de8c701ce4</_global_object_id>
+                <_uuid>5fbe8bf3-c017-4558-ab3b-c591d033d4e0</_uuid>
+                <_has_children>false</_has_children>
+                <_id>909</_id>
+                <_objecttype>orte</_objecttype>
+                <_standard>
+                  <de-DE>Stuttgart</de-DE>
+                  <en-US>Stuttgart</en-US>
+                </_standard>
+              </orte>
+            </_path>
+            <_uuid>5fbe8bf3-c017-4558-ab3b-c591d033d4e0</_uuid>
+            <_objecttype>orte</_objecttype>
+            <_global_object_id>22085@e2693ff0-14c9-4333-8c0e-a4de8c701ce4</_global_object_id>
+            <_standard>
+              <de-DE>Stuttgart</de-DE>
+              <en-US>Stuttgart</en-US>
+            </_standard>
+            <custom name="geonames_id" type="custom:base.custom-data-type-geonames.geonames">
+              <string name="frontendLanguage">de</string>
+              <object name="_fulltext">
+                <string name="text">Stuttgart</string>
+              </object>
+              <string name="conceptURI">http://www.geonames.org/3214105</string>
+              <object name="_standard">
+                <string name="text">Stuttgart</string>
+              </object>
+              <string name="conceptName">Stuttgart</string>
+            </custom>
+            <name type="text_oneline">Stuttgart</name>
+          </orte>
+        </ort>
+        <unsicher type="boolean">0</unsicher>
+      </objekte__orte>
+      <objekte__orte>
+        <ereignis>
+          <ereignisse>
+            <_id>79</_id>
+            <_system_object_id>21411</_system_object_id>
+            <_version>3</_version>
+            <_uuid>f6dd3afd-fca2-4630-a6d0-65d637e2a7b0</_uuid>
+            <_objecttype>ereignisse</_objecttype>
+            <_global_object_id>21411@e2693ff0-14c9-4333-8c0e-a4de8c701ce4</_global_object_id>
+            <_standard>
+              <de-DE>Tausch</de-DE>
+              <en-US>Exchange</en-US>
+            </_standard>
+            <name type="text_l10n_oneline">
+              <de-DE>Tausch</de-DE>
+              <en-US>Exchange</en-US>
+            </name>
+            <bemerkung type="text_l10n_oneline">
+              <de-DE>Erwerbung, erworben durch Tausch</de-DE>
+            </bemerkung>
+            <lido_id type="text_oneline">lido00001</lido_id>
+            <lido_name type="text_l10n_oneline">
+              <de-DE>Erwerbung</de-DE>
+              <en-US>Acquisition</en-US>
+            </lido_name>
+            <ubmz_event_id type="text_oneline">ubmz-26</ubmz_event_id>
+          </ereignisse>
+        </ereignis>
+        <ort>
+          <orte>
+            <_id>909</_id>
+            <_system_object_id>22085</_system_object_id>
+            <_version>9</_version>
+            <_id_parent>251</_id_parent>
+            <_path>
+              <orte level="0" parent-level="2">
+                <_system_object_id>31</_system_object_id>
+                <_global_object_id>31@e2693ff0-14c9-4333-8c0e-a4de8c701ce4</_global_object_id>
+                <_uuid>943ae48c-b0aa-4dba-9b6f-dc821c55f634</_uuid>
+                <_has_children>true</_has_children>
+                <_id>3</_id>
+                <_objecttype>orte</_objecttype>
+                <_standard>
+                  <de-DE>Deutschland</de-DE>
+                  <en-US>Deutschland</en-US>
+                </_standard>
+              </orte>
+              <orte level="1" parent-level="1">
+                <_system_object_id>4778</_system_object_id>
+                <_global_object_id>4778@e2693ff0-14c9-4333-8c0e-a4de8c701ce4</_global_object_id>
+                <_uuid>a5ac6903-ca40-4a0d-adbf-d404eea7437a</_uuid>
+                <_has_children>true</_has_children>
+                <_id>251</_id>
+                <_objecttype>orte</_objecttype>
+                <_standard>
+                  <de-DE>Baden-Württemberg</de-DE>
+                  <en-US>Baden-Württemberg</en-US>
+                </_standard>
+              </orte>
+              <orte level="2" parent-level="0">
+                <_system_object_id>22085</_system_object_id>
+                <_global_object_id>22085@e2693ff0-14c9-4333-8c0e-a4de8c701ce4</_global_object_id>
+                <_uuid>5fbe8bf3-c017-4558-ab3b-c591d033d4e0</_uuid>
+                <_has_children>false</_has_children>
+                <_id>909</_id>
+                <_objecttype>orte</_objecttype>
+                <_standard>
+                  <de-DE>Stuttgart</de-DE>
+                  <en-US>Stuttgart</en-US>
+                </_standard>
+              </orte>
+            </_path>
+            <_uuid>5fbe8bf3-c017-4558-ab3b-c591d033d4e0</_uuid>
+            <_objecttype>orte</_objecttype>
+            <_global_object_id>22085@e2693ff0-14c9-4333-8c0e-a4de8c701ce4</_global_object_id>
+            <_standard>
+              <de-DE>Stuttgart</de-DE>
+              <en-US>Stuttgart</en-US>
+            </_standard>
+            <custom name="geonames_id" type="custom:base.custom-data-type-geonames.geonames">
+              <string name="frontendLanguage">de</string>
+              <object name="_fulltext">
+                <string name="text">Stuttgart</string>
+              </object>
+              <string name="conceptURI">http://www.geonames.org/3214105</string>
+              <object name="_standard">
+                <string name="text">Stuttgart</string>
+              </object>
+              <string name="conceptName">Stuttgart</string>
+            </custom>
+            <name type="text_oneline">Stuttgart</name>
+          </orte>
+        </ort>
+        <unsicher type="boolean">0</unsicher>
+      </objekte__orte>
+    </_nested__objekte__orte>
+    <_nested__objekte__datumsangaben>
+      <objekte__datumsangaben>
+        <ereignis>
+          <ereignisse>
+            <_id>44</_id>
+            <_system_object_id>204</_system_object_id>
+            <_version>7</_version>
+            <_uuid>a42afc8e-81d2-4d09-ab49-d5781dadb073</_uuid>
+            <_objecttype>ereignisse</_objecttype>
+            <_global_object_id>204@e2693ff0-14c9-4333-8c0e-a4de8c701ce4</_global_object_id>
+            <_standard>
+              <de-DE>Herstellung</de-DE>
+              <en-US>Production</en-US>
+            </_standard>
+            <name type="text_l10n_oneline">
+              <de-DE>Herstellung</de-DE>
+              <en-US>Production</en-US>
+            </name>
+            <bemerkung type="text_l10n_oneline">
+              <de-DE>Die Erstellung eines oder mehrerer physischer Objekte. Nicht für konzeptionelle und immaterielle Elemente verwenden (dafür bitte "Künstlerische Schöpfung" auswählen).</de-DE>
+              <en-US>The creation of one or more physical items. Do not use for conceptual and non-material items (use Creation for these). (AthenaPlus)</en-US>
+            </bemerkung>
+            <lido_id type="text_oneline">lido00007</lido_id>
+            <lido_name type="text_l10n_oneline">
+              <de-DE>Herstellung</de-DE>
+              <en-US>Production</en-US>
+            </lido_name>
+            <ubmz_event_id type="text_oneline">ubmz-14</ubmz_event_id>
+          </ereignisse>
+        </ereignis>
+        <datum_frei type="text_oneline">ca. 1850</datum_frei>
+        <datum_normiert type="daterange">
+          <from>1839-12-29</from>
+          <to>1860-12-28</to>
+        </datum_normiert>
+        <unsicher type="boolean">0</unsicher>
+      </objekte__datumsangaben>
+      <objekte__datumsangaben>
+        <ereignis>
+          <ereignisse>
+            <_id>53</_id>
+            <_system_object_id>213</_system_object_id>
+            <_version>4</_version>
+            <_uuid>85319e77-9327-4e24-a02c-287a207b14f4</_uuid>
+            <_objecttype>ereignisse</_objecttype>
+            <_global_object_id>213@e2693ff0-14c9-4333-8c0e-a4de8c701ce4</_global_object_id>
+            <_standard>
+              <de-DE>Gebrauch</de-DE>
+              <en-US>Use</en-US>
+            </_standard>
+            <name type="text_l10n_oneline">
+              <de-DE>Gebrauch</de-DE>
+              <en-US>Use</en-US>
+            </name>
+            <bemerkung type="text_l10n_oneline">
+              <en-US>Employing, occupying, applying or exploiting the value of item. (AthenaPlus)</en-US>
+            </bemerkung>
+            <lido_id type="text_oneline">lido00011</lido_id>
+            <lido_name type="text_l10n_oneline">
+              <de-DE>Gebrauch</de-DE>
+              <en-US>Use</en-US>
+            </lido_name>
+            <ubmz_event_id type="text_oneline">ubmz-13</ubmz_event_id>
+          </ereignisse>
+        </ereignis>
+        <datum_frei type="text_oneline">ca. 1850-1897</datum_frei>
+        <datum_normiert type="daterange">
+          <from>1839-12-29</from>
+          <to>1897-02-18</to>
+        </datum_normiert>
+        <unsicher type="boolean">0</unsicher>
+      </objekte__datumsangaben>
+      <objekte__datumsangaben>
+        <ereignis>
+          <ereignisse>
+            <_id>87</_id>
+            <_system_object_id>24259</_system_object_id>
+            <_version>2</_version>
+            <_uuid>e5d561f0-4c10-4f29-93b0-7090be76225a</_uuid>
+            <_objecttype>ereignisse</_objecttype>
+            <_global_object_id>24259@e2693ff0-14c9-4333-8c0e-a4de8c701ce4</_global_object_id>
+            <_standard>
+              <de-DE>Raub</de-DE>
+              <en-US>Raub</en-US>
+            </_standard>
+            <name type="text_l10n_oneline">
+              <de-DE>Raub</de-DE>
+            </name>
+            <lido_id type="text_oneline">lido00005</lido_id>
+            <lido_name type="text_l10n_oneline">
+              <de-DE>Übertragung des Gewahrsams</de-DE>
+              <en-US>Transfer of Custody</en-US>
+            </lido_name>
+            <ubmz_event_id type="text_oneline">ubmz-37</ubmz_event_id>
+          </ereignisse>
+        </ereignis>
+        <datum_frei type="text_oneline">1897</datum_frei>
+        <datum_normiert type="daterange">
+          <from>1897-02-18</from>
+          <to>1897-08-05</to>
+        </datum_normiert>
+        <unsicher type="boolean">0</unsicher>
+      </objekte__datumsangaben>
+      <objekte__datumsangaben>
+        <ereignis>
+          <ereignisse>
+            <_id>84</_id>
+            <_system_object_id>21904</_system_object_id>
+            <_version>6</_version>
+            <_uuid>7b6c46b5-673b-4e6f-85c6-5b1074dbf7ad</_uuid>
+            <_objecttype>ereignisse</_objecttype>
+            <_global_object_id>21904@e2693ff0-14c9-4333-8c0e-a4de8c701ce4</_global_object_id>
+            <_standard>
+              <de-DE>Kolonialer Erwerb</de-DE>
+              <en-US>Acquisition in a colonial context</en-US>
+            </_standard>
+            <name type="text_l10n_oneline">
+              <de-DE>Kolonialer Erwerb</de-DE>
+              <en-US>Acquisition in a colonial context</en-US>
+            </name>
+            <bemerkung type="text_l10n_oneline">
+              <de-DE>Erwerbung, erworben in kolonialem Kontext</de-DE>
+              <en-US>Acquisition in a colonial context</en-US>
+            </bemerkung>
+            <lido_id type="text_oneline">lido00001</lido_id>
+            <lido_name type="text_l10n_oneline">
+              <de-DE>Erwerbung</de-DE>
+              <en-US>Acquisition</en-US>
+            </lido_name>
+            <ubmz_event_id type="text_oneline">ubmz-16</ubmz_event_id>
+          </ereignisse>
+        </ereignis>
+        <datum_frei type="text_oneline">zw. Februar und August 1897</datum_frei>
+        <datum_normiert type="daterange">
+          <from>1897-02-18</from>
+          <to>1897-08-05</to>
+        </datum_normiert>
+        <unsicher type="boolean">0</unsicher>
+      </objekte__datumsangaben>
+      <objekte__datumsangaben>
+        <ereignis>
+          <ereignisse>
+            <_id>78</_id>
+            <_system_object_id>21410</_system_object_id>
+            <_version>3</_version>
+            <_uuid>8b7a6de7-fb8a-435c-9996-34e0c5458dd7</_uuid>
+            <_objecttype>ereignisse</_objecttype>
+            <_global_object_id>21410@e2693ff0-14c9-4333-8c0e-a4de8c701ce4</_global_object_id>
+            <_standard>
+              <de-DE>Kauf</de-DE>
+              <en-US>Purchase</en-US>
+            </_standard>
+            <name type="text_l10n_oneline">
+              <de-DE>Kauf</de-DE>
+              <en-US>Purchase</en-US>
+            </name>
+            <bemerkung type="text_l10n_oneline">
+              <de-DE>Erwerbung, erworben durch Kauf</de-DE>
+            </bemerkung>
+            <lido_id type="text_oneline">lido00001</lido_id>
+            <lido_name type="text_l10n_oneline">
+              <de-DE>Erwerbung</de-DE>
+              <en-US>Acquisition</en-US>
+            </lido_name>
+            <ubmz_event_id type="text_oneline">ubmz-15</ubmz_event_id>
+          </ereignisse>
+        </ereignis>
+        <datum_frei type="text_oneline">14.07.1898</datum_frei>
+        <datum_normiert type="daterange">
+          <from>1898-07-14</from>
+          <to>1898-07-14</to>
+        </datum_normiert>
+        <datum_bemerkung type="text">Schoeller telegrafiert an von Luschan am 14.07.1898, dass er den Gedenkkopf von Schmidt gekauft hat.</datum_bemerkung>
+        <unsicher type="boolean">0</unsicher>
+      </objekte__datumsangaben>
+      <objekte__datumsangaben>
+        <ereignis>
+          <ereignisse>
+            <_id>80</_id>
+            <_system_object_id>21412</_system_object_id>
+            <_version>2</_version>
+            <_uuid>dcc93b4c-4b1d-4d30-87bc-079a29c3c98b</_uuid>
+            <_objecttype>ereignisse</_objecttype>
+            <_global_object_id>21412@e2693ff0-14c9-4333-8c0e-a4de8c701ce4</_global_object_id>
+            <_standard>
+              <de-DE>Schenkung</de-DE>
+              <en-US>Donation</en-US>
+            </_standard>
+            <name type="text_l10n_oneline">
+              <de-DE>Schenkung</de-DE>
+              <en-US>Donation</en-US>
+            </name>
+            <bemerkung type="text_l10n_oneline">
+              <de-DE>Erwerbung, erworben durch Schenkung</de-DE>
+            </bemerkung>
+            <lido_id type="text_oneline">lido00001</lido_id>
+            <lido_name type="text_l10n_oneline">
+              <de-DE>Erwerbung</de-DE>
+              <en-US>Acquisition</en-US>
+            </lido_name>
+            <ubmz_event_id type="text_oneline">ubmz-25</ubmz_event_id>
+          </ereignisse>
+        </ereignis>
+        <datum_frei type="text_oneline">06.12.1898</datum_frei>
+        <datum_normiert type="daterange">
+          <from>1898-12-06</from>
+          <to>1898-12-06</to>
+        </datum_normiert>
+        <unsicher type="boolean">0</unsicher>
+      </objekte__datumsangaben>
+      <objekte__datumsangaben>
+        <ereignis>
+          <ereignisse>
+            <_id>79</_id>
+            <_system_object_id>21411</_system_object_id>
+            <_version>3</_version>
+            <_uuid>f6dd3afd-fca2-4630-a6d0-65d637e2a7b0</_uuid>
+            <_objecttype>ereignisse</_objecttype>
+            <_global_object_id>21411@e2693ff0-14c9-4333-8c0e-a4de8c701ce4</_global_object_id>
+            <_standard>
+              <de-DE>Tausch</de-DE>
+              <en-US>Exchange</en-US>
+            </_standard>
+            <name type="text_l10n_oneline">
+              <de-DE>Tausch</de-DE>
+              <en-US>Exchange</en-US>
+            </name>
+            <bemerkung type="text_l10n_oneline">
+              <de-DE>Erwerbung, erworben durch Tausch</de-DE>
+            </bemerkung>
+            <lido_id type="text_oneline">lido00001</lido_id>
+            <lido_name type="text_l10n_oneline">
+              <de-DE>Erwerbung</de-DE>
+              <en-US>Acquisition</en-US>
+            </lido_name>
+            <ubmz_event_id type="text_oneline">ubmz-26</ubmz_event_id>
+          </ereignisse>
+        </ereignis>
+        <datum_frei type="text_oneline">15.12.1971</datum_frei>
+        <datum_normiert type="daterange">
+          <from>1971-12-15</from>
+          <to>1971-12-15</to>
+        </datum_normiert>
+        <unsicher type="boolean">0</unsicher>
+      </objekte__datumsangaben>
+    </_nested__objekte__datumsangaben>
+    <_nested__objekte__materialien>
+      <objekte__materialien>
+        <material>
+          <material>
+            <_id>91</_id>
+            <_system_object_id>4228</_system_object_id>
+            <_version>6</_version>
+            <_id_parent>29</_id_parent>
+            <_path>
+              <material level="0" parent-level="1">
+                <_system_object_id>4151</_system_object_id>
+                <_global_object_id>4151@e2693ff0-14c9-4333-8c0e-a4de8c701ce4</_global_object_id>
+                <_uuid>66e11a18-67ed-48f9-b2ab-340d1c921083</_uuid>
+                <_has_children>true</_has_children>
+                <_id>29</_id>
+                <_objecttype>material</_objecttype>
+                <_standard>
+                  <de-DE>Metall</de-DE>
+                  <en-US>Metall</en-US>
+                </_standard>
+              </material>
+              <material level="1" parent-level="0">
+                <_system_object_id>4228</_system_object_id>
+                <_global_object_id>4228@e2693ff0-14c9-4333-8c0e-a4de8c701ce4</_global_object_id>
+                <_uuid>2ea79377-f976-4fa0-bbfc-23ed1b975e5d</_uuid>
+                <_has_children>true</_has_children>
+                <_id>91</_id>
+                <_objecttype>material</_objecttype>
+                <_standard>
+                  <de-DE>Messing</de-DE>
+                  <en-US>Messing</en-US>
+                </_standard>
+              </material>
+            </_path>
+            <_uuid>2ea79377-f976-4fa0-bbfc-23ed1b975e5d</_uuid>
+            <_objecttype>material</_objecttype>
+            <_global_object_id>4228@e2693ff0-14c9-4333-8c0e-a4de8c701ce4</_global_object_id>
+            <_standard>
+              <de-DE>Messing</de-DE>
+            </_standard>
+            <name type="text_l10n_oneline">
+              <de-DE>Messing</de-DE>
+            </name>
+            <dnb type="text_oneline">http://d-nb.info/gnd/4169517-3</dnb>
+            <getty type="text_oneline">http://vocab.getty.edu/aat/300010946</getty>
+            <alte_kuniweb type="text_oneline">246</alte_kuniweb>
+          </material>
+        </material>
+      </objekte__materialien>
+    </_nested__objekte__materialien>
+    <_nested__objekte__techniken>
+      <objekte__techniken>
+        <technik>
+          <technik>
+            <_id>379</_id>
+            <_system_object_id>21770</_system_object_id>
+            <_version>4</_version>
+            <_id_parent>77</_id_parent>
+            <_path>
+              <technik level="0" parent-level="1">
+                <_system_object_id>21468</_system_object_id>
+                <_global_object_id>21468@e2693ff0-14c9-4333-8c0e-a4de8c701ce4</_global_object_id>
+                <_uuid>6ead15bb-1bef-4258-806f-d88bf1440a36</_uuid>
+                <_has_children>true</_has_children>
+                <_id>77</_id>
+                <_objecttype>technik</_objecttype>
+                <_standard>
+                  <de-DE>Metalltechnik</de-DE>
+                  <en-US>Metalltechnik</en-US>
+                </_standard>
+              </technik>
+              <technik level="1" parent-level="0">
+                <_system_object_id>21770</_system_object_id>
+                <_global_object_id>21770@e2693ff0-14c9-4333-8c0e-a4de8c701ce4</_global_object_id>
+                <_uuid>32dbdbc1-e739-4a66-956b-3f70be0a2682</_uuid>
+                <_has_children>false</_has_children>
+                <_id>379</_id>
+                <_objecttype>technik</_objecttype>
+                <_standard>
+                  <de-DE>gegossen</de-DE>
+                  <en-US>gegossen</en-US>
+                </_standard>
+              </technik>
+            </_path>
+            <_uuid>32dbdbc1-e739-4a66-956b-3f70be0a2682</_uuid>
+            <_objecttype>technik</_objecttype>
+            <_global_object_id>21770@e2693ff0-14c9-4333-8c0e-a4de8c701ce4</_global_object_id>
+            <_standard>
+              <de-DE>gegossen</de-DE>
+            </_standard>
+            <name type="text_l10n_oneline">
+              <de-DE>gegossen</de-DE>
+            </name>
+          </technik>
+        </technik>
+        <bemerkung type="text">Gelbguss</bemerkung>
+      </objekte__techniken>
+    </_nested__objekte__techniken>
+    <masse type="text">H 52 cm; D 26 cm; Gewicht: ca. 30 kg</masse>
+    <groesse type="integer.2">52.00</groesse>
+    <groesse_einheit>
+      <einheiten_groesse>
+        <_id>1</_id>
+        <_system_object_id>383</_system_object_id>
+        <_version>1</_version>
+        <_uuid>66f68f3b-569b-4275-b83c-28f96d393700</_uuid>
+        <_objecttype>einheiten_groesse</_objecttype>
+        <_global_object_id>383@e2693ff0-14c9-4333-8c0e-a4de8c701ce4</_global_object_id>
+        <_standard>
+          <de-DE>cm</de-DE>
+          <en-US>cm</en-US>
+        </_standard>
+        <name type="text_oneline">cm</name>
+      </einheiten_groesse>
+    </groesse_einheit>
+    <gewicht type="integer.2">30.00</gewicht>
+    <gewicht_einheit>
+      <einheiten_gewicht>
+        <_id>2</_id>
+        <_system_object_id>24255</_system_object_id>
+        <_version>1</_version>
+        <_uuid>a413aefd-7c9c-435b-921c-89d83248afd4</_uuid>
+        <_objecttype>einheiten_gewicht</_objecttype>
+        <_global_object_id>24255@e2693ff0-14c9-4333-8c0e-a4de8c701ce4</_global_object_id>
+        <_standard>
+          <de-DE>kg</de-DE>
+          <en-US>kg</en-US>
+        </_standard>
+        <name type="text_oneline">kg</name>
+        <bemerkung type="text">Kilogramm</bemerkung>
+      </einheiten_gewicht>
+    </gewicht_einheit>
+    <weitere_informationen type="text">Tauschliste Linden-Museum Stuttgart, Dezember 1971: "Gesondert ausgewählte Kunstwerke / Sammlung Dr. Max Schöller, 1898 / 3 173 Gedenkkopf vom Altar eines Königs, Bronze, Benin, Nigeria, 19. Jh."</weitere_informationen>
+    <_reverse_nested__bilder__objekt>
+      <bilder>
+        <_uuid>f0e2f9ec-d147-4b6b-8cd7-f123556d2ccf</_uuid>
+        <_objecttype>bilder</_objecttype>
+        <_global_object_id>24261@e2693ff0-14c9-4333-8c0e-a4de8c701ce4</_global_object_id>
+        <pool id="43">
+          <de-DE>Ethnografische Studiensammlung</de-DE>
+        </pool>
+        <datei>
+          <files>
+            <file>
+              <eas-id>15619</eas-id>
+              <preferred>true</preferred>
+              <status>done</status>
+              <class>image</class>
+              <extension>tif</extension>
+              <name/>
+              <original_filename>IMG_931192.TIF</original_filename>
+              <compiled>tif image, 5792 x 8688 @ 24 bit, 143.99 MB</compiled>
+              <eas_parent_id/>
+              <date_inserted>2023-07-03T20:27:44Z</date_inserted>
+              <date_created>2017-10-09T12:07:31Z</date_created>
+              <date_uploaded>2021-09-03T10:41:49Z</date_uploaded>
+              <filesize>150984952</filesize>
+              <technical_metadata>
+                <file_sha224_checksum>f0a5511eec3a2aeb749d78e798eb288a41cd41ab58b7e239f9043592</file_sha224_checksum>
+                <orientation>1</orientation>
+                <camera_scanner>Canon EOS 5DS R</camera_scanner>
+                <width>5792</width>
+                <height>8688</height>
+                <dpi>300</dpi>
+                <max_dimension>8688</max_dimension>
+                <format>portrait</format>
+                <aspect_ratio>0.66666666666666663</aspect_ratio>
+                <colordepth>24</colordepth>
+                <colorspace>rgb</colorspace>
+                <colorprofile>Adobe RGB (1998)</colorprofile>
+              </technical_metadata>
+              <versions>
+                <version name="small">
+                  <filesize>119722</filesize>
+                  <height>375</height>
+                  <has_more_jobs>0</has_more_jobs>
+                  <class>image</class>
+                  <width>250</width>
+                  <url>https://objects.ub.uni-mainz.de/eas/partitions-inline/2/0/15000/15619/eb4ffeb9cf6b08f188cc9228ec00d321253eaf99/image/png</url>
+                  <status>done</status>
+                  <extension>png</extension>
+                  <aspect_ratio>0.66600000858306885</aspect_ratio>
+                  <dpi>299</dpi>
+                  <download_url>https://objects.ub.uni-mainz.de/eas/partitions/2/0/15000/15619/eb4ffeb9cf6b08f188cc9228ec00d321253eaf99/image/png/IMG_931192-small.png</download_url>
+                  <_download_allowed>1</_download_allowed>
+                  <deep_link_url>https://objects.ub.uni-mainz.de/api/v1/objects/uuid/f0e2f9ec-d147-4b6b-8cd7-f123556d2ccf/file/id/15619/file_version/name/small/disposition/inline</deep_link_url>
+                </version>
+                <version name="preview">
+                  <filesize>774962</filesize>
+                  <height>1000</height>
+                  <has_more_jobs>0</has_more_jobs>
+                  <class>image</class>
+                  <width>667</width>
+                  <url>https://objects.ub.uni-mainz.de/eas/partitions-inline/2/0/15000/15619/c1d794079078b27f8d49547af6353a309d85e337/image/png</url>
+                  <status>done</status>
+                  <extension>png</extension>
+                  <aspect_ratio>0.66699999570846558</aspect_ratio>
+                  <dpi>299</dpi>
+                  <zoom_url>https://objects.ub.uni-mainz.de/eas/zoomer/15619/2b5f2de000b14821ae79faa544d59e84?instance=easydb5</zoom_url>
+                  <download_url>https://objects.ub.uni-mainz.de/eas/partitions/2/0/15000/15619/c1d794079078b27f8d49547af6353a309d85e337/image/png/IMG_931192-preview.png</download_url>
+                  <_download_allowed>1</_download_allowed>
+                  <deep_link_url>https://objects.ub.uni-mainz.de/api/v1/objects/uuid/f0e2f9ec-d147-4b6b-8cd7-f123556d2ccf/file/id/15619/file_version/name/preview/disposition/inline</deep_link_url>
+                </version>
+                <version name="original">
+                  <filesize>150984952</filesize>
+                  <height>8688</height>
+                  <status>done</status>
+                  <has_more_jobs>0</has_more_jobs>
+                  <download_url>https://objects.ub.uni-mainz.de/eas/partitions/1/0/15000/15619/d728abbc5daac03b1ae027ecf4c60160776a7527/image/tiff/IMG_931192.tif</download_url>
+                  <aspect_ratio>0.66600000858306885</aspect_ratio>
+                  <class>image</class>
+                  <width>5792</width>
+                  <url>https://objects.ub.uni-mainz.de/eas/partitions-inline/1/0/15000/15619/d728abbc5daac03b1ae027ecf4c60160776a7527/image/tiff</url>
+                  <date_created>2017-10-09T12:07:31Z</date_created>
+                  <extension>tif</extension>
+                  <dpi>300</dpi>
+                  <compiled>tif image, 5792 x 8688 @ 24 bit, 143.99 MB</compiled>
+                  <_download_allowed>1</_download_allowed>
+                  <deep_link_url>https://objects.ub.uni-mainz.de/api/v1/objects/uuid/f0e2f9ec-d147-4b6b-8cd7-f123556d2ccf/file/id/15619/file_version/name/original/disposition/inline</deep_link_url>
+                  <path>2023-07-04 12_31 easydb FULL Benin-Kopf/assets/JGU ES 2595_Gedenkkopf eines Edo-Königs_24254.tif</path>
+                </version>
+                <version name="full">
+                  <filesize>56736461</filesize>
+                  <height>8688</height>
+                  <has_more_jobs>0</has_more_jobs>
+                  <class>image</class>
+                  <width>5792</width>
+                  <url>https://objects.ub.uni-mainz.de/eas/partitions-inline/2/0/15000/15619/37a0ba4162dc27c20afa0a5e5a7373e782a2ae7c/image/png</url>
+                  <status>done</status>
+                  <extension>png</extension>
+                  <aspect_ratio>0.66600000858306885</aspect_ratio>
+                  <dpi>299</dpi>
+                  <zoom_url>https://objects.ub.uni-mainz.de/eas/zoomer/15619/5419260b73fd7561924d85116a1beb81?instance=easydb5</zoom_url>
+                  <download_url>https://objects.ub.uni-mainz.de/eas/partitions/2/0/15000/15619/37a0ba4162dc27c20afa0a5e5a7373e782a2ae7c/image/png/IMG_931192-full.png</download_url>
+                  <_download_allowed>1</_download_allowed>
+                  <deep_link_url>https://objects.ub.uni-mainz.de/api/v1/objects/uuid/f0e2f9ec-d147-4b6b-8cd7-f123556d2ccf/file/id/15619/file_version/name/full/disposition/inline</deep_link_url>
+                </version>
+                <version name="huge">
+                  <filesize>3107843</filesize>
+                  <height>2000</height>
+                  <has_more_jobs>0</has_more_jobs>
+                  <class>image</class>
+                  <width>1333</width>
+                  <url>https://objects.ub.uni-mainz.de/eas/partitions-inline/2/0/15000/15619/e6df66e5fce172feebca3996feea534d6829ddd4/image/png</url>
+                  <status>done</status>
+                  <extension>png</extension>
+                  <aspect_ratio>0.66600000858306885</aspect_ratio>
+                  <dpi>299</dpi>
+                  <zoom_url>https://objects.ub.uni-mainz.de/eas/zoomer/15619/2cba19b3d80758361ead46f896c0e6d8?instance=easydb5</zoom_url>
+                  <download_url>https://objects.ub.uni-mainz.de/eas/partitions/2/0/15000/15619/e6df66e5fce172feebca3996feea534d6829ddd4/image/png/IMG_931192-huge.png</download_url>
+                  <_download_allowed>1</_download_allowed>
+                  <deep_link_url>https://objects.ub.uni-mainz.de/api/v1/objects/uuid/f0e2f9ec-d147-4b6b-8cd7-f123556d2ccf/file/id/15619/file_version/name/huge/disposition/inline</deep_link_url>
+                </version>
+              </versions>
+            </file>
+          </files>
+        </datei>
+        <lizenz>
+          <lizenzen>
+            <_id>7</_id>
+            <_system_object_id>77</_system_object_id>
+            <_version>9</_version>
+            <_uuid>d6394210-dea0-472c-b7f6-6a206401dfd2</_uuid>
+            <_objecttype>lizenzen</_objecttype>
+            <_global_object_id>77@e2693ff0-14c9-4333-8c0e-a4de8c701ce4</_global_object_id>
+            <_standard>
+              <de-DE>CC BY 4.0</de-DE>
+              <en-US>CC BY 4.0</en-US>
+            </_standard>
+            <name type="text_l10n_oneline">
+              <de-DE>CC BY 4.0</de-DE>
+              <en-US>CC BY 4.0</en-US>
+            </name>
+            <bemerkung type="text_l10n">
+              <de-DE>Creative Commons Namensnennung. Lizenzvertrag: https://creativecommons.org/licenses/by/4.0/deed.de</de-DE>
+              <en-US>Creative Commons Attribution . License deed: https://creativecommons.org/licenses/by/4.0/deed.en</en-US>
+            </bemerkung>
+            <link type="string">https://creativecommons.org/licenses/by/4.0/</link>
+          </lizenzen>
+        </lizenz>
+        <urheber>
+          <urheber>
+            <_id>7</_id>
+            <_system_object_id>9153</_system_object_id>
+            <_version>4</_version>
+            <_uuid>776ac283-2462-4be6-8ab5-07da82c115f6</_uuid>
+            <_objecttype>urheber</_objecttype>
+            <_global_object_id>9153@e2693ff0-14c9-4333-8c0e-a4de8c701ce4</_global_object_id>
+            <_standard>
+              <de-DE>Thomas Hartmann, JGU Mainz</de-DE>
+              <en-US>Thomas Hartmann, JGU Mainz</en-US>
+            </_standard>
+            <name type="text_oneline">Thomas Hartmann, JGU Mainz</name>
+          </urheber>
+        </urheber>
+        <aufnahmedatum type="date">2017-10-09</aufnahmedatum>
+        <unsicher type="boolean">0</unsicher>
+      </bilder>
+      <bilder>
+        <_uuid>57a16eca-a66c-481b-a9ab-6e07b7eb2758</_uuid>
+        <_objecttype>bilder</_objecttype>
+        <_global_object_id>24262@e2693ff0-14c9-4333-8c0e-a4de8c701ce4</_global_object_id>
+        <pool id="43">
+          <de-DE>Ethnografische Studiensammlung</de-DE>
+        </pool>
+        <datei>
+          <files>
+            <file>
+              <eas-id>15620</eas-id>
+              <preferred>true</preferred>
+              <status>done</status>
+              <class>image</class>
+              <extension>tif</extension>
+              <name/>
+              <original_filename>IMG_931195.TIF</original_filename>
+              <compiled>tif image, 5792 x 8688 @ 24 bit, 143.99 MB</compiled>
+              <eas_parent_id/>
+              <date_inserted>2023-07-03T20:27:44Z</date_inserted>
+              <date_created>2017-10-09T12:11:39Z</date_created>
+              <date_uploaded>2021-09-03T10:42:03Z</date_uploaded>
+              <filesize>150985368</filesize>
+              <technical_metadata>
+                <file_sha224_checksum>8c5aacbbcc3d60ebcb62f2eb5f156e166479ba2136aa4144d2f522c6</file_sha224_checksum>
+                <orientation>1</orientation>
+                <camera_scanner>Canon EOS 5DS R</camera_scanner>
+                <width>5792</width>
+                <height>8688</height>
+                <dpi>300</dpi>
+                <max_dimension>8688</max_dimension>
+                <format>portrait</format>
+                <aspect_ratio>0.66666666666666663</aspect_ratio>
+                <colordepth>24</colordepth>
+                <colorspace>rgb</colorspace>
+                <colorprofile>Adobe RGB (1998)</colorprofile>
+              </technical_metadata>
+              <versions>
+                <version name="small">
+                  <filesize>129102</filesize>
+                  <height>375</height>
+                  <has_more_jobs>0</has_more_jobs>
+                  <class>image</class>
+                  <width>250</width>
+                  <url>https://objects.ub.uni-mainz.de/eas/partitions-inline/2/0/15000/15620/606b100b3f3f80bced5402d92ad3ee9b25e41ec3/image/png</url>
+                  <status>done</status>
+                  <extension>png</extension>
+                  <aspect_ratio>0.66600000858306885</aspect_ratio>
+                  <dpi>299</dpi>
+                  <download_url>https://objects.ub.uni-mainz.de/eas/partitions/2/0/15000/15620/606b100b3f3f80bced5402d92ad3ee9b25e41ec3/image/png/IMG_931195-small.png</download_url>
+                  <_download_allowed>1</_download_allowed>
+                  <deep_link_url>https://objects.ub.uni-mainz.de/api/v1/objects/uuid/57a16eca-a66c-481b-a9ab-6e07b7eb2758/file/id/15620/file_version/name/small/disposition/inline</deep_link_url>
+                </version>
+                <version name="preview">
+                  <filesize>848195</filesize>
+                  <height>1000</height>
+                  <has_more_jobs>0</has_more_jobs>
+                  <class>image</class>
+                  <width>667</width>
+                  <url>https://objects.ub.uni-mainz.de/eas/partitions-inline/2/0/15000/15620/44b35fabb1cb5f4dccea1ec3abcd69b3c134de91/image/png</url>
+                  <status>done</status>
+                  <extension>png</extension>
+                  <aspect_ratio>0.66699999570846558</aspect_ratio>
+                  <dpi>299</dpi>
+                  <zoom_url>https://objects.ub.uni-mainz.de/eas/zoomer/15620/4023b325acca2a99800edc847efdaecf?instance=easydb5</zoom_url>
+                  <download_url>https://objects.ub.uni-mainz.de/eas/partitions/2/0/15000/15620/44b35fabb1cb5f4dccea1ec3abcd69b3c134de91/image/png/IMG_931195-preview.png</download_url>
+                  <_download_allowed>1</_download_allowed>
+                  <deep_link_url>https://objects.ub.uni-mainz.de/api/v1/objects/uuid/57a16eca-a66c-481b-a9ab-6e07b7eb2758/file/id/15620/file_version/name/preview/disposition/inline</deep_link_url>
+                </version>
+                <version name="original">
+                  <filesize>150985368</filesize>
+                  <height>8688</height>
+                  <status>done</status>
+                  <has_more_jobs>0</has_more_jobs>
+                  <download_url>https://objects.ub.uni-mainz.de/eas/partitions/1/0/15000/15620/203e6db84a738c40da4c9b373f8ec0066a506bfc/image/tiff/IMG_931195.tif</download_url>
+                  <aspect_ratio>0.66600000858306885</aspect_ratio>
+                  <class>image</class>
+                  <width>5792</width>
+                  <url>https://objects.ub.uni-mainz.de/eas/partitions-inline/1/0/15000/15620/203e6db84a738c40da4c9b373f8ec0066a506bfc/image/tiff</url>
+                  <date_created>2017-10-09T12:11:39Z</date_created>
+                  <extension>tif</extension>
+                  <dpi>300</dpi>
+                  <compiled>tif image, 5792 x 8688 @ 24 bit, 143.99 MB</compiled>
+                  <_download_allowed>1</_download_allowed>
+                  <deep_link_url>https://objects.ub.uni-mainz.de/api/v1/objects/uuid/57a16eca-a66c-481b-a9ab-6e07b7eb2758/file/id/15620/file_version/name/original/disposition/inline</deep_link_url>
+                  <path>2023-07-04 12_31 easydb FULL Benin-Kopf/assets/JGU ES 2595_Gedenkkopf eines Edo-Königs_24254_3.tif</path>
+                </version>
+                <version name="full">
+                  <filesize>60737204</filesize>
+                  <height>8688</height>
+                  <has_more_jobs>0</has_more_jobs>
+                  <class>image</class>
+                  <width>5792</width>
+                  <url>https://objects.ub.uni-mainz.de/eas/partitions-inline/2/0/15000/15620/979abab5f10778f883299521698198fa91263d10/image/png</url>
+                  <status>done</status>
+                  <extension>png</extension>
+                  <aspect_ratio>0.66600000858306885</aspect_ratio>
+                  <dpi>299</dpi>
+                  <zoom_url>https://objects.ub.uni-mainz.de/eas/zoomer/15620/7b9dbeef11615ba4c6f64dc286f4f3a4?instance=easydb5</zoom_url>
+                  <download_url>https://objects.ub.uni-mainz.de/eas/partitions/2/0/15000/15620/979abab5f10778f883299521698198fa91263d10/image/png/IMG_931195-full.png</download_url>
+                  <_download_allowed>1</_download_allowed>
+                  <deep_link_url>https://objects.ub.uni-mainz.de/api/v1/objects/uuid/57a16eca-a66c-481b-a9ab-6e07b7eb2758/file/id/15620/file_version/name/full/disposition/inline</deep_link_url>
+                </version>
+                <version name="huge">
+                  <filesize>3410267</filesize>
+                  <height>2000</height>
+                  <has_more_jobs>0</has_more_jobs>
+                  <class>image</class>
+                  <width>1333</width>
+                  <url>https://objects.ub.uni-mainz.de/eas/partitions-inline/2/0/15000/15620/260942e9a11167a3aaa2f797778c8f6c750820e4/image/png</url>
+                  <status>done</status>
+                  <extension>png</extension>
+                  <aspect_ratio>0.66600000858306885</aspect_ratio>
+                  <dpi>299</dpi>
+                  <zoom_url>https://objects.ub.uni-mainz.de/eas/zoomer/15620/fa02dd63861baf79c9ae295279e78cca?instance=easydb5</zoom_url>
+                  <download_url>https://objects.ub.uni-mainz.de/eas/partitions/2/0/15000/15620/260942e9a11167a3aaa2f797778c8f6c750820e4/image/png/IMG_931195-huge.png</download_url>
+                  <_download_allowed>1</_download_allowed>
+                  <deep_link_url>https://objects.ub.uni-mainz.de/api/v1/objects/uuid/57a16eca-a66c-481b-a9ab-6e07b7eb2758/file/id/15620/file_version/name/huge/disposition/inline</deep_link_url>
+                </version>
+              </versions>
+            </file>
+          </files>
+        </datei>
+        <lizenz>
+          <lizenzen>
+            <_id>7</_id>
+            <_system_object_id>77</_system_object_id>
+            <_version>9</_version>
+            <_uuid>d6394210-dea0-472c-b7f6-6a206401dfd2</_uuid>
+            <_objecttype>lizenzen</_objecttype>
+            <_global_object_id>77@e2693ff0-14c9-4333-8c0e-a4de8c701ce4</_global_object_id>
+            <_standard>
+              <de-DE>CC BY 4.0</de-DE>
+              <en-US>CC BY 4.0</en-US>
+            </_standard>
+            <name type="text_l10n_oneline">
+              <de-DE>CC BY 4.0</de-DE>
+              <en-US>CC BY 4.0</en-US>
+            </name>
+            <bemerkung type="text_l10n">
+              <de-DE>Creative Commons Namensnennung. Lizenzvertrag: https://creativecommons.org/licenses/by/4.0/deed.de</de-DE>
+              <en-US>Creative Commons Attribution . License deed: https://creativecommons.org/licenses/by/4.0/deed.en</en-US>
+            </bemerkung>
+            <link type="string">https://creativecommons.org/licenses/by/4.0/</link>
+          </lizenzen>
+        </lizenz>
+        <urheber>
+          <urheber>
+            <_id>7</_id>
+            <_system_object_id>9153</_system_object_id>
+            <_version>4</_version>
+            <_uuid>776ac283-2462-4be6-8ab5-07da82c115f6</_uuid>
+            <_objecttype>urheber</_objecttype>
+            <_global_object_id>9153@e2693ff0-14c9-4333-8c0e-a4de8c701ce4</_global_object_id>
+            <_standard>
+              <de-DE>Thomas Hartmann, JGU Mainz</de-DE>
+              <en-US>Thomas Hartmann, JGU Mainz</en-US>
+            </_standard>
+            <name type="text_oneline">Thomas Hartmann, JGU Mainz</name>
+          </urheber>
+        </urheber>
+        <aufnahmedatum type="date">2017-10-09</aufnahmedatum>
+        <unsicher type="boolean">0</unsicher>
+      </bilder>
+      <bilder>
+        <_uuid>d5cc3b21-0d1a-47a9-aed1-56828ab724da</_uuid>
+        <_objecttype>bilder</_objecttype>
+        <_global_object_id>24263@e2693ff0-14c9-4333-8c0e-a4de8c701ce4</_global_object_id>
+        <pool id="43">
+          <de-DE>Ethnografische Studiensammlung</de-DE>
+        </pool>
+        <datei>
+          <files>
+            <file>
+              <eas-id>15621</eas-id>
+              <preferred>true</preferred>
+              <status>done</status>
+              <class>image</class>
+              <extension>tif</extension>
+              <name/>
+              <original_filename>IMG_931199.TIF</original_filename>
+              <compiled>tif image, 5792 x 8688 @ 24 bit, 143.99 MB</compiled>
+              <eas_parent_id/>
+              <date_inserted>2023-07-03T20:27:44Z</date_inserted>
+              <date_created>2017-10-09T12:13:17Z</date_created>
+              <date_uploaded>2021-09-03T10:44:19Z</date_uploaded>
+              <filesize>150985096</filesize>
+              <technical_metadata>
+                <file_sha224_checksum>9a5ddf567987ee081a6def44203b684b34ca3f67423097970be51154</file_sha224_checksum>
+                <orientation>1</orientation>
+                <camera_scanner>Canon EOS 5DS R</camera_scanner>
+                <width>5792</width>
+                <height>8688</height>
+                <dpi>300</dpi>
+                <max_dimension>8688</max_dimension>
+                <format>portrait</format>
+                <aspect_ratio>0.66666666666666663</aspect_ratio>
+                <colordepth>24</colordepth>
+                <colorspace>rgb</colorspace>
+                <colorprofile>Adobe RGB (1998)</colorprofile>
+              </technical_metadata>
+              <versions>
+                <version name="small">
+                  <filesize>126861</filesize>
+                  <height>375</height>
+                  <has_more_jobs>0</has_more_jobs>
+                  <class>image</class>
+                  <width>250</width>
+                  <url>https://objects.ub.uni-mainz.de/eas/partitions-inline/2/0/15000/15621/650cada03327674f99bee1f62e325e98d042155d/image/png</url>
+                  <status>done</status>
+                  <extension>png</extension>
+                  <aspect_ratio>0.66600000858306885</aspect_ratio>
+                  <dpi>299</dpi>
+                  <download_url>https://objects.ub.uni-mainz.de/eas/partitions/2/0/15000/15621/650cada03327674f99bee1f62e325e98d042155d/image/png/IMG_931199-small.png</download_url>
+                  <_download_allowed>1</_download_allowed>
+                  <deep_link_url>https://objects.ub.uni-mainz.de/api/v1/objects/uuid/d5cc3b21-0d1a-47a9-aed1-56828ab724da/file/id/15621/file_version/name/small/disposition/inline</deep_link_url>
+                </version>
+                <version name="preview">
+                  <filesize>830201</filesize>
+                  <height>1000</height>
+                  <has_more_jobs>0</has_more_jobs>
+                  <class>image</class>
+                  <width>667</width>
+                  <url>https://objects.ub.uni-mainz.de/eas/partitions-inline/2/0/15000/15621/559204bfde4acb39b0732ba7108ef78b9be3082c/image/png</url>
+                  <status>done</status>
+                  <extension>png</extension>
+                  <aspect_ratio>0.66699999570846558</aspect_ratio>
+                  <dpi>299</dpi>
+                  <zoom_url>https://objects.ub.uni-mainz.de/eas/zoomer/15621/65ad6bfa887e4e6b56e403754aa3ea64?instance=easydb5</zoom_url>
+                  <download_url>https://objects.ub.uni-mainz.de/eas/partitions/2/0/15000/15621/559204bfde4acb39b0732ba7108ef78b9be3082c/image/png/IMG_931199-preview.png</download_url>
+                  <_download_allowed>1</_download_allowed>
+                  <deep_link_url>https://objects.ub.uni-mainz.de/api/v1/objects/uuid/d5cc3b21-0d1a-47a9-aed1-56828ab724da/file/id/15621/file_version/name/preview/disposition/inline</deep_link_url>
+                </version>
+                <version name="original">
+                  <filesize>150985096</filesize>
+                  <height>8688</height>
+                  <status>done</status>
+                  <has_more_jobs>0</has_more_jobs>
+                  <download_url>https://objects.ub.uni-mainz.de/eas/partitions/1/0/15000/15621/5d614f65c371e7ba12df3e5cb7c748c4810990c9/image/tiff/IMG_931199.tif</download_url>
+                  <aspect_ratio>0.66600000858306885</aspect_ratio>
+                  <class>image</class>
+                  <width>5792</width>
+                  <url>https://objects.ub.uni-mainz.de/eas/partitions-inline/1/0/15000/15621/5d614f65c371e7ba12df3e5cb7c748c4810990c9/image/tiff</url>
+                  <date_created>2017-10-09T12:13:17Z</date_created>
+                  <extension>tif</extension>
+                  <dpi>300</dpi>
+                  <compiled>tif image, 5792 x 8688 @ 24 bit, 143.99 MB</compiled>
+                  <_download_allowed>1</_download_allowed>
+                  <deep_link_url>https://objects.ub.uni-mainz.de/api/v1/objects/uuid/d5cc3b21-0d1a-47a9-aed1-56828ab724da/file/id/15621/file_version/name/original/disposition/inline</deep_link_url>
+                  <path>2023-07-04 12_31 easydb FULL Benin-Kopf/assets/JGU ES 2595_Gedenkkopf eines Edo-Königs_24254_5.tif</path>
+                </version>
+                <version name="huge">
+                  <filesize>3358742</filesize>
+                  <height>2000</height>
+                  <has_more_jobs>0</has_more_jobs>
+                  <class>image</class>
+                  <width>1333</width>
+                  <url>https://objects.ub.uni-mainz.de/eas/partitions-inline/2/0/15000/15621/51f79fee362f631f0cc28c3aa8e08554828604db/image/png</url>
+                  <status>done</status>
+                  <extension>png</extension>
+                  <aspect_ratio>0.66600000858306885</aspect_ratio>
+                  <dpi>299</dpi>
+                  <zoom_url>https://objects.ub.uni-mainz.de/eas/zoomer/15621/707c9bec2f1e900c06cd4774fd4e86ff?instance=easydb5</zoom_url>
+                  <download_url>https://objects.ub.uni-mainz.de/eas/partitions/2/0/15000/15621/51f79fee362f631f0cc28c3aa8e08554828604db/image/png/IMG_931199-huge.png</download_url>
+                  <_download_allowed>1</_download_allowed>
+                  <deep_link_url>https://objects.ub.uni-mainz.de/api/v1/objects/uuid/d5cc3b21-0d1a-47a9-aed1-56828ab724da/file/id/15621/file_version/name/huge/disposition/inline</deep_link_url>
+                </version>
+                <version name="full">
+                  <filesize>60374270</filesize>
+                  <height>8688</height>
+                  <has_more_jobs>0</has_more_jobs>
+                  <class>image</class>
+                  <width>5792</width>
+                  <url>https://objects.ub.uni-mainz.de/eas/partitions-inline/2/0/15000/15621/c0022dbce3c4ad4efb196955a0b54979f41852bc/image/png</url>
+                  <status>done</status>
+                  <extension>png</extension>
+                  <aspect_ratio>0.66600000858306885</aspect_ratio>
+                  <dpi>299</dpi>
+                  <zoom_url>https://objects.ub.uni-mainz.de/eas/zoomer/15621/7a76585350375ba1431632360365509d?instance=easydb5</zoom_url>
+                  <download_url>https://objects.ub.uni-mainz.de/eas/partitions/2/0/15000/15621/c0022dbce3c4ad4efb196955a0b54979f41852bc/image/png/IMG_931199-full.png</download_url>
+                  <_download_allowed>1</_download_allowed>
+                  <deep_link_url>https://objects.ub.uni-mainz.de/api/v1/objects/uuid/d5cc3b21-0d1a-47a9-aed1-56828ab724da/file/id/15621/file_version/name/full/disposition/inline</deep_link_url>
+                </version>
+              </versions>
+            </file>
+          </files>
+        </datei>
+        <lizenz>
+          <lizenzen>
+            <_id>7</_id>
+            <_system_object_id>77</_system_object_id>
+            <_version>9</_version>
+            <_uuid>d6394210-dea0-472c-b7f6-6a206401dfd2</_uuid>
+            <_objecttype>lizenzen</_objecttype>
+            <_global_object_id>77@e2693ff0-14c9-4333-8c0e-a4de8c701ce4</_global_object_id>
+            <_standard>
+              <de-DE>CC BY 4.0</de-DE>
+              <en-US>CC BY 4.0</en-US>
+            </_standard>
+            <name type="text_l10n_oneline">
+              <de-DE>CC BY 4.0</de-DE>
+              <en-US>CC BY 4.0</en-US>
+            </name>
+            <bemerkung type="text_l10n">
+              <de-DE>Creative Commons Namensnennung. Lizenzvertrag: https://creativecommons.org/licenses/by/4.0/deed.de</de-DE>
+              <en-US>Creative Commons Attribution . License deed: https://creativecommons.org/licenses/by/4.0/deed.en</en-US>
+            </bemerkung>
+            <link type="string">https://creativecommons.org/licenses/by/4.0/</link>
+          </lizenzen>
+        </lizenz>
+        <urheber>
+          <urheber>
+            <_id>7</_id>
+            <_system_object_id>9153</_system_object_id>
+            <_version>4</_version>
+            <_uuid>776ac283-2462-4be6-8ab5-07da82c115f6</_uuid>
+            <_objecttype>urheber</_objecttype>
+            <_global_object_id>9153@e2693ff0-14c9-4333-8c0e-a4de8c701ce4</_global_object_id>
+            <_standard>
+              <de-DE>Thomas Hartmann, JGU Mainz</de-DE>
+              <en-US>Thomas Hartmann, JGU Mainz</en-US>
+            </_standard>
+            <name type="text_oneline">Thomas Hartmann, JGU Mainz</name>
+          </urheber>
+        </urheber>
+        <aufnahmedatum type="date">2017-10-09</aufnahmedatum>
+        <unsicher type="boolean">0</unsicher>
+      </bilder>
+      <bilder>
+        <_uuid>be1ab11d-d0b7-43f7-b64f-77249fc0d1bd</_uuid>
+        <_objecttype>bilder</_objecttype>
+        <_global_object_id>24264@e2693ff0-14c9-4333-8c0e-a4de8c701ce4</_global_object_id>
+        <pool id="43">
+          <de-DE>Ethnografische Studiensammlung</de-DE>
+        </pool>
+        <datei>
+          <files>
+            <file>
+              <eas-id>15622</eas-id>
+              <preferred>true</preferred>
+              <status>done</status>
+              <class>image</class>
+              <extension>tif</extension>
+              <name/>
+              <original_filename>IMG_931204.TIF</original_filename>
+              <compiled>tif image, 5792 x 8688 @ 24 bit, 143.99 MB</compiled>
+              <eas_parent_id/>
+              <date_inserted>2023-07-03T20:27:44Z</date_inserted>
+              <date_created>2017-10-09T12:20:59Z</date_created>
+              <date_uploaded>2021-09-03T10:46:23Z</date_uploaded>
+              <filesize>150984932</filesize>
+              <technical_metadata>
+                <file_sha224_checksum>17d01f8c049a79f7b34272da77cc8ec2f704d24d7e8bf9a4faa9421c</file_sha224_checksum>
+                <orientation>1</orientation>
+                <camera_scanner>Canon EOS 5DS R</camera_scanner>
+                <width>5792</width>
+                <height>8688</height>
+                <dpi>300</dpi>
+                <max_dimension>8688</max_dimension>
+                <format>portrait</format>
+                <aspect_ratio>0.66666666666666663</aspect_ratio>
+                <colordepth>24</colordepth>
+                <colorspace>rgb</colorspace>
+                <colorprofile>Adobe RGB (1998)</colorprofile>
+              </technical_metadata>
+              <versions>
+                <version name="small">
+                  <filesize>120541</filesize>
+                  <height>375</height>
+                  <has_more_jobs>0</has_more_jobs>
+                  <class>image</class>
+                  <width>250</width>
+                  <url>https://objects.ub.uni-mainz.de/eas/partitions-inline/2/0/15000/15622/2a9e76e83b640f8910b7084512a128c1b06c4796/image/png</url>
+                  <status>done</status>
+                  <extension>png</extension>
+                  <aspect_ratio>0.66600000858306885</aspect_ratio>
+                  <dpi>299</dpi>
+                  <download_url>https://objects.ub.uni-mainz.de/eas/partitions/2/0/15000/15622/2a9e76e83b640f8910b7084512a128c1b06c4796/image/png/IMG_931204-small.png</download_url>
+                  <_download_allowed>1</_download_allowed>
+                  <deep_link_url>https://objects.ub.uni-mainz.de/api/v1/objects/uuid/be1ab11d-d0b7-43f7-b64f-77249fc0d1bd/file/id/15622/file_version/name/small/disposition/inline</deep_link_url>
+                </version>
+                <version name="preview">
+                  <filesize>773786</filesize>
+                  <height>1000</height>
+                  <has_more_jobs>0</has_more_jobs>
+                  <class>image</class>
+                  <width>667</width>
+                  <url>https://objects.ub.uni-mainz.de/eas/partitions-inline/2/0/15000/15622/fd28b3598b2302ee2e6f01c5f087ae2262c719c4/image/png</url>
+                  <status>done</status>
+                  <extension>png</extension>
+                  <aspect_ratio>0.66699999570846558</aspect_ratio>
+                  <dpi>299</dpi>
+                  <zoom_url>https://objects.ub.uni-mainz.de/eas/zoomer/15622/f4c58869797bb073aec91e66c49874e3?instance=easydb5</zoom_url>
+                  <download_url>https://objects.ub.uni-mainz.de/eas/partitions/2/0/15000/15622/fd28b3598b2302ee2e6f01c5f087ae2262c719c4/image/png/IMG_931204-preview.png</download_url>
+                  <_download_allowed>1</_download_allowed>
+                  <deep_link_url>https://objects.ub.uni-mainz.de/api/v1/objects/uuid/be1ab11d-d0b7-43f7-b64f-77249fc0d1bd/file/id/15622/file_version/name/preview/disposition/inline</deep_link_url>
+                </version>
+                <version name="original">
+                  <filesize>150984932</filesize>
+                  <height>8688</height>
+                  <status>done</status>
+                  <has_more_jobs>0</has_more_jobs>
+                  <download_url>https://objects.ub.uni-mainz.de/eas/partitions/1/0/15000/15622/36f18403534b83335dd8e7779569c7d4550f09de/image/tiff/IMG_931204.tif</download_url>
+                  <aspect_ratio>0.66600000858306885</aspect_ratio>
+                  <class>image</class>
+                  <width>5792</width>
+                  <url>https://objects.ub.uni-mainz.de/eas/partitions-inline/1/0/15000/15622/36f18403534b83335dd8e7779569c7d4550f09de/image/tiff</url>
+                  <date_created>2017-10-09T12:20:59Z</date_created>
+                  <extension>tif</extension>
+                  <dpi>300</dpi>
+                  <compiled>tif image, 5792 x 8688 @ 24 bit, 143.99 MB</compiled>
+                  <_download_allowed>1</_download_allowed>
+                  <deep_link_url>https://objects.ub.uni-mainz.de/api/v1/objects/uuid/be1ab11d-d0b7-43f7-b64f-77249fc0d1bd/file/id/15622/file_version/name/original/disposition/inline</deep_link_url>
+                  <path>2023-07-04 12_31 easydb FULL Benin-Kopf/assets/JGU ES 2595_Gedenkkopf eines Edo-Königs_24254_7.tif</path>
+                </version>
+                <version name="full">
+                  <filesize>54031287</filesize>
+                  <height>8688</height>
+                  <has_more_jobs>0</has_more_jobs>
+                  <class>image</class>
+                  <width>5792</width>
+                  <url>https://objects.ub.uni-mainz.de/eas/partitions-inline/2/0/15000/15622/2c24a6ba69cb3fd67bfa33a39c129ddd9a741637/image/png</url>
+                  <status>done</status>
+                  <extension>png</extension>
+                  <aspect_ratio>0.66600000858306885</aspect_ratio>
+                  <dpi>299</dpi>
+                  <zoom_url>https://objects.ub.uni-mainz.de/eas/zoomer/15622/ec0146bfd36ff28afc0416d3a81c99ed?instance=easydb5</zoom_url>
+                  <download_url>https://objects.ub.uni-mainz.de/eas/partitions/2/0/15000/15622/2c24a6ba69cb3fd67bfa33a39c129ddd9a741637/image/png/IMG_931204-full.png</download_url>
+                  <_download_allowed>1</_download_allowed>
+                  <deep_link_url>https://objects.ub.uni-mainz.de/api/v1/objects/uuid/be1ab11d-d0b7-43f7-b64f-77249fc0d1bd/file/id/15622/file_version/name/full/disposition/inline</deep_link_url>
+                </version>
+                <version name="huge">
+                  <filesize>3056650</filesize>
+                  <height>2000</height>
+                  <has_more_jobs>0</has_more_jobs>
+                  <class>image</class>
+                  <width>1333</width>
+                  <url>https://objects.ub.uni-mainz.de/eas/partitions-inline/2/0/15000/15622/d9a9479dbf918e0e0333ca6008c271edec8fe02a/image/png</url>
+                  <status>done</status>
+                  <extension>png</extension>
+                  <aspect_ratio>0.66600000858306885</aspect_ratio>
+                  <dpi>299</dpi>
+                  <zoom_url>https://objects.ub.uni-mainz.de/eas/zoomer/15622/4240ccb5a7cac822e34f317e3db232bd?instance=easydb5</zoom_url>
+                  <download_url>https://objects.ub.uni-mainz.de/eas/partitions/2/0/15000/15622/d9a9479dbf918e0e0333ca6008c271edec8fe02a/image/png/IMG_931204-huge.png</download_url>
+                  <_download_allowed>1</_download_allowed>
+                  <deep_link_url>https://objects.ub.uni-mainz.de/api/v1/objects/uuid/be1ab11d-d0b7-43f7-b64f-77249fc0d1bd/file/id/15622/file_version/name/huge/disposition/inline</deep_link_url>
+                </version>
+              </versions>
+            </file>
+          </files>
+        </datei>
+        <lizenz>
+          <lizenzen>
+            <_id>7</_id>
+            <_system_object_id>77</_system_object_id>
+            <_version>9</_version>
+            <_uuid>d6394210-dea0-472c-b7f6-6a206401dfd2</_uuid>
+            <_objecttype>lizenzen</_objecttype>
+            <_global_object_id>77@e2693ff0-14c9-4333-8c0e-a4de8c701ce4</_global_object_id>
+            <_standard>
+              <de-DE>CC BY 4.0</de-DE>
+              <en-US>CC BY 4.0</en-US>
+            </_standard>
+            <name type="text_l10n_oneline">
+              <de-DE>CC BY 4.0</de-DE>
+              <en-US>CC BY 4.0</en-US>
+            </name>
+            <bemerkung type="text_l10n">
+              <de-DE>Creative Commons Namensnennung. Lizenzvertrag: https://creativecommons.org/licenses/by/4.0/deed.de</de-DE>
+              <en-US>Creative Commons Attribution . License deed: https://creativecommons.org/licenses/by/4.0/deed.en</en-US>
+            </bemerkung>
+            <link type="string">https://creativecommons.org/licenses/by/4.0/</link>
+          </lizenzen>
+        </lizenz>
+        <urheber>
+          <urheber>
+            <_id>7</_id>
+            <_system_object_id>9153</_system_object_id>
+            <_version>4</_version>
+            <_uuid>776ac283-2462-4be6-8ab5-07da82c115f6</_uuid>
+            <_objecttype>urheber</_objecttype>
+            <_global_object_id>9153@e2693ff0-14c9-4333-8c0e-a4de8c701ce4</_global_object_id>
+            <_standard>
+              <de-DE>Thomas Hartmann, JGU Mainz</de-DE>
+              <en-US>Thomas Hartmann, JGU Mainz</en-US>
+            </_standard>
+            <name type="text_oneline">Thomas Hartmann, JGU Mainz</name>
+          </urheber>
+        </urheber>
+        <unsicher type="boolean">0</unsicher>
+        <originalaufnahme type="text_oneline">09.10.2017</originalaufnahme>
+      </bilder>
+      <bilder>
+        <_uuid>5e299764-87b4-4688-92ef-4d715ee4a264</_uuid>
+        <_objecttype>bilder</_objecttype>
+        <_global_object_id>24265@e2693ff0-14c9-4333-8c0e-a4de8c701ce4</_global_object_id>
+        <pool id="43">
+          <de-DE>Ethnografische Studiensammlung</de-DE>
+        </pool>
+        <datei>
+          <files>
+            <file>
+              <eas-id>15624</eas-id>
+              <preferred>true</preferred>
+              <status>done</status>
+              <class>image</class>
+              <extension>tif</extension>
+              <name/>
+              <original_filename>Job_0004.tif</original_filename>
+              <compiled>tif image, 4021 x 5664 @ 24 bit, 65.19 MB</compiled>
+              <eas_parent_id/>
+              <date_inserted>2023-07-03T20:27:44Z</date_inserted>
+              <date_created>2013-10-16T10:22:44Z</date_created>
+              <date_uploaded>2021-09-03T10:47:16Z</date_uploaded>
+              <filesize>68354592</filesize>
+              <technical_metadata>
+                <file_sha224_checksum>b93a847ddbb4dc80dcae512fc5a7bad990c9513c7d9869ea4e1cf9fc</file_sha224_checksum>
+                <orientation>1</orientation>
+                <camera_scanner>Hasselblad CFV-39 - Hasselblad ELX</camera_scanner>
+                <width>4021</width>
+                <height>5664</height>
+                <dpi>300</dpi>
+                <max_dimension>5664</max_dimension>
+                <format>portrait</format>
+                <aspect_ratio>0.7099223163841808</aspect_ratio>
+                <colordepth>24</colordepth>
+                <colorspace>rgb</colorspace>
+                <colorprofile>Adobe RGB (1998)</colorprofile>
+              </technical_metadata>
+              <versions>
+                <version name="small">
+                  <filesize>109352</filesize>
+                  <height>352</height>
+                  <has_more_jobs>0</has_more_jobs>
+                  <class>image</class>
+                  <width>250</width>
+                  <url>https://objects.ub.uni-mainz.de/eas/partitions-inline/2/0/15000/15624/f21ea530c1c461dfa69bfc12e1d97d74a5b1f50f/image/png</url>
+                  <status>done</status>
+                  <extension>png</extension>
+                  <aspect_ratio>0.70999997854232788</aspect_ratio>
+                  <dpi>299</dpi>
+                  <download_url>https://objects.ub.uni-mainz.de/eas/partitions/2/0/15000/15624/f21ea530c1c461dfa69bfc12e1d97d74a5b1f50f/image/png/Job_0004-small.png</download_url>
+                  <_download_allowed>1</_download_allowed>
+                  <deep_link_url>https://objects.ub.uni-mainz.de/api/v1/objects/uuid/5e299764-87b4-4688-92ef-4d715ee4a264/file/id/15624/file_version/name/small/disposition/inline</deep_link_url>
+                </version>
+                <version name="preview">
+                  <filesize>874961</filesize>
+                  <height>1000</height>
+                  <has_more_jobs>0</has_more_jobs>
+                  <class>image</class>
+                  <width>710</width>
+                  <url>https://objects.ub.uni-mainz.de/eas/partitions-inline/2/0/15000/15624/77b532d99309c2bead519e668e9546be5453aec3/image/png</url>
+                  <status>done</status>
+                  <extension>png</extension>
+                  <aspect_ratio>0.70999997854232788</aspect_ratio>
+                  <dpi>299</dpi>
+                  <zoom_url>https://objects.ub.uni-mainz.de/eas/zoomer/15624/3d6a9d415205c62a97ceb7bac0bbaf42?instance=easydb5</zoom_url>
+                  <download_url>https://objects.ub.uni-mainz.de/eas/partitions/2/0/15000/15624/77b532d99309c2bead519e668e9546be5453aec3/image/png/Job_0004-preview.png</download_url>
+                  <_download_allowed>1</_download_allowed>
+                  <deep_link_url>https://objects.ub.uni-mainz.de/api/v1/objects/uuid/5e299764-87b4-4688-92ef-4d715ee4a264/file/id/15624/file_version/name/preview/disposition/inline</deep_link_url>
+                </version>
+                <version name="original">
+                  <filesize>68354592</filesize>
+                  <height>5664</height>
+                  <status>done</status>
+                  <has_more_jobs>0</has_more_jobs>
+                  <download_url>https://objects.ub.uni-mainz.de/eas/partitions/1/0/15000/15624/dc04d93a71d83119dbf4814d93bb94062522e6d9/image/tiff/Job_0004.tif</download_url>
+                  <aspect_ratio>0.70899999141693115</aspect_ratio>
+                  <class>image</class>
+                  <width>4021</width>
+                  <url>https://objects.ub.uni-mainz.de/eas/partitions-inline/1/0/15000/15624/dc04d93a71d83119dbf4814d93bb94062522e6d9/image/tiff</url>
+                  <date_created>2013-10-16T10:22:44Z</date_created>
+                  <extension>tif</extension>
+                  <dpi>300</dpi>
+                  <compiled>tif image, 4021 x 5664 @ 24 bit, 65.19 MB</compiled>
+                  <_download_allowed>1</_download_allowed>
+                  <deep_link_url>https://objects.ub.uni-mainz.de/api/v1/objects/uuid/5e299764-87b4-4688-92ef-4d715ee4a264/file/id/15624/file_version/name/original/disposition/inline</deep_link_url>
+                  <path>2023-07-04 12_31 easydb FULL Benin-Kopf/assets/JGU ES 2595_Gedenkkopf eines Edo-Königs_24254_9.tif</path>
+                </version>
+                <version name="full">
+                  <filesize>37368923</filesize>
+                  <height>5664</height>
+                  <has_more_jobs>0</has_more_jobs>
+                  <class>image</class>
+                  <width>4021</width>
+                  <url>https://objects.ub.uni-mainz.de/eas/partitions-inline/2/0/15000/15624/0b20fac203b29d3ae03073c3605b206c1465f5c5/image/png</url>
+                  <status>done</status>
+                  <extension>png</extension>
+                  <aspect_ratio>0.70899999141693115</aspect_ratio>
+                  <dpi>299</dpi>
+                  <zoom_url>https://objects.ub.uni-mainz.de/eas/zoomer/15624/f8317f74432b60d72a24f919b0fb6604?instance=easydb5</zoom_url>
+                  <download_url>https://objects.ub.uni-mainz.de/eas/partitions/2/0/15000/15624/0b20fac203b29d3ae03073c3605b206c1465f5c5/image/png/Job_0004-full.png</download_url>
+                  <_download_allowed>1</_download_allowed>
+                  <deep_link_url>https://objects.ub.uni-mainz.de/api/v1/objects/uuid/5e299764-87b4-4688-92ef-4d715ee4a264/file/id/15624/file_version/name/full/disposition/inline</deep_link_url>
+                </version>
+                <version name="huge">
+                  <filesize>3783462</filesize>
+                  <height>2000</height>
+                  <has_more_jobs>0</has_more_jobs>
+                  <class>image</class>
+                  <width>1420</width>
+                  <url>https://objects.ub.uni-mainz.de/eas/partitions-inline/2/0/15000/15624/6db6ee83cd569dec06aa8307d8cb6aa330e071e5/image/png</url>
+                  <status>done</status>
+                  <extension>png</extension>
+                  <aspect_ratio>0.70999997854232788</aspect_ratio>
+                  <dpi>299</dpi>
+                  <zoom_url>https://objects.ub.uni-mainz.de/eas/zoomer/15624/3e8a13807a332abe77f3cb00c701ecbd?instance=easydb5</zoom_url>
+                  <download_url>https://objects.ub.uni-mainz.de/eas/partitions/2/0/15000/15624/6db6ee83cd569dec06aa8307d8cb6aa330e071e5/image/png/Job_0004-huge.png</download_url>
+                  <_download_allowed>1</_download_allowed>
+                  <deep_link_url>https://objects.ub.uni-mainz.de/api/v1/objects/uuid/5e299764-87b4-4688-92ef-4d715ee4a264/file/id/15624/file_version/name/huge/disposition/inline</deep_link_url>
+                </version>
+              </versions>
+            </file>
+          </files>
+        </datei>
+        <lizenz>
+          <lizenzen>
+            <_id>7</_id>
+            <_system_object_id>77</_system_object_id>
+            <_version>9</_version>
+            <_uuid>d6394210-dea0-472c-b7f6-6a206401dfd2</_uuid>
+            <_objecttype>lizenzen</_objecttype>
+            <_global_object_id>77@e2693ff0-14c9-4333-8c0e-a4de8c701ce4</_global_object_id>
+            <_standard>
+              <de-DE>CC BY 4.0</de-DE>
+              <en-US>CC BY 4.0</en-US>
+            </_standard>
+            <name type="text_l10n_oneline">
+              <de-DE>CC BY 4.0</de-DE>
+              <en-US>CC BY 4.0</en-US>
+            </name>
+            <bemerkung type="text_l10n">
+              <de-DE>Creative Commons Namensnennung. Lizenzvertrag: https://creativecommons.org/licenses/by/4.0/deed.de</de-DE>
+              <en-US>Creative Commons Attribution . License deed: https://creativecommons.org/licenses/by/4.0/deed.en</en-US>
+            </bemerkung>
+            <link type="string">https://creativecommons.org/licenses/by/4.0/</link>
+          </lizenzen>
+        </lizenz>
+        <urheber>
+          <urheber>
+            <_id>13</_id>
+            <_system_object_id>13303</_system_object_id>
+            <_version>2</_version>
+            <_uuid>65bd1633-435c-4ec6-bcf5-1ce3a5a9d3fe</_uuid>
+            <_objecttype>urheber</_objecttype>
+            <_global_object_id>13303@e2693ff0-14c9-4333-8c0e-a4de8c701ce4</_global_object_id>
+            <_standard>
+              <de-DE>Monika Gräwe, JGU Mainz</de-DE>
+              <en-US>Monika Gräwe, JGU Mainz</en-US>
+            </_standard>
+            <name type="text_oneline">Monika Gräwe, JGU Mainz</name>
+          </urheber>
+        </urheber>
+        <aufnahmedatum type="date">2013-10-16</aufnahmedatum>
+        <unsicher type="boolean">0</unsicher>
+      </bilder>
+      <bilder>
+        <_uuid>e54dab83-d78e-4259-bdee-e96818e807a2</_uuid>
+        <_objecttype>bilder</_objecttype>
+        <_global_object_id>24267@e2693ff0-14c9-4333-8c0e-a4de8c701ce4</_global_object_id>
+        <pool id="43">
+          <de-DE>Ethnografische Studiensammlung</de-DE>
+        </pool>
+        <datei>
+          <files>
+            <file>
+              <eas-id>15625</eas-id>
+              <preferred>true</preferred>
+              <status>done</status>
+              <class>image</class>
+              <extension>tif</extension>
+              <name/>
+              <original_filename>Job_0029.tif</original_filename>
+              <compiled>tif image, 4821 x 6833 @ 24 bit, 94.28 MB</compiled>
+              <eas_parent_id/>
+              <date_inserted>2023-07-03T20:27:44Z</date_inserted>
+              <date_created>2013-10-16T10:46:46Z</date_created>
+              <date_uploaded>2021-09-03T10:48:51Z</date_uploaded>
+              <filesize>98856930</filesize>
+              <technical_metadata>
+                <file_sha224_checksum>8c85b75c678842465607c1f58b63b3cb54ecc862fba0f515071a4202</file_sha224_checksum>
+                <orientation>1</orientation>
+                <camera_scanner>Hasselblad CFV-39 - Hasselblad ELX</camera_scanner>
+                <width>4821</width>
+                <height>6833</height>
+                <dpi>300</dpi>
+                <max_dimension>6833</max_dimension>
+                <format>portrait</format>
+                <aspect_ratio>0.70554661202985514</aspect_ratio>
+                <colordepth>24</colordepth>
+                <colorspace>rgb</colorspace>
+                <colorprofile>Adobe RGB (1998)</colorprofile>
+              </technical_metadata>
+              <versions>
+                <version name="small">
+                  <filesize>130398</filesize>
+                  <height>354</height>
+                  <has_more_jobs>0</has_more_jobs>
+                  <class>image</class>
+                  <width>250</width>
+                  <url>https://objects.ub.uni-mainz.de/eas/partitions-inline/2/0/15000/15625/c6b3f229dc2b49360b728a65a06d2482a4251128/image/png</url>
+                  <status>done</status>
+                  <extension>png</extension>
+                  <aspect_ratio>0.70599997043609619</aspect_ratio>
+                  <dpi>299</dpi>
+                  <download_url>https://objects.ub.uni-mainz.de/eas/partitions/2/0/15000/15625/c6b3f229dc2b49360b728a65a06d2482a4251128/image/png/Job_0029-small.png</download_url>
+                  <_download_allowed>1</_download_allowed>
+                  <deep_link_url>https://objects.ub.uni-mainz.de/api/v1/objects/uuid/e54dab83-d78e-4259-bdee-e96818e807a2/file/id/15625/file_version/name/small/disposition/inline</deep_link_url>
+                </version>
+                <version name="preview">
+                  <filesize>1013169</filesize>
+                  <height>1000</height>
+                  <has_more_jobs>0</has_more_jobs>
+                  <class>image</class>
+                  <width>706</width>
+                  <url>https://objects.ub.uni-mainz.de/eas/partitions-inline/2/0/15000/15625/f1474fb0f647a51d55c6c138409b5f7918e6b349/image/png</url>
+                  <status>done</status>
+                  <extension>png</extension>
+                  <aspect_ratio>0.70599997043609619</aspect_ratio>
+                  <dpi>299</dpi>
+                  <zoom_url>https://objects.ub.uni-mainz.de/eas/zoomer/15625/efb612e0a4c48ce666606c7194a3dea0?instance=easydb5</zoom_url>
+                  <download_url>https://objects.ub.uni-mainz.de/eas/partitions/2/0/15000/15625/f1474fb0f647a51d55c6c138409b5f7918e6b349/image/png/Job_0029-preview.png</download_url>
+                  <_download_allowed>1</_download_allowed>
+                  <deep_link_url>https://objects.ub.uni-mainz.de/api/v1/objects/uuid/e54dab83-d78e-4259-bdee-e96818e807a2/file/id/15625/file_version/name/preview/disposition/inline</deep_link_url>
+                </version>
+                <version name="original">
+                  <filesize>98856930</filesize>
+                  <height>6833</height>
+                  <status>done</status>
+                  <has_more_jobs>0</has_more_jobs>
+                  <download_url>https://objects.ub.uni-mainz.de/eas/partitions/1/0/15000/15625/f66cd9d2b58ab62643ffd6b7d644021e2aa563bf/image/tiff/Job_0029.tif</download_url>
+                  <aspect_ratio>0.70499998331069946</aspect_ratio>
+                  <class>image</class>
+                  <width>4821</width>
+                  <url>https://objects.ub.uni-mainz.de/eas/partitions-inline/1/0/15000/15625/f66cd9d2b58ab62643ffd6b7d644021e2aa563bf/image/tiff</url>
+                  <date_created>2013-10-16T10:46:46Z</date_created>
+                  <extension>tif</extension>
+                  <dpi>300</dpi>
+                  <compiled>tif image, 4821 x 6833 @ 24 bit, 94.28 MB</compiled>
+                  <_download_allowed>1</_download_allowed>
+                  <deep_link_url>https://objects.ub.uni-mainz.de/api/v1/objects/uuid/e54dab83-d78e-4259-bdee-e96818e807a2/file/id/15625/file_version/name/original/disposition/inline</deep_link_url>
+                  <path>2023-07-04 12_31 easydb FULL Benin-Kopf/assets/JGU ES 2595_Gedenkkopf eines Edo-Königs_24254_11.tif</path>
+                </version>
+                <version name="full">
+                  <filesize>61806034</filesize>
+                  <height>6833</height>
+                  <has_more_jobs>0</has_more_jobs>
+                  <class>image</class>
+                  <width>4821</width>
+                  <url>https://objects.ub.uni-mainz.de/eas/partitions-inline/2/0/15000/15625/89799ab8092270896855de780eeea02d333a2da2/image/png</url>
+                  <status>done</status>
+                  <extension>png</extension>
+                  <aspect_ratio>0.70499998331069946</aspect_ratio>
+                  <dpi>299</dpi>
+                  <zoom_url>https://objects.ub.uni-mainz.de/eas/zoomer/15625/3cbb4a67686a40fb256bb64e384883ea?instance=easydb5</zoom_url>
+                  <download_url>https://objects.ub.uni-mainz.de/eas/partitions/2/0/15000/15625/89799ab8092270896855de780eeea02d333a2da2/image/png/Job_0029-full.png</download_url>
+                  <_download_allowed>1</_download_allowed>
+                  <deep_link_url>https://objects.ub.uni-mainz.de/api/v1/objects/uuid/e54dab83-d78e-4259-bdee-e96818e807a2/file/id/15625/file_version/name/full/disposition/inline</deep_link_url>
+                </version>
+                <version name="huge">
+                  <filesize>4316264</filesize>
+                  <height>2000</height>
+                  <has_more_jobs>0</has_more_jobs>
+                  <class>image</class>
+                  <width>1411</width>
+                  <url>https://objects.ub.uni-mainz.de/eas/partitions-inline/2/0/15000/15625/cd36b2710aed8b66c249f62f29a151752f4edffb/image/png</url>
+                  <status>done</status>
+                  <extension>png</extension>
+                  <aspect_ratio>0.70499998331069946</aspect_ratio>
+                  <dpi>299</dpi>
+                  <zoom_url>https://objects.ub.uni-mainz.de/eas/zoomer/15625/7eedb5031b14f432401da18a448d21ea?instance=easydb5</zoom_url>
+                  <download_url>https://objects.ub.uni-mainz.de/eas/partitions/2/0/15000/15625/cd36b2710aed8b66c249f62f29a151752f4edffb/image/png/Job_0029-huge.png</download_url>
+                  <_download_allowed>1</_download_allowed>
+                  <deep_link_url>https://objects.ub.uni-mainz.de/api/v1/objects/uuid/e54dab83-d78e-4259-bdee-e96818e807a2/file/id/15625/file_version/name/huge/disposition/inline</deep_link_url>
+                </version>
+              </versions>
+            </file>
+          </files>
+        </datei>
+        <lizenz>
+          <lizenzen>
+            <_id>7</_id>
+            <_system_object_id>77</_system_object_id>
+            <_version>9</_version>
+            <_uuid>d6394210-dea0-472c-b7f6-6a206401dfd2</_uuid>
+            <_objecttype>lizenzen</_objecttype>
+            <_global_object_id>77@e2693ff0-14c9-4333-8c0e-a4de8c701ce4</_global_object_id>
+            <_standard>
+              <de-DE>CC BY 4.0</de-DE>
+              <en-US>CC BY 4.0</en-US>
+            </_standard>
+            <name type="text_l10n_oneline">
+              <de-DE>CC BY 4.0</de-DE>
+              <en-US>CC BY 4.0</en-US>
+            </name>
+            <bemerkung type="text_l10n">
+              <de-DE>Creative Commons Namensnennung. Lizenzvertrag: https://creativecommons.org/licenses/by/4.0/deed.de</de-DE>
+              <en-US>Creative Commons Attribution . License deed: https://creativecommons.org/licenses/by/4.0/deed.en</en-US>
+            </bemerkung>
+            <link type="string">https://creativecommons.org/licenses/by/4.0/</link>
+          </lizenzen>
+        </lizenz>
+        <urheber>
+          <urheber>
+            <_id>13</_id>
+            <_system_object_id>13303</_system_object_id>
+            <_version>2</_version>
+            <_uuid>65bd1633-435c-4ec6-bcf5-1ce3a5a9d3fe</_uuid>
+            <_objecttype>urheber</_objecttype>
+            <_global_object_id>13303@e2693ff0-14c9-4333-8c0e-a4de8c701ce4</_global_object_id>
+            <_standard>
+              <de-DE>Monika Gräwe, JGU Mainz</de-DE>
+              <en-US>Monika Gräwe, JGU Mainz</en-US>
+            </_standard>
+            <name type="text_oneline">Monika Gräwe, JGU Mainz</name>
+          </urheber>
+        </urheber>
+        <aufnahmedatum type="date">2013-10-16</aufnahmedatum>
+        <unsicher type="boolean">0</unsicher>
+      </bilder>
+      <bilder>
+        <_uuid>58d7c926-88e9-4df8-a7d0-f7de7aaef9f3</_uuid>
+        <_objecttype>bilder</_objecttype>
+        <_global_object_id>24268@e2693ff0-14c9-4333-8c0e-a4de8c701ce4</_global_object_id>
+        <pool id="43">
+          <de-DE>Ethnografische Studiensammlung</de-DE>
+        </pool>
+        <datei>
+          <files>
+            <file>
+              <eas-id>15626</eas-id>
+              <preferred>true</preferred>
+              <status>done</status>
+              <class>image</class>
+              <extension>tif</extension>
+              <name/>
+              <original_filename>Job_0034.tif</original_filename>
+              <compiled>tif image, 4724 x 6528 @ 24 bit, 88.26 MB</compiled>
+              <eas_parent_id/>
+              <date_inserted>2023-07-03T20:27:44Z</date_inserted>
+              <date_created>2013-10-16T10:52:05Z</date_created>
+              <date_uploaded>2021-09-03T10:50:01Z</date_uploaded>
+              <filesize>92550578</filesize>
+              <technical_metadata>
+                <file_sha224_checksum>ce643abd0976a4d6d7b62791491ba1024e54031a69a62c5564a5e171</file_sha224_checksum>
+                <orientation>1</orientation>
+                <camera_scanner>Hasselblad CFV-39 - Hasselblad ELX</camera_scanner>
+                <width>4724</width>
+                <height>6528</height>
+                <dpi>300</dpi>
+                <max_dimension>6528</max_dimension>
+                <format>portrait</format>
+                <aspect_ratio>0.72365196078431371</aspect_ratio>
+                <colordepth>24</colordepth>
+                <colorspace>rgb</colorspace>
+                <colorprofile>Adobe RGB (1998)</colorprofile>
+              </technical_metadata>
+              <versions>
+                <version name="small">
+                  <filesize>112087</filesize>
+                  <height>345</height>
+                  <has_more_jobs>0</has_more_jobs>
+                  <class>image</class>
+                  <width>250</width>
+                  <url>https://objects.ub.uni-mainz.de/eas/partitions-inline/2/0/15000/15626/942d888fa00de9e4147f1506df9a6aa63326ac5c/image/png</url>
+                  <status>done</status>
+                  <extension>png</extension>
+                  <aspect_ratio>0.72399997711181641</aspect_ratio>
+                  <dpi>299</dpi>
+                  <download_url>https://objects.ub.uni-mainz.de/eas/partitions/2/0/15000/15626/942d888fa00de9e4147f1506df9a6aa63326ac5c/image/png/Job_0034-small.png</download_url>
+                  <_download_allowed>1</_download_allowed>
+                  <deep_link_url>https://objects.ub.uni-mainz.de/api/v1/objects/uuid/58d7c926-88e9-4df8-a7d0-f7de7aaef9f3/file/id/15626/file_version/name/small/disposition/inline</deep_link_url>
+                </version>
+                <version name="preview">
+                  <filesize>945452</filesize>
+                  <height>1000</height>
+                  <has_more_jobs>0</has_more_jobs>
+                  <class>image</class>
+                  <width>724</width>
+                  <url>https://objects.ub.uni-mainz.de/eas/partitions-inline/2/0/15000/15626/470e1e302fec7f85ea535cd5007a8df14329ca92/image/png</url>
+                  <status>done</status>
+                  <extension>png</extension>
+                  <aspect_ratio>0.72399997711181641</aspect_ratio>
+                  <dpi>299</dpi>
+                  <zoom_url>https://objects.ub.uni-mainz.de/eas/zoomer/15626/c0862c9baecc9a6de767ae103d743480?instance=easydb5</zoom_url>
+                  <download_url>https://objects.ub.uni-mainz.de/eas/partitions/2/0/15000/15626/470e1e302fec7f85ea535cd5007a8df14329ca92/image/png/Job_0034-preview.png</download_url>
+                  <_download_allowed>1</_download_allowed>
+                  <deep_link_url>https://objects.ub.uni-mainz.de/api/v1/objects/uuid/58d7c926-88e9-4df8-a7d0-f7de7aaef9f3/file/id/15626/file_version/name/preview/disposition/inline</deep_link_url>
+                </version>
+                <version name="original">
+                  <filesize>92550578</filesize>
+                  <height>6528</height>
+                  <status>done</status>
+                  <has_more_jobs>0</has_more_jobs>
+                  <download_url>https://objects.ub.uni-mainz.de/eas/partitions/1/0/15000/15626/c45a453543696e109b62242018ad0d65182e0c6d/image/tiff/Job_0034.tif</download_url>
+                  <aspect_ratio>0.72299998998641968</aspect_ratio>
+                  <class>image</class>
+                  <width>4724</width>
+                  <url>https://objects.ub.uni-mainz.de/eas/partitions-inline/1/0/15000/15626/c45a453543696e109b62242018ad0d65182e0c6d/image/tiff</url>
+                  <date_created>2013-10-16T10:52:05Z</date_created>
+                  <extension>tif</extension>
+                  <dpi>300</dpi>
+                  <compiled>tif image, 4724 x 6528 @ 24 bit, 88.26 MB</compiled>
+                  <_download_allowed>1</_download_allowed>
+                  <deep_link_url>https://objects.ub.uni-mainz.de/api/v1/objects/uuid/58d7c926-88e9-4df8-a7d0-f7de7aaef9f3/file/id/15626/file_version/name/original/disposition/inline</deep_link_url>
+                  <path>2023-07-04 12_31 easydb FULL Benin-Kopf/assets/JGU ES 2595_Gedenkkopf eines Edo-Königs_24254_13.tif</path>
+                </version>
+                <version name="full">
+                  <filesize>55186883</filesize>
+                  <height>6528</height>
+                  <has_more_jobs>0</has_more_jobs>
+                  <class>image</class>
+                  <width>4724</width>
+                  <url>https://objects.ub.uni-mainz.de/eas/partitions-inline/2/0/15000/15626/977ca57d6c5c76c86bd1a3a5e5c856daec74dc74/image/png</url>
+                  <status>done</status>
+                  <extension>png</extension>
+                  <aspect_ratio>0.72299998998641968</aspect_ratio>
+                  <dpi>299</dpi>
+                  <zoom_url>https://objects.ub.uni-mainz.de/eas/zoomer/15626/cdfd4c966a3e412765290219d3f4f6b3?instance=easydb5</zoom_url>
+                  <download_url>https://objects.ub.uni-mainz.de/eas/partitions/2/0/15000/15626/977ca57d6c5c76c86bd1a3a5e5c856daec74dc74/image/png/Job_0034-full.png</download_url>
+                  <_download_allowed>1</_download_allowed>
+                  <deep_link_url>https://objects.ub.uni-mainz.de/api/v1/objects/uuid/58d7c926-88e9-4df8-a7d0-f7de7aaef9f3/file/id/15626/file_version/name/full/disposition/inline</deep_link_url>
+                </version>
+                <version name="huge">
+                  <filesize>4092243</filesize>
+                  <height>2000</height>
+                  <has_more_jobs>0</has_more_jobs>
+                  <class>image</class>
+                  <width>1447</width>
+                  <url>https://objects.ub.uni-mainz.de/eas/partitions-inline/2/0/15000/15626/5839727d12b2b1a1d7c30577d150a052a13d7aa3/image/png</url>
+                  <status>done</status>
+                  <extension>png</extension>
+                  <aspect_ratio>0.72299998998641968</aspect_ratio>
+                  <dpi>299</dpi>
+                  <zoom_url>https://objects.ub.uni-mainz.de/eas/zoomer/15626/96e36610adaf87f9dcbea2114aa990d0?instance=easydb5</zoom_url>
+                  <download_url>https://objects.ub.uni-mainz.de/eas/partitions/2/0/15000/15626/5839727d12b2b1a1d7c30577d150a052a13d7aa3/image/png/Job_0034-huge.png</download_url>
+                  <_download_allowed>1</_download_allowed>
+                  <deep_link_url>https://objects.ub.uni-mainz.de/api/v1/objects/uuid/58d7c926-88e9-4df8-a7d0-f7de7aaef9f3/file/id/15626/file_version/name/huge/disposition/inline</deep_link_url>
+                </version>
+              </versions>
+            </file>
+          </files>
+        </datei>
+        <lizenz>
+          <lizenzen>
+            <_id>7</_id>
+            <_system_object_id>77</_system_object_id>
+            <_version>9</_version>
+            <_uuid>d6394210-dea0-472c-b7f6-6a206401dfd2</_uuid>
+            <_objecttype>lizenzen</_objecttype>
+            <_global_object_id>77@e2693ff0-14c9-4333-8c0e-a4de8c701ce4</_global_object_id>
+            <_standard>
+              <de-DE>CC BY 4.0</de-DE>
+              <en-US>CC BY 4.0</en-US>
+            </_standard>
+            <name type="text_l10n_oneline">
+              <de-DE>CC BY 4.0</de-DE>
+              <en-US>CC BY 4.0</en-US>
+            </name>
+            <bemerkung type="text_l10n">
+              <de-DE>Creative Commons Namensnennung. Lizenzvertrag: https://creativecommons.org/licenses/by/4.0/deed.de</de-DE>
+              <en-US>Creative Commons Attribution . License deed: https://creativecommons.org/licenses/by/4.0/deed.en</en-US>
+            </bemerkung>
+            <link type="string">https://creativecommons.org/licenses/by/4.0/</link>
+          </lizenzen>
+        </lizenz>
+        <urheber>
+          <urheber>
+            <_id>13</_id>
+            <_system_object_id>13303</_system_object_id>
+            <_version>2</_version>
+            <_uuid>65bd1633-435c-4ec6-bcf5-1ce3a5a9d3fe</_uuid>
+            <_objecttype>urheber</_objecttype>
+            <_global_object_id>13303@e2693ff0-14c9-4333-8c0e-a4de8c701ce4</_global_object_id>
+            <_standard>
+              <de-DE>Monika Gräwe, JGU Mainz</de-DE>
+              <en-US>Monika Gräwe, JGU Mainz</en-US>
+            </_standard>
+            <name type="text_oneline">Monika Gräwe, JGU Mainz</name>
+          </urheber>
+        </urheber>
+        <aufnahmedatum type="date">2013-10-16</aufnahmedatum>
+        <unsicher type="boolean">0</unsicher>
+      </bilder>
+    </_reverse_nested__bilder__objekt>
+  </objekte>
+</objects>
