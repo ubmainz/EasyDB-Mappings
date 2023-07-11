@@ -417,7 +417,7 @@
                                         >https://sigel.staatsbibliothek-berlin.de</xsl:attribute>https://ld.zdb-services.de/resource/organisations/DE-MUS-094228</xsl:element>
                                 <xsl:element name="lido:legalBodyName">
                                     <xsl:element name="lido:appellationValue">
-                                         <xsl:value-of select="concat(normalize-space(easydb:pool), ', Johannes Gutenberg-Universität Mainz')"/>
+                                         <xsl:value-of select="'Sammlungen der Johannes Gutenberg-Universität Mainz'"/>
                                     </xsl:element>
                                 </xsl:element>
                             </xsl:element>
