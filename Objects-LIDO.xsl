@@ -381,13 +381,15 @@
                                 />
                             </xsl:call-template>
                         </xsl:element>
-                        <xsl:element name="lido:titleSet">
-                            <xsl:attribute name="lido:type">http://vocab.getty.edu/aat/300417204</xsl:attribute>
-                            <xsl:element name="lido:appellationValue">
-                                <xsl:attribute name="xml:lang"><xsl:value-of select="easydb:sprache/easydb:sprachen/easydb:iso"/></xsl:attribute>
-                                <xsl:value-of select="easydb:urspruenglicher_name"/>
+                        <xsl:if test="easydb:urspruenglicher_name">
+                            <xsl:element name="lido:titleSet">
+                                <xsl:attribute name="lido:type">http://vocab.getty.edu/aat/300417204</xsl:attribute>
+                                <xsl:element name="lido:appellationValue">
+                                    <xsl:attribute name="xml:lang"><xsl:value-of select="easydb:sprache/easydb:sprachen/easydb:iso"/></xsl:attribute>
+                                    <xsl:value-of select="easydb:urspruenglicher_name"/>
+                                </xsl:element>
                             </xsl:element>
-                        </xsl:element>
+                        </xsl:if>
                     </xsl:element>
                     <xsl:element name="lido:inscriptionsWrap">
                         <xsl:for-each select="easydb:_nested__objekte__beschriftungen/easydb:objekte__beschriftungen">
