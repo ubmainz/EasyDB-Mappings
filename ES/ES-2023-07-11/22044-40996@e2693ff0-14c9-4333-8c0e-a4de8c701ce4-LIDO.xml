@@ -356,6 +356,16 @@
                   </lido:eventDescriptionSet>
                </lido:event>
             </lido:eventSet>
+            <lido:eventSet>
+               <lido:event>
+                  <lido:eventType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://terminology.lido-schema.org/lido01146</lido:conceptID>
+                  </lido:eventType>
+                  <lido:thingPresent>
+                     <lido:displayObject xml:lang="de">Ethnografische Studiensammlung</lido:displayObject>
+                  </lido:thingPresent>
+               </lido:event>
+            </lido:eventSet>
          </lido:eventWrap>
          <lido:objectRelationWrap>
             <lido:subjectWrap>
@@ -415,7 +425,7 @@
                      </skos:Concept>
                   </lido:objectType>
                   <lido:objectName>
-                     <lido:appellationValue>Ethnografische Studiensammlung</lido:appellationValue>
+                     <lido:appellationValue xml:lang="de">Ethnografische Studiensammlung</lido:appellationValue>
                   </lido:objectName>
                </lido:object>
             </lido:collection>
@@ -939,6 +949,16 @@
                   </lido:eventDescriptionSet>
                </lido:event>
             </lido:eventSet>
+            <lido:eventSet>
+               <lido:event>
+                  <lido:eventType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://terminology.lido-schema.org/lido01146</lido:conceptID>
+                  </lido:eventType>
+                  <lido:thingPresent>
+                     <lido:displayObject xml:lang="de">Ethnografische Studiensammlung</lido:displayObject>
+                  </lido:thingPresent>
+               </lido:event>
+            </lido:eventSet>
          </lido:eventWrap>
          <lido:objectRelationWrap>
             <lido:subjectWrap>
@@ -995,7 +1015,7 @@
                      </skos:Concept>
                   </lido:objectType>
                   <lido:objectName>
-                     <lido:appellationValue>Ethnografische Studiensammlung</lido:appellationValue>
+                     <lido:appellationValue xml:lang="de">Ethnografische Studiensammlung</lido:appellationValue>
                   </lido:objectName>
                </lido:object>
             </lido:collection>
@@ -1672,6 +1692,16 @@ Beschreibung in Inventarliste des Linden-Museum: „1 Kriegsmütze aus Bast e Fe
                   </lido:eventDescriptionSet>
                </lido:event>
             </lido:eventSet>
+            <lido:eventSet>
+               <lido:event>
+                  <lido:eventType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://terminology.lido-schema.org/lido01146</lido:conceptID>
+                  </lido:eventType>
+                  <lido:thingPresent>
+                     <lido:displayObject xml:lang="de">Ethnografische Studiensammlung</lido:displayObject>
+                  </lido:thingPresent>
+               </lido:event>
+            </lido:eventSet>
          </lido:eventWrap>
          <lido:objectRelationWrap>
             <lido:subjectWrap>
@@ -1725,7 +1755,7 @@ Beschreibung in Inventarliste des Linden-Museum: „1 Kriegsmütze aus Bast e Fe
                      </skos:Concept>
                   </lido:objectType>
                   <lido:objectName>
-                     <lido:appellationValue>Ethnografische Studiensammlung</lido:appellationValue>
+                     <lido:appellationValue xml:lang="de">Ethnografische Studiensammlung</lido:appellationValue>
                   </lido:objectName>
                </lido:object>
             </lido:collection>
@@ -2250,6 +2280,16 @@ Beschreibung in Inventarliste des Linden-Museum: „1 Kriegsmütze aus Bast e Fe
                   </lido:eventDescriptionSet>
                </lido:event>
             </lido:eventSet>
+            <lido:eventSet>
+               <lido:event>
+                  <lido:eventType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://terminology.lido-schema.org/lido01146</lido:conceptID>
+                  </lido:eventType>
+                  <lido:thingPresent>
+                     <lido:displayObject xml:lang="de">Ethnografische Studiensammlung</lido:displayObject>
+                  </lido:thingPresent>
+               </lido:event>
+            </lido:eventSet>
          </lido:eventWrap>
          <lido:objectRelationWrap>
             <lido:subjectWrap>
@@ -2306,7 +2346,7 @@ Beschreibung in Inventarliste des Linden-Museum: „1 Kriegsmütze aus Bast e Fe
                      </skos:Concept>
                   </lido:objectType>
                   <lido:objectName>
-                     <lido:appellationValue>Ethnografische Studiensammlung</lido:appellationValue>
+                     <lido:appellationValue xml:lang="de">Ethnografische Studiensammlung</lido:appellationValue>
                   </lido:objectName>
                </lido:object>
             </lido:collection>
@@ -2899,6 +2939,16 @@ Am anderen Ende: runder Aufkleber (weiß) mit Zahl in der Mitte: 34</lido:descri
                   </lido:eventDescriptionSet>
                </lido:event>
             </lido:eventSet>
+            <lido:eventSet>
+               <lido:event>
+                  <lido:eventType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://terminology.lido-schema.org/lido01146</lido:conceptID>
+                  </lido:eventType>
+                  <lido:thingPresent>
+                     <lido:displayObject xml:lang="de">Ethnografische Studiensammlung</lido:displayObject>
+                  </lido:thingPresent>
+               </lido:event>
+            </lido:eventSet>
          </lido:eventWrap>
          <lido:objectRelationWrap>
             <lido:subjectWrap>
@@ -2952,7 +3002,7 @@ Am anderen Ende: runder Aufkleber (weiß) mit Zahl in der Mitte: 34</lido:descri
                      </skos:Concept>
                   </lido:objectType>
                   <lido:objectName>
-                     <lido:appellationValue>Ethnografische Studiensammlung</lido:appellationValue>
+                     <lido:appellationValue xml:lang="de">Ethnografische Studiensammlung</lido:appellationValue>
                   </lido:objectName>
                </lido:object>
             </lido:collection>
@@ -3519,6 +3569,16 @@ Am anderen Ende: runder Aufkleber (weiß) mit Zahl in der Mitte: 34</lido:descri
                   </lido:eventMethod>
                </lido:event>
             </lido:eventSet>
+            <lido:eventSet>
+               <lido:event>
+                  <lido:eventType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://terminology.lido-schema.org/lido01146</lido:conceptID>
+                  </lido:eventType>
+                  <lido:thingPresent>
+                     <lido:displayObject xml:lang="de">Ethnografische Studiensammlung</lido:displayObject>
+                  </lido:thingPresent>
+               </lido:event>
+            </lido:eventSet>
          </lido:eventWrap>
          <lido:objectRelationWrap>
             <lido:subjectWrap>
@@ -3575,7 +3635,7 @@ Am anderen Ende: runder Aufkleber (weiß) mit Zahl in der Mitte: 34</lido:descri
                      </skos:Concept>
                   </lido:objectType>
                   <lido:objectName>
-                     <lido:appellationValue>Ethnografische Studiensammlung</lido:appellationValue>
+                     <lido:appellationValue xml:lang="de">Ethnografische Studiensammlung</lido:appellationValue>
                   </lido:objectName>
                </lido:object>
             </lido:collection>
@@ -4198,6 +4258,16 @@ Englisch (Digital Benin): The commemorative head, Uhunmwu Elao, of an Ọba plac
                   </lido:eventDescriptionSet>
                </lido:event>
             </lido:eventSet>
+            <lido:eventSet>
+               <lido:event>
+                  <lido:eventType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://terminology.lido-schema.org/lido01146</lido:conceptID>
+                  </lido:eventType>
+                  <lido:thingPresent>
+                     <lido:displayObject xml:lang="de">Ethnografische Studiensammlung</lido:displayObject>
+                  </lido:thingPresent>
+               </lido:event>
+            </lido:eventSet>
          </lido:eventWrap>
          <lido:objectRelationWrap>
             <lido:subjectWrap>
@@ -4260,7 +4330,7 @@ Englisch (Digital Benin): The commemorative head, Uhunmwu Elao, of an Ọba plac
                      </skos:Concept>
                   </lido:objectType>
                   <lido:objectName>
-                     <lido:appellationValue>Ethnografische Studiensammlung</lido:appellationValue>
+                     <lido:appellationValue xml:lang="de">Ethnografische Studiensammlung</lido:appellationValue>
                   </lido:objectName>
                </lido:object>
             </lido:collection>
@@ -4924,6 +4994,16 @@ Englisch (Digital Benin): The commemorative head, Uhunmwu Elao, of an Ọba plac
                   </lido:eventDescriptionSet>
                </lido:event>
             </lido:eventSet>
+            <lido:eventSet>
+               <lido:event>
+                  <lido:eventType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://terminology.lido-schema.org/lido01146</lido:conceptID>
+                  </lido:eventType>
+                  <lido:thingPresent>
+                     <lido:displayObject xml:lang="de">Ethnografische Studiensammlung</lido:displayObject>
+                  </lido:thingPresent>
+               </lido:event>
+            </lido:eventSet>
          </lido:eventWrap>
          <lido:objectRelationWrap>
             <lido:subjectWrap>
@@ -4977,7 +5057,7 @@ Englisch (Digital Benin): The commemorative head, Uhunmwu Elao, of an Ọba plac
                      </skos:Concept>
                   </lido:objectType>
                   <lido:objectName>
-                     <lido:appellationValue>Ethnografische Studiensammlung</lido:appellationValue>
+                     <lido:appellationValue xml:lang="de">Ethnografische Studiensammlung</lido:appellationValue>
                   </lido:objectName>
                </lido:object>
             </lido:collection>
@@ -5464,6 +5544,16 @@ Englisch (Digital Benin): The commemorative head, Uhunmwu Elao, of an Ọba plac
                   </lido:eventMethod>
                </lido:event>
             </lido:eventSet>
+            <lido:eventSet>
+               <lido:event>
+                  <lido:eventType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://terminology.lido-schema.org/lido01146</lido:conceptID>
+                  </lido:eventType>
+                  <lido:thingPresent>
+                     <lido:displayObject xml:lang="de">Ethnografische Studiensammlung</lido:displayObject>
+                  </lido:thingPresent>
+               </lido:event>
+            </lido:eventSet>
          </lido:eventWrap>
          <lido:objectRelationWrap>
             <lido:subjectWrap>
@@ -5517,7 +5607,7 @@ Englisch (Digital Benin): The commemorative head, Uhunmwu Elao, of an Ọba plac
                      </skos:Concept>
                   </lido:objectType>
                   <lido:objectName>
-                     <lido:appellationValue>Ethnografische Studiensammlung</lido:appellationValue>
+                     <lido:appellationValue xml:lang="de">Ethnografische Studiensammlung</lido:appellationValue>
                   </lido:objectName>
                </lido:object>
             </lido:collection>
@@ -6012,6 +6102,16 @@ Wikidata zu Zentralaustralien/ Centralaustralia: https://www.wikidata.org/wiki/Q
                   </lido:eventMethod>
                </lido:event>
             </lido:eventSet>
+            <lido:eventSet>
+               <lido:event>
+                  <lido:eventType>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://terminology.lido-schema.org/lido01146</lido:conceptID>
+                  </lido:eventType>
+                  <lido:thingPresent>
+                     <lido:displayObject xml:lang="de">Ethnografische Studiensammlung</lido:displayObject>
+                  </lido:thingPresent>
+               </lido:event>
+            </lido:eventSet>
          </lido:eventWrap>
          <lido:objectRelationWrap>
             <lido:subjectWrap>
@@ -6068,7 +6168,7 @@ Wikidata zu Zentralaustralien/ Centralaustralia: https://www.wikidata.org/wiki/Q
                      </skos:Concept>
                   </lido:objectType>
                   <lido:objectName>
-                     <lido:appellationValue>Ethnografische Studiensammlung</lido:appellationValue>
+                     <lido:appellationValue xml:lang="de">Ethnografische Studiensammlung</lido:appellationValue>
                   </lido:objectName>
                </lido:object>
             </lido:collection>

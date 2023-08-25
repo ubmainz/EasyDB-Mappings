@@ -604,6 +604,23 @@
                              </xsl:element>
                         </xsl:element>
                     </xsl:for-each>
+                    <xsl:element name="lido:eventSet">
+                        <xsl:element name="lido:event">
+                            <xsl:element name="lido:eventType">
+                                <xsl:element name="lido:conceptID">
+                                    <xsl:attribute name="lido:type">http://terminology.lido-schema.org/lido00099</xsl:attribute>
+                                    <xsl:text>http://terminology.lido-schema.org/lido01146</xsl:text>
+                                </xsl:element>
+                            </xsl:element>
+                            <xsl:element name="lido:thingPresent">
+                                <xsl:call-template name="languagetext">
+                                    <xsl:with-param name="textnode"
+                                        select="easydb:pool"/>
+                                    <xsl:with-param name="elementname" select="'lido:displayObject'"/>
+                                </xsl:call-template>
+                            </xsl:element>
+                        </xsl:element>
+                    </xsl:element>
                 </xsl:element>
                 <xsl:element name="lido:objectRelationWrap">
                     <xsl:element name="lido:subjectWrap">
@@ -699,7 +716,11 @@
                                 </xsl:element>
                             </xsl:element>
                             <xsl:element name="lido:objectName">
-                                <xsl:element name="lido:appellationValue"><xsl:value-of select="normalize-space(easydb:pool)"/></xsl:element>
+                                <xsl:call-template name="languagetext">
+                                    <xsl:with-param name="textnode"
+                                        select="easydb:pool"/>
+                                    <xsl:with-param name="elementname" select="'lido:appellationValue'"/>
+                                </xsl:call-template>
                             </xsl:element>
                         </xsl:element>
                     </xsl:element>
