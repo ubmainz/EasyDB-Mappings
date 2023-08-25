@@ -1384,10 +1384,10 @@
             <lido:objectDescriptionWrap>
                <lido:objectDescriptionSet>
                   <lido:descriptiveNoteValue>geknüpfte Kappe, am unteren Rand mit zwei Schlaufen, gestutzte Federn des Kongo-Graupapagei (Psittacus erithacus erithacus) oben auf die Mütze geknüpft; konnte zum Schutz der Federn eingeklappt werden.</lido:descriptiveNoteValue>
-               </lido:objectDescriptionSet>
-			   <lido:eventDescriptionSet lido:type="http://vocab.getty.edu/aat/300435423">
+               </lido:objectDescriptionSet> <!-- lido:eventDescriptionSet -> lido:objectDescriptionSet -->
+      			   <lido:objectDescriptionSet lido:type="http://vocab.getty.edu/aat/300435423">
 							<lido:descriptiveNoteValue>Beschreibung in Inventarliste des Linden-Museum: „1 Kriegsmütze aus Bast e Federn, W.Af., Kamerun, Jaunde“; Graf Linden bestätigt am 11.12.1906 „von Ihnen [K. Haberer] ein sehr hübsches Lebenszeichen in der Gestalt einer federgeschmückten Kriegsmütze aus Bast von Jaunde zu erhalten“ (Linden-Museum, Archiv).</lido:descriptiveNoteValue>
-						</lido:eventDescriptionSet>
+						</lido:objectDescriptionSet>
             </lido:objectDescriptionWrap>
             <lido:objectMeasurementsWrap>
                <lido:objectMeasurementsSet>
@@ -4907,6 +4907,7 @@
                      <lido:descriptiveNoteValue>Karoline Bergmann schenkte der JGU Mainz 13 Objekte.</lido:descriptiveNoteValue>
                   </lido:eventDescriptionSet>
                </lido:event>
+            </lido:eventSet> <!-- moved from below -->
 			   <lido:eventSet>
 					<lido:event>
 						<lido:eventType>
@@ -4917,7 +4918,6 @@
 						</lido:thingPresent>
 					</lido:event>
 				</lido:eventSet>
-            </lido:eventSet>
          </lido:eventWrap>
          <lido:objectRelationWrap>
             <lido:subjectWrap>
