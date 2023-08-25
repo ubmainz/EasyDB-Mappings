@@ -344,7 +344,7 @@
                     </xsl:element>
                     <xsl:element name="lido:classificationWrap">
                         <xsl:element name="lido:classification">
-                            <xsl:attribute name="lido:type">Klassifikation</xsl:attribute> <!-- DDB -->
+                            <xsl:attribute name="lido:type">http://terminology.lido-schema.org/lido00853</xsl:attribute>
                             <xsl:element name="lido:conceptID">
                                 <xsl:attribute name="lido:type">
                                     <xsl:value-of select="$uri"/>

@@ -17,7 +17,7 @@
                </lido:objectWorkType>
             </lido:objectWorkTypeWrap>
             <lido:classificationWrap>
-               <lido:classification lido:type="Klassifikation">
+               <lido:classification lido:type="http://terminology.lido-schema.org/lido00853">
                   <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099"
                                   lido:source="https://portal.wissenschaftliche-sammlungen.de/ConceptScheme/33">http://portal.wissenschaftliche-sammlungen.de/ObjectGenre/256</lido:conceptID>
                   <lido:term xml:lang="de">Ritueller Gegenstand</lido:term>
@@ -604,7 +604,7 @@
                </lido:objectWorkType>
             </lido:objectWorkTypeWrap>
             <lido:classificationWrap>
-               <lido:classification lido:type="Klassifikation">
+               <lido:classification lido:type="http://terminology.lido-schema.org/lido00853">
                   <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099"
                                   lido:source="https://portal.wissenschaftliche-sammlungen.de/ConceptScheme/33">http://portal.wissenschaftliche-sammlungen.de/ObjectGenre/247</lido:conceptID>
                   <lido:term xml:lang="de">Schmuck</lido:term>
@@ -1332,7 +1332,7 @@
                </lido:objectWorkType>
             </lido:objectWorkTypeWrap>
             <lido:classificationWrap>
-               <lido:classification lido:type="Klassifikation">
+               <lido:classification lido:type="http://terminology.lido-schema.org/lido00853">
                   <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099"
                                   lido:source="https://portal.wissenschaftliche-sammlungen.de/ConceptScheme/33">http://portal.wissenschaftliche-sammlungen.de/ObjectGenre/244</lido:conceptID>
                   <lido:term xml:lang="de">Kleidung und Accessoire</lido:term>
@@ -1950,7 +1950,7 @@ Beschreibung in Inventarliste des Linden-Museum: „1 Kriegsmütze aus Bast e Fe
                </lido:objectWorkType>
             </lido:objectWorkTypeWrap>
             <lido:classificationWrap>
-               <lido:classification lido:type="Klassifikation">
+               <lido:classification lido:type="http://terminology.lido-schema.org/lido00853">
                   <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099"
                                   lido:source="https://portal.wissenschaftliche-sammlungen.de/ConceptScheme/33">http://portal.wissenschaftliche-sammlungen.de/ObjectGenre/244</lido:conceptID>
                   <lido:term xml:lang="de">Kleidung und Accessoire</lido:term>
@@ -2525,7 +2525,7 @@ Beschreibung in Inventarliste des Linden-Museum: „1 Kriegsmütze aus Bast e Fe
                </lido:objectWorkType>
             </lido:objectWorkTypeWrap>
             <lido:classificationWrap>
-               <lido:classification lido:type="Klassifikation">
+               <lido:classification lido:type="http://terminology.lido-schema.org/lido00853">
                   <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099"
                                   lido:source="https://portal.wissenschaftliche-sammlungen.de/ConceptScheme/33">http://portal.wissenschaftliche-sammlungen.de/ObjectGenre/218</lido:conceptID>
                   <lido:term xml:lang="de">Waffe</lido:term>
@@ -3213,7 +3213,7 @@ Am anderen Ende: runder Aufkleber (weiß) mit Zahl in der Mitte: 34</lido:descri
                </lido:objectWorkType>
             </lido:objectWorkTypeWrap>
             <lido:classificationWrap>
-               <lido:classification lido:type="Klassifikation">
+               <lido:classification lido:type="http://terminology.lido-schema.org/lido00853">
                   <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099"
                                   lido:source="https://portal.wissenschaftliche-sammlungen.de/ConceptScheme/33">http://portal.wissenschaftliche-sammlungen.de/ObjectGenre/243</lido:conceptID>
                   <lido:term xml:lang="de">Karte oder Plan</lido:term>
@@ -3622,7 +3622,7 @@ Am anderen Ende: runder Aufkleber (weiß) mit Zahl in der Mitte: 34</lido:descri
                </lido:objectWorkType>
             </lido:objectWorkTypeWrap>
             <lido:classificationWrap>
-               <lido:classification lido:type="Klassifikation">
+               <lido:classification lido:type="http://terminology.lido-schema.org/lido00853">
                   <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099"
                                   lido:source="https://portal.wissenschaftliche-sammlungen.de/ConceptScheme/33">http://portal.wissenschaftliche-sammlungen.de/ObjectGenre/255</lido:conceptID>
                   <lido:term xml:lang="de">Plastik/Skulptur</lido:term>
@@ -4605,7 +4605,7 @@ Englisch (Digital Benin): The commemorative head, Uhunmwu Elao, of an Ọba plac
                </lido:objectWorkType>
             </lido:objectWorkTypeWrap>
             <lido:classificationWrap>
-               <lido:classification lido:type="Klassifikation">
+               <lido:classification lido:type="http://terminology.lido-schema.org/lido00853">
                   <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099"
                                   lido:source="https://portal.wissenschaftliche-sammlungen.de/ConceptScheme/33">http://portal.wissenschaftliche-sammlungen.de/ObjectGenre/247</lido:conceptID>
                   <lido:term xml:lang="de">Schmuck</lido:term>
@@ -5160,7 +5160,7 @@ Englisch (Digital Benin): The commemorative head, Uhunmwu Elao, of an Ọba plac
                </lido:objectWorkType>
             </lido:objectWorkTypeWrap>
             <lido:classificationWrap>
-               <lido:classification lido:type="Klassifikation">
+               <lido:classification lido:type="http://terminology.lido-schema.org/lido00853">
                   <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099"
                                   lido:source="https://portal.wissenschaftliche-sammlungen.de/ConceptScheme/33">http://portal.wissenschaftliche-sammlungen.de/ObjectGenre/237</lido:conceptID>
                   <lido:term xml:lang="de">Gefäß</lido:term>
@@ -5590,7 +5590,7 @@ Englisch (Digital Benin): The commemorative head, Uhunmwu Elao, of an Ọba plac
                </lido:objectWorkType>
             </lido:objectWorkTypeWrap>
             <lido:classificationWrap>
-               <lido:classification lido:type="Klassifikation">
+               <lido:classification lido:type="http://terminology.lido-schema.org/lido00853">
                   <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099"
                                   lido:source="https://portal.wissenschaftliche-sammlungen.de/ConceptScheme/33">http://portal.wissenschaftliche-sammlungen.de/ObjectGenre/256</lido:conceptID>
                   <lido:term xml:lang="de">Ritueller Gegenstand</lido:term>
