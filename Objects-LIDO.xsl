@@ -302,15 +302,17 @@
                 <xsl:element name="lido:objectClassificationWrap">
                     <xsl:element name="lido:objectWorkTypeWrap">
                         <xsl:element name="lido:objectWorkType">
+                            <xsl:if test="easydb:custom[(@name = 'objektbezeichnung_aat') and (@type = 'custom:base.custom-data-type-getty.getty')]">
+                                <xsl:element name="skos:Concept">
+                                    <xsl:attribute name="rdf:about"><xsl:value-of
+                                        select="easydb:custom[(@name = 'objektbezeichnung_aat')]/easydb:string[@name = 'conceptURI']"/></xsl:attribute>
+                                    <xsl:element name="skos:prefLabel"><xsl:attribute name="xml:lang">en</xsl:attribute><xsl:value-of
+                                        select="easydb:custom[(@name = 'objektbezeichnung_aat')]/easydb:string[@name = 'conceptName']"/></xsl:element>
+                                </xsl:element>
+                            </xsl:if>
                             <xsl:choose>
                                 <xsl:when
                                     test="easydb:custom[(@name = 'objektbezeichnung') and (@type = 'custom:base.custom-data-type-gnd.gnd')]/easydb:string[@name = 'conceptName']/text()">
-                                    <xsl:element name="skos:Concept">
-                                        <xsl:attribute name="rdf:about"><xsl:value-of
-                                            select="easydb:custom[(@name = 'objektbezeichnung_aat')]/easydb:string[@name = 'conceptURI']"/></xsl:attribute>
-                                        <xsl:element name="skos:prefLabel"><xsl:value-of
-                                            select="easydb:custom[(@name = 'objektbezeichnung_aat')]/easydb:string[@name = 'conceptName']"/></xsl:element>
-                                    </xsl:element>
                                     <xsl:element name="lido:conceptID">
                                         <xsl:attribute name="lido:type">
                                             <xsl:value-of select="$uri"/>
@@ -323,6 +325,7 @@
                                     </xsl:element>
                                     <xsl:element name="lido:term">
                                         <xsl:attribute name="lido:pref">http://terminology.lido-schema.org/lido00526</xsl:attribute>
+                                        <xsl:attribute name="xml:lang">de</xsl:attribute>
                                         <xsl:value-of
                                             select="easydb:custom[(@name = 'objektbezeichnung') and (@type = 'custom:base.custom-data-type-gnd.gnd')]/easydb:string[@name = 'conceptName']"
                                         />
