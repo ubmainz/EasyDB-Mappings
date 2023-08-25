@@ -65,8 +65,6 @@
          </lido:objectIdentificationWrap>
          <lido:eventWrap>
             <lido:eventSet lido:sortorder="1">
-               <lido:displayEvent xml:lang="de">Herstellung</lido:displayEvent>
-               <lido:displayEvent xml:lang="en">Production</lido:displayEvent>
                <lido:event>
                   <lido:eventType>
                      <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099"
@@ -127,6 +125,10 @@
                         </lido:partOfPlace>
                      </lido:place>
                   </lido:eventPlace>
+                  <lido:eventMethod>
+                     <lido:term xml:lang="de">Herstellung</lido:term>
+                     <lido:term xml:lang="en">Production</lido:term>
+                  </lido:eventMethod>
                   <lido:eventMaterialsTech>
                      <lido:materialsTech>
                         <lido:termMaterialsTech lido:type="http://terminology.lido-schema.org/lido00132">
@@ -175,8 +177,6 @@
                </lido:event>
             </lido:eventSet>
             <lido:eventSet lido:sortorder="2">
-               <lido:displayEvent xml:lang="de">Kolonialer Erwerb</lido:displayEvent>
-               <lido:displayEvent xml:lang="en">Acquisition in a colonial context</lido:displayEvent>
                <lido:event>
                   <lido:eventType>
                      <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099"
@@ -228,11 +228,13 @@
                         </lido:partOfPlace>
                      </lido:place>
                   </lido:eventPlace>
+                  <lido:eventMethod>
+                     <lido:term xml:lang="de">Kolonialer Erwerb</lido:term>
+                     <lido:term xml:lang="en">Acquisition in a colonial context</lido:term>
+                  </lido:eventMethod>
                </lido:event>
             </lido:eventSet>
             <lido:eventSet lido:sortorder="3">
-               <lido:displayEvent xml:lang="de">Kauf</lido:displayEvent>
-               <lido:displayEvent xml:lang="en">Purchase</lido:displayEvent>
                <lido:event>
                   <lido:eventType>
                      <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099"
@@ -284,14 +286,16 @@
                         </lido:partOfPlace>
                      </lido:place>
                   </lido:eventPlace>
+                  <lido:eventMethod>
+                     <lido:term xml:lang="de">Kauf</lido:term>
+                     <lido:term xml:lang="en">Purchase</lido:term>
+                  </lido:eventMethod>
                   <lido:eventDescriptionSet>
                      <lido:descriptiveNoteValue>Linden-Museum kaufte Objekt von A. Diehl.</lido:descriptiveNoteValue>
                   </lido:eventDescriptionSet>
                </lido:event>
             </lido:eventSet>
             <lido:eventSet lido:sortorder="4">
-               <lido:displayEvent xml:lang="de">Tausch</lido:displayEvent>
-               <lido:displayEvent xml:lang="en">Exchange</lido:displayEvent>
                <lido:event>
                   <lido:eventType>
                      <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099"
@@ -343,6 +347,10 @@
                         </lido:partOfPlace>
                      </lido:place>
                   </lido:eventPlace>
+                  <lido:eventMethod>
+                     <lido:term xml:lang="de">Tausch</lido:term>
+                     <lido:term xml:lang="en">Exchange</lido:term>
+                  </lido:eventMethod>
                   <lido:eventDescriptionSet>
                      <lido:descriptiveNoteValue>JGU Mainz erhielt Objekt im Tausch mit Linden-Museum.</lido:descriptiveNoteValue>
                   </lido:eventDescriptionSet>
@@ -658,8 +666,6 @@
          </lido:objectIdentificationWrap>
          <lido:eventWrap>
             <lido:eventSet lido:sortorder="1">
-               <lido:displayEvent xml:lang="de">Herstellung</lido:displayEvent>
-               <lido:displayEvent xml:lang="en">Production</lido:displayEvent>
                <lido:event>
                   <lido:eventType>
                      <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099"
@@ -708,6 +714,10 @@
                         </lido:partOfPlace>
                      </lido:place>
                   </lido:eventPlace>
+                  <lido:eventMethod>
+                     <lido:term xml:lang="de">Herstellung</lido:term>
+                     <lido:term xml:lang="en">Production</lido:term>
+                  </lido:eventMethod>
                   <lido:eventMaterialsTech>
                      <lido:materialsTech>
                         <lido:termMaterialsTech lido:type="http://terminology.lido-schema.org/lido00132">
@@ -747,8 +757,6 @@
                </lido:event>
             </lido:eventSet>
             <lido:eventSet lido:sortorder="2">
-               <lido:displayEvent xml:lang="de">Kolonialer Erwerb</lido:displayEvent>
-               <lido:displayEvent xml:lang="en">Acquisition in a colonial context</lido:displayEvent>
                <lido:event>
                   <lido:eventType>
                      <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099"
@@ -800,14 +808,16 @@
                         </lido:partOfPlace>
                      </lido:place>
                   </lido:eventPlace>
+                  <lido:eventMethod>
+                     <lido:term xml:lang="de">Kolonialer Erwerb</lido:term>
+                     <lido:term xml:lang="en">Acquisition in a colonial context</lido:term>
+                  </lido:eventMethod>
                   <lido:eventDescriptionSet>
                      <lido:descriptiveNoteValue>Dr. Esser (Eintrag im Inventarbuch Ethnografische Studiensammlung)</lido:descriptiveNoteValue>
                   </lido:eventDescriptionSet>
                </lido:event>
             </lido:eventSet>
             <lido:eventSet lido:sortorder="3">
-               <lido:displayEvent xml:lang="de">Erwerbung</lido:displayEvent>
-               <lido:displayEvent xml:lang="en">Acquisition</lido:displayEvent>
                <lido:event>
                   <lido:eventType>
                      <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099"
@@ -859,14 +869,16 @@
                         </lido:partOfPlace>
                      </lido:place>
                   </lido:eventPlace>
+                  <lido:eventMethod>
+                     <lido:term xml:lang="de">Erwerbung</lido:term>
+                     <lido:term xml:lang="en">Acquisition</lido:term>
+                  </lido:eventMethod>
                   <lido:eventDescriptionSet>
                      <lido:descriptiveNoteValue>M. Esser schenkte Objekt dem Linden-Museum.</lido:descriptiveNoteValue>
                   </lido:eventDescriptionSet>
                </lido:event>
             </lido:eventSet>
             <lido:eventSet lido:sortorder="4">
-               <lido:displayEvent xml:lang="de">Tausch</lido:displayEvent>
-               <lido:displayEvent xml:lang="en">Exchange</lido:displayEvent>
                <lido:event>
                   <lido:eventType>
                      <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099"
@@ -918,6 +930,10 @@
                         </lido:partOfPlace>
                      </lido:place>
                   </lido:eventPlace>
+                  <lido:eventMethod>
+                     <lido:term xml:lang="de">Tausch</lido:term>
+                     <lido:term xml:lang="en">Exchange</lido:term>
+                  </lido:eventMethod>
                   <lido:eventDescriptionSet>
                      <lido:descriptiveNoteValue>JGU Mainz erhielt Objekt im Tausch mit Linden-Museum.</lido:descriptiveNoteValue>
                   </lido:eventDescriptionSet>
@@ -1382,8 +1398,6 @@ Beschreibung in Inventarliste des Linden-Museum: „1 Kriegsmütze aus Bast e Fe
          </lido:objectIdentificationWrap>
          <lido:eventWrap>
             <lido:eventSet lido:sortorder="1">
-               <lido:displayEvent xml:lang="de">Herstellung</lido:displayEvent>
-               <lido:displayEvent xml:lang="en">Production</lido:displayEvent>
                <lido:event>
                   <lido:eventType>
                      <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099"
@@ -1443,6 +1457,10 @@ Beschreibung in Inventarliste des Linden-Museum: „1 Kriegsmütze aus Bast e Fe
                         </lido:partOfPlace>
                      </lido:place>
                   </lido:eventPlace>
+                  <lido:eventMethod>
+                     <lido:term xml:lang="de">Herstellung</lido:term>
+                     <lido:term xml:lang="en">Production</lido:term>
+                  </lido:eventMethod>
                   <lido:eventMaterialsTech>
                      <lido:materialsTech>
                         <lido:termMaterialsTech lido:type="http://terminology.lido-schema.org/lido00132">
@@ -1475,7 +1493,6 @@ Beschreibung in Inventarliste des Linden-Museum: „1 Kriegsmütze aus Bast e Fe
                </lido:event>
             </lido:eventSet>
             <lido:eventSet lido:sortorder="2">
-               <lido:displayEvent xml:lang="de">Raub</lido:displayEvent>
                <lido:event>
                   <lido:eventType>
                      <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099"
@@ -1525,14 +1542,15 @@ Beschreibung in Inventarliste des Linden-Museum: „1 Kriegsmütze aus Bast e Fe
                         </lido:partOfPlace>
                      </lido:place>
                   </lido:eventPlace>
+                  <lido:eventMethod>
+                     <lido:term xml:lang="de">Raub</lido:term>
+                  </lido:eventMethod>
                   <lido:eventDescriptionSet>
                      <lido:descriptiveNoteValue>Prof. Haberer (Eintrag im Inventarbuch Ethnografische Studiensammlung JGU Mainz)</lido:descriptiveNoteValue>
                   </lido:eventDescriptionSet>
                </lido:event>
             </lido:eventSet>
             <lido:eventSet lido:sortorder="3">
-               <lido:displayEvent xml:lang="de">Erwerbung</lido:displayEvent>
-               <lido:displayEvent xml:lang="en">Acquisition</lido:displayEvent>
                <lido:event>
                   <lido:eventType>
                      <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099"
@@ -1584,14 +1602,16 @@ Beschreibung in Inventarliste des Linden-Museum: „1 Kriegsmütze aus Bast e Fe
                         </lido:partOfPlace>
                      </lido:place>
                   </lido:eventPlace>
+                  <lido:eventMethod>
+                     <lido:term xml:lang="de">Erwerbung</lido:term>
+                     <lido:term xml:lang="en">Acquisition</lido:term>
+                  </lido:eventMethod>
                   <lido:eventDescriptionSet>
                      <lido:descriptiveNoteValue>K. Haberer hat die Federmütze dem Linden-Museum geschenkt. Graf von Linden bedankt sich in einem Brief an Haberer vom 11.12.1906 für die "Kriegsmütze".</lido:descriptiveNoteValue>
                   </lido:eventDescriptionSet>
                </lido:event>
             </lido:eventSet>
             <lido:eventSet lido:sortorder="4">
-               <lido:displayEvent xml:lang="de">Tausch</lido:displayEvent>
-               <lido:displayEvent xml:lang="en">Exchange</lido:displayEvent>
                <lido:event>
                   <lido:eventType>
                      <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099"
@@ -1643,6 +1663,10 @@ Beschreibung in Inventarliste des Linden-Museum: „1 Kriegsmütze aus Bast e Fe
                         </lido:partOfPlace>
                      </lido:place>
                   </lido:eventPlace>
+                  <lido:eventMethod>
+                     <lido:term xml:lang="de">Tausch</lido:term>
+                     <lido:term xml:lang="en">Exchange</lido:term>
+                  </lido:eventMethod>
                   <lido:eventDescriptionSet>
                      <lido:descriptiveNoteValue>JGU Mainz erhielt Objekt im Tausch mit Linden-Museum.</lido:descriptiveNoteValue>
                   </lido:eventDescriptionSet>
@@ -2000,8 +2024,6 @@ Beschreibung in Inventarliste des Linden-Museum: „1 Kriegsmütze aus Bast e Fe
          </lido:objectIdentificationWrap>
          <lido:eventWrap>
             <lido:eventSet lido:sortorder="1">
-               <lido:displayEvent xml:lang="de">Herstellung</lido:displayEvent>
-               <lido:displayEvent xml:lang="en">Production</lido:displayEvent>
                <lido:event>
                   <lido:eventType>
                      <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099"
@@ -2055,6 +2077,10 @@ Beschreibung in Inventarliste des Linden-Museum: „1 Kriegsmütze aus Bast e Fe
                         </lido:partOfPlace>
                      </lido:place>
                   </lido:eventPlace>
+                  <lido:eventMethod>
+                     <lido:term xml:lang="de">Herstellung</lido:term>
+                     <lido:term xml:lang="en">Production</lido:term>
+                  </lido:eventMethod>
                   <lido:eventMaterialsTech>
                      <lido:materialsTech>
                         <lido:termMaterialsTech lido:type="http://terminology.lido-schema.org/lido00132">
@@ -2097,8 +2123,6 @@ Beschreibung in Inventarliste des Linden-Museum: „1 Kriegsmütze aus Bast e Fe
                </lido:event>
             </lido:eventSet>
             <lido:eventSet lido:sortorder="2">
-               <lido:displayEvent xml:lang="de">Kolonialer Erwerb</lido:displayEvent>
-               <lido:displayEvent xml:lang="en">Acquisition in a colonial context</lido:displayEvent>
                <lido:event>
                   <lido:eventType>
                      <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099"
@@ -2160,14 +2184,16 @@ Beschreibung in Inventarliste des Linden-Museum: „1 Kriegsmütze aus Bast e Fe
                         </lido:partOfPlace>
                      </lido:place>
                   </lido:eventPlace>
+                  <lido:eventMethod>
+                     <lido:term xml:lang="de">Kolonialer Erwerb</lido:term>
+                     <lido:term xml:lang="en">Acquisition in a colonial context</lido:term>
+                  </lido:eventMethod>
                   <lido:eventDescriptionSet>
                      <lido:descriptiveNoteValue>Ergänzung zum Ort: Neu-Irland ist eine Provinz von Papua-Neuguinea und liegt im Bismarck-Archipel.</lido:descriptiveNoteValue>
                   </lido:eventDescriptionSet>
                </lido:event>
             </lido:eventSet>
             <lido:eventSet lido:sortorder="3">
-               <lido:displayEvent xml:lang="de">Kauf</lido:displayEvent>
-               <lido:displayEvent xml:lang="en">Purchase</lido:displayEvent>
                <lido:event>
                   <lido:eventType>
                      <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099"
@@ -2215,6 +2241,10 @@ Beschreibung in Inventarliste des Linden-Museum: „1 Kriegsmütze aus Bast e Fe
                         </lido:partOfPlace>
                      </lido:place>
                   </lido:eventPlace>
+                  <lido:eventMethod>
+                     <lido:term xml:lang="de">Kauf</lido:term>
+                     <lido:term xml:lang="en">Purchase</lido:term>
+                  </lido:eventMethod>
                   <lido:eventDescriptionSet>
                      <lido:descriptiveNoteValue>E. Schneider (Neu-Isenburg) verkaufte acht Objekte an die JGU Mainz.</lido:descriptiveNoteValue>
                   </lido:eventDescriptionSet>
@@ -2585,8 +2615,6 @@ Am anderen Ende: runder Aufkleber (weiß) mit Zahl in der Mitte: 34</lido:descri
          </lido:objectIdentificationWrap>
          <lido:eventWrap>
             <lido:eventSet lido:sortorder="1">
-               <lido:displayEvent xml:lang="de">Herstellung</lido:displayEvent>
-               <lido:displayEvent xml:lang="en">Production</lido:displayEvent>
                <lido:event>
                   <lido:eventType>
                      <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099"
@@ -2632,6 +2660,10 @@ Am anderen Ende: runder Aufkleber (weiß) mit Zahl in der Mitte: 34</lido:descri
                         </lido:partOfPlace>
                      </lido:place>
                   </lido:eventPlace>
+                  <lido:eventMethod>
+                     <lido:term xml:lang="de">Herstellung</lido:term>
+                     <lido:term xml:lang="en">Production</lido:term>
+                  </lido:eventMethod>
                   <lido:eventMaterialsTech>
                      <lido:materialsTech>
                         <lido:termMaterialsTech lido:type="http://terminology.lido-schema.org/lido00132">
@@ -2653,8 +2685,6 @@ Am anderen Ende: runder Aufkleber (weiß) mit Zahl in der Mitte: 34</lido:descri
                </lido:event>
             </lido:eventSet>
             <lido:eventSet lido:sortorder="2">
-               <lido:displayEvent xml:lang="de">Erwerbung</lido:displayEvent>
-               <lido:displayEvent xml:lang="en">Acquisition</lido:displayEvent>
                <lido:event>
                   <lido:eventType>
                      <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099"
@@ -2694,14 +2724,16 @@ Am anderen Ende: runder Aufkleber (weiß) mit Zahl in der Mitte: 34</lido:descri
                         </lido:namePlaceSet>
                      </lido:place>
                   </lido:eventPlace>
+                  <lido:eventMethod>
+                     <lido:term xml:lang="de">Erwerbung</lido:term>
+                     <lido:term xml:lang="en">Acquisition</lido:term>
+                  </lido:eventMethod>
                   <lido:eventDescriptionSet>
                      <lido:descriptiveNoteValue>Vermutlich erworben durch die Ethnografika-Händlerinnen Jane Catharine Tost (1817–1889) und ihre Tochter Ada Jane Rohu (1848–1928), die weit über Australien hinaus bekannt waren.</lido:descriptiveNoteValue>
                   </lido:eventDescriptionSet>
                </lido:event>
             </lido:eventSet>
             <lido:eventSet lido:sortorder="3">
-               <lido:displayEvent xml:lang="de">Kauf</lido:displayEvent>
-               <lido:displayEvent xml:lang="en">Purchase</lido:displayEvent>
                <lido:event>
                   <lido:eventType>
                      <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099"
@@ -2741,11 +2773,13 @@ Am anderen Ende: runder Aufkleber (weiß) mit Zahl in der Mitte: 34</lido:descri
                         </lido:namePlaceSet>
                      </lido:place>
                   </lido:eventPlace>
+                  <lido:eventMethod>
+                     <lido:term xml:lang="de">Kauf</lido:term>
+                     <lido:term xml:lang="en">Purchase</lido:term>
+                  </lido:eventMethod>
                </lido:event>
             </lido:eventSet>
             <lido:eventSet lido:sortorder="4">
-               <lido:displayEvent xml:lang="de">Schenkung</lido:displayEvent>
-               <lido:displayEvent xml:lang="en">Donation</lido:displayEvent>
                <lido:event>
                   <lido:eventType>
                      <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099"
@@ -2795,14 +2829,16 @@ Am anderen Ende: runder Aufkleber (weiß) mit Zahl in der Mitte: 34</lido:descri
                         </lido:partOfPlace>
                      </lido:place>
                   </lido:eventPlace>
+                  <lido:eventMethod>
+                     <lido:term xml:lang="de">Schenkung</lido:term>
+                     <lido:term xml:lang="en">Donation</lido:term>
+                  </lido:eventMethod>
                   <lido:eventDescriptionSet>
                      <lido:descriptiveNoteValue>Emma Waldthausen schenkte dem Linden-Museum 1.100 Objekte (Mai und Juni 1917 und 08.09.1919) sowie 377 Objekte dem Museum für Ur- und Frühgeschichte in Weimar (1917 und 1918).</lido:descriptiveNoteValue>
                   </lido:eventDescriptionSet>
                </lido:event>
             </lido:eventSet>
             <lido:eventSet lido:sortorder="5">
-               <lido:displayEvent xml:lang="de">Tausch</lido:displayEvent>
-               <lido:displayEvent xml:lang="en">Exchange</lido:displayEvent>
                <lido:event>
                   <lido:eventType>
                      <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099"
@@ -2854,6 +2890,10 @@ Am anderen Ende: runder Aufkleber (weiß) mit Zahl in der Mitte: 34</lido:descri
                         </lido:partOfPlace>
                      </lido:place>
                   </lido:eventPlace>
+                  <lido:eventMethod>
+                     <lido:term xml:lang="de">Tausch</lido:term>
+                     <lido:term xml:lang="en">Exchange</lido:term>
+                  </lido:eventMethod>
                   <lido:eventDescriptionSet>
                      <lido:descriptiveNoteValue>JGU Mainz erhielt Objekt im Tausch mit Linden-Museum.</lido:descriptiveNoteValue>
                   </lido:eventDescriptionSet>
@@ -3261,8 +3301,6 @@ Am anderen Ende: runder Aufkleber (weiß) mit Zahl in der Mitte: 34</lido:descri
          </lido:objectIdentificationWrap>
          <lido:eventWrap>
             <lido:eventSet lido:sortorder="1">
-               <lido:displayEvent xml:lang="de">Herstellung</lido:displayEvent>
-               <lido:displayEvent xml:lang="en">Production</lido:displayEvent>
                <lido:event>
                   <lido:eventType>
                      <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099"
@@ -3323,6 +3361,10 @@ Am anderen Ende: runder Aufkleber (weiß) mit Zahl in der Mitte: 34</lido:descri
                         </lido:partOfPlace>
                      </lido:place>
                   </lido:eventPlace>
+                  <lido:eventMethod>
+                     <lido:term xml:lang="de">Herstellung</lido:term>
+                     <lido:term xml:lang="en">Production</lido:term>
+                  </lido:eventMethod>
                   <lido:eventMaterialsTech>
                      <lido:materialsTech>
                         <lido:termMaterialsTech lido:type="http://terminology.lido-schema.org/lido00132">
@@ -3355,8 +3397,6 @@ Am anderen Ende: runder Aufkleber (weiß) mit Zahl in der Mitte: 34</lido:descri
                </lido:event>
             </lido:eventSet>
             <lido:eventSet lido:sortorder="2">
-               <lido:displayEvent xml:lang="de">Kauf</lido:displayEvent>
-               <lido:displayEvent xml:lang="en">Purchase</lido:displayEvent>
                <lido:event>
                   <lido:eventType>
                      <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099"
@@ -3416,14 +3456,16 @@ Am anderen Ende: runder Aufkleber (weiß) mit Zahl in der Mitte: 34</lido:descri
                         </lido:partOfPlace>
                      </lido:place>
                   </lido:eventPlace>
+                  <lido:eventMethod>
+                     <lido:term xml:lang="de">Kauf</lido:term>
+                     <lido:term xml:lang="en">Purchase</lido:term>
+                  </lido:eventMethod>
                   <lido:eventDescriptionSet>
                      <lido:descriptiveNoteValue>A. Rittscher hat die fragilen Objekte im Jahr 1903 von einem lokalen Händler auf Jaluit, einer Insel des gleichnamigen Atolls der Marshallinseln, gekauft. Diese Stabkarten wurden vermutlich für den Verkauf gefertigt.</lido:descriptiveNoteValue>
                   </lido:eventDescriptionSet>
                </lido:event>
             </lido:eventSet>
             <lido:eventSet lido:sortorder="3">
-               <lido:displayEvent xml:lang="de">Erwerbung</lido:displayEvent>
-               <lido:displayEvent xml:lang="en">Acquisition</lido:displayEvent>
                <lido:event>
                   <lido:eventType>
                      <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099"
@@ -3471,6 +3513,10 @@ Am anderen Ende: runder Aufkleber (weiß) mit Zahl in der Mitte: 34</lido:descri
                         </lido:partOfPlace>
                      </lido:place>
                   </lido:eventPlace>
+                  <lido:eventMethod>
+                     <lido:term xml:lang="de">Erwerbung</lido:term>
+                     <lido:term xml:lang="en">Acquisition</lido:term>
+                  </lido:eventMethod>
                </lido:event>
             </lido:eventSet>
          </lido:eventWrap>
@@ -3685,8 +3731,6 @@ Englisch (Digital Benin): The commemorative head, Uhunmwu Elao, of an Ọba plac
          </lido:objectIdentificationWrap>
          <lido:eventWrap>
             <lido:eventSet lido:sortorder="1">
-               <lido:displayEvent xml:lang="de">Herstellung</lido:displayEvent>
-               <lido:displayEvent xml:lang="en">Production</lido:displayEvent>
                <lido:event>
                   <lido:eventType>
                      <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099"
@@ -3747,6 +3791,10 @@ Englisch (Digital Benin): The commemorative head, Uhunmwu Elao, of an Ọba plac
                         </lido:partOfPlace>
                      </lido:place>
                   </lido:eventPlace>
+                  <lido:eventMethod>
+                     <lido:term xml:lang="de">Herstellung</lido:term>
+                     <lido:term xml:lang="en">Production</lido:term>
+                  </lido:eventMethod>
                   <lido:eventMaterialsTech>
                      <lido:materialsTech>
                         <lido:termMaterialsTech lido:type="http://terminology.lido-schema.org/lido00132">
@@ -3774,8 +3822,6 @@ Englisch (Digital Benin): The commemorative head, Uhunmwu Elao, of an Ọba plac
                </lido:event>
             </lido:eventSet>
             <lido:eventSet lido:sortorder="2">
-               <lido:displayEvent xml:lang="de">Gebrauch</lido:displayEvent>
-               <lido:displayEvent xml:lang="en">Use</lido:displayEvent>
                <lido:event>
                   <lido:eventType>
                      <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099"
@@ -3819,13 +3865,16 @@ Englisch (Digital Benin): The commemorative head, Uhunmwu Elao, of an Ọba plac
                         </lido:partOfPlace>
                      </lido:place>
                   </lido:eventPlace>
+                  <lido:eventMethod>
+                     <lido:term xml:lang="de">Gebrauch</lido:term>
+                     <lido:term xml:lang="en">Use</lido:term>
+                  </lido:eventMethod>
                   <lido:eventDescriptionSet>
                      <lido:descriptiveNoteValue>Ergänzung zum Ort: Hauptstadt des Königreichs und Sitz des heutigen Bundesstaates Edo State (Nigeria)</lido:descriptiveNoteValue>
                   </lido:eventDescriptionSet>
                </lido:event>
             </lido:eventSet>
             <lido:eventSet lido:sortorder="3">
-               <lido:displayEvent xml:lang="de">Raub</lido:displayEvent>
                <lido:event>
                   <lido:eventType>
                      <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099"
@@ -3883,6 +3932,9 @@ Englisch (Digital Benin): The commemorative head, Uhunmwu Elao, of an Ọba plac
                         </lido:partOfPlace>
                      </lido:place>
                   </lido:eventPlace>
+                  <lido:eventMethod>
+                     <lido:term xml:lang="de">Raub</lido:term>
+                  </lido:eventMethod>
                   <lido:eventDescriptionSet>
                      <lido:descriptiveNoteValue>Plünderung des Königspalastes durch britische Kolonialtruppen</lido:descriptiveNoteValue>
                   </lido:eventDescriptionSet>
@@ -3892,8 +3944,6 @@ Englisch (Digital Benin): The commemorative head, Uhunmwu Elao, of an Ọba plac
                </lido:event>
             </lido:eventSet>
             <lido:eventSet lido:sortorder="4">
-               <lido:displayEvent xml:lang="de">Kolonialer Erwerb</lido:displayEvent>
-               <lido:displayEvent xml:lang="en">Acquisition in a colonial context</lido:displayEvent>
                <lido:event>
                   <lido:eventType>
                      <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099"
@@ -3946,14 +3996,16 @@ Englisch (Digital Benin): The commemorative head, Uhunmwu Elao, of an Ọba plac
                         </lido:partOfPlace>
                      </lido:place>
                   </lido:eventPlace>
+                  <lido:eventMethod>
+                     <lido:term xml:lang="de">Kolonialer Erwerb</lido:term>
+                     <lido:term xml:lang="en">Acquisition in a colonial context</lido:term>
+                  </lido:eventMethod>
                   <lido:eventDescriptionSet>
                      <lido:descriptiveNoteValue>Wenn Schmidt von Mitgliedern des britischen Militärs gekauft hat, dann liegt der Straftatbestand der Hehlerei vor.</lido:descriptiveNoteValue>
                   </lido:eventDescriptionSet>
                </lido:event>
             </lido:eventSet>
             <lido:eventSet lido:sortorder="5">
-               <lido:displayEvent xml:lang="de">Kauf</lido:displayEvent>
-               <lido:displayEvent xml:lang="en">Purchase</lido:displayEvent>
                <lido:event>
                   <lido:eventType>
                      <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099"
@@ -4000,11 +4052,13 @@ Englisch (Digital Benin): The commemorative head, Uhunmwu Elao, of an Ọba plac
                         </lido:partOfPlace>
                      </lido:place>
                   </lido:eventPlace>
+                  <lido:eventMethod>
+                     <lido:term xml:lang="de">Kauf</lido:term>
+                     <lido:term xml:lang="en">Purchase</lido:term>
+                  </lido:eventMethod>
                </lido:event>
             </lido:eventSet>
             <lido:eventSet lido:sortorder="6">
-               <lido:displayEvent xml:lang="de">Schenkung</lido:displayEvent>
-               <lido:displayEvent xml:lang="en">Donation</lido:displayEvent>
                <lido:event>
                   <lido:eventType>
                      <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099"
@@ -4074,14 +4128,16 @@ Englisch (Digital Benin): The commemorative head, Uhunmwu Elao, of an Ọba plac
                         </lido:partOfPlace>
                      </lido:place>
                   </lido:eventPlace>
+                  <lido:eventMethod>
+                     <lido:term xml:lang="de">Schenkung</lido:term>
+                     <lido:term xml:lang="en">Donation</lido:term>
+                  </lido:eventMethod>
                   <lido:eventDescriptionSet>
                      <lido:descriptiveNoteValue>M. Schoeller überließ den Gedenkkopf (und andere Objekte) dem Linden-Museum im Tausch gegen die Verleihung des Ritterkreuzes 1. Klasse des Friedrichsordens (Dekret des Königs von Württemberg vom 10.04.1899).</lido:descriptiveNoteValue>
                   </lido:eventDescriptionSet>
                </lido:event>
             </lido:eventSet>
             <lido:eventSet lido:sortorder="7">
-               <lido:displayEvent xml:lang="de">Tausch</lido:displayEvent>
-               <lido:displayEvent xml:lang="en">Exchange</lido:displayEvent>
                <lido:event>
                   <lido:eventType>
                      <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099"
@@ -4133,6 +4189,10 @@ Englisch (Digital Benin): The commemorative head, Uhunmwu Elao, of an Ọba plac
                         </lido:partOfPlace>
                      </lido:place>
                   </lido:eventPlace>
+                  <lido:eventMethod>
+                     <lido:term xml:lang="de">Tausch</lido:term>
+                     <lido:term xml:lang="en">Exchange</lido:term>
+                  </lido:eventMethod>
                   <lido:eventDescriptionSet>
                      <lido:descriptiveNoteValue>JGU Mainz erhielt Objekt im Tausch mit Linden-Museum.</lido:descriptiveNoteValue>
                   </lido:eventDescriptionSet>
@@ -4656,8 +4716,6 @@ Englisch (Digital Benin): The commemorative head, Uhunmwu Elao, of an Ọba plac
          </lido:objectIdentificationWrap>
          <lido:eventWrap>
             <lido:eventSet lido:sortorder="1">
-               <lido:displayEvent xml:lang="de">Herstellung</lido:displayEvent>
-               <lido:displayEvent xml:lang="en">Production</lido:displayEvent>
                <lido:event>
                   <lido:eventType>
                      <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099"
@@ -4719,6 +4777,10 @@ Englisch (Digital Benin): The commemorative head, Uhunmwu Elao, of an Ọba plac
                         </lido:partOfPlace>
                      </lido:place>
                   </lido:eventPlace>
+                  <lido:eventMethod>
+                     <lido:term xml:lang="de">Herstellung</lido:term>
+                     <lido:term xml:lang="en">Production</lido:term>
+                  </lido:eventMethod>
                   <lido:eventMaterialsTech>
                      <lido:materialsTech>
                         <lido:termMaterialsTech lido:type="http://terminology.lido-schema.org/lido00132">
@@ -4743,8 +4805,6 @@ Englisch (Digital Benin): The commemorative head, Uhunmwu Elao, of an Ọba plac
                </lido:event>
             </lido:eventSet>
             <lido:eventSet lido:sortorder="2">
-               <lido:displayEvent xml:lang="de">Kolonialer Erwerb</lido:displayEvent>
-               <lido:displayEvent xml:lang="en">Acquisition in a colonial context</lido:displayEvent>
                <lido:event>
                   <lido:eventType>
                      <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099"
@@ -4812,6 +4872,10 @@ Englisch (Digital Benin): The commemorative head, Uhunmwu Elao, of an Ọba plac
                         </lido:partOfPlace>
                      </lido:place>
                   </lido:eventPlace>
+                  <lido:eventMethod>
+                     <lido:term xml:lang="de">Kolonialer Erwerb</lido:term>
+                     <lido:term xml:lang="en">Acquisition in a colonial context</lido:term>
+                  </lido:eventMethod>
                   <lido:eventDescriptionSet>
                      <lido:descriptiveNoteValue>K. Bergmann erwarb Objekt zusammen mit Ehemann Gustav Bergmann.</lido:descriptiveNoteValue>
                   </lido:eventDescriptionSet>
@@ -4821,8 +4885,6 @@ Englisch (Digital Benin): The commemorative head, Uhunmwu Elao, of an Ọba plac
                </lido:event>
             </lido:eventSet>
             <lido:eventSet lido:sortorder="3">
-               <lido:displayEvent xml:lang="de">Schenkung</lido:displayEvent>
-               <lido:displayEvent xml:lang="en">Donation</lido:displayEvent>
                <lido:event>
                   <lido:eventType>
                      <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099"
@@ -4853,6 +4915,10 @@ Englisch (Digital Benin): The commemorative head, Uhunmwu Elao, of an Ọba plac
                         <lido:latestDate>1950-12-31</lido:latestDate>
                      </lido:date>
                   </lido:eventDate>
+                  <lido:eventMethod>
+                     <lido:term xml:lang="de">Schenkung</lido:term>
+                     <lido:term xml:lang="en">Donation</lido:term>
+                  </lido:eventMethod>
                   <lido:eventDescriptionSet>
                      <lido:descriptiveNoteValue>Karoline Bergmann schenkte der JGU Mainz 13 Objekte.</lido:descriptiveNoteValue>
                   </lido:eventDescriptionSet>
@@ -5211,8 +5277,6 @@ Englisch (Digital Benin): The commemorative head, Uhunmwu Elao, of an Ọba plac
          </lido:objectIdentificationWrap>
          <lido:eventWrap>
             <lido:eventSet lido:sortorder="1">
-               <lido:displayEvent xml:lang="de">Herstellung</lido:displayEvent>
-               <lido:displayEvent xml:lang="en">Production</lido:displayEvent>
                <lido:event>
                   <lido:eventType>
                      <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099"
@@ -5269,6 +5333,10 @@ Englisch (Digital Benin): The commemorative head, Uhunmwu Elao, of an Ọba plac
                         </lido:partOfPlace>
                      </lido:place>
                   </lido:eventPlace>
+                  <lido:eventMethod>
+                     <lido:term xml:lang="de">Herstellung</lido:term>
+                     <lido:term xml:lang="en">Production</lido:term>
+                  </lido:eventMethod>
                   <lido:eventMaterialsTech>
                      <lido:materialsTech>
                         <lido:termMaterialsTech lido:type="http://terminology.lido-schema.org/lido00132">
@@ -5288,8 +5356,6 @@ Englisch (Digital Benin): The commemorative head, Uhunmwu Elao, of an Ọba plac
                </lido:event>
             </lido:eventSet>
             <lido:eventSet lido:sortorder="2">
-               <lido:displayEvent xml:lang="de">Kauf</lido:displayEvent>
-               <lido:displayEvent xml:lang="en">Purchase</lido:displayEvent>
                <lido:event>
                   <lido:eventType>
                      <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099"
@@ -5346,14 +5412,16 @@ Englisch (Digital Benin): The commemorative head, Uhunmwu Elao, of an Ọba plac
                         </lido:partOfPlace>
                      </lido:place>
                   </lido:eventPlace>
+                  <lido:eventMethod>
+                     <lido:term xml:lang="de">Kauf</lido:term>
+                     <lido:term xml:lang="en">Purchase</lido:term>
+                  </lido:eventMethod>
                   <lido:eventDescriptionSet>
                      <lido:descriptiveNoteValue>E. Sulzmann kaufte das Objekt gemeinsam mit einem weiteren Gefäß auf Vermittlung von Bekoto Gérard, dem damaligen Chef de Secteur de Ekonda.</lido:descriptiveNoteValue>
                   </lido:eventDescriptionSet>
                </lido:event>
             </lido:eventSet>
             <lido:eventSet lido:sortorder="3">
-               <lido:displayEvent xml:lang="de">Fund</lido:displayEvent>
-               <lido:displayEvent xml:lang="en">Finding</lido:displayEvent>
                <lido:event>
                   <lido:eventType>
                      <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099"
@@ -5390,6 +5458,10 @@ Englisch (Digital Benin): The commemorative head, Uhunmwu Elao, of an Ọba plac
                         </lido:partOfPlace>
                      </lido:place>
                   </lido:eventPlace>
+                  <lido:eventMethod>
+                     <lido:term xml:lang="de">Fund</lido:term>
+                     <lido:term xml:lang="en">Finding</lido:term>
+                  </lido:eventMethod>
                </lido:event>
             </lido:eventSet>
          </lido:eventWrap>
@@ -5641,8 +5713,6 @@ Englisch (Digital Benin): The commemorative head, Uhunmwu Elao, of an Ọba plac
          </lido:objectIdentificationWrap>
          <lido:eventWrap>
             <lido:eventSet lido:sortorder="1">
-               <lido:displayEvent xml:lang="de">Herstellung</lido:displayEvent>
-               <lido:displayEvent xml:lang="en">Production</lido:displayEvent>
                <lido:event>
                   <lido:eventType>
                      <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099"
@@ -5680,6 +5750,10 @@ Englisch (Digital Benin): The commemorative head, Uhunmwu Elao, of an Ọba plac
                         </lido:partOfPlace>
                      </lido:place>
                   </lido:eventPlace>
+                  <lido:eventMethod>
+                     <lido:term xml:lang="de">Herstellung</lido:term>
+                     <lido:term xml:lang="en">Production</lido:term>
+                  </lido:eventMethod>
                   <lido:eventMaterialsTech>
                      <lido:materialsTech>
                         <lido:termMaterialsTech lido:type="http://terminology.lido-schema.org/lido00132">
@@ -5728,8 +5802,6 @@ Wikidata zu Zentralaustralien/ Centralaustralia: https://www.wikidata.org/wiki/Q
                </lido:event>
             </lido:eventSet>
             <lido:eventSet lido:sortorder="2">
-               <lido:displayEvent xml:lang="de">Kolonialer Erwerb</lido:displayEvent>
-               <lido:displayEvent xml:lang="en">Acquisition in a colonial context</lido:displayEvent>
                <lido:event>
                   <lido:eventType>
                      <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099"
@@ -5776,6 +5848,10 @@ Wikidata zu Zentralaustralien/ Centralaustralia: https://www.wikidata.org/wiki/Q
                         </lido:partOfPlace>
                      </lido:place>
                   </lido:eventPlace>
+                  <lido:eventMethod>
+                     <lido:term xml:lang="de">Kolonialer Erwerb</lido:term>
+                     <lido:term xml:lang="en">Acquisition in a colonial context</lido:term>
+                  </lido:eventMethod>
                   <lido:eventDescriptionSet>
                      <lido:descriptiveNoteValue>Ergänzung zum Ort: mit den Regionen Zentralaustralien und Nordaustralien
 Wikidata zu Zentralaustralien/ Centralaustralia: https://www.wikidata.org/wiki/Q18103669</lido:descriptiveNoteValue>
@@ -5783,8 +5859,6 @@ Wikidata zu Zentralaustralien/ Centralaustralia: https://www.wikidata.org/wiki/Q
                </lido:event>
             </lido:eventSet>
             <lido:eventSet lido:sortorder="3">
-               <lido:displayEvent xml:lang="de">Unbekannter Erwerb</lido:displayEvent>
-               <lido:displayEvent xml:lang="en">Acquisition, unkown conditions</lido:displayEvent>
                <lido:event>
                   <lido:eventType>
                      <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099"
@@ -5810,14 +5884,16 @@ Wikidata zu Zentralaustralien/ Centralaustralia: https://www.wikidata.org/wiki/Q
                         </lido:roleActor>
                      </lido:actorInRole>
                   </lido:eventActor>
+                  <lido:eventMethod>
+                     <lido:term xml:lang="de">Unbekannter Erwerb</lido:term>
+                     <lido:term xml:lang="en">Acquisition, unkown conditions</lido:term>
+                  </lido:eventMethod>
                   <lido:eventDescriptionSet>
                      <lido:descriptiveNoteValue>C. Strehlow schickte Objekte an M. v. Leonhardi, die dieser Museen zum Kauf anbot.</lido:descriptiveNoteValue>
                   </lido:eventDescriptionSet>
                </lido:event>
             </lido:eventSet>
             <lido:eventSet lido:sortorder="4">
-               <lido:displayEvent xml:lang="de">Erwerbung</lido:displayEvent>
-               <lido:displayEvent xml:lang="en">Acquisition</lido:displayEvent>
                <lido:event>
                   <lido:eventType>
                      <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099"
@@ -5869,14 +5945,16 @@ Wikidata zu Zentralaustralien/ Centralaustralia: https://www.wikidata.org/wiki/Q
                         </lido:partOfPlace>
                      </lido:place>
                   </lido:eventPlace>
+                  <lido:eventMethod>
+                     <lido:term xml:lang="de">Erwerbung</lido:term>
+                     <lido:term xml:lang="en">Acquisition</lido:term>
+                  </lido:eventMethod>
                   <lido:eventDescriptionSet>
                      <lido:descriptiveNoteValue>M. v. Leonhardi schenkte Objekt dem Linden-Museum.</lido:descriptiveNoteValue>
                   </lido:eventDescriptionSet>
                </lido:event>
             </lido:eventSet>
             <lido:eventSet lido:sortorder="5">
-               <lido:displayEvent xml:lang="de">Tausch</lido:displayEvent>
-               <lido:displayEvent xml:lang="en">Exchange</lido:displayEvent>
                <lido:event>
                   <lido:eventType>
                      <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099"
@@ -5928,6 +6006,10 @@ Wikidata zu Zentralaustralien/ Centralaustralia: https://www.wikidata.org/wiki/Q
                         </lido:partOfPlace>
                      </lido:place>
                   </lido:eventPlace>
+                  <lido:eventMethod>
+                     <lido:term xml:lang="de">Tausch</lido:term>
+                     <lido:term xml:lang="en">Exchange</lido:term>
+                  </lido:eventMethod>
                </lido:event>
             </lido:eventSet>
          </lido:eventWrap>

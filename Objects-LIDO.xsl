@@ -529,11 +529,6 @@
                             <xsl:attribute name="lido:sortorder">
                                 <xsl:number value="position()"/>
                             </xsl:attribute>
-                            <xsl:call-template name="languagetext">
-                                <xsl:with-param name="textnode"
-                                    select="./../../easydb:ereignisse/easydb:name | ./../../easydb:rollen/easydb:ubmz_name"/>
-                                <xsl:with-param name="elementname" select="'lido:displayEvent'"/>
-                            </xsl:call-template>
                             <xsl:element name="lido:event">
                                 <xsl:element name="lido:eventType">
                                     <xsl:element name="lido:conceptID">
@@ -577,6 +572,13 @@
                                         <xsl:with-param name="ort_node" select="."/>
                                     </xsl:call-template>
                                 </xsl:for-each>
+                                <xsl:element name="lido:eventMethod">
+                                    <xsl:call-template name="languagetext">
+                                        <xsl:with-param name="textnode"
+                                            select="./../../easydb:ereignisse/easydb:name | ./../../easydb:rollen/easydb:ubmz_name"/>
+                                        <xsl:with-param name="elementname" select="'lido:term'"/>
+                                    </xsl:call-template>
+                                </xsl:element>
                                 <!-- Material+Technik+Kulturbezug kommt nur, wenn es das Event Produktion schon über Zeit/Personen/Ort gibt -->
                                 <xsl:if test="current() = $productionid">
                                     <xsl:apply-templates
