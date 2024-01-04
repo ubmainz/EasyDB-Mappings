@@ -66,6 +66,7 @@
          <lido:eventWrap>
             <lido:eventSet lido:sortorder="1">
                <lido:event>
+                  <lido:eventID lido:type="http://terminology.lido-schema.org/lido00100">ubmz-14</lido:eventID>
                   <lido:eventType>
                      <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099"
                                      lido:source="http://terminology.lido-schema.org/eventType">http://terminology.lido-schema.org/lido00007</lido:conceptID>
@@ -178,6 +179,7 @@
             </lido:eventSet>
             <lido:eventSet lido:sortorder="2">
                <lido:event>
+                  <lido:eventID lido:type="http://terminology.lido-schema.org/lido00100">ubmz-16</lido:eventID>
                   <lido:eventType>
                      <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099"
                                      lido:source="http://terminology.lido-schema.org/eventType">http://terminology.lido-schema.org/lido00001</lido:conceptID>
@@ -236,6 +238,7 @@
             </lido:eventSet>
             <lido:eventSet lido:sortorder="3">
                <lido:event>
+                  <lido:eventID lido:type="http://terminology.lido-schema.org/lido00100">ubmz-15</lido:eventID>
                   <lido:eventType>
                      <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099"
                                      lido:source="http://terminology.lido-schema.org/eventType">http://terminology.lido-schema.org/lido00001</lido:conceptID>
@@ -297,6 +300,7 @@
             </lido:eventSet>
             <lido:eventSet lido:sortorder="4">
                <lido:event>
+                  <lido:eventID lido:type="http://terminology.lido-schema.org/lido00100">ubmz-26</lido:eventID>
                   <lido:eventType>
                      <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099"
                                      lido:source="http://terminology.lido-schema.org/eventType">http://terminology.lido-schema.org/lido00001</lido:conceptID>
@@ -358,6 +362,7 @@
             </lido:eventSet>
             <lido:eventSet>
                <lido:event>
+                  <lido:eventID lido:type="http://terminology.lido-schema.org/lido00100">ubmz-cu</lido:eventID>
                   <lido:eventType>
                      <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://terminology.lido-schema.org/lido01146</lido:conceptID>
                   </lido:eventType>
@@ -677,6 +682,7 @@
          <lido:eventWrap>
             <lido:eventSet lido:sortorder="1">
                <lido:event>
+                  <lido:eventID lido:type="http://terminology.lido-schema.org/lido00100">ubmz-14</lido:eventID>
                   <lido:eventType>
                      <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099"
                                      lido:source="http://terminology.lido-schema.org/eventType">http://terminology.lido-schema.org/lido00007</lido:conceptID>
@@ -768,6 +774,7 @@
             </lido:eventSet>
             <lido:eventSet lido:sortorder="2">
                <lido:event>
+                  <lido:eventID lido:type="http://terminology.lido-schema.org/lido00100">ubmz-16</lido:eventID>
                   <lido:eventType>
                      <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099"
                                      lido:source="http://terminology.lido-schema.org/eventType">http://terminology.lido-schema.org/lido00001</lido:conceptID>
@@ -829,6 +836,7 @@
             </lido:eventSet>
             <lido:eventSet lido:sortorder="3">
                <lido:event>
+                  <lido:eventID lido:type="http://terminology.lido-schema.org/lido00100">ubmz-25</lido:eventID>
                   <lido:eventType>
                      <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099"
                                      lido:source="http://terminology.lido-schema.org/eventType">http://terminology.lido-schema.org/lido00001</lido:conceptID>
@@ -890,6 +898,7 @@
             </lido:eventSet>
             <lido:eventSet lido:sortorder="4">
                <lido:event>
+                  <lido:eventID lido:type="http://terminology.lido-schema.org/lido00100">ubmz-26</lido:eventID>
                   <lido:eventType>
                      <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099"
                                      lido:source="http://terminology.lido-schema.org/eventType">http://terminology.lido-schema.org/lido00001</lido:conceptID>
@@ -951,6 +960,7 @@
             </lido:eventSet>
             <lido:eventSet>
                <lido:event>
+                  <lido:eventID lido:type="http://terminology.lido-schema.org/lido00100">ubmz-cu</lido:eventID>
                   <lido:eventType>
                      <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://terminology.lido-schema.org/lido01146</lido:conceptID>
                   </lido:eventType>
@@ -1419,6 +1429,7 @@ Beschreibung in Inventarliste des Linden-Museum: „1 Kriegsmütze aus Bast e Fe
          <lido:eventWrap>
             <lido:eventSet lido:sortorder="1">
                <lido:event>
+                  <lido:eventID lido:type="http://terminology.lido-schema.org/lido00100">ubmz-14</lido:eventID>
                   <lido:eventType>
                      <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099"
                                      lido:source="http://terminology.lido-schema.org/eventType">http://terminology.lido-schema.org/lido00007</lido:conceptID>
@@ -1514,6 +1525,7 @@ Beschreibung in Inventarliste des Linden-Museum: „1 Kriegsmütze aus Bast e Fe
             </lido:eventSet>
             <lido:eventSet lido:sortorder="2">
                <lido:event>
+                  <lido:eventID lido:type="http://terminology.lido-schema.org/lido00100">ubmz-37</lido:eventID>
                   <lido:eventType>
                      <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099"
                                      lido:source="http://terminology.lido-schema.org/eventType">http://terminology.lido-schema.org/lido00005</lido:conceptID>
@@ -1572,6 +1584,7 @@ Beschreibung in Inventarliste des Linden-Museum: „1 Kriegsmütze aus Bast e Fe
             </lido:eventSet>
             <lido:eventSet lido:sortorder="3">
                <lido:event>
+                  <lido:eventID lido:type="http://terminology.lido-schema.org/lido00100">ubmz-25</lido:eventID>
                   <lido:eventType>
                      <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099"
                                      lido:source="http://terminology.lido-schema.org/eventType">http://terminology.lido-schema.org/lido00001</lido:conceptID>
@@ -1633,6 +1646,7 @@ Beschreibung in Inventarliste des Linden-Museum: „1 Kriegsmütze aus Bast e Fe
             </lido:eventSet>
             <lido:eventSet lido:sortorder="4">
                <lido:event>
+                  <lido:eventID lido:type="http://terminology.lido-schema.org/lido00100">ubmz-26</lido:eventID>
                   <lido:eventType>
                      <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099"
                                      lido:source="http://terminology.lido-schema.org/eventType">http://terminology.lido-schema.org/lido00001</lido:conceptID>
@@ -1694,6 +1708,7 @@ Beschreibung in Inventarliste des Linden-Museum: „1 Kriegsmütze aus Bast e Fe
             </lido:eventSet>
             <lido:eventSet>
                <lido:event>
+                  <lido:eventID lido:type="http://terminology.lido-schema.org/lido00100">ubmz-cu</lido:eventID>
                   <lido:eventType>
                      <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://terminology.lido-schema.org/lido01146</lido:conceptID>
                   </lido:eventType>
@@ -2055,6 +2070,7 @@ Beschreibung in Inventarliste des Linden-Museum: „1 Kriegsmütze aus Bast e Fe
          <lido:eventWrap>
             <lido:eventSet lido:sortorder="1">
                <lido:event>
+                  <lido:eventID lido:type="http://terminology.lido-schema.org/lido00100">ubmz-14</lido:eventID>
                   <lido:eventType>
                      <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099"
                                      lido:source="http://terminology.lido-schema.org/eventType">http://terminology.lido-schema.org/lido00007</lido:conceptID>
@@ -2154,6 +2170,7 @@ Beschreibung in Inventarliste des Linden-Museum: „1 Kriegsmütze aus Bast e Fe
             </lido:eventSet>
             <lido:eventSet lido:sortorder="2">
                <lido:event>
+                  <lido:eventID lido:type="http://terminology.lido-schema.org/lido00100">ubmz-16</lido:eventID>
                   <lido:eventType>
                      <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099"
                                      lido:source="http://terminology.lido-schema.org/eventType">http://terminology.lido-schema.org/lido00001</lido:conceptID>
@@ -2225,6 +2242,7 @@ Beschreibung in Inventarliste des Linden-Museum: „1 Kriegsmütze aus Bast e Fe
             </lido:eventSet>
             <lido:eventSet lido:sortorder="3">
                <lido:event>
+                  <lido:eventID lido:type="http://terminology.lido-schema.org/lido00100">ubmz-15</lido:eventID>
                   <lido:eventType>
                      <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099"
                                      lido:source="http://terminology.lido-schema.org/eventType">http://terminology.lido-schema.org/lido00001</lido:conceptID>
@@ -2282,6 +2300,7 @@ Beschreibung in Inventarliste des Linden-Museum: „1 Kriegsmütze aus Bast e Fe
             </lido:eventSet>
             <lido:eventSet>
                <lido:event>
+                  <lido:eventID lido:type="http://terminology.lido-schema.org/lido00100">ubmz-cu</lido:eventID>
                   <lido:eventType>
                      <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://terminology.lido-schema.org/lido01146</lido:conceptID>
                   </lido:eventType>
@@ -2656,6 +2675,7 @@ Am anderen Ende: runder Aufkleber (weiß) mit Zahl in der Mitte: 34</lido:descri
          <lido:eventWrap>
             <lido:eventSet lido:sortorder="1">
                <lido:event>
+                  <lido:eventID lido:type="http://terminology.lido-schema.org/lido00100">ubmz-14</lido:eventID>
                   <lido:eventType>
                      <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099"
                                      lido:source="http://terminology.lido-schema.org/eventType">http://terminology.lido-schema.org/lido00007</lido:conceptID>
@@ -2726,6 +2746,7 @@ Am anderen Ende: runder Aufkleber (weiß) mit Zahl in der Mitte: 34</lido:descri
             </lido:eventSet>
             <lido:eventSet lido:sortorder="2">
                <lido:event>
+                  <lido:eventID lido:type="http://terminology.lido-schema.org/lido00100">ubmz-11</lido:eventID>
                   <lido:eventType>
                      <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099"
                                      lido:source="http://terminology.lido-schema.org/eventType">http://terminology.lido-schema.org/lido00001</lido:conceptID>
@@ -2775,6 +2796,7 @@ Am anderen Ende: runder Aufkleber (weiß) mit Zahl in der Mitte: 34</lido:descri
             </lido:eventSet>
             <lido:eventSet lido:sortorder="3">
                <lido:event>
+                  <lido:eventID lido:type="http://terminology.lido-schema.org/lido00100">ubmz-15</lido:eventID>
                   <lido:eventType>
                      <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099"
                                      lido:source="http://terminology.lido-schema.org/eventType">http://terminology.lido-schema.org/lido00001</lido:conceptID>
@@ -2821,6 +2843,7 @@ Am anderen Ende: runder Aufkleber (weiß) mit Zahl in der Mitte: 34</lido:descri
             </lido:eventSet>
             <lido:eventSet lido:sortorder="4">
                <lido:event>
+                  <lido:eventID lido:type="http://terminology.lido-schema.org/lido00100">ubmz-25</lido:eventID>
                   <lido:eventType>
                      <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099"
                                      lido:source="http://terminology.lido-schema.org/eventType">http://terminology.lido-schema.org/lido00001</lido:conceptID>
@@ -2880,6 +2903,7 @@ Am anderen Ende: runder Aufkleber (weiß) mit Zahl in der Mitte: 34</lido:descri
             </lido:eventSet>
             <lido:eventSet lido:sortorder="5">
                <lido:event>
+                  <lido:eventID lido:type="http://terminology.lido-schema.org/lido00100">ubmz-26</lido:eventID>
                   <lido:eventType>
                      <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099"
                                      lido:source="http://terminology.lido-schema.org/eventType">http://terminology.lido-schema.org/lido00001</lido:conceptID>
@@ -2941,6 +2965,7 @@ Am anderen Ende: runder Aufkleber (weiß) mit Zahl in der Mitte: 34</lido:descri
             </lido:eventSet>
             <lido:eventSet>
                <lido:event>
+                  <lido:eventID lido:type="http://terminology.lido-schema.org/lido00100">ubmz-cu</lido:eventID>
                   <lido:eventType>
                      <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://terminology.lido-schema.org/lido01146</lido:conceptID>
                   </lido:eventType>
@@ -3352,6 +3377,7 @@ Am anderen Ende: runder Aufkleber (weiß) mit Zahl in der Mitte: 34</lido:descri
          <lido:eventWrap>
             <lido:eventSet lido:sortorder="1">
                <lido:event>
+                  <lido:eventID lido:type="http://terminology.lido-schema.org/lido00100">ubmz-14</lido:eventID>
                   <lido:eventType>
                      <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099"
                                      lido:source="http://terminology.lido-schema.org/eventType">http://terminology.lido-schema.org/lido00007</lido:conceptID>
@@ -3448,6 +3474,7 @@ Am anderen Ende: runder Aufkleber (weiß) mit Zahl in der Mitte: 34</lido:descri
             </lido:eventSet>
             <lido:eventSet lido:sortorder="2">
                <lido:event>
+                  <lido:eventID lido:type="http://terminology.lido-schema.org/lido00100">ubmz-15</lido:eventID>
                   <lido:eventType>
                      <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099"
                                      lido:source="http://terminology.lido-schema.org/eventType">http://terminology.lido-schema.org/lido00001</lido:conceptID>
@@ -3517,6 +3544,7 @@ Am anderen Ende: runder Aufkleber (weiß) mit Zahl in der Mitte: 34</lido:descri
             </lido:eventSet>
             <lido:eventSet lido:sortorder="3">
                <lido:event>
+                  <lido:eventID lido:type="http://terminology.lido-schema.org/lido00100">ubmz-11</lido:eventID>
                   <lido:eventType>
                      <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099"
                                      lido:source="http://terminology.lido-schema.org/eventType">http://terminology.lido-schema.org/lido00001</lido:conceptID>
@@ -3571,6 +3599,7 @@ Am anderen Ende: runder Aufkleber (weiß) mit Zahl in der Mitte: 34</lido:descri
             </lido:eventSet>
             <lido:eventSet>
                <lido:event>
+                  <lido:eventID lido:type="http://terminology.lido-schema.org/lido00100">ubmz-cu</lido:eventID>
                   <lido:eventType>
                      <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://terminology.lido-schema.org/lido01146</lido:conceptID>
                   </lido:eventType>
@@ -3792,6 +3821,7 @@ Englisch (Digital Benin): The commemorative head, Uhunmwu Elao, of an Ọba plac
          <lido:eventWrap>
             <lido:eventSet lido:sortorder="1">
                <lido:event>
+                  <lido:eventID lido:type="http://terminology.lido-schema.org/lido00100">ubmz-14</lido:eventID>
                   <lido:eventType>
                      <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099"
                                      lido:source="http://terminology.lido-schema.org/eventType">http://terminology.lido-schema.org/lido00007</lido:conceptID>
@@ -3883,6 +3913,7 @@ Englisch (Digital Benin): The commemorative head, Uhunmwu Elao, of an Ọba plac
             </lido:eventSet>
             <lido:eventSet lido:sortorder="2">
                <lido:event>
+                  <lido:eventID lido:type="http://terminology.lido-schema.org/lido00100">ubmz-13</lido:eventID>
                   <lido:eventType>
                      <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099"
                                      lido:source="http://terminology.lido-schema.org/eventType">http://terminology.lido-schema.org/lido00011</lido:conceptID>
@@ -3936,6 +3967,7 @@ Englisch (Digital Benin): The commemorative head, Uhunmwu Elao, of an Ọba plac
             </lido:eventSet>
             <lido:eventSet lido:sortorder="3">
                <lido:event>
+                  <lido:eventID lido:type="http://terminology.lido-schema.org/lido00100">ubmz-37</lido:eventID>
                   <lido:eventType>
                      <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099"
                                      lido:source="http://terminology.lido-schema.org/eventType">http://terminology.lido-schema.org/lido00005</lido:conceptID>
@@ -4005,6 +4037,7 @@ Englisch (Digital Benin): The commemorative head, Uhunmwu Elao, of an Ọba plac
             </lido:eventSet>
             <lido:eventSet lido:sortorder="4">
                <lido:event>
+                  <lido:eventID lido:type="http://terminology.lido-schema.org/lido00100">ubmz-16</lido:eventID>
                   <lido:eventType>
                      <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099"
                                      lido:source="http://terminology.lido-schema.org/eventType">http://terminology.lido-schema.org/lido00001</lido:conceptID>
@@ -4067,6 +4100,7 @@ Englisch (Digital Benin): The commemorative head, Uhunmwu Elao, of an Ọba plac
             </lido:eventSet>
             <lido:eventSet lido:sortorder="5">
                <lido:event>
+                  <lido:eventID lido:type="http://terminology.lido-schema.org/lido00100">ubmz-15</lido:eventID>
                   <lido:eventType>
                      <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099"
                                      lido:source="http://terminology.lido-schema.org/eventType">http://terminology.lido-schema.org/lido00001</lido:conceptID>
@@ -4120,6 +4154,7 @@ Englisch (Digital Benin): The commemorative head, Uhunmwu Elao, of an Ọba plac
             </lido:eventSet>
             <lido:eventSet lido:sortorder="6">
                <lido:event>
+                  <lido:eventID lido:type="http://terminology.lido-schema.org/lido00100">ubmz-25</lido:eventID>
                   <lido:eventType>
                      <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099"
                                      lido:source="http://terminology.lido-schema.org/eventType">http://terminology.lido-schema.org/lido00001</lido:conceptID>
@@ -4199,6 +4234,7 @@ Englisch (Digital Benin): The commemorative head, Uhunmwu Elao, of an Ọba plac
             </lido:eventSet>
             <lido:eventSet lido:sortorder="7">
                <lido:event>
+                  <lido:eventID lido:type="http://terminology.lido-schema.org/lido00100">ubmz-26</lido:eventID>
                   <lido:eventType>
                      <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099"
                                      lido:source="http://terminology.lido-schema.org/eventType">http://terminology.lido-schema.org/lido00001</lido:conceptID>
@@ -4260,6 +4296,7 @@ Englisch (Digital Benin): The commemorative head, Uhunmwu Elao, of an Ọba plac
             </lido:eventSet>
             <lido:eventSet>
                <lido:event>
+                  <lido:eventID lido:type="http://terminology.lido-schema.org/lido00100">ubmz-cu</lido:eventID>
                   <lido:eventType>
                      <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://terminology.lido-schema.org/lido01146</lido:conceptID>
                   </lido:eventType>
@@ -4787,6 +4824,7 @@ Englisch (Digital Benin): The commemorative head, Uhunmwu Elao, of an Ọba plac
          <lido:eventWrap>
             <lido:eventSet lido:sortorder="1">
                <lido:event>
+                  <lido:eventID lido:type="http://terminology.lido-schema.org/lido00100">ubmz-14</lido:eventID>
                   <lido:eventType>
                      <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099"
                                      lido:source="http://terminology.lido-schema.org/eventType">http://terminology.lido-schema.org/lido00007</lido:conceptID>
@@ -4876,6 +4914,7 @@ Englisch (Digital Benin): The commemorative head, Uhunmwu Elao, of an Ọba plac
             </lido:eventSet>
             <lido:eventSet lido:sortorder="2">
                <lido:event>
+                  <lido:eventID lido:type="http://terminology.lido-schema.org/lido00100">ubmz-16</lido:eventID>
                   <lido:eventType>
                      <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099"
                                      lido:source="http://terminology.lido-schema.org/eventType">http://terminology.lido-schema.org/lido00001</lido:conceptID>
@@ -4956,6 +4995,7 @@ Englisch (Digital Benin): The commemorative head, Uhunmwu Elao, of an Ọba plac
             </lido:eventSet>
             <lido:eventSet lido:sortorder="3">
                <lido:event>
+                  <lido:eventID lido:type="http://terminology.lido-schema.org/lido00100">ubmz-25</lido:eventID>
                   <lido:eventType>
                      <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099"
                                      lido:source="http://terminology.lido-schema.org/eventType">http://terminology.lido-schema.org/lido00001</lido:conceptID>
@@ -4996,6 +5036,7 @@ Englisch (Digital Benin): The commemorative head, Uhunmwu Elao, of an Ọba plac
             </lido:eventSet>
             <lido:eventSet>
                <lido:event>
+                  <lido:eventID lido:type="http://terminology.lido-schema.org/lido00100">ubmz-cu</lido:eventID>
                   <lido:eventType>
                      <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://terminology.lido-schema.org/lido01146</lido:conceptID>
                   </lido:eventType>
@@ -5358,6 +5399,7 @@ Englisch (Digital Benin): The commemorative head, Uhunmwu Elao, of an Ọba plac
          <lido:eventWrap>
             <lido:eventSet lido:sortorder="1">
                <lido:event>
+                  <lido:eventID lido:type="http://terminology.lido-schema.org/lido00100">ubmz-14</lido:eventID>
                   <lido:eventType>
                      <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099"
                                      lido:source="http://terminology.lido-schema.org/eventType">http://terminology.lido-schema.org/lido00007</lido:conceptID>
@@ -5437,6 +5479,7 @@ Englisch (Digital Benin): The commemorative head, Uhunmwu Elao, of an Ọba plac
             </lido:eventSet>
             <lido:eventSet lido:sortorder="2">
                <lido:event>
+                  <lido:eventID lido:type="http://terminology.lido-schema.org/lido00100">ubmz-15</lido:eventID>
                   <lido:eventType>
                      <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099"
                                      lido:source="http://terminology.lido-schema.org/eventType">http://terminology.lido-schema.org/lido00001</lido:conceptID>
@@ -5503,6 +5546,7 @@ Englisch (Digital Benin): The commemorative head, Uhunmwu Elao, of an Ọba plac
             </lido:eventSet>
             <lido:eventSet lido:sortorder="3">
                <lido:event>
+                  <lido:eventID lido:type="http://terminology.lido-schema.org/lido00100">ubmz-12</lido:eventID>
                   <lido:eventType>
                      <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099"
                                      lido:source="http://terminology.lido-schema.org/eventType">http://terminology.lido-schema.org/lido00002</lido:conceptID>
@@ -5546,6 +5590,7 @@ Englisch (Digital Benin): The commemorative head, Uhunmwu Elao, of an Ọba plac
             </lido:eventSet>
             <lido:eventSet>
                <lido:event>
+                  <lido:eventID lido:type="http://terminology.lido-schema.org/lido00100">ubmz-cu</lido:eventID>
                   <lido:eventType>
                      <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://terminology.lido-schema.org/lido01146</lido:conceptID>
                   </lido:eventType>
@@ -5804,6 +5849,7 @@ Englisch (Digital Benin): The commemorative head, Uhunmwu Elao, of an Ọba plac
          <lido:eventWrap>
             <lido:eventSet lido:sortorder="1">
                <lido:event>
+                  <lido:eventID lido:type="http://terminology.lido-schema.org/lido00100">ubmz-14</lido:eventID>
                   <lido:eventType>
                      <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099"
                                      lido:source="http://terminology.lido-schema.org/eventType">http://terminology.lido-schema.org/lido00007</lido:conceptID>
@@ -5893,6 +5939,7 @@ Wikidata zu Zentralaustralien/ Centralaustralia: https://www.wikidata.org/wiki/Q
             </lido:eventSet>
             <lido:eventSet lido:sortorder="2">
                <lido:event>
+                  <lido:eventID lido:type="http://terminology.lido-schema.org/lido00100">ubmz-16</lido:eventID>
                   <lido:eventType>
                      <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099"
                                      lido:source="http://terminology.lido-schema.org/eventType">http://terminology.lido-schema.org/lido00001</lido:conceptID>
@@ -5950,6 +5997,7 @@ Wikidata zu Zentralaustralien/ Centralaustralia: https://www.wikidata.org/wiki/Q
             </lido:eventSet>
             <lido:eventSet lido:sortorder="3">
                <lido:event>
+                  <lido:eventID lido:type="http://terminology.lido-schema.org/lido00100">ubmz-31</lido:eventID>
                   <lido:eventType>
                      <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099"
                                      lido:source="http://terminology.lido-schema.org/eventType">http://terminology.lido-schema.org/lido00001</lido:conceptID>
@@ -5985,6 +6033,7 @@ Wikidata zu Zentralaustralien/ Centralaustralia: https://www.wikidata.org/wiki/Q
             </lido:eventSet>
             <lido:eventSet lido:sortorder="4">
                <lido:event>
+                  <lido:eventID lido:type="http://terminology.lido-schema.org/lido00100">ubmz-25</lido:eventID>
                   <lido:eventType>
                      <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099"
                                      lido:source="http://terminology.lido-schema.org/eventType">http://terminology.lido-schema.org/lido00001</lido:conceptID>
@@ -6046,6 +6095,7 @@ Wikidata zu Zentralaustralien/ Centralaustralia: https://www.wikidata.org/wiki/Q
             </lido:eventSet>
             <lido:eventSet lido:sortorder="5">
                <lido:event>
+                  <lido:eventID lido:type="http://terminology.lido-schema.org/lido00100">ubmz-26</lido:eventID>
                   <lido:eventType>
                      <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099"
                                      lido:source="http://terminology.lido-schema.org/eventType">http://terminology.lido-schema.org/lido00001</lido:conceptID>
@@ -6104,6 +6154,7 @@ Wikidata zu Zentralaustralien/ Centralaustralia: https://www.wikidata.org/wiki/Q
             </lido:eventSet>
             <lido:eventSet>
                <lido:event>
+                  <lido:eventID lido:type="http://terminology.lido-schema.org/lido00100">ubmz-cu</lido:eventID>
                   <lido:eventType>
                      <lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://terminology.lido-schema.org/lido01146</lido:conceptID>
                   </lido:eventType>

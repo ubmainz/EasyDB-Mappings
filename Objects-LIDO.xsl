@@ -530,6 +530,10 @@
                                 <xsl:number value="position()"/>
                             </xsl:attribute>
                             <xsl:element name="lido:event">
+                                <xsl:element name="lido:eventID">
+                                    <xsl:attribute name="lido:type">http://terminology.lido-schema.org/lido00100</xsl:attribute>
+                                    <xsl:value-of select="../easydb:ubmz_event_id"/>
+                                </xsl:element>
                                 <xsl:element name="lido:eventType">
                                     <xsl:element name="lido:conceptID">
                                         <xsl:attribute name="lido:type">
@@ -606,6 +610,10 @@
                     </xsl:for-each>
                     <xsl:element name="lido:eventSet">
                         <xsl:element name="lido:event">
+                            <xsl:element name="lido:eventID">
+                                <xsl:attribute name="lido:type">http://terminology.lido-schema.org/lido00100</xsl:attribute>
+                                <xsl:text>ubmz-cu</xsl:text>
+                            </xsl:element>
                             <xsl:element name="lido:eventType">
                                 <xsl:element name="lido:conceptID">
                                     <xsl:attribute name="lido:type">http://terminology.lido-schema.org/lido00099</xsl:attribute>
