@@ -49,7 +49,7 @@
                   <lido:workID lido:type="http://terminology.lido-schema.org/lido00188">LM: 75255</lido:workID>
                   <lido:repositoryLocation>
                      <lido:placeID lido:type="http://terminology.lido-schema.org/lido00099"
-                                   lido:source="http://sws.geonames.org">http://www.geonames.org/6554818&gt;</lido:placeID>
+                                   lido:source="http://sws.geonames.org">http://www.geonames.org/6554818</lido:placeID>
                      <lido:namePlaceSet>
                         <lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00169">Mainz</lido:appellationValue>
                      </lido:namePlaceSet>
@@ -656,7 +656,7 @@
                   <lido:workID lido:type="http://terminology.lido-schema.org/lido00188">2410</lido:workID>
                   <lido:repositoryLocation>
                      <lido:placeID lido:type="http://terminology.lido-schema.org/lido00099"
-                                   lido:source="http://sws.geonames.org">http://www.geonames.org/6554818&gt;</lido:placeID>
+                                   lido:source="http://sws.geonames.org">http://www.geonames.org/6554818</lido:placeID>
                      <lido:namePlaceSet>
                         <lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00169">Mainz</lido:appellationValue>
                      </lido:namePlaceSet>
@@ -1397,7 +1397,7 @@
                   <lido:workID lido:type="http://terminology.lido-schema.org/lido00188">Linden-Museum: 44475a</lido:workID>
                   <lido:repositoryLocation>
                      <lido:placeID lido:type="http://terminology.lido-schema.org/lido00099"
-                                   lido:source="http://sws.geonames.org">http://www.geonames.org/6554818&gt;</lido:placeID>
+                                   lido:source="http://sws.geonames.org">http://www.geonames.org/6554818</lido:placeID>
                      <lido:namePlaceSet>
                         <lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00169">Mainz</lido:appellationValue>
                      </lido:namePlaceSet>
@@ -2034,7 +2034,7 @@ Beschreibung in Inventarliste des Linden-Museum: „1 Kriegsmütze aus Bast e Fe
                   <lido:workID lido:type="http://terminology.lido-schema.org/lido00113">JGU ES 52</lido:workID>
                   <lido:repositoryLocation>
                      <lido:placeID lido:type="http://terminology.lido-schema.org/lido00099"
-                                   lido:source="http://sws.geonames.org">http://www.geonames.org/6554818&gt;</lido:placeID>
+                                   lido:source="http://sws.geonames.org">http://www.geonames.org/6554818</lido:placeID>
                      <lido:namePlaceSet>
                         <lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00169">Mainz</lido:appellationValue>
                      </lido:namePlaceSet>
@@ -2635,7 +2635,7 @@ Am anderen Ende: runder Aufkleber (weiß) mit Zahl in der Mitte: 34</lido:descri
                   <lido:workID lido:type="http://terminology.lido-schema.org/lido00188">LM: 91976</lido:workID>
                   <lido:repositoryLocation>
                      <lido:placeID lido:type="http://terminology.lido-schema.org/lido00099"
-                                   lido:source="http://sws.geonames.org">http://www.geonames.org/6554818&gt;</lido:placeID>
+                                   lido:source="http://sws.geonames.org">http://www.geonames.org/6554818</lido:placeID>
                      <lido:namePlaceSet>
                         <lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00169">Mainz</lido:appellationValue>
                      </lido:namePlaceSet>
@@ -3331,7 +3331,7 @@ Am anderen Ende: runder Aufkleber (weiß) mit Zahl in der Mitte: 34</lido:descri
                   <lido:workID lido:type="http://terminology.lido-schema.org/lido00188">1</lido:workID>
                   <lido:repositoryLocation>
                      <lido:placeID lido:type="http://terminology.lido-schema.org/lido00099"
-                                   lido:source="http://sws.geonames.org">http://www.geonames.org/6554818&gt;</lido:placeID>
+                                   lido:source="http://sws.geonames.org">http://www.geonames.org/6554818</lido:placeID>
                      <lido:namePlaceSet>
                         <lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00169">Mainz</lido:appellationValue>
                      </lido:namePlaceSet>
@@ -3760,7 +3760,7 @@ Am anderen Ende: runder Aufkleber (weiß) mit Zahl in der Mitte: 34</lido:descri
                   <lido:workID lido:type="http://terminology.lido-schema.org/lido00188">Linden-Museum: 3173</lido:workID>
                   <lido:repositoryLocation>
                      <lido:placeID lido:type="http://terminology.lido-schema.org/lido00099"
-                                   lido:source="http://sws.geonames.org">http://www.geonames.org/6554818&gt;</lido:placeID>
+                                   lido:source="http://sws.geonames.org">http://www.geonames.org/6554818</lido:placeID>
                      <lido:namePlaceSet>
                         <lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00169">Mainz</lido:appellationValue>
                      </lido:namePlaceSet>
@@ -4766,7 +4766,7 @@ Englisch (Digital Benin): The commemorative head, Uhunmwu Elao, of an Ọba plac
                   <lido:workID lido:type="http://terminology.lido-schema.org/lido00188">1643</lido:workID>
                   <lido:repositoryLocation>
                      <lido:placeID lido:type="http://terminology.lido-schema.org/lido00099"
-                                   lido:source="http://sws.geonames.org">http://www.geonames.org/6554818&gt;</lido:placeID>
+                                   lido:source="http://sws.geonames.org">http://www.geonames.org/6554818</lido:placeID>
                      <lido:namePlaceSet>
                         <lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00169">Mainz</lido:appellationValue>
                      </lido:namePlaceSet>
@@ -5337,7 +5337,7 @@ Englisch (Digital Benin): The commemorative head, Uhunmwu Elao, of an Ọba plac
                   <lido:workID lido:type="http://terminology.lido-schema.org/lido00188">383</lido:workID>
                   <lido:repositoryLocation>
                      <lido:placeID lido:type="http://terminology.lido-schema.org/lido00099"
-                                   lido:source="http://sws.geonames.org">http://www.geonames.org/6554818&gt;</lido:placeID>
+                                   lido:source="http://sws.geonames.org">http://www.geonames.org/6554818</lido:placeID>
                      <lido:namePlaceSet>
                         <lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00169">Mainz</lido:appellationValue>
                      </lido:namePlaceSet>
@@ -5783,7 +5783,7 @@ Englisch (Digital Benin): The commemorative head, Uhunmwu Elao, of an Ọba plac
                   <lido:workID lido:type="http://terminology.lido-schema.org/lido00188">1973</lido:workID>
                   <lido:repositoryLocation>
                      <lido:placeID lido:type="http://terminology.lido-schema.org/lido00099"
-                                   lido:source="http://sws.geonames.org">http://www.geonames.org/6554818&gt;</lido:placeID>
+                                   lido:source="http://sws.geonames.org">http://www.geonames.org/6554818</lido:placeID>
                      <lido:namePlaceSet>
                         <lido:appellationValue lido:pref="http://terminology.lido-schema.org/lido00169">Mainz</lido:appellationValue>
                      </lido:namePlaceSet>

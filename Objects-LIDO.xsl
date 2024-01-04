@@ -445,7 +445,7 @@
                                     </xsl:attribute>
                                     <xsl:attribute name="lido:source"
                                         >http://sws.geonames.org</xsl:attribute>
-                                    <xsl:text>http://www.geonames.org/6554818></xsl:text>
+                                    <xsl:text>http://www.geonames.org/6554818</xsl:text>
                                 </xsl:element>
                                 <xsl:element name="lido:namePlaceSet">
                                     <xsl:element name="lido:appellationValue">
