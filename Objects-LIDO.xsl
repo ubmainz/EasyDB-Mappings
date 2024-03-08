@@ -388,7 +388,13 @@
                             <xsl:element name="lido:titleSet">
                                 <xsl:attribute name="lido:type">http://vocab.getty.edu/aat/300417204</xsl:attribute>
                                 <xsl:element name="lido:appellationValue">
-                                    <xsl:attribute name="xml:lang"><xsl:value-of select="easydb:sprache/easydb:sprachen/easydb:iso"/></xsl:attribute>
+                                    <xsl:variable name="sprache">
+                                        <xsl:choose>
+                                            <xsl:when test="easydb:sprache/easydb:sprachen/easydb:iso"><xsl:value-of select="easydb:sprache/easydb:sprachen/easydb:iso"/></xsl:when>
+                                            <xsl:otherwise><xsl:text>und</xsl:text></xsl:otherwise>
+                                        </xsl:choose>
+                                    </xsl:variable>
+                                    <xsl:attribute name="xml:lang"><xsl:value-of select="$sprache"/></xsl:attribute>
                                     <xsl:value-of select="easydb:urspruenglicher_name"/>
                                 </xsl:element>
                             </xsl:element>
