@@ -5,7 +5,7 @@
     xmlns:skos="http://www.w3.org/2004/02/skos/core#"
     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
     xmlns:easydb="https://schema.easydb.de/EASYDB/1.0/objects/" exclude-result-prefixes="xs"
-    version="1.0">
+    version="2.0">
     <xsl:output method="xml" encoding="utf-8" omit-xml-declaration="no" indent="yes"/>
 
     <xsl:param name="version" select="2.6"/>
@@ -327,7 +327,7 @@
                                         <xsl:attribute name="lido:pref">http://terminology.lido-schema.org/lido00526</xsl:attribute>
                                         <xsl:attribute name="xml:lang">de</xsl:attribute>
                                         <xsl:value-of
-                                            select="easydb:custom[(@name = 'objektbezeichnung') and (@type = 'custom:base.custom-data-type-gnd.gnd')]/easydb:string[@name = 'conceptName']"
+                                            select="normalize-unicode(easydb:custom[(@name = 'objektbezeichnung') and (@type = 'custom:base.custom-data-type-gnd.gnd')]/easydb:string[@name = 'conceptName'],'NFC')"
                                         />
                                     </xsl:element>
                                 </xsl:when>
